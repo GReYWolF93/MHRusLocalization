@@ -2,7 +2,7 @@
   {
     "id": "18271048550138316105",
     "english": "Gram",
-    "russian": "Пространственный обман",
+    "russian": "Грэм",
     "similarity": 0.01327521726489067,
     "path": "Powers/Player/Loki/SwordSlice.prototype"
   },
@@ -23,7 +23,7 @@
   {
     "id": "7542194247227999503",
     "english": "Invalid Avatar",
-    "russian": "Разрушение",
+    "russian": "Недействительный аватар",
     "similarity": 0.15441733598709106,
     "path": "Entity/Characters/Avatars/Testing/zzzBrevikOLD.prototype"
   },
@@ -51,21 +51,21 @@
   {
     "id": "12054396436395328784",
     "english": "God of Many Realms",
-    "russian": "Сын Йотунхейма",
+    "russian": "Бог многих миров",
     "similarity": 0.1692400574684143,
     "path": "Entity/Characters/Avatars/Shipping/Loki.prototype"
   },
   {
     "id": "12670060632326341950",
     "english": "Super Genius",
-    "russian": "Пластичность",
+    "russian": "Супергений",
     "similarity": 0.16999711096286774,
     "path": "Entity/Characters/Avatars/Shipping/MrFantastic.prototype"
   },
   {
     "id": "11547788409479103804",
     "english": "Master Of Self-Defense",
-    "russian": "Идеальная имитация",
+    "russian": "Мастер самообороны",
     "similarity": 0.17422819137573242,
     "path": "Powers/Player/Taskmaster/Traits/DefensiveTrait.prototype"
   },
@@ -93,14 +93,14 @@
   {
     "id": "3504560075674158340",
     "english": "Step to Me",
-    "russian": "Похищение",
+    "russian": "Ко мне!",
     "similarity": 0.19420111179351807,
     "path": "Powers/Player/Magik/TeleportOther.prototype"
   },
   {
     "id": "17200942196914849099",
     "english": "Stolen Power Collection",
-    "russian": "Позаимствовать способность - ячейка 1",
+    "russian": "Позаимствовать способность",
     "similarity": 0.20022892951965332,
     "path": "Powers/Player/Rogue/StolenPowerLibrarySlot1.prototype"
   },
@@ -121,7 +121,7 @@
   {
     "id": "3032856676688921865",
     "english": "Drain Strength",
-    "russian": "Воровство у друзей",
+    "russian": "Кража мощи",
     "similarity": 0.21407540142536163,
     "path": "Entity/Characters/Avatars/Shipping/Rogue.prototype"
   },
@@ -184,7 +184,7 @@
   {
     "id": "16112841528443929931",
     "english": "Ring an enemy's bell with a smack from a crowbar.",
-    "russian": "Враги надолго запомнят южное гостеприимство Карнажа, поскольку его топор вызывает у них кровотечение.",
+    "russian": "Вмазать монтировкой до звона в ушах.",
     "similarity": 0.24942390620708466,
     "path": "Powers/Player/LukeCage/BasicCrowbar.prototype"
   },
@@ -226,7 +226,7 @@
   {
     "id": "15767544243874301185",
     "english": "A canny lawyer knows how to defend against any argument in the courtroom.\nIssue a judicial summons to all nearby enemies, forcing them to appear in front of the court.",
-    "russian": "Ртуть издевается над врагами, и они атакуют его, но все их удары не достигают цели.",
+    "russian": "Опытный юрист знает, как заставить любого явиться в суд.\nВыдайте судебные повестки всем ближайшим врагам, заставив их явиться в суд.",
     "similarity": 0.2645913362503052,
     "path": "Powers/Player/SheHulk/DefenseAttorney.prototype"
   },
