@@ -640,7 +640,7 @@
             "Desc": {
               "id": "4964987292922873101",
               "eng": "Launch a pulsing ball of repulsor energy that releases a shockwave when it collides with an enemy.",
-              "rus": "Вращающийся ледяной шар обстреливает ледяным осколками врагов, мимо которых движется."
+              "rus": "Выпустите пульсирующий шар репульсорной энергии, который при ударе создаст ударную волну."
             }
           },
           {
@@ -652,7 +652,7 @@
             "Desc": {
               "id": "8768806842258883910",
               "eng": "Launch a swarm of intelligent, auto-targeting StarkTech micro-missiles that seek out enemies.",
-              "rus": "Запускает рой умных микроракет \"СтаркТех\" с автонаведением, которые следуют за врагами."
+              "rus": "Запустите рой умных микроракет \"СтаркТех\" с автонаведением, которые следуют за врагами."
             }
           },
           {
@@ -664,7 +664,7 @@
             "Desc": {
               "id": "16204607924181533973",
               "eng": "Charge up your chest-mounted repulsor transmitter and release a concentrated arc reactor fueled beam of energy.",
-              "rus": "Зарядить нагрудный репульсорный передатчик и выпустить сконцентрированный когерентный луч с питанием от дугового реактора."
+              "rus": "Зарядите свой нагрудный репульсор и выпустите концентрированный луч чистой энергии, усиленный дуговым реактором."
             }
           },
           {
@@ -676,7 +676,7 @@
             "Desc": {
               "id": "10136173169077060871",
               "eng": "Light up enemies with piercing blasts from your palm-mounted repulsors.",
-              "rus": "Поджигает врагов пронизывающими импульсами наладонных репульсоров."
+              "rus": "Прожигайте врагов точными выстрелами из наладонных репульсоров."
             }
           },
           {
@@ -688,7 +688,7 @@
             "Desc": {
               "id": "13622830325812299033",
               "eng": "Hold down the hotkey to project a continuous stream of destructive repulsor energy.",
-              "rus": "Удерживать горячую клавишу, чтобы выпустить непрерывный поток деструктивной энергии репульсоров."
+              "rus": "Удерживайте горячую клавишу, чтобы выпустить непрерывный поток деструктивной энергии репульсоров."
             }
           },
           {
@@ -700,19 +700,19 @@
             "Desc": {
               "id": "1865171677273589005",
               "eng": "Launch a tiny rocket that delivers a surprisingly large concussive payload, blasting anyone caught in the explosion.",
-              "rus": "Выпустить крошечную ракету с высокой зажигательной мощью, которая поджигает всех, оказавшихся в зоне #emphasis#огненного#/emphasis# взрыва."
+              "rus": "Выпустите крошечную ракету с высокой зажигательной мощью, которая поджигает всех, оказавшихся в зоне #emphasis#огненного#/emphasis# взрыва."
             }
           },
           {
             "Name": {
               "id": "17478307705893881098",
               "eng": "Repulsor Barrage",
-              "rus": "Репульсорная очередь"
+              "rus": "Репульсорный залп"
             },
             "Desc": {
               "id": "11399968764867970366",
               "eng": "Rapidly pulse a continuous barrage of repulsor rays from each hand, striking multiple targets at once.",
-              "rus": "Быстро выпустить очередь репульсорных лучей, поразив цель несколько раз."
+              "rus": "Выпустите быструю очередь репульсорных лучей, поразив цель несколько раз."
             }
           },
           {
@@ -724,7 +724,7 @@
             "Desc": {
               "id": "827014632283178260",
               "eng": "Call down clusters of missiles to the target location, raining #emphasis#burning#/emphasis# destruction upon your enemies and leaving them #emphasis#vulnerable#/emphasis# for a short duration afterwards.",
-              "rus": "Выпустить несколько ракетных залпов по указанной точке, обрушив на врагов #emphasis#огненный#/emphasis# шторм и #emphasis#ослабив#/emphasis# их на короткое время."
+              "rus": "Выпустите несколько ракетных залпов по указанной точке, обрушив на врагов #emphasis#огненный#/emphasis# шторм и #emphasis#ослабив#/emphasis# их на короткое время."
             }
           },
           {
@@ -736,19 +736,19 @@
             "Desc": {
               "id": "14248411047121061143",
               "eng": "Sweep the area around you with powerful microlasers, decimating your enemies.",
-              "rus": "Зачистить зону вокруг себя мощными микролазерами, уничтожая врагов."
+              "rus": "Зачистите зону вокруг себя мощными микролазерами, уничтожив всех ваших врагов."
             }
           },
           {
             "Name": {
               "id": "13277159310440596753",
               "eng": "House Party",
-              "rus": "Вечеринка"
+              "rus": "Семейный праздник"
             },
             "Desc": {
               "id": "2218446717542270267",
               "eng": "Instruct Jarvis to activate the 'House Party Protocol' from Stark Tower, calling in a swarm of remote-controlled suits of armor for backup.",
-              "rus": "Приказать Джарвису активировать \"протокол Вечеринки\" в Башне Старка, т.е. выслать вам на подмогу множество пустых бронекостюмов с дистанционным управлением."
+              "rus": "Прикажите Джарвису активировать \"протокол Семейный праздник\" в Башне Старка, т.е. выслать вам на подмогу множество пустых бронекостюмов с дистанционным управлением."
             }
           }
         ]
@@ -769,19 +769,19 @@
             "Desc": {
               "id": "1834468205905118473",
               "eng": "Rocket forward, offensively using your shields to plow through enemies in your path.",
-              "rus": "Совершить реактивный рывок, используя щиты для того, чтобы прорезать себе дорогу в гуще врагов."
+              "rus": "Совершите реактивный рывок, используя щиты для того, чтобы пробить себе дорогу в гуще врагов."
             }
           },
           {
             "Name": {
               "id": "16238506619279049996",
               "eng": "Voltaic Punch",
-              "rus": "Вольтовый удар кулаком"
+              "rus": "Вольтаический удар"
             },
             "Desc": {
               "id": "10836483559734052155",
               "eng": "Strike enemies with your power-armored fists, dealing additional damage when your Suit Power is low.",
-              "rus": "Бить врагов кулаками в силовой броне, нанося дополнительный урон, когда мощность костюма низка."
+              "rus": "Бейте врагов своими бронированными кулаками, нанося дополнительный урон, когда мощность костюма упадёт."
             }
           },
           {
@@ -793,19 +793,19 @@
             "Desc": {
               "id": "6289039226881770820",
               "eng": "Overload your reactor, causing it to violently discharge excess energy.\nThis removes negative conditions and restores some of your $primarymanabehaviorname$.",
-              "rus": "Перегрузить реактор, вызвав резкое высвобождение излишков энергии.\nОтрицательные эффекты при этом снимутся, также частично восстановится запас $primarymanabehaviorname.locflagG$."
+              "rus": "Перегрузите реактор, вызвав резкое высвобождение излишков энергии.\nОтрицательные эффекты при этом снимутся, также частично восстановится запас $primarymanabehaviorname.locflagG$."
             }
           },
           {
             "Name": {
               "id": "115068144611558776",
               "eng": "Jet-Assisted Slam",
-              "rus": "Реактивный слэм"
+              "rus": "Реактивный удар"
             },
             "Desc": {
               "id": "551759949395854667",
               "eng": "Crash forward, activating your thrusters to enhance the impact and #emphasis#weaken#/emphasis# enemies.",
-              "rus": "Рвануться вперед, активировав ускорители, чтобы усилить удар и #emphasis#ослабить#/emphasis# врагов."
+              "rus": "Рваните вперед, активировав ускорители, чтобы усилить удар и #emphasis#ослабить#/emphasis# врагов."
             }
           },
           {
@@ -817,7 +817,7 @@
             "Desc": {
               "id": "16257095066003375431",
               "eng": "Take flight and slam into the middle of a group of enemies, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Взлететь и врезаться сверху в толпу врагов, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "Совершите прыжок с последующим ударом по области, #emphasis#сбивающим врагов с ног#/emphasis#."
             }
           },
           {
@@ -829,7 +829,7 @@
             "Desc": {
               "id": "5415652172555879678",
               "eng": "Vent a #emphasis#chilling#/emphasis# cloud of supercooled gas that #emphasis#slows#/emphasis# and #emphasis#freezes#/emphasis# nearby enemies.",
-              "rus": "Выпустить #emphasis#охлаждающее#/emphasis# облако газа, которое #emphasis#замедлит#/emphasis# и #emphasis#заморозит#/emphasis# врагов."
+              "rus": "Выпустите #emphasis#охлаждающее#/emphasis# облако газа, которое #emphasis#замедлит#/emphasis# и #emphasis#заморозит#/emphasis# врагов."
             }
           },
           {
@@ -853,7 +853,7 @@
             "Desc": {
               "id": "16606512289219020047",
               "eng": "Overcharge your repulsors, firing them in an erratic pattern that strikes all enemies in a large area in front of you.",
-              "rus": "Перезарядите свои репульсоры, стреляя ими в хаотичном порядке, который поражает всех врагов на большой площади перед вами."
+              "rus": "Перезарядите свои репульсоры, стреляя ими в хаотичном порядке, который поражает всех врагов в большом радиусе перед вами."
             }
           }
         ]
@@ -869,7 +869,7 @@
             "Name": {
               "id": "17480604048870278458",
               "eng": "Arc Reactor",
-              "rus": "Арк Реактор"
+              "rus": "Дуговой реактор"
             },
             "Desc": {
               "id": "Invalid",
@@ -893,7 +893,7 @@
             "Name": {
               "id": "17261222475220845889",
               "eng": "Suit Power",
-              "rus": "Сила костюма"
+              "rus": "Мощность костюма"
             },
             "Desc": {
               "id": "Invalid",
