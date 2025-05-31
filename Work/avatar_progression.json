@@ -848,12 +848,12 @@
             "Name": {
               "id": "4825549324297766217",
               "eng": "Repulsor Spray",
-              "rus": "Репульсорный спрей"
+              "rus": "Шквал репульсоров"
             },
             "Desc": {
               "id": "16606512289219020047",
               "eng": "Overcharge your repulsors, firing them in an erratic pattern that strikes all enemies in a large area in front of you.",
-              "rus": "Перезарядите свои репульсоры, стреляя ими в хаотичном порядке, который поражает всех врагов в большом радиусе перед вами."
+              "rus": "Максимально быстро используйте свои репульсоры, стреляя ими в хаотичном порядке, поражая всех врагов в большом радиусе перед вами."
             }
           }
         ]
@@ -919,7 +919,7 @@
     "Bio": {
       "id": "12686839068088534323",
       "eng": "#emphasis#Real Name:#/emphasis# T'Challa\n#emphasis#Identity:#/emphasis# Public\n\nT'Challa rules the technologically advanced African kingdom of Wakanda. In addition to having peak human physical abilities, his mystical link to the Panther God grants him superhumanly acute senses and allows him to also wear the ceremonial mantle of the Black Panther.\nBlack Panther must balance his duties as a king with his responsibilities as a hero. This tension occasionally strains his standing with his allies in the Avengers, as well as the respect of his own people.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Fantastic Four #52 (July 1966)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# T'Challa\n#emphasis#Личность:#/emphasis# Открытая\n\nT'Challa правит технологически продвинутым африканским королевством Ваканда. В дополнение к своим пиковым человеческим физическим способностям, его мистическая связь с Богом Пантерой дарует ему сверхчувствительные органы чувств и позволяет носить церемониальную мантию Черной Пантеры.\nЧерной Пантере необходимо балансировать свои обязанности как короля с его ответственностью как героя. Это напряжение иногда ставит под угрозу его отношения с союзниками из Мстителей, а также уважение его собственного народа.\n\n#emphasis#Создано:#/emphasis# Стэн Ли и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Фантастическая Четверка #52 (Июль 1966)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# T'Challa\n#emphasis#Личность:#/emphasis# Открытая\n\nТ'Чaлла правит технологически продвинутым африканским королевством Ваканда. В дополнение к своим выдающимся для человека физическим способностям, его мистическая связь с Богом Пантерой дарует ему сверхчувствительные органы чувств и позволяет носить церемониальную мантию Черной Пантеры.\nЧерной Пантере необходимо балансировать свои обязанности как короля с его ответственностью как героя. Это напряжение иногда ставит под угрозу его отношения с союзниками из Мстителей, а также уважение его собственного народа.\n\n#emphasis#Создано:#/emphasis# Стэн Ли и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Фантастическая Четверка #52 (Июль 1966)"
     },
     "PowerTables": [
       {
@@ -938,19 +938,19 @@
             "Desc": {
               "id": "883507303474529530",
               "eng": "Deftly throw your vibranium daggers, sinking them into your enemies.",
-              "rus": "Искусно метнуть вибраниевые кинжалы и вонзить их в противника."
+              "rus": "Ловко метните свои вибраниумные кинжалы, вонзая их во врагов."
             }
           },
           {
             "Name": {
               "id": "2060251935195006287",
               "eng": "Enervating Slash",
-              "rus": "Опустошающий удар"
+              "rus": "Рассекающий удар"
             },
             "Desc": {
               "id": "14827589843698255115",
               "eng": "Slice enemies in front of you with your blades, opening vicious wounds.",
-              "rus": "Рубить клинками врагов, нанося чудовищные раны."
+              "rus": "Наносите режущие удары врагам, находящимся перед вами, нанося кровоточащие раны."
             }
           },
           {
@@ -962,7 +962,7 @@
             "Desc": {
               "id": "6610260496659121466",
               "eng": "Throw down a cunning snare that traps unwary enemies, dealing damage and reducing the defenses of any caught inside.",
-              "rus": "Бросить искусную ловушку, которая поражает неосторожных противников, нанося урон всем попавшим в зону действия и ослабляя их защиту."
+              "rus": "Бросьте искусную ловушку, которая поражает неосторожных противников, нанося урон всем попавшим в зону действия и ослабляя их защиту."
             }
           },
           {
@@ -974,7 +974,7 @@
             "Desc": {
               "id": "10966900967466534153",
               "eng": "Throw a deadly fan of energy daggers that slice through all enemies in their paths.",
-              "rus": "Бросить энергетические кинжалы смертоносным веером, сметающим всех врагов на своем пути."
+              "rus": "Бросьте энергетические кинжалы смертоносным веером, сметающим всех врагов на пути."
             }
           },
           {
@@ -986,7 +986,7 @@
             "Desc": {
               "id": "3224196499121767740",
               "eng": "Throw a dagger which #emphasis#freezes#/emphasis# the first enemy it comes in contact with, #emphasis#slowing#/emphasis# other enemies nearby after a short delay.",
-              "rus": "Бросить кинжал, который #emphasis#замораживает#/emphasis# первого противника, с которым соприкасается, а через миг #emphasis#замедляет#/emphasis# ближайших противников."
+              "rus": "Бросьте кинжал, который #emphasis#замораживает#/emphasis# первого противника, с которым соприкасается, а через миг #emphasis#замедляет#/emphasis# и ближайших к нему противников."
             }
           },
           {
@@ -998,7 +998,7 @@
             "Desc": {
               "id": "9143169033721218363",
               "eng": "Dash forward, #emphasis#knocking down#/emphasis# enemies in your path and rending their flesh.",
-              "rus": "Броситься вперед, #emphasis#сбив с ног#/emphasis# противников на пути, разрывая их плоть."
+              "rus": "Бросьтесь вперед, #emphasis#сбив с ног#/emphasis# оказавшихся на пути врагов и рассекая их плоть."
             }
           },
           {
@@ -1009,8 +1009,8 @@
             },
             "Desc": {
               "id": "18034786101439628607",
-              "eng": "Swipe your blades at all nearby enemies, knocking them off balance. ",
-              "rus": "Поразить своими клинками ближайших врагов."
+              "eng": "Swipe your blades at all nearby enemies, knocking them off balance.",
+              "rus": "Поразите своими клинками всех ближайших врагов нанесят урон и заставляя их на время потерять равновесие."
             }
           },
           {
@@ -1034,7 +1034,7 @@
             "Desc": {
               "id": "7387731555334423909",
               "eng": "Leap away from combat and throw a dagger that #emphasis#stuns#/emphasis# an enemy.",
-              "rus": "Отпрыгнуть от противника и бросить кинжал, чтобы #emphasis#оглушить#/emphasis# его."
+              "rus": "Отпрыгните от вашего противника и бросьте кинжал, чтобы #emphasis#оглушить#/emphasis# его."
             }
           },
           {
@@ -1046,7 +1046,7 @@
             "Desc": {
               "id": "9776643269203854598",
               "eng": "Toss out a small device which springs into the air, deploying an array of miniature high-explosive proximity mines.",
-              "rus": "Метнуть небольшое устройство, которое взлетает в воздух, выпуская серию миниатюрных сенсорных мин большой мощности."
+              "rus": "Метните небольшое устройство, которое взлетает в воздух, выпуская серию миниатюрных сенсорных мин большой мощности."
             }
           }
         ]
@@ -1055,7 +1055,7 @@
         "Name": {
           "id": "8697204231286555976",
           "eng": "Ritual Warrior",
-          "rus": "Воин-шаман"
+          "rus": "Ритуальный Воин"
         },
         "Powers": [
           {
@@ -1067,7 +1067,7 @@
             "Desc": {
               "id": "9176260970690249984",
               "eng": "Maul your enemies with broad swipes from your vibranium-tipped claws.",
-              "rus": "Искрошить врагов широкими взмахами когтей, усиленных вибранием."
+              "rus": "Разорвите плоть врагов ударами своих вибраниевых когтей."
             }
           },
           {
@@ -1079,7 +1079,7 @@
             "Desc": {
               "id": "530465574482150661",
               "eng": "Roll under enemies and projectiles and temporarily evade enemy attention.",
-              "rus": "Выполнить перекат под ногами и снарядами врагов и временно уйти из зоны их внимания."
+              "rus": "Совершите перекат под ногами врагов и их снарядами, временно исчезая из поля зрения противника."
             }
           },
           {
@@ -1091,7 +1091,7 @@
             "Desc": {
               "id": "1886568341117011269",
               "eng": "Sweep the legs out from enemies in front of you.",
-              "rus": "Сбить врагов подсечкой."
+              "rus": "Сбейте окружащих врагов с ног подсечкой."
             }
           },
           {
@@ -1103,7 +1103,7 @@
             "Desc": {
               "id": "2377084839256655115",
               "eng": "Decimate enemies with a series of mighty claw swipes.",
-              "rus": "Искромсать врагов несколькими могучими взмахами когтей."
+              "rus": "Искромсайте врагов несколькими мощными взмахами когтей."
             }
           },
           {
@@ -1127,19 +1127,19 @@
             "Desc": {
               "id": "9378616662627321091",
               "eng": "You silently vanish into a cloud of zero-visibility smoke, invisibly pummeling frightened enemies caught inside. Your allies can more easily dodge attacks while in the smoke as well.",
-              "rus": "Беззвучно раствориться в облаке дыма, беспощадно избивая перепуганных врагов, попавших в него. Ваши союзники, попавшие в облако, легче будут уклоняться от атак."
+              "rus": "Беззвучно растворитесь в облаке дыма, а затем беспощадно избейте перепуганных врагов, попавших в него. Ваши союзники, попавшие в облако, будут более ловко уклоняться от атак."
             }
           },
           {
             "Name": {
               "id": "13825416829403989363",
               "eng": "Savage Strike",
-              "rus": "Жестокий удар"
+              "rus": "Свирепый удар"
             },
             "Desc": {
               "id": "7365268412404991242",
               "eng": "Deliver a ferocious uppercut that leaves enemies #emphasis#bleeding#/emphasis#.",
-              "rus": "Провести яростный апперкот, оставив противника #emphasis#истекать кровью#/emphasis#."
+              "rus": "Проведите яростный апперкот, нанеся урон и оставив противника #emphasis#истекать кровью#/emphasis#."
             }
           },
           {
@@ -1151,19 +1151,19 @@
             "Desc": {
               "id": "4817174674876925200",
               "eng": "Embrace the spirit of Bast, empowering your melee and ranged attacks by channelling the power of Bast for a short time and call down his divine wrath to smite your enemies where they stand.",
-              "rus": "Дух Баст на короткое время наполнит ваши атаки ближнего и дальнего боя, обрушивая божественный гнев на головы врагов."
+              "rus": "Призовите дух богини Баст, который краткое время наполнинит все ваши атаки ближнего и дальнего боя мощью богини, а также обрушит свой божественный гнев на головы всех находящихся рядом врагов."
             }
           },
           {
             "Name": {
               "id": "8414857036837487874",
               "eng": "Exalted of Bast",
-              "rus": "Величие Баст"
+              "rus": "Благословлённый Баст"
             },
             "Desc": {
               "id": "8966998881164657936",
               "eng": "The Panther God Bast comes to protect you and your allies, reviving them and enhancing their fighting prowess. \nAlso, divine aspects of Bast come to fight at your command for a time.",
-              "rus": "Бог пантер Баст охранит вас и ваших союзников, оживит их и улучшит их боевые качества. \nКроме того, божественные подручные Баст помогут вам в бою."
+              "rus": "Богиня-Пантера Баст придёт вам на помощь, защищая вас и ваших союзников, воскрешая их и усиливая их атаки. \nКроме того, божественные аватары Баст некоторое время будут помогать вам в бою."
             }
           }
         ]
@@ -1179,7 +1179,7 @@
             "Name": {
               "id": "1540763314185962828",
               "eng": "Panther Soul",
-              "rus": "Душа пантеры"
+              "rus": "Дух пантеры"
             },
             "Desc": {
               "id": "Invalid",
