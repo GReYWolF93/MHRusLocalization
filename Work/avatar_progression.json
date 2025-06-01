@@ -1503,7 +1503,7 @@
     "Bio": {
       "id": "4837955410398217581",
       "eng": "#emphasis#Real Name:#/emphasis# Katherine \"Kitty\" Anne Pryde\n#emphasis#Identity:#/emphasis# Secret\n\nKitty Pryde was your average 13 year old girl from Illinois  when her powers began manifesting. Able to \"phase\" her body and anything she touches through solid matter, Kitty's been connected to the X-Men since the first time her powers came to light. Though her powers were originally considered passive, Kitty has learned to use them in various waves to save her friends and even the world! Not content with  just a sharp wit and awesome power set, Kitty Pryde also possesses masterful knowledge of martial arts (thanks to an adventure with Wolverine) as well as a fire-breathing pet alien dragon, Lockheed!\n\n#emphasis#Created By:#/emphasis# Chris Clarement and John Byrne\n#emphasis#First Appearance:#/emphasis# X-Men #129 (September 1980)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Кэтрин \"Китти\" Энн Прайд\n#emphasis#Личность:#/emphasis# Секретная\n\nКитти Прайд была обычной 13-летней девочкой из Иллинойс, когда ее способности начали проявляться. Способная \"фазировать\" свое тело и все, что она касается, сквозь твердые предметы, Китти связана с Людьми Икс с тех пор, как ее способности впервые стали известны. Хотя изначально ее способности считались пассивными, Китти научилась использовать их в различных формах, чтобы спасти своих друзей и даже мир! Ей недостаточно просто острого ума и потрясающего набора сил, Китти Прайд также обладает мастерским знанием боевых искусств (благодаря приключению с Росомахой), а также огнедышащим питомцем инопланетным драконом, Локхидом!\n\n#emphasis#Создано:#/emphasis# Крис Клэрмонт и Джон Бирн\n#emphasis#Первое появление:#/emphasis# Люди Икс #129 (сентябрь 1980)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Кэтрин \"Китти\" Энн Прайд\n#emphasis#Личность:#/emphasis# Секретная\n\nКитти Прайд была обычной 13-летней девочкой из Иллиноиса, когда ее способности мутанта начали проявляться. Она способна \"фазировать\" свое тело и всего, чего коснётся в этот момент, сквозь твердые предметы, Китти связана с Людьми Икс с тех пор, как ее способности впервые проявились. Хотя изначально ее способности считались скорее пассивными, Китти научилась использовать их в различных формах, чтобы спасать своих друзей и даже мир! Ей недостаточно просто острого ума и потрясающего набора сил, Китти Прайд также обладает мастерским знанием боевых искусств (благодаря приключению с Росомахой), а также огнедышащим питомцем инопланетным драконом, Локхидом!\n\n#emphasis#Создано:#/emphasis# Крис Клэрмонт и Джон Бирн\n#emphasis#Первое появление:#/emphasis# Люди Икс #129 (сентябрь 1980)\n"
     },
     "PowerTables": [
       {
@@ -1534,7 +1534,7 @@
             "Desc": {
               "id": "701833829060642112",
               "eng": "Phase your entire body and move quickly through enemies and walls alike. Perfect for getting out of just about every situation.",
-              "rus": "Позволяет быстро просочиться сквозь врагов, стены и прочие препятствия. Отличный способ отступления."
+              "rus": "Позволяет вам буквально просочиться сквозь врагов, стены и прочие препятствия. Отличный способ для отступления в напряженной ситуации."
             }
           },
           {
@@ -1565,7 +1565,7 @@
             "Name": {
               "id": "9258206008948229384",
               "eng": "Quicksand",
-              "rus": "Трясина"
+              "rus": "Зыбучие пески"
             },
             "Desc": {
               "id": "12577966440265614602",
@@ -1582,14 +1582,14 @@
             "Desc": {
               "id": "6075702424556209476",
               "eng": "Temporarily phase yourself out of the physical plane, increasing your effectiveness in combat and making you impossible to hit.",
-              "rus": "Временно обрести бесплотность на поле боя, чтобы наносить врагам больше урона и избегать ответных ударов."
+              "rus": "Используя фазирование временно обрестите бесплотность, во время действия способности вы эффективнее атакуете и не получаете урона."
             }
           },
           {
             "Name": {
               "id": "10770429711504966978",
               "eng": "Logan-Style",
-              "rus": "Как Логан"
+              "rus": "В стиле Логана"
             },
             "Desc": {
               "id": "14237947536174417211",
@@ -1601,7 +1601,7 @@
             "Name": {
               "id": "8308213144974329150",
               "eng": "Phasing Samurai",
-              "rus": "Неудержимый самурай"
+              "rus": "Фазирующий самурай"
             },
             "Desc": {
               "id": "6753881359774582080",
@@ -1618,7 +1618,7 @@
             "Desc": {
               "id": "8621116446094853447",
               "eng": "Give 'em everything you've got by phasing beneath your enemies and using just about everything you've learned as an X-Man, combining your mutant power with your martial arts mojo and katana-wielding skills. This attack allows you to continously dive underground and come up for more in a kind of rhythmic dance of butt kicking.  ",
-              "rus": "Покажите все, на что способны, проникая под землю и пуская в ход все известные вам приемы Людей Икс - мутантские способности, помноженные на боевые искусства и мастерское  владение катаной. Вы каждый раз будете выныривать из-под земли с новым сюрпризом для врагов в непревзойденном балете смерти."
+              "rus": "Покажите все, на что способны, проникая под землю и пуская в ход все известные вам приемы Людей Икс - мутантские способности, помноженные на боевые искусства и мастерское владение катаной. Вы каждый раз будете выныривать из-под земли с новым сюрпризом для врагов в непревзойденном танце смерти."
             }
           }
         ]
@@ -1651,7 +1651,7 @@
             "Desc": {
               "id": "334139801948063038",
               "eng": "Have Lockheed dash forward without you, spewing fire as he goes.",
-              "rus": "По команде Локхид ринется вперед, изрыгая пламя."
+              "rus": "По вашей команде Локхид ринется вперед, изрыгая пламя."
             }
           },
           {
@@ -1663,7 +1663,7 @@
             "Desc": {
               "id": "4320023663385249047",
               "eng": "Hold down the hotkey to have Lockheed perch on your arm, breathing waves of fire at enemies in front of you.",
-              "rus": "Удерживать горячую клавишу, чтобы Локхид вспорхнул вам на руку и залил врагов перед вами волнами огня."
+              "rus": "Удерживайте горячую клавишу, чтобы Локхид вспорхнул вам на руку и залил врагов перед вами волнами огня."
             }
           },
           {
@@ -1675,7 +1675,7 @@
             "Desc": {
               "id": "15183262789986616641",
               "eng": "Deliver a roundhouse kick to your enemy then duck down to allow your pal Lockheed to deliver a massive blast of fire in front of you.",
-              "rus": "Нанести круговой удар ногой по врагу, а затем пригнуться, чтобы Локхид выпустил огненный заряд над вашей головой."
+              "rus": "Нанести круговой удар ногой по врагу, а затем пригнитесь, чтобы Локхид выпустил огненный заряд вам через голову."
             }
           },
           {
@@ -1699,7 +1699,7 @@
             "Desc": {
               "id": "14450126638654358845",
               "eng": "Have Lockheed let loose in your preferred direction, lighting the ground in front of him ablaze.",
-              "rus": "Выпустить Локхида вперед, чтобы он летел и заливал землю пламенем."
+              "rus": "Скомандуйте Локхиду стремительно лететь вперед, чтобы вся земля на его пути была залита пламенем."
             }
           }
         ]
@@ -1727,7 +1727,7 @@
             "Name": {
               "id": "2951580686975763728",
               "eng": "Intangible",
-              "rus": "Невидимый"
+              "rus": "Неосязаемость"
             },
             "Desc": {
               "id": "Invalid",
@@ -1756,7 +1756,7 @@
             "Desc": {
               "id": "4800052414138811701",
               "eng": "Unleash any of your pent up rage by allowing Magik's Soulsword to take over for a bit, sending a massive shockwave of damage through the air and ground alike. Afterwards, the Soulsword imbues your phasing abilities, allowing you to defeat most foes simply by walking through them.",
-              "rus": "Выпустите всю свою подавленную ярость, позволив мечу Души Мэджик взять верх на некоторое время, посылая мощную ударную волну урона через воздух и землю. После этого меч Души наделяет ваши способности фазирования, позволяя вам побеждать большинство врагов, просто проходя сквозь них."
+              "rus": "Выпустите всю свою подавленную ярость, позволив мечу Души Мэджик взять верх на некоторое время, посылая мощную ударную волну урона по воздуху и земле. После этого меч Души усиливает ваши способности фазирования, позволяя вам побеждать большинство врагов, просто пройдя сквозь них."
             }
           }
         ]
