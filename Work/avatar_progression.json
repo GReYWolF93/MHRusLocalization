@@ -1217,7 +1217,7 @@
     "Bio": {
       "id": "1899334061196655",
       "eng": "#emphasis#Real Name:#/emphasis# Elizabeth \"Betsy\" Braddock\n#emphasis#Identity:#/emphasis# Secret\n\nSister of Captain Britain, Betsy Braddock is the psychic X-Man known as Psylocke. Originally just a telepath, Betsy ended up switching bodies with a deadly assassin that allowed her to become the psychic ninja she is today. While using her telekinetic powers to manifest a \"Psi-Knife\", Psylocke slips into the shadows and cuts enemies down with her martial arts and katana skills.\n\n#emphasis#Created By:#/emphasis# Chris Claremont and Herb Trimpe\n#emphasis#First Appearance:#/emphasis# Captain Britain #8 (December 1976)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Элизабета \"Бетси\" Браддок\n#emphasis#Личность:#/emphasis# Секретная\n\nСестра Капитана Британии, Бетси Браддок является психическим Людьми Икс, известным как Псайлок. Изначально будучи просто телепатом, Бетси в итоге поменялась телами с смертоносным убийцей, что позволило ей стать психическим ниндзя, каким она является сегодня. Используя свои телекинетические способности для создания \"Пси-Ножа\", Псайлок уходит в тени и уничтожает врагов своими боевыми искусствами и навыками с катаной.\n\n#emphasis#Создано:#/emphasis# Крисом Клэрмонтом и Хербом Тримпом\n#emphasis#Первое появление:#/emphasis# Капитан Британия #8 (декабрь 1976)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Элизабет \"Бетси\" Браддок\n#emphasis#Личность:#/emphasis# Секретная\n\nСестра Капитана Британии, Бетси Браддок является психиком и членом Людей Икс, известной как Псайлок. Изначально будучи просто телепатом, Бетси в итоге поменялась телами со смертоносным убийцей, что позволило ей стать психическим ниндзя, каким она является и сегодня. Используя свои телекинетические способности для создания \"Пси-Ножа\", Псайлок уходит в тени и уничтожает врагов при помощи боевых искусств и навыков владения катаной.\n\n#emphasis#Создано:#/emphasis# Крисом Клэрмонтом и Хербом Тримпом\n#emphasis#Первое появление:#/emphasis# Капитан Британия #8 (декабрь 1976)\n"
     },
     "PowerTables": [
       {
@@ -1236,7 +1236,7 @@
             "Desc": {
               "id": "9035423998020027664",
               "eng": "Subdue enemies with swift strikes of your lethal close combat techniques.",
-              "rus": "Расправиться с врагами быстрыми и смертоносными ударами в рукопашной."
+              "rus": "Расправьтесь с врагами быстрыми и смертоносными ударами в рукопашной."
             }
           },
           {
@@ -1248,7 +1248,7 @@
             "Desc": {
               "id": "15931381741450626363",
               "eng": "Dash to a #emphasis#stealth#/emphasis# position, knocking down and damaging enemies caught in your path.",
-              "rus": "Рывком уйти в #emphasis#скрытое#/emphasis# состояние, сбивая с ног противников на своем пути и нанося им урон."
+              "rus": "Рывком уйдите в #emphasis#скрытое#/emphasis# состояние, сбивая с ног противников на своем пути и нанося им урон."
             }
           },
           {
@@ -1260,7 +1260,7 @@
             "Desc": {
               "id": "3147716149619262770",
               "eng": "Twirl through the air with your katana, cleaving enemies in half with a flash of your blade on landing.",
-              "rus": "Взвиться в воздух стальным вихрем, разрубив противников пополам в точке приземления."
+              "rus": "Взвейтесь в воздух стальным вихрем, разрубая катаной противников во время приземления."
             }
           },
           {
@@ -1272,7 +1272,7 @@
             "Desc": {
               "id": "5832909516688327955",
               "eng": "Sweep your katana, projecting forward a shockwave of wind to #emphasis#slow#/emphasis# your enemies.",
-              "rus": "Взмахнуть катаной, послав вперед порыв ветра, #emphasis#замедляющий#/emphasis# врагов."
+              "rus": "Взмахните своей катаной, создав воздушную волну, которая поразит всех врагов на пути и #emphasis#замедлит#/emphasis# их."
             }
           },
           {
@@ -1284,7 +1284,7 @@
             "Desc": {
               "id": "1029847765715191098",
               "eng": "Unleash lightning-fast blows from your katana, intended to swiftly dismember and dispatch unsuspecting enemies.",
-              "rus": "Провести серию молниеносных ударов катаной, рассчитанных на то, чтобы быстро порубить ничего не подозревающих врагов на кусочки."
+              "rus": "Проведите серию молниеносных ударов катаной, рассчитанных на то, чтобы быстро порубить ничего не подозревающих врагов на кусочки."
             }
           },
           {
@@ -1296,7 +1296,7 @@
             "Desc": {
               "id": "5100488979990644045",
               "eng": "Your ability to manipulate your enemies is enhanced, leaving behind a psionic decoy to confuse your enemies whenever you vanish from their sight.",
-              "rus": "Способность манипулировать врагами усилится. После воздействия остается пси-иллюзия, сводящая врагов с толку, когда вы пропадаете с их глаз."
+              "rus": "Ваша способность манипулировать врагами усиливается. После воздействия остается пси-иллюзия, сбивающая врагов с толку в то время как вы исчезаете с глаз."
             }
           },
           {
@@ -1308,7 +1308,7 @@
             "Desc": {
               "id": "100671186472731915",
               "eng": "Telekinetically swirl your katana around yourself in a blur of deadly steel, slicing through nearby enemies.",
-              "rus": "Телекинетически закрутить катану вокруг себя смертоносным стальным вихрем, рубя врагов."
+              "rus": "Телекинетически заставьте катану стремительно вращаться, превратив её в смертоносный ураган, который кромсает врагов вокруг."
             }
           },
           {
@@ -1320,7 +1320,7 @@
             "Desc": {
               "id": "6021997453345293582",
               "eng": "Dash to an enemy and drive your psi-blade through their back, quickly dispatching them.",
-              "rus": "Ринуться к врагу со спины и проткнуть его своим псионическим клинком."
+              "rus": "Молниеносно сблизьтесь с врагом, а затем используйте пси-клинок, чтобы поразить противника в спину."
             }
           }
         ]
@@ -1341,7 +1341,7 @@
             "Desc": {
               "id": "13908622672354804999",
               "eng": "Cut enemies to pieces with a swift triple-strike of your psi-knife.",
-              "rus": "Рубить врагов в куски быстрыми тройными ударами пси-ножа."
+              "rus": "Разрубите врагов на части быстрыми тройными ударами пси-ножа."
             }
           },
           {
@@ -1353,19 +1353,19 @@
             "Desc": {
               "id": "6647672170067199290",
               "eng": "Crush your enemies minds with madness by gently fanning the flame of their darkest fears.",
-              "rus": "Свести врагов с ума, аккуратно подогревая их самые потаенные страхи."
+              "rus": "Уничтожайте сознание противников, играючи подпитывая их самые тёмные кошмары."
             }
           },
           {
             "Name": {
               "id": "14951531497424880951",
               "eng": "Psi-Thrust",
-              "rus": "Пси-толчок"
+              "rus": "Пси-выпад"
             },
             "Desc": {
               "id": "10419831230426383631",
               "eng": "Lunge forward with your psi-knife outstretched, rending enemies in your path. Your next attack rejuvenates you.",
-              "rus": "Рвануться вперед с обнаженным психо-ножом, уничтожая врагов на своем пути. Следующая атака придаст вам сил."
+              "rus": "Совершите резкий рывок вперёд с пси-кинжалом, рассекая врагов на своем пути. Следующая атака также восстановит часть пси-барьера."
             }
           },
           {
@@ -1377,7 +1377,7 @@
             "Desc": {
               "id": "2922231504700966163",
               "eng": "Sling bolts of ethereal psionic energy, which explode on contact with an enemy mind.",
-              "rus": "Выпустить стрелу пси-энергии, взрывающуюся при контакте с разумом врага."
+              "rus": "Выпустите стрелу пси-энергии, взрывающуюся при контакте с разумом врага."
             }
           },
           {
@@ -1389,7 +1389,7 @@
             "Desc": {
               "id": "7316315852691146045",
               "eng": "Consume enemies in a deadly implosion of psionic energy.",
-              "rus": "Уничтожить врагов смертоносным извержением псионической энергии."
+              "rus": "Уничтожайте врагов смертоносным выбросом псионической энергии."
             }
           },
           {
@@ -1401,19 +1401,19 @@
             "Desc": {
               "id": "9789029409435026706",
               "eng": "Draw a bow of psychic power, concentrating your energy directly into a single devastating psionic arrow that ricochets back to you.",
-              "rus": "Материализовать лук из пси-энергии, сконцентрировав силу в одну смертоносную псионическую стрелу. Ваши дистанционные атаки становятся эффективнее, пока вы фокусируете энергию на своих целях."
+              "rus": "Материализуйте лук из пси-энергии, сконцентрировав свою силу в одну смертоносную псионическую стрелу. Ваши дистанционные атаки становятся эффективнее, пока вы фокусируете энергию на своих целях."
             }
           },
           {
             "Name": {
               "id": "6292443641289835836",
               "eng": "Psycho-Blast",
-              "rus": "Психо-бласт"
+              "rus": "Пси-взрыв"
             },
             "Desc": {
               "id": "8405441721266799935",
               "eng": "Release a blast of psionic energy in a brilliant and deadly cone, destroying swaths of enemies at a time, especially those who have already been crippled.",
-              "rus": "Выпустить импульс псионической энергии в форме сверкающего, смертоносного конуса, уничтожающего врагов целыми толпами - особенно уже покалеченных."
+              "rus": "Выпустите импульс псионической энергии в форме сверкающего, смертоносного конуса, уничтожающего врагов целыми толпами - особенно уже покалеченных."
             }
           },
           {
@@ -1425,19 +1425,19 @@
             "Desc": {
               "id": "13575251309514786109",
               "eng": "Release psionic butterflies that gently flutter to enemies and suddenly reveal their deadly purpose upon exploding near unsuspecting foes.",
-              "rus": "Выпустить рой псионных бабочек, которые нежно порхают среди врагов и, подобравшись к ним вплотную, взрываются."
+              "rus": "Выпустите рой псионических бабочек, которые нежно порхают вокруг врагов и, подобравшись к ним вплотную, взрываются."
             }
           },
           {
             "Name": {
               "id": "11765633342677124456",
               "eng": "Psionic Maelstrom",
-              "rus": "Пси-водоворот"
+              "rus": "Пси-шторм"
             },
             "Desc": {
               "id": "10502879753254864226",
               "eng": "Summon a dazzling kaleidoscope of psionic butterflies, with you as the centerpoint of their flightpaths. Enemies caught in their swarm are quickly cut down by the overwhelming and deadly psionic energy.",
-              "rus": "Создать головокружительный калейдоскоп псионических бабочек с вами в центре. Враги, оказавшиеся внутри роя бабочек, быстро уничтожаются огромным зарядом смертоносной пси-энергии."
+              "rus": "Создайте головокружительный калейдоскоп псионических бабочек с вами в центре. Враги, оказавшиеся внутри роя бабочек, будут быстро уничтожены разыгравшейся смертоносной бурей пси-энергии."
             }
           }
         ]
@@ -1465,7 +1465,7 @@
             "Name": {
               "id": "3705486947955639559",
               "eng": "Psionic Resilience",
-              "rus": "Псionic Устойчивость"
+              "rus": "Пси-устойчивость"
             },
             "Desc": {
               "id": "Invalid",
