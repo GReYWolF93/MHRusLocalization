@@ -3362,7 +3362,7 @@
   {
     "id": "4349129784910742832",
     "english": "Ice Block's Revive effect is cooling down",
-    "russian": "\"Халк прочный!\" - перезарядка",
+    "russian": "Эффект воскрешения Ледяного блока на перезарядке",
     "similarity": 0.3019565939903259,
     "path": "Powers/Player/Iceman/IceBlockReviveCDisplay.prototype",
     "verdict": "BAD"
@@ -3378,7 +3378,7 @@
   {
     "id": "12903366185006925114",
     "english": "Vibranium Cache",
-    "russian": "Тайник с вибранием",
+    "russian": "Запас вибраниума",
     "similarity": 0.3037210702896118,
     "path": "Entity/Missions/PointerArrows/OneShotVibraniumCacheIcon.prototype",
     "verdict": "MAYBE"
@@ -3394,7 +3394,7 @@
   {
     "id": "2475000601719473409",
     "english": "Xavier's School for Gifted Youngsters is located in Westchester County, New York.",
-    "russian": "Враги, которые окружены синим сиянием, нападают только на учащихся.",
+    "russian": "Школа Ксавьера для одарённых находится в округе Уэстчестер, Нью-Йорк.",
     "similarity": 0.30399182438850403,
     "path": "UI/LoadingScreenTips/RegionTips/XavierMansionTips.prototype",
     "verdict": "BAD"
@@ -3418,7 +3418,7 @@
   {
     "id": "15970413472285656423",
     "english": "Slot 1 Gear Upgrade II",
-    "russian": "Улучшить уник. или косм. предмет в ячейке 1 до 69 ур.",
+    "russian": "Слот 1 Улучшение экипировки II",
     "similarity": 0.30465200543403625,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeItemSlot1Level66.prototype",
     "verdict": "MAYBE"
@@ -3482,7 +3482,7 @@
   {
     "id": "16040833635692709127",
     "english": "#emphasis#If used while Stealthed or Invisible:#/emphasis#",
-    "russian": "Эти параметры изменяются пропорционально значению $primarymanabehaviorname.locflagG$, и их значения обновляются, когда вы применяете способность",
+    "russian": "#emphasis#Если использовать в режиме скрытности или невидимости:#/emphasis#",
     "similarity": 0.30731523036956787,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CategoryUseWhileInvisible.prototype",
     "verdict": "BAD"
@@ -3490,7 +3490,7 @@
   {
     "id": "935229915360724286",
     "english": "Storm Torrent",
-    "russian": "Гром и молния",
+    "russian": "Штормовой поток",
     "similarity": 0.307548850774765,
     "path": "Powers/Player/Thor/Rework/PBAoEStorm.prototype",
     "verdict": "MAYBE"
@@ -3522,7 +3522,7 @@
   {
     "id": "16965611468408358249",
     "english": "Tailored Collar",
-    "russian": "Ворот штучной работы",
+    "russian": "Изысканный чокер",
     "similarity": 0.3088400959968567,
     "path": "Entity/Items/Armor/Prototypes/EmmaFrost/o5Collar/Collar05.prototype",
     "verdict": "MAYBE"
@@ -3530,7 +3530,7 @@
   {
     "id": "9304359349563884821",
     "english": "Treasure Room",
-    "russian": "Квартал Красных фонарей",
+    "russian": "Сокровищница",
     "similarity": 0.3091698884963989,
     "path": "Regions/StoryRevamp/CH04EastSide/TreasureRooms/CH04TR03AIMLabRegion.prototype",
     "verdict": "BAD"
@@ -3538,7 +3538,7 @@
   {
     "id": "16536888258012513552",
     "english": "Treasure Room",
-    "russian": "Квартал Красных фонарей",
+    "russian": "Сокровищница",
     "similarity": 0.3091699779033661,
     "path": "Regions/StoryRevamp/CH04EastSide/TreasureRooms/CH04TR02HauntedRegion.prototype",
     "verdict": "BAD"
@@ -3554,7 +3554,7 @@
   {
     "id": "17079166752946193738",
     "english": "Defeat Doctor Doom in his Cosmic Terminal in 180 seconds to open up the Cosmic versions of the various Patrol modes.",
-    "russian": "Вы впервые повысили уровень героя до 5! Поговорите с агентом ЩИТа Стэном Ли в Башне Мстителей, чтобы получить информацию о режиме игры \"Патруль в Мидтауне\".",
+    "russian": "Победите Доктора Дума в его Космическом Терминале за 180 секунд, чтобы открыть космические версии разных режимов патруля.",
     "similarity": 0.3094415068626404,
     "path": "Missions/Prototypes/ZZZDeprecated/CH08Latveria/CosmicGatePatrols.prototype",
     "verdict": "BAD"
@@ -3594,7 +3594,7 @@
   {
     "id": "14965455987568543046",
     "english": "Psylocke's Prowess\nCritical and Brutal damage increased",
-    "russian": "Мастерство Псайлок",
+    "russian": "Мастерство Псайлок\nУвеличен критический и сокрушительный урон",
     "similarity": 0.31085386872291565,
     "path": "Powers/Player/Rogue/UltimateSeekerButterfliesSelfCondition.prototype",
     "verdict": "MAYBE"
@@ -3602,7 +3602,7 @@
   {
     "id": "6084427629077792009",
     "english": "Bladed Spider Slayer Assassin",
-    "russian": "Остролезвийный паукобой-ассасин",
+    "russian": "Клинковый паук-убийца",
     "similarity": 0.31098517775535583,
     "path": "Entity/Characters/Mobs/SpiderSlayers/OneShot/OneShotSpiderSlayerBladestBTGT.prototype",
     "verdict": "MAYBE"
@@ -3610,7 +3610,7 @@
   {
     "id": "660305627010630929",
     "english": "Wolverine Modern Costume",
-    "russian": "Костюм Росомахи \"Земля-1720\"",
+    "russian": "Современный костюм Росомахи",
     "similarity": 0.310988187789917,
     "path": "Entity/Items/Costumes/Prototypes/Wolverine/ModernYellow.prototype",
     "verdict": "MAYBE"
@@ -3626,7 +3626,7 @@
   {
     "id": "13259694118171444645",
     "english": "Old Painless",
-    "russian": "\"Нежность\"",
+    "russian": "Обезболивающее",
     "similarity": 0.31216368079185486,
     "path": "Entity/Items/Armor/Prototypes/Punisher/o1Rifle/Rifle15.prototype",
     "verdict": "MAYBE"
@@ -3674,7 +3674,7 @@
   {
     "id": "15627182960296789252",
     "english": "S.T.A.S.H.",
-    "russian": "СКЛАД",
+    "russian": "С.К.Л.А.Д.",
     "similarity": 0.31506645679473877,
     "path": "Entity/Characters/NPCs/Objects/AvengersStash.prototype",
     "verdict": "MAYBE"
@@ -3690,7 +3690,7 @@
   {
     "id": "18068378535363151205",
     "english": "Random Unique Affixes",
-    "russian": "Выбрать для уникального предмета другие цифры",
+    "russian": "Случайные уникальные аффиксы",
     "similarity": 0.3155486583709717,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/RerollaUnique.prototype",
     "verdict": "MAYBE"
@@ -3706,7 +3706,7 @@
   {
     "id": "18208066797572392302",
     "english": "Combat Billy Clubs",
-    "russian": "Воинские дубинки",
+    "russian": "Боевые дубинки",
     "similarity": 0.3167508542537689,
     "path": "Entity/Items/Armor/Prototypes/Daredevil/o1BillyClubs/BillyClubs09.prototype",
     "verdict": "MAYBE"
@@ -3714,7 +3714,7 @@
   {
     "id": "17847369886308959550",
     "english": "All these dry rations... Really makes a man miss his mom's cookin'.",
-    "russian": "У меня такое чувство, что доктор Мак Таггерт мужчинами не интересуется. Если нет, то почему она отвергает мои ухаживания?",
+    "russian": "Все эти сухие пайки... Прямо хочется маминой кухни.",
     "similarity": 0.31683412194252014,
     "path": "Entity/Characters/NPCs/HubNPCs/GLFSupplyOfficer.prototype",
     "verdict": "BAD"
@@ -3722,7 +3722,7 @@
   {
     "id": "4718185557243397484",
     "english": "Insignia Upgrade III",
-    "russian": "Улучшить эпическую или космическую символику до уровня 63",
+    "russian": "Улучшение знака III",
     "similarity": 0.316905677318573,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeInsigniaTo69.prototype",
     "verdict": "MAYBE"
@@ -3746,7 +3746,7 @@
   {
     "id": "6110661564314027364",
     "english": "This box contains an Advanced S.H.I.E.L.D. Motion Analyzer artifact\n#emphasis#Ranged Attacks deal more damage the farther you are from your target, up to +20% at maximum range#/emphasis#\n#emphasis#Reveal Enemies on the minimap#/emphasis#\n#emphasis#Critical Hit Rating to Ranged Attacks#/emphasis#\n#emphasis#Critical Damage Rating to Ranged Attacks#/emphasis#\n#emphasis#Damage Rating to Ranged Attacks#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке находится артефакт продвинутого Анализатора движений Щ.И.Т.А.\n#emphasis#Дальний урон увеличивается с расстоянием до цели, до +20% на максимальной дистанции#/emphasis#\n#emphasis#Обнаруживает врагов на миникарте#/emphasis#\n#emphasis#Рейтинг крит. удара для дальних атак#/emphasis#\n#emphasis#Рейтинг критического урона для дальних атак#/emphasis#\n#emphasis#Рейтинг урона для дальних атак#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.318190336227417,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Art112AdvancedBox.prototype",
     "verdict": "BAD"
@@ -3754,7 +3754,7 @@
   {
     "id": "14320560901356258588",
     "english": "Be it the Phoenix Force, The Power Cosmic or another force in the Universe, the power you wield is nothing short of the power the Cosmic Entities possess.",
-    "russian": "Кристалл М'Краан лежит в сплетении всех реальностей. Даже крошечный фрагмент обладает огромной силой.\n—Джин Грей",
+    "russian": "Будь то Сила Феникса, Космическая Сила или другая мощь во Вселенной — сила, которой вы владеете, не уступает силе Космических Сущностей.",
     "similarity": 0.318699449300766,
     "path": "Entity/Items/Crafting/Ingredients/CoreProtos/CosmicSpiritCatalyst.prototype",
     "verdict": "BAD"
@@ -3802,7 +3802,7 @@
   {
     "id": "12103631806924064053",
     "english": "Trait - Memories of a Living Weapon",
-    "russian": "Пассивно - Обучение убийцы",
+    "russian": "Черта — Воспоминания о Живом Оружии",
     "similarity": 0.32033711671829224,
     "path": "Powers/StolenPowers/StealablePowers/WinterSoldierStolenPower.prototype",
     "verdict": "MAYBE"
@@ -3834,7 +3834,7 @@
   {
     "id": "12385885254999999758",
     "english": "#red#Chaos Effect#/red#: $EvalRegisterFloat0.pct$% chance to reduce this power's cooldown by 50%",
-    "russian": "Длительность устрашения: $duration$ (непреодолимо, независимо от длительности способности)",
+    "russian": "#red#Эффект Хаоса#/red#: $EvalRegisterFloat0.pct$% шанс сократить время восстановления этой способности на 50%",
     "similarity": 0.32142341136932373,
     "path": "Localization/Translations/Powers/TooltipStrings/ScarletWitch/DarkHexCooldownReductionEffect.prototype",
     "verdict": "BAD"
@@ -3858,7 +3858,7 @@
   {
     "id": "17008818465744422250",
     "english": "Odin Marks (300)",
-    "russian": "Обменять легендарный предмет на марки Одина",
+    "russian": "Знаки Одина (300)",
     "similarity": 0.3230545222759247,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/LegendaryRefundRecipe.prototype",
     "verdict": "MAYBE"
@@ -3866,7 +3866,7 @@
   {
     "id": "10438787128835835251",
     "english": "Sigvat Hellsborn",
-    "russian": "Сигват Уроженец Ада",
+    "russian": "Сигват Адорожденный",
     "similarity": 0.32331642508506775,
     "path": "Entity/Characters/Mobs/Missions/Asgard/NorwayDarkElfSoldierEliteV5.prototype",
     "verdict": "BAD"
@@ -3882,7 +3882,7 @@
   {
     "id": "5402879030077621562",
     "english": "Locate First Group of Civilians",
-    "russian": "Найти место крушения",
+    "russian": "Найти первую группу мирных жителей",
     "similarity": 0.323665052652359,
     "path": "Missions/Prototypes/PVEEndgame/DangerRoom/AIMFacility/DRAIMFacCiviRescueEventT2.prototype",
     "verdict": "MAYBE"
@@ -3890,7 +3890,7 @@
   {
     "id": "13971151572331464045",
     "english": "Gloomharrower",
-    "russian": "Мрачный мучитель",
+    "russian": "Мрачный охотник",
     "similarity": 0.3239118158817291,
     "path": "Entity/Characters/Mobs/Missions/Asgard/NorwayDarkElfAssassinEliteV4.prototype",
     "verdict": "MAYBE"
@@ -3898,7 +3898,7 @@
   {
     "id": "11017587250977047871",
     "english": "Random Challenge Bonus",
-    "russian": "Добавить случ. бонус испытания уник. или косм. предмету ур. 63+",
+    "russian": "Случайный бонус к испытанию",
     "similarity": 0.3241026699542999,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonusRandom.prototype",
     "verdict": "MAYBE"
@@ -3906,7 +3906,7 @@
   {
     "id": "24643165811311935",
     "english": "#red#Unlocks the following bonuses:#/red#\n#powername#$powerReference1.powerName$#/powername# deals bonus damage to close enemies\n#powername#$powerReference2.powerName$#/powername# deals bonus damage against #powermechanic#Vulnerable#/powermechanic# enemies\n#powername#$powerReference3.powerName$#/powername# causes enemies to #powermechanic#Bleed#/powermechanic#\n#powername#$powerReference4.powerName$#/powername# causes enemies to be #powermechanic#Poisoned#/powermechanic#\n#powername#$powerReference5.powerName$#/powername# and #powername#$powerReference6.powerName$#/powername# deal bonus damage against #powermechanic#Bleeding#/powermechanic#, #powermechanic#Burning#/powermechanic#, and #powermechanic#Poisoned#/powermechanic# enemies",
-    "russian": "Перезарядка снижена на $CooldownModifierPctForKeyword.pct.abs$% для всех Способностей",
+    "russian": "#red#Открывает следующие бонусы:#/red#\n#powername#$powerReference1.powerName$#/powername# наносит дополнительный урон близким врагам\n#powername#$powerReference2.powerName$#/powername# наносит дополнительный урон уязвимым (#powermechanic#Vulnerable#/powermechanic#) врагам\n#powername#$powerReference3.powerName$#/powername# заставляет врагов кровоточить (#powermechanic#Bleed#/powermechanic#)\n#powername#$powerReference4.powerName$#/powername# отравляет врагов (#powermechanic#Poisoned#/powermechanic#)\n#powername#$powerReference5.powerName$#/powername# и #powername#$powerReference6.powerName$#/powername# наносят дополнительный урон кровоточащим (#powermechanic#Bleeding#/powermechanic#), горящим (#powermechanic#Burning#/powermechanic#) и отравленным (#powermechanic#Poisoned#/powermechanic#) врагам",
     "similarity": 0.32447317242622375,
     "path": "Localization/Translations/Powers/TooltipStrings/Punisher/FlamethrowerBonuses.prototype",
     "verdict": "MAYBE"
@@ -3922,7 +3922,7 @@
   {
     "id": "5484257618045568376",
     "english": "Use this item to receive one random Common Danger Room Scenario Chip.\n",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы получить случайный чип сценария обычной сложности в Комнате опасностей.\n",
     "similarity": 0.3251482844352722,
     "path": "Entity/Items/Consumables/Prototypes/DangerRoom/DangerRoomScenarioCrateWhite.prototype",
     "verdict": "BAD"
@@ -3930,7 +3930,7 @@
   {
     "id": "5987998041261802769",
     "english": "From the shadows of Lowtown's back alleyways, street-level Hand ninja work to reclaim their territory. Smoke-out these assassins before their conflict with HYDRA escalates any further.",
-    "russian": "Сражайтесь с преступниками, исследуя складской двор в доках Джерси.",
+    "russian": "Из теней задних улиц Лоутауна ниндзя из уличного подразделения Руки пытаются вернуть свою территорию. Выкурите этих убийц прежде, чем их конфликт с ГИДРОЙ выйдет из-под контроля.",
     "similarity": 0.32583877444267273,
     "path": "Missions/Prototypes/Act1/Ch03Madripoor/CH03MinorLowtown1.prototype",
     "verdict": "BAD"
@@ -3970,7 +3970,7 @@
   {
     "id": "9572722809143297398",
     "english": "Use this item to receive one random Uncommon Danger Room Scenario Chip.\n",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы получить случайный чип сценария необычной сложности в Опасной Комнате.\n",
     "similarity": 0.3264649212360382,
     "path": "Entity/Items/Consumables/Prototypes/DangerRoom/DangerRoomScenarioCrateGreen.prototype",
     "verdict": "BAD"
@@ -3978,7 +3978,7 @@
   {
     "id": "1140747673828197645",
     "english": "Slot 4 Armor",
-    "russian": "шлем",
+    "russian": "Доспехи слота 4",
     "similarity": 0.326496958732605,
     "path": "Entity/Items/Armor/ArmorSlot4.defaults",
     "verdict": "MAYBE"
@@ -4002,7 +4002,7 @@
   {
     "id": "1000096415592547648",
     "english": "Bleeding",
-    "russian": "Глубокие раны",
+    "russian": "Кровотечение",
     "similarity": 0.3270983099937439,
     "path": "Powers/Blueprints/Keywords/AceOfSpadesStack.defaults",
     "verdict": "MAYBE"
@@ -4018,7 +4018,7 @@
   {
     "id": "9824774596926768441",
     "english": "Bone-Head Hunted",
-    "russian": "Твердолобый побежден",
+    "russian": "Охота на Костеголового",
     "similarity": 0.3273303508758545,
     "path": "Missions/Prototypes/Act2/Ch07SavageLand/CH07MinorDinosaurJungle3.prototype",
     "verdict": "MAYBE"
@@ -4026,7 +4026,7 @@
   {
     "id": "5012379912098743662",
     "english": "Slot 5 Gear Upgrade II",
-    "russian": "Улучшить уник. или косм. предмет в ячейке 5 до 69 ур.",
+    "russian": "Улучшение снаряжения слота 5 II",
     "similarity": 0.3275531530380249,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeItemSlot5Level66.prototype",
     "verdict": "MAYBE"
@@ -4034,7 +4034,7 @@
   {
     "id": "6784842816935036221",
     "english": "The Serpent Warriors are using mystic idols to collect magical power.\n\nYou must destroy the Prime Serpent Idol that lies within the Poison Glade.",
-    "russian": "Ты утверждаешь, что в Мадрипуре действуют инсектоиды?\n\nМы не позволим этим инопланетным монстрам закрепиться на нашей планете! Надо узнать, откуда они взялись.",
+    "russian": "Воины Змей используют мистические идолы для накопления магической силы.\n\nВам нужно уничтожить Главный идол Змеи, что лежит в Отравленном Лесу.",
     "similarity": 0.32761526107788086,
     "path": "Missions/Prototypes/Act1/Ch03Madripoor/CH03Side2SnakesintheGrass.prototype",
     "verdict": "BAD"
@@ -4082,7 +4082,7 @@
   {
     "id": "10529627194613630269",
     "english": "Bone-Head",
-    "russian": "Твердолобый",
+    "russian": "Костеголовый",
     "similarity": 0.32830682396888733,
     "path": "Missions/Prototypes/Story/CH07SavageLand/Discoveries/NamedEliteKingLizard.prototype",
     "verdict": "MAYBE"
@@ -4098,7 +4098,7 @@
   {
     "id": "9242624343868795",
     "english": "Enter Midtown Manhattan with up to nine other players to patrol for super villains.",
-    "russian": "Отправляйтесь в Мадрипур и остановите Кроссбоунса любой ценой.",
+    "russian": "Войдите в Мидтаун Манхэттена с девятью другими игроками, чтобы патрулировать в поисках суперзлодеев.",
     "similarity": 0.3284947872161865,
     "path": "Waypoints/Endgame/Challenges/PatrolMidtown/MidtownPatrolWP.prototype",
     "verdict": "BAD"
@@ -4106,7 +4106,7 @@
   {
     "id": "10028440631847028030",
     "english": "Epic Transformation II",
-    "russian": "Преобразовать эпический предмет (13-24)",
+    "russian": "Эпическое Превращение II",
     "similarity": 0.3287353217601776,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/ChangeAvatar2.prototype",
     "verdict": "MAYBE"
@@ -4114,7 +4114,7 @@
   {
     "id": "480457195908171116",
     "english": "Unique Transformation III",
-    "russian": "Улучшить уникальный предмет до уровня 60",
+    "russian": "Уникальное Превращение III",
     "similarity": 0.3290330171585083,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeUnique3.prototype",
     "verdict": "MAYBE"
@@ -4122,7 +4122,7 @@
   {
     "id": "1757492324676339050",
     "english": "Slot 4 Gear Upgrade II",
-    "russian": "Улучшить уник. или косм. предмет в ячейке 4 до 69 ур.",
+    "russian": "Улучшение снаряжения слота 4 II",
     "similarity": 0.3291030824184418,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeItemSlot4Level66.prototype",
     "verdict": "MAYBE"
@@ -4130,7 +4130,7 @@
   {
     "id": "5981533737698067863",
     "english": "To #emphasis#buy or sell an item#/emphasis#, Use this item on that item.\n\nTo #emphasis#donate an item#/emphasis#, ALT + Use this item on the item.\n\nDonating items improves the selection of items offered by the vendor.",
-    "russian": "Нажмите $DedicatedHealSlotPressed$, чтобы использовать аптечку ЩИТа и восстановить здоровье.",
+    "russian": "Чтобы #emphasis#купить или продать предмет#/emphasis#, используйте этот предмет на том предмете.\n\nЧтобы #emphasis#пожертвовать предмет#/emphasis#, нажмите ALT + используйте этот предмет на том предмете.\n\nПожертвование предметов улучшает ассортимент товаров у торговца.",
     "similarity": 0.32914817333221436,
     "path": "Tutorial/HUDTutorials/Vendor.prototype",
     "verdict": "BAD"
@@ -4146,7 +4146,7 @@
   {
     "id": "5517767712965199105",
     "english": "Kronan Grunt",
-    "russian": "Солдат Черного Ордена",
+    "russian": "Рядовой Кронана",
     "similarity": 0.32976046204566956,
     "path": "Entity/Characters/Mobs/Kronan/KronanMeleeBase.prototype",
     "verdict": "MAYBE"
@@ -4154,7 +4154,7 @@
   {
     "id": "8525329900830590320",
     "english": "This box contains some Gang Member Dog Tags and random currency. Cannot be opened in hubs.\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "Состоит из нескольких фестивальных фейерверков! #emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "Эта коробка содержит жетоны членов банды и случайную валюту. Нельзя открыть в хабах.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.32989707589149475,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/LukeCageDailyGift.prototype",
     "verdict": "BAD"
@@ -4162,7 +4162,7 @@
   {
     "id": "3676824256132285755",
     "english": "#mission#The Forgotten Pyre#/mission#",
-    "russian": "Забытый погребальный костер",
+    "russian": "#mission#Забытый Костер#/mission#",
     "similarity": 0.32995128631591797,
     "path": "Missions/Prototypes/Story/CH09Asgard/Events/MetaGame/MGForgottenPyre/MGForgottenPyre.prototype",
     "verdict": "MAYBE"
@@ -4170,7 +4170,7 @@
   {
     "id": "4996738757902796149",
     "english": "The power of the #stolen#Iron Fist#/stolen# fills you, allowing you to unleash a blast of Chi and weaken enemies around you. \n#stolen#You may Use this item this power in the Power Tree to forget it, allowing you to steal a new power for this slot.#/stolen#",
-    "russian": "[PH] Взрыв ци по площади. Ослабляет врагов.",
+    "russian": "Сила #stolen#Железного Кулака#/stolen# наполняет тебя, позволяя выпустить взрыв Ци и ослабить врагов вокруг.\n#stolen#Ты можешь использовать этот предмет на этом умении в Древе Силы, чтобы забыть его и украсть новую способность для этого слота.#/stolen#",
     "similarity": 0.33015063405036926,
     "path": "Powers/Player/Rogue/StolenPowers/zzzDeprecated/IronFistChiBurst.prototype",
     "verdict": "MAYBE"
@@ -4330,7 +4330,7 @@
   {
     "id": "11225636248483267906",
     "english": "Thunderbolts Headband",
-    "russian": "Головной убор Громовиков",
+    "russian": "Повязка Громовержцев",
     "similarity": 0.3336184322834015,
     "path": "Entity/Items/Armor/Prototypes/Elektra/o5Headband/Headband15.prototype",
     "verdict": "MAYBE"
@@ -4370,7 +4370,7 @@
   {
     "id": "12589874305932264813",
     "english": "Slot 3 Gear Upgrade I",
-    "russian": "Улучшить уник. или косм. предмет в ячейке 3 до 66 ур.",
+    "russian": "Улучшение снаряжения слота 3 I",
     "similarity": 0.3344019651412964,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeItemSlot3Level63.prototype",
     "verdict": "MAYBE"
@@ -4378,7 +4378,7 @@
   {
     "id": "1102374245633885504",
     "english": "#clobberintime#Momentum#/clobberintime# is gained while moving and lost while not moving.  Specific powers spend #clobberintime#Momentum#/clobberintime# to deal bonus damage.",
-    "russian": "Броня поглощает 25% наносимого урона и с течением времени восстанавливается.",
+    "russian": "#clobberintime#Импульс#/clobberintime# накапливается во время движения и теряется при остановке. Некоторые умения тратят #clobberintime#Импульс#/clobberintime# для нанесения дополнительного урона.",
     "similarity": 0.3346157670021057,
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/RogueJuggernautMomentum.prototype",
     "verdict": "BAD"
@@ -4466,7 +4466,7 @@
   {
     "id": "12263033689917752692",
     "english": "Use this item to receive one random Rare Danger Room Scenario Chip.\n",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы получить один случайный чип сценария Опасной Комнаты редкого уровня.\n",
     "similarity": 0.3368993103504181,
     "path": "Entity/Items/Consumables/Prototypes/DangerRoom/DangerRoomScenarioCrateBlue.prototype",
     "verdict": "BAD"
@@ -4474,7 +4474,7 @@
   {
     "id": "11174442037839136005",
     "english": "Gem of the Kursed",
-    "russian": "Самоцвет Проклятых",
+    "russian": "Самоцвет Проклятого",
     "similarity": 0.3372589349746704,
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/Art209.prototype",
     "verdict": "MAYBE"
@@ -4482,7 +4482,7 @@
   {
     "id": "2935628353859159360",
     "english": "Hammerheads' Turn At Bat",
-    "russian": "Ход Хаммерхедов",
+    "russian": "Выход Кувалды",
     "similarity": 0.337319552898407,
     "path": "Missions/Prototypes/ZZZDeprecated/CH01HellsKitchen/SCIBoilerRoomMaggiaOverThugs.prototype",
     "verdict": "MAYBE"
@@ -4498,7 +4498,7 @@
   {
     "id": "17270716745184773394",
     "english": "Any Hero",
-    "russian": "Человек-Факел, Невидимая Леди, Мистер Фантастик или Существо",
+    "russian": "Любой герой",
     "similarity": 0.33767569065093994,
     "path": "Entity/Items/Armor/UniquesBlueprints/Slot3Unique.defaults",
     "verdict": "MAYBE"
@@ -4506,7 +4506,7 @@
   {
     "id": "2710944101846549765",
     "english": "Now you can confront Mister Sinister, $AvatarName$! \nMake your way into his lab and put an end to his monstrous genetic experiments.",
-    "russian": "Данные, которые тебе удалось добыть в форте Страйкера, указывают на то, что Очистители - лишь верхушка айсберга, часть обширного плана, который проводит Мистер Зловещий в #mission#Дикой Земле#/mission#. Нужно узнать, что затеял Мистер Зловещий, и остановить его.\n\nОтправляйся на \"Черной птице\" в Дикую Землю, для этого поговори с #mission#Хэвоком#/mission# в особняке Людей Икс. \n\nПо прибытии найди #mission#деревню Осеннего племени#/mission# и познакомься со #mission#старейшиной Брэй-Виком#/mission#, он может предложить помощь. Он один из защитников Дикой Земли и многое знает.",
+    "russian": "Теперь вы можете встретиться с Мистером Зловещим, $AvatarName$! \nПройдите в его лабораторию и положите конец его чудовищным генетическим экспериментам.",
     "similarity": 0.33771637082099915,
     "path": "Missions/Prototypes/Story/CH07SavageLand/CH07M4ASinisterPlan.prototype",
     "verdict": "MAYBE"
@@ -4514,7 +4514,7 @@
   {
     "id": "8965976872227570970",
     "english": "Damage: +20% per Combo Point spent",
-    "russian": "#emphasis#Для активации требуется максимум очков комбо#/emphasis#",
+    "russian": "Урон: +20% за каждую Комбо атаку",
     "similarity": 0.3380172550678253,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMagnitudePerComboPoint20Pct.prototype",
     "verdict": "BAD"
@@ -4538,7 +4538,7 @@
   {
     "id": "7101961473895630193",
     "english": "Unique Transformation I",
-    "russian": "Улучшить уникальный предмет до уровня 40",
+    "russian": "Уникальное Превращение I",
     "similarity": 0.3383388817310333,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeUnique1.prototype",
     "verdict": "MAYBE"
@@ -4554,7 +4554,7 @@
   {
     "id": "9461643053444433208",
     "english": "Gettin' Hitched",
-    "russian": "Женитьба",
+    "russian": "Мёртвые узы",
     "similarity": 0.338740736246109,
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/Carnage/Unique514.prototype",
     "verdict": "MAYBE"
@@ -4562,7 +4562,7 @@
   {
     "id": "5571310162684609910",
     "english": "Dodging",
-    "russian": "уходящие от удара",
+    "russian": "Увороты",
     "similarity": 0.33877652883529663,
     "path": "Entity/Items/Affixes/ArmorAffixes/Block/Dodge01to05.prototype",
     "verdict": "MAYBE"
@@ -4626,7 +4626,7 @@
   {
     "id": "9268613853050242453",
     "english": "What, no profanity? \nThis is some kind of Mickey Mouse operation you got going here.\n—Deadpool",
-    "russian": "Что, и матернуться нельзя? \nЧто за детский сад?\n—Дэдпул",
+    "russian": "Что, и матернуться нельзя? \nМы что на Disney+?\n—Дэдпул",
     "similarity": 0.34092968702316284,
     "path": "Entity/Items/Armor/Prototypes/Deadpool/o4Boots/Boots12.prototype",
     "verdict": "MAYBE"
@@ -4634,7 +4634,7 @@
   {
     "id": "11790614191021491557",
     "english": "Denizens of Otherplace",
-    "russian": "Странные гости",
+    "russian": "Обитатели Лимбо",
     "similarity": 0.34123069047927856,
     "path": "Powers/Player/Magik/LimboSpitterSummonCombo.prototype",
     "verdict": "MAYBE"
@@ -4674,7 +4674,7 @@
   {
     "id": "8328918404915594554",
     "english": "#bionic#Bionic Throw:#/bionic# Knife travels 25% faster and #powermechanic#Stuns#/powermechanic# the target for $duration$",
-    "russian": "Перезарядка снижена на $CooldownModifierPctForKeyword.pct.abs$% для всех Способностей",
+    "russian": "#bionic#Бионический бросок:#/bionic# Нож летит на 25% быстрее и #powermechanic#оглушает#/powermechanic# цель на $duration$",
     "similarity": 0.34217366576194763,
     "path": "Localization/Translations/Powers/TooltipStrings/WinterSoldier/SoldierKnifeThrow.prototype",
     "verdict": "BAD"
@@ -4682,7 +4682,7 @@
   {
     "id": "16659285755093058927",
     "english": "Markku Little Toe Bane",
-    "russian": "Маркку Гроза Мизинцев",
+    "russian": "Маркку гроза мизинцев",
     "similarity": 0.3422467112541199,
     "path": "Entity/Characters/Mobs/Missions/Asgard/NorwayDarkElfSkirmisherEliteV4.prototype",
     "verdict": "MAYBE"
@@ -4698,7 +4698,7 @@
   {
     "id": "5483758255007073587",
     "english": "Resource Costs Increased 100%",
-    "russian": "Урон увеличен для союзников и врагов",
+    "russian": "Стоимость ресурсов увеличена на 100%",
     "similarity": 0.34295180439949036,
     "path": "Powers/DangerRoomModifierPowers/Modifiers/DRPlayerAffixIncreasedCostsEffect.prototype",
     "verdict": "BAD"
@@ -4786,7 +4786,7 @@
   {
     "id": "14453583490263287044",
     "english": "Extra-Dimensional Warlord",
-    "russian": "Варлорда Измерений",
+    "russian": "Властелин измерений",
     "similarity": 0.3453684151172638,
     "path": "Entity/Characters/Bosses/DarkDimension/DDBossRockTrollWarlord.prototype",
     "verdict": "MAYBE"
@@ -4810,7 +4810,7 @@
   {
     "id": "1064964436231980342",
     "english": "The Hand and the Serpent Warriors, working together to gather magical power?\n\nThis alliance does not bode well for S.H.I.E.L.D.",
-    "russian": "Вы исследовали Бамбуковую рощу и пресекли активность, связанную с союзом клана Руки и змеелюдей.",
+    "russian": "Рука и Змеелюди объединились для сбора магической силы?\n\nЭтот союз сулит беду для ЩИТа.",
     "similarity": 0.34564289450645447,
     "path": "Missions/Prototypes/Act1/Ch03Madripoor/CH03Side2SnakesintheGrass.prototype",
     "verdict": "MAYBE"
@@ -4826,7 +4826,7 @@
   {
     "id": "9089636046023230843",
     "english": "Oh please. I'm no super villain. Didn't you get the memo?",
-    "russian": "Трепещи, ибо я - Герольд пепла!",
+    "russian": "О, да брось. Я не суперзлодей. Ты не получил уведомление?",
     "similarity": 0.34633803367614746,
     "path": "Metagame/PatrolMidtown/Populations/OverheadText/SideBosses/MidtownOverheadTextAmbientBlackCatV05.prototype",
     "verdict": "BAD"
@@ -4834,7 +4834,7 @@
   {
     "id": "14634164119038002544",
     "english": "Fire Giant's Horns",
-    "russian": "Создать клинок Гринмеера",
+    "russian": "Рога огненного великана",
     "similarity": 0.3464230000972748,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique304Recipe.prototype",
     "verdict": "MAYBE"
@@ -4858,7 +4858,7 @@
   {
     "id": "14265181275250230578",
     "english": "Complete Brownstones Event",
-    "russian": "Выполнить задание в полуразрушенных особняках",
+    "russian": "Завершить событие в Браунстоунах",
     "similarity": 0.34668052196502686,
     "path": "Missions/Prototypes/LegendaryQuests/Redacted/LegendaryCH01Brownstones1.prototype",
     "verdict": "MAYBE"
@@ -4866,7 +4866,7 @@
   {
     "id": "2315208340759446895",
     "english": "Fire Giant's Greaves",
-    "russian": "Создать клинок Гринмеера",
+    "russian": "Поножи огненного великана",
     "similarity": 0.3468573987483978,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique298Recipe.prototype",
     "verdict": "BAD"
@@ -4914,7 +4914,7 @@
   {
     "id": "9064924389028988267",
     "english": "Fire Giant's Aegis",
-    "russian": "Создать клинок Гринмеера",
+    "russian": "Броня огненного великана",
     "similarity": 0.34798943996429443,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique294Recipe.prototype",
     "verdict": "MAYBE"
@@ -4954,7 +4954,7 @@
   {
     "id": "18246546874115687756",
     "english": "Activate #stolenpower#Beta Ray Bill#/stolenpower#'s mastery of lightning to conjure a maelstrom in the sky, shocking enemies with destructive bolts.",
-    "russian": "Вы разрываете ткань мироздания и напускаете призрачных существ на тех, кто находится в зоне поражения.",
+    "russian": "Активируй #stolenpower#владение Бета-Рей Биллом#/stolenpower# молнией, чтобы вызвать вихрь в небе, поражая врагов разрушительными разрядами.",
     "similarity": 0.34852418303489685,
     "path": "Powers/Player/Rogue/StolenPowers/BetaRayBillLightningBarrage.prototype",
     "verdict": "BAD"
@@ -4970,7 +4970,7 @@
   {
     "id": "10277772425509078343",
     "english": "Dude, I think we lost our group.",
-    "russian": "Слушай, а где все наши?",
+    "russian": "Чувак, кажется, мы потеряли нашу группу.",
     "similarity": 0.3494494557380676,
     "path": "Populations/Clusters/Generic/OverheadText/OverheadTextPMCTalkV05.prototype",
     "verdict": "MAYBE"
@@ -4994,7 +4994,7 @@
   {
     "id": "14006083902799545667",
     "english": "Where're all your friends at!?",
-    "russian": "Ну, давай!",
+    "russian": "Где все твои друзья?!",
     "similarity": 0.3502084016799927,
     "path": "Metagame/Story/CH01HellsKitchen/Populations/OverheadText/OverheadTextGangCombat02.prototype",
     "verdict": "BAD"
@@ -5002,7 +5002,7 @@
   {
     "id": "17091603822952252796",
     "english": "I crafted the first Humanoid Experimental Robot B-Type Integrated Electronics to help search for Galactus, but he's more useful as a household robot.\n—Mister Fantastic",
-    "russian": "Робот Э.Р.Б.И. - услужливый помощник и настоящий милашка. Теперь фиолетовый!",
+    "russian": "Я создал первый экспериментальный гуманоидный робот B-типа с интегрированной электроникой, чтобы помочь в поисках Галактуса, но он больше полезен как домашний робот.\n— Мистер Фантастик",
     "similarity": 0.3506021797657013,
     "path": "Entity/Items/Pets/Pet004Herbie.prototype",
     "verdict": "BAD"
@@ -5090,7 +5090,7 @@
   {
     "id": "13894350702190200072",
     "english": "Damage has been increased by $damageMultOnPower.pct$% (1% per $evalRegisterFloat0.noFraction$ Area Damage Rating)",
-    "russian": "#cyan#($powerName$ снимает восстановление у $primaryManaBehaviorName.locflagG$)#/cyan#",
+    "russian": "Урон увеличен на $damageMultOnPower.pct$% (1% за каждый $evalRegisterFloat0.noFraction$ рейтинг урона по области)",
     "similarity": 0.3530935049057007,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultOnPowerFromAreaDamageRatingER0.prototype",
     "verdict": "BAD"
@@ -5450,7 +5450,7 @@
   {
     "id": "14977494111001642398",
     "english": "To #emphasis#craft or improve an item#/emphasis#, left-click on the recipe.\n\n#emphasis#Donate items#/emphasis# to a crafter with ALT + Use this item.\n\nDonating items improves the selection of recipes offered by the crafter.",
-    "russian": "Нажмите $DedicatedHealSlotPressed$, чтобы использовать аптечку ЩИТа и восстановить здоровье.",
+    "russian": "Чтобы #emphasis#создать или улучшить предмет#/emphasis#, кликни по рецепту левой кнопкой.\n\n#emphasis#Передавай предметы в дар#/emphasis# кузнецу, удерживая ALT + использование этого предмета.\n\nПередача предметов расширяет ассортимент рецептов кузнеца.",
     "similarity": 0.3548187017440796,
     "path": "Tutorial/HUDTutorials/Crafter.prototype",
     "verdict": "BAD"
@@ -5546,7 +5546,7 @@
   {
     "id": "14345764048609740047",
     "english": "Slot 5 Armor",
-    "russian": "шлем",
+    "russian": "Слот 5 — Броня",
     "similarity": 0.35753583908081055,
     "path": "Entity/Items/Armor/ArmorSlot5.defaults",
     "verdict": "BAD"
@@ -5578,7 +5578,7 @@
   {
     "id": "2783839382133409130",
     "english": "Use this item to claim one Eternity Splinter.",
-    "russian": "Щелкните ПКМ, чтобы получить 200 осколков вечности.",
+    "russian": "Используйте этот предмет, чтобы получить один Осколок вечности.",
     "similarity": 0.35842907428741455,
     "path": "Entity/Items/Consumables/Prototypes/CSGrant/OneEternitySplinterCoupon.prototype",
     "verdict": "BAD"
@@ -5634,7 +5634,7 @@
   {
     "id": "8597922703505818889",
     "english": "Gain 1 charge of #powername#$PowerName$#/powername# when you detonate a #powermechanic#Pulsar#/powermechanic# with a Power",
-    "russian": "Перезарядка обнуляется после каждого взрыва",
+    "russian": "Получите 1 заряд #powername#$PowerName$#/powername#, когда вы взрываете #powermechanic#Пульсар#/powermechanic# с помощью способности",
     "similarity": 0.3600423336029053,
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/PulsarExplosion.prototype",
     "verdict": "BAD"
@@ -5666,7 +5666,7 @@
   {
     "id": "7533519439778612485",
     "english": "[PH] Use the glider to deal an uppercut to targets in front of you.",
-    "russian": "Проредите противника с помощью тактического помпаря 12 калибра.",
+    "russian": "Используйте планер для удара аперкотом по целям перед собой.",
     "similarity": 0.36118149757385254,
     "path": "Powers/Player/GreenGoblin/GliderUppercut.prototype",
     "verdict": "BAD"
@@ -5714,7 +5714,7 @@
   {
     "id": "8237646875255899459",
     "english": "Genetic mutations, be it by X-Genes, Terrigen Mists or by the hands of man, have been sources of immense power for heroes of all shapes and sizes.",
-    "russian": "Это генетическое качество отличает мутантов от людей.\n—Профессор Чарльз Ксавье",
+    "russian": "Генетические мутации — будь то из-за Икс-Генов, Теригеновых Туманов или рук человека — были источниками огромной силы для героев всех мастей.",
     "similarity": 0.36216071248054504,
     "path": "Entity/Items/Crafting/Ingredients/CoreProtos/GeneticMutationCatalyst.prototype",
     "verdict": "BAD"
@@ -5738,7 +5738,7 @@
   {
     "id": "6058680120528209201",
     "english": "Restore $secondaryresourcechangepct.pct$% of #orange#Lockheed's Spirit#/orange# per hit",
-    "russian": "Пройти сквозь врага, появившись у него за спиной, и нанести на $onpowerstartpower.condition0.damagemultforpower.pct$% больше урона, а затем выполнить Критический удар. Время перезарядки - $cooldown$",
+    "russian": "Восстанавливает $secondaryresourcechangepct.pct$% духа #orange#Локхида#/orange# за удар",
     "similarity": 0.36291438341140747,
     "path": "Localization/Translations/Powers/TooltipStrings/KittyPryde/LockheedEnergyGainOnHit.prototype",
     "verdict": "BAD"
@@ -5746,7 +5746,7 @@
   {
     "id": "8296456290474853693",
     "english": "Cosmically Enhanced Hyper Viper Generator",
-    "russian": "Генератор межпространственных порталов АРМОР",
+    "russian": "Космически усиленный Генератор межпространственных порталов",
     "similarity": 0.36296510696411133,
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/CosmicArtifacts/Art300Cosmic.prototype",
     "verdict": "BAD"
@@ -5754,7 +5754,7 @@
   {
     "id": "12801257821501588807",
     "english": "$propertyValueSign$$propertyValue.pct$% Base Damage vs. enemies with $param0.keyword$ status",
-    "russian": "Применяется эффект 1 набора #emphasis#$powerName.locflagG$#/emphasis# #cyan#(дополнительно от $powerReference1.powerName.locflagG$)#/cyan#",
+    "russian": "$propertyValueSign$$propertyValue.pct$% базового урона против врагов с эффектом $param0.keyword$",
     "similarity": 0.36308372020721436,
     "path": "Localization/Translations/Properties/PropertyStrings/DamagePctBonusVsConditionKeyword.prototype",
     "verdict": "BAD"
@@ -5850,7 +5850,7 @@
   {
     "id": "10989792945581262083",
     "english": "Achievers never quit and quitters never achieve.",
-    "russian": "Отличный вкус и отличные достижения!",
+    "russian": "Победители не сдаются, а сдающиеся не побеждают.",
     "similarity": 0.3649081885814667,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ConsumablesMisc/AchieversBrew.prototype",
     "verdict": "BAD"
@@ -5858,7 +5858,7 @@
   {
     "id": "13695129782393046333",
     "english": "Many of Iceman's powers interact by lowering the temperature of enemies, either applying the Chill or Deep Freeze status effects, and reacting to them for bonus effects.",
-    "russian": "Мощность костюма Воителя влияет на величину урона, который он наносит. Обращайте внимание на улучшения, увеличивающие его мощность.",
+    "russian": "Многие способности Человека-Льда понижют температуру врагов, накладывая эффекты Холод или Глубокая Заморозка и вызывая бонусные эффекты.",
     "similarity": 0.3649962842464447,
     "path": "UI/LoadingScreenTips/AvatarTips/IcemanTips.prototype",
     "verdict": "BAD"
@@ -5922,7 +5922,7 @@
   {
     "id": "15651545415086507378",
     "english": "Use this item to receive one random Epic Danger Room Scenario Chip.\n",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы получить один случайный Эпический чип сценария Комнаты Опасности.\n",
     "similarity": 0.36676257848739624,
     "path": "Entity/Items/Consumables/Prototypes/DangerRoom/DangerRoomScenarioCratePurple.prototype",
     "verdict": "BAD"
@@ -5938,7 +5938,7 @@
   {
     "id": "4085048296186643778",
     "english": "#green#Enhancement#/green#: Heroes Are Diminutive",
-    "russian": "#red#Испытание#/red#: Шанс критического удара снижен на 50%",
+    "russian": "#green#Улучшение#/green#: Герои миниатюрны",
     "similarity": 0.36718201637268066,
     "path": "Regions/Affixes/PlayerAffixes/DRPlayerAffixDiminutive.prototype",
     "verdict": "BAD"
@@ -6042,7 +6042,7 @@
   {
     "id": "3546828730217399710",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет для действия «Патруль»!",
     "similarity": 0.36959245800971985,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionSummonAllyFallTribe.prototype",
     "verdict": "BAD"
@@ -6050,7 +6050,7 @@
   {
     "id": "4765552200406795680",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет для действия «Патруль»!",
     "similarity": 0.36959245800971985,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionBuildMysticGate.prototype",
     "verdict": "BAD"
@@ -6058,7 +6058,7 @@
   {
     "id": "7842047865922127266",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет для действия «Патруль»!",
     "similarity": 0.36959245800971985,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionBuildBarricade.prototype",
     "verdict": "BAD"
@@ -6074,7 +6074,7 @@
   {
     "id": "2473885203192415636",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет для действия «Патруль»!",
     "similarity": 0.3695925176143646,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionBuildTower.prototype",
     "verdict": "BAD"
@@ -6090,7 +6090,7 @@
   {
     "id": "11823734002470618532",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет для действия «Патруль»!",
     "similarity": 0.3695925176143646,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionBuildPitTrap.prototype",
     "verdict": "BAD"
@@ -6210,7 +6210,7 @@
   {
     "id": "1805741802599679343",
     "english": "I don't have time for this nonsense.",
-    "russian": "Только этого не хватало!",
+    "russian": "У меня нет времени на эту чепуху.",
     "similarity": 0.37264055013656616,
     "path": "Missions/Prototypes/PVEEndgame/PatrolMidtown/Discoveries/Redacted/ManhattanLoiterV02.prototype",
     "verdict": "BAD"
@@ -6234,7 +6234,7 @@
   {
     "id": "17742528879856256269",
     "english": "Toggle Inventory",
-    "russian": "Перейти в снаряжение и обратно",
+    "russian": "Переключить инвентарь",
     "similarity": 0.37338870763778687,
     "path": "UI/LocalizedInfo/CraftingPanel/ViewStashButtonLabel.prototype",
     "verdict": "BAD"
@@ -6250,7 +6250,7 @@
   {
     "id": "16066671540593034605",
     "english": "Use this item to read the Adamantium Plating Guide.\nWhen read, gain a #emphasis#+1 Fighting and +75 Deflect Rating #/emphasis# for 5 minutes.\nUsing another Civil War Boost will end the effect of this boost.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы прочесть руководство по адамантиовой броне.\nПосле прочтения получите #emphasis#+1 к Бою и +75 к Рейтингу Отражения#/emphasis# на 5 минут.\nИспользование другого усиления Гражданской Войны завершит эффект этого.",
     "similarity": 0.3739624619483948,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/TeamCapPotion2.prototype",
     "verdict": "BAD"
@@ -6258,7 +6258,7 @@
   {
     "id": "6694999570113693040",
     "english": "Use this item to read the Adamantium Plating Guide.\nWhen read, gain a #emphasis#+1 Fighting and +75 Deflect Rating #/emphasis# for 5 minutes.\nUsing another Civil War Boost will end the effect of this boost.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы прочесть руководство по адамантиовой броне.\nПосле прочтения получите #emphasis#+1 к Бою и +75 к Рейтингу Отражения#/emphasis# на 5 минут.\nИспользование другого усиления Гражданской Войны завершит эффект этого.",
     "similarity": 0.37396255135536194,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/TeamCapPotion4.prototype",
     "verdict": "BAD"
@@ -6282,7 +6282,7 @@
   {
     "id": "14473150158741767491",
     "english": "Skrull Infiltrator",
-    "russian": "ЗАГЛУШКА Клинок скруллов",
+    "russian": "Скрул-шпион",
     "similarity": 0.374331533908844,
     "path": "Entity/Characters/Mobs/Skrulls/SkrullMeleeBlade/SkrullMeleeBladeBase.prototype",
     "verdict": "BAD"
@@ -6314,7 +6314,7 @@
   {
     "id": "12773102846280729912",
     "english": "The S.H.I.E.L.D. Heroic Commendation has been added to your inventory! \n\nOpen your Inventory and #emphasis#Use this item on the item#/emphasis# to add 400 Eternity Splinters to your Currency tab.",
-    "russian": "Нажмите $DedicatedHealSlotPressed$, чтобы использовать аптечку ЩИТа и восстановить здоровье.",
+    "russian": "Героическая Почётная Грамота Щ.И.Т.А. добавлена в ваш инвентарь!\n\nОткройте инвентарь и #emphasis#используйте этот предмет на предмете#/emphasis#, чтобы добавить 400 Осколков Вечности во вкладку Валюты.",
     "similarity": 0.37554845213890076,
     "path": "Tutorial/HUDTutorials/EternitySplinters400Box.prototype",
     "verdict": "BAD"
@@ -6378,7 +6378,7 @@
   {
     "id": "16766648658840454453",
     "english": "You believe the stones on this Hood guy?",
-    "russian": "А этот Капюшон парень рисковый.",
+    "russian": "Ты веришь роже с Капюшоном?",
     "similarity": 0.37673062086105347,
     "path": "Missions/Prototypes/Act1/Ch02BrooklynDocks/Discoveries/MaggiaTalkingHood2.prototype",
     "verdict": "BAD"
@@ -6482,7 +6482,7 @@
   {
     "id": "5902210158511392159",
     "english": "Use this item this item to remove all experience boosts.  This is for testing Unified Story Mode content.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы снять все бонусы опыта. Это для тестирования контента Объединённого Сюжетного Режима.",
     "similarity": 0.3788176476955414,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/ShopBoostXPTESTONLYremoveXPcondition.prototype",
     "verdict": "BAD"
@@ -6530,7 +6530,7 @@
   {
     "id": "12345043672364025197",
     "english": "I'm glad you showed up!",
-    "russian": "Ты как нельзя вовремя!",
+    "russian": "Рад, что ты пришёл!",
     "similarity": 0.37929901480674744,
     "path": "Missions/Prototypes/Act2/Ch05MutantTown/TreasureRooms/TRRuinedProjectBurningPurifiers1.prototype",
     "verdict": "BAD"
@@ -6554,7 +6554,7 @@
   {
     "id": "14392421639916356934",
     "english": "#emphasis#$PrimaryActionButtonPressed$#/emphasis# the portal to relocate.",
-    "russian": "Нажмите $DedicatedHealSlotPressed$, чтобы использовать аптечку ЩИТа и восстановить здоровье.",
+    "russian": "#emphasis#$PrimaryActionButtonPressed$#/emphasis# для перемещения портала.",
     "similarity": 0.38086816668510437,
     "path": "Tutorial/HUDTutorials/NPETimesTutorials/TimesPortals.prototype",
     "verdict": "BAD"
@@ -6642,7 +6642,7 @@
   {
     "id": "8464968877013533968",
     "english": "#mission#S.H.I.E.L.D. Agent Stan Lee#/mission# can be found near the waypoint in Avengers Tower. We hear he likes candy!",
-    "russian": "#mission#Кроссбоунс#/mission# находится возле Базара в Мадрипуре, куда можно попасть через точку маршрута #mission#Погоня за Кроссбоунсом#/mission#.",
+    "russian": "#mission#Агент Щ.И.Т.А. Стэн Ли#/mission# находится возле метки в Башне Мстителей. Говорят, он любит конфеты!",
     "similarity": 0.3828582167625427,
     "path": "Missions/Prototypes/PVEEndgame/StaticScenarios/XMasGiftXChange.prototype",
     "verdict": "BAD"
@@ -6674,7 +6674,7 @@
   {
     "id": "460464277651916050",
     "english": "#mission#Reporter Ben Urich#/mission# can be found talking to Jessica Jones near the fish tank in Avengers Tower. We hear he likes trees.",
-    "russian": "#mission#Кроссбоунс#/mission# находится возле Базара в Мадрипуре, куда можно попасть через точку маршрута #mission#Погоня за Кроссбоунсом#/mission#.",
+    "russian": "#mission#Журналист Бен Урих#/mission# разговаривает с Джессикой Джонс около аквариума в Башне Мстителей. Говорят, он любит деревья.",
     "similarity": 0.3832354247570038,
     "path": "Missions/Prototypes/PVEEndgame/StaticScenarios/XMasGiftXChange.prototype",
     "verdict": "BAD"
@@ -6730,7 +6730,7 @@
   {
     "id": "3345290834297619780",
     "english": "#Difficulty1#Normal Difficulty#/Difficulty1#\nItems with up to #QualityEpic#Epic#/QualityEpic# rarity can be found",
-    "russian": "Нормальная сложность",
+    "russian": "#Difficulty1#Нормальная сложность#/Difficulty1#\nМожно найти предметы с редкостью до #QualityEpic#Эпический#/QualityEpic#",
     "similarity": 0.3839496672153473,
     "path": "UI/LocalizedInfo/MiniMapPanel/DifficultyModeIcon/Normal.prototype",
     "verdict": "BAD"
@@ -6746,7 +6746,7 @@
   {
     "id": "2084902685174400273",
     "english": "You take $statDamageReduction.pct.precision1$% less damage from a same level enemy. This value is affected by your Defense Ratings, Deflect Chance, and Dodge Chance.\nPhysical Damage Reduction: $statDamageReductionPhysical.pct.precision1$%\nEnergy Damage Reduction: $statDamageReductionEnergy.pct.precision1$%\nMental Damage Reduction: $statDamageReductionMental.pct.precision1$%",
-    "russian": "Шанс получить половинный урон от метательного оружия.",
+    "russian": "Вы получаете на $statDamageReduction.pct.precision1$% меньше урона от врага вашего уровня. Это значение зависит от вашего рейтинга защиты, шанса отражения и шанса уклонения.\nСнижение физического урона: $statDamageReductionPhysical.pct.precision1$%\nСнижение энергетического урона: $statDamageReductionEnergy.pct.precision1$%\nСнижение ментального урона: $statDamageReductionMental.pct.precision1$%",
     "similarity": 0.3852241635322571,
     "path": "Globals/UIGlobals.defaults",
     "verdict": "BAD"
@@ -6786,7 +6786,7 @@
   {
     "id": "5668830676439139658",
     "english": "Gain $enduranceChangePct.pct$% #anger#Anger#/anger#",
-    "russian": "#emphasis#$powerName$#/emphasis# - время перезарядки уменьшается на 10 с.",
+    "russian": "Получите $enduranceChangePct.pct$% #anger#Ярости#/anger#",
     "similarity": 0.38606733083724976,
     "path": "Localization/Translations/Powers/TooltipStrings/Hulk/GenerateAnger.prototype",
     "verdict": "BAD"
@@ -6858,7 +6858,7 @@
   {
     "id": "9036787809104954685",
     "english": "Use this item to claim your Daily Gift of 5 Eternity Splinters, 5 Random currencies and a Mysterious Concoction!\nCannot be opened in hubs.",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Используйте этот предмет, чтобы получить ваш ежедневный подарок: 5 Осколков Вечности, 5 случайных валют и Загадочный Эликсир!\nНельзя открыть в хабах.",
     "similarity": 0.38830071687698364,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/DailyGiftDrStrangeEvent.prototype",
     "verdict": "BAD"
@@ -6890,7 +6890,7 @@
   {
     "id": "12108679815155287376",
     "english": "1 every $cooldown$",
-    "russian": "При попадании в противника создается #debris#сфера обломков#/debris# (перезарядка: $cooldown$)",
+    "russian": "1 раз за $cooldown$",
     "similarity": 0.3898485600948334,
     "path": "Localization/Translations/Powers/TooltipStrings/Magneto/OneEveryCooldown.prototype",
     "verdict": "BAD"
@@ -7018,7 +7018,7 @@
   {
     "id": "17002808865839187259",
     "english": "Don't think because I'm standing here talking to you that I'm on your side.",
-    "russian": "Да, я разговариваю с тобой, но это не значит, что мы - друзья.",
+    "russian": "Не думай, что я на твоей стороне, просто потому что сейчас разговариваю с тобой.",
     "similarity": 0.3924056589603424,
     "path": "Entity/Characters/NPCs/Ghost.prototype",
     "verdict": "BAD"
@@ -7098,7 +7098,7 @@
   {
     "id": "9407701670047188217",
     "english": "You met with S.H.I.E.L.D. to learn how to protect our universe from the threat of the Cosmic Cube.\n\nTo begin your efforts, access a #mission#Waypoint#/mission# and select any region on the #mission#Terminal#/mission# tabs.",
-    "russian": "Вы поговорили со Зверем и добрались до развалин Геноши.\n\nЛюди Икс и ЩИТ готовы поддержать вас в бою с Натиском!",
+    "russian": "Вы встретились со ЩИТом, чтобы узнать, как защитить нашу вселенную от угрозы Космического Куба.\n\nДля начала доступа к вашим действиям используйте #mission#Метка#/mission# и выберите любой регион на вкладках #mission#Терминала#/mission#.",
     "similarity": 0.3944038152694702,
     "path": "Missions/Prototypes/BonusMissions/AccountMissions/PvEBreadcrumb.prototype",
     "verdict": "BAD"
@@ -7130,7 +7130,7 @@
   {
     "id": "6372586202090505587",
     "english": "Use this item for to spawn an experience orb that will level you to 60.\nFor testing purposes only.",
-    "russian": "Щелкните ПКМ, чтобы добавить выбранному напарнику очки опыта. Первая порция зелья мгновенно повышает уровень напарника с 1 до 25, следующие порции дают прибавку в меньшее число уровней.",
+    "russian": "Используйте этот предмет, чтобы создать сферу опыта, которая повысит вас до 60 уровня.\nТолько для тестирования.",
     "similarity": 0.3953651487827301,
     "path": "Entity/Items/Test/TESTONLYXPGivePotion.prototype",
     "verdict": "BAD"
@@ -7146,7 +7146,7 @@
   {
     "id": "11017878016026346859",
     "english": "This box contains The Perfect Wave item.\n#emphasis#+Spirit#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#You take less damage from enemy Area Powers#/emphasis#\n#emphasis#Cost reduction to Movement Powers#/emphasis#\n#emphasis#When your Health drops below 50%, you Hang Ten and gain Defense and Tenacity for 5s#/emphasis#\n#emphasis#+Speed#/emphasis#\n#emphasis#+Durability#/emphasis#\n#emphasis#+Fighting#/emphasis#\n#emphasis#+Ranks to All Powers#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке содержится предмет Идеальная Волна.\n#emphasis#+Дух#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете меньше урона от областных способностей врагов#/emphasis#\n#emphasis#Снижение затрат на способности передвижения#/emphasis#\n#emphasis#При снижении здоровья ниже 50% вы используете «Повисни на доске» и получаете Защиту и Стойкость на 5 с#/emphasis#\n#emphasis#+Скорость#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#+Бой#/emphasis#\n#emphasis#+Уровни ко всем способностям#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.3955446481704712,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Unique324BoxICC.prototype",
     "verdict": "BAD"
@@ -7226,7 +7226,7 @@
   {
     "id": "10007703718057411956",
     "english": "Use this item to read the Stark Industries's Expense Account.\nWhen read, gain a #emphasis#+1 Fighting and +7 Credit Find#/emphasis# for 5 minutes.\nUsing another Civil War Boost will end the effect of this boost.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы прочесть Отчёт о расходах Старк Индастриз.\nПосле прочтения получите #emphasis#+1 к Бою и +7 к Поиску Кредитов#/emphasis# на 5 минут.\nИспользование другого усиления Гражданской Войны завершит эффект этого.",
     "similarity": 0.39742159843444824,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/TeamIronManPotion1.prototype",
     "verdict": "BAD"
@@ -7354,7 +7354,7 @@
   {
     "id": "9808434161927193920",
     "english": "Now you have seen too much!",
-    "russian": "Нам свидетели не нужны!",
+    "russian": "Теперь ты знаешь слишком много!",
     "similarity": 0.39900678396224976,
     "path": "Missions/Prototypes/Act1/Ch01HellsKitchen/Discoveries/SewerNinjaSurvival.prototype",
     "verdict": "BAD"
@@ -7778,7 +7778,7 @@
   {
     "id": "18193338658812986637",
     "english": "Level 50:\n+1 Intelligence Attribute",
-    "russian": "+1 к скорости",
+    "russian": "Уровень 50:\n+1 к Атрибуту Интеллекта",
     "similarity": 0.4078991413116455,
     "path": "Entity/Characters/Avatars/Shipping/Beast.prototype",
     "verdict": "BAD"
@@ -7802,7 +7802,7 @@
   {
     "id": "10704752244259227035",
     "english": "Use this item to claim your Daily Gift of 5 Eternity Splinters and 5 Cube Shards.\nThis cannot be used in hubs.",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Используйте этот предмет, чтобы получить ваш ежедневный подарок: 5 Осколков Вечности и 5 Осколков Куба.\nНельзя использовать в хабах.",
     "similarity": 0.40861788392066956,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/AvengersDailyGift.prototype",
     "verdict": "BAD"
@@ -7818,7 +7818,7 @@
   {
     "id": "8775479434654057728",
     "english": "Portal's Darkhawk Armor",
-    "russian": "Броня портала",
+    "russian": "Броня Портала Даркхок",
     "similarity": 0.40865087509155273,
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/AnyHero/Slot2/Unique402.prototype",
     "verdict": "BAD"
@@ -7882,7 +7882,7 @@
   {
     "id": "2924469294333232404",
     "english": "#mission#S.H.I.E.L.D. Agent Coulson#/mission# can be found near the bar in Avengers Tower. We hear he has been looking for a full set of special Iron Man cards.",
-    "russian": "#mission#Кроссбоунс#/mission# находится возле Базара в Мадрипуре, куда можно попасть через точку маршрута #mission#Погоня за Кроссбоунсом#/mission#.",
+    "russian": "#mission#Агент Щ.И.Т.А. Коулсон#/mission# находится возле бара в Башне Мстителей. Говорят, он ищет полный набор специальных карт Железного Человека.",
     "similarity": 0.409580260515213,
     "path": "Missions/Prototypes/PVEEndgame/StaticScenarios/XMasGiftXChange.prototype",
     "verdict": "BAD"
@@ -8066,7 +8066,7 @@
   {
     "id": "10208852120386929978",
     "english": "S.H.I.E.L.D. Agent",
-    "russian": "Агент ЩИТа Джеймс Ву",
+    "russian": "Агент ЩИТа",
     "similarity": 0.41360822319984436,
     "path": "Entity/Characters/NPCs/SHIELD/SHIELDAgentMale.prototype",
     "verdict": "BAD"
@@ -8082,7 +8082,7 @@
   {
     "id": "11089852059941078274",
     "english": "Next simulation starts:",
-    "russian": "Атака $CurrentCount$ окончена! Следующая атака:",
+    "russian": "Следующая симуляция начинается:",
     "similarity": 0.4138316810131073,
     "path": "UI/MetaGame/DangerRoom/NextSimulation.prototype",
     "verdict": "BAD"
@@ -8194,7 +8194,7 @@
   {
     "id": "15182670849007879491",
     "english": "While #powername#$powername$#/powername# is active, gain an additional stack when you use #powername#$powerreference0.powername$#/powername# or #powername#$powerreference1.powername$#/powername# at maximum combo points)",
-    "russian": "Длительность усилителя: $duration$ (независимо от длительности способности)",
+    "russian": "Пока #powername#$powername$#/powername# активен, получайте дополнительный стэк при использовании #powername#$powerreference0.powername$#/powername# или #powername#$powerreference1.powername$#/powername# при максимальном количестве очков комбо.",
     "similarity": 0.41683700680732727,
     "path": "Localization/Translations/Powers/TooltipStrings/SheHulkBuffDurationLawyerUp.prototype",
     "verdict": "BAD"
@@ -8274,7 +8274,7 @@
   {
     "id": "13705986222824031595",
     "english": "This box contains a random Industry City Signet. \n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке содержится случайное Кольцо Промышленного района.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.4182042181491852,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/RandomICPRingBoxAnniversary.prototype",
     "verdict": "BAD"
@@ -8386,7 +8386,7 @@
   {
     "id": "8763106157928383807",
     "english": "This box contains the Luke's Lucky Chain item.\n#emphasis#+Total Defense Rating#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Summoned Ally Damage#/emphasis#\n#emphasis#+Summoned Ally Health#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке содержится предмет «Удачная Цепь Люка».\n#emphasis#+Общий рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Урон призванных союзников#/emphasis#\n#emphasis#+Здоровье призванных союзников#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.419758677482605,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Art345BoxDogTags.prototype",
     "verdict": "BAD"
@@ -8418,7 +8418,7 @@
   {
     "id": "16520571411016451384",
     "english": "Use this item to store your soul for 10 minutes, allowing you to be resurrected in the accidental event of your early demise. In the event that you are defeated you will be revived with full health and $primaryManaBehaviorName$. You will also gain, upon resurrection, +1000 Damage Rating, +3 Fighting, +3 Intelligence, +3 Energy, +3 Strength, +250 Critical Hit Rating and lose -3 Durability and -1 Speed for 30 seconds.\n30 minute cooldown",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы сохранить душу на 10 минут, что позволит вам воскреснуть в случае преждевременной смерти. Если вас убьют, вы воскреснете с полным здоровьем и $primaryManaBehaviorName$. После воскрешения вы получите +1000 к рейтингу урона, +3 к Бою, +3 к Интеллекту, +3 к Энергии, +3 к Силе, +250 к рейтингу критического удара, но потеряете -3 к Выносливости и -1 к Скорости на 30 секунд.\nПерезарядка 30 минут.",
     "similarity": 0.4204656779766083,
     "path": "Entity/Items/Consumables/Prototypes/Soulstone.prototype",
     "verdict": "BAD"
@@ -8450,7 +8450,7 @@
   {
     "id": "17197456135161185601",
     "english": "Restores $primarymanabehaviorname$ to full, and loads your next clip with Elemental #yellow#Earth#/yellow# Ammo, granting #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, and #powername#$powerreference2.powername$#/powername# bonus critical damage",
-    "russian": "Перезарядка боеприпасов: #yellow#Земля#/yellow#",
+    "russian": "Восстанавливает $primarymanabehaviorname$ полностью и заряжает следующий магазин Элементальными #yellow#Земляными#/yellow# патронами, предоставляя бонусный критический урон от #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername#.",
     "similarity": 0.4210311770439148,
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/RefreshAmmoEarth.prototype",
     "verdict": "BAD"
@@ -8578,7 +8578,7 @@
   {
     "id": "5434822488631936373",
     "english": "This box contains a random Industry City Patrol Badge\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке содержится случайный Значок Патруля Промышленного района.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.42334747314453125,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/RandomICPBadgeBoxBundlesofCash.prototype",
     "verdict": "BAD"
@@ -8682,7 +8682,7 @@
   {
     "id": "10676822166363112818",
     "english": "Use this item to read the Police Protocols. \nWhen read, gain a #emphasis#+1 Speed and +5% Movement Speed#/emphasis# for 5 minutes. Using another Civil War Boost will end the effect of this boost.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы прочесть Полицейские Протоколы.\nПосле прочтения получите #emphasis#+1 к Скорости и +5% к Скорости Передвижения#/emphasis# на 5 минут. Использование другого усиления Гражданской Войны завершит эффект этого.",
     "similarity": 0.42422112822532654,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/TeamCapPotion3.prototype",
     "verdict": "BAD"
@@ -8938,7 +8938,7 @@
   {
     "id": "9389071678252451145",
     "english": "Requires: any Element",
-    "russian": "Требуется: 5 динамических сывороток, 5 чистых нано-элементов",
+    "russian": "Требуется: любой элемент",
     "similarity": 0.42912793159484863,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/FlaskofMightRecipe.prototype",
     "verdict": "BAD"
@@ -8962,7 +8962,7 @@
   {
     "id": "17563442058008855819",
     "english": "Test Party Boost 1 minute",
-    "russian": "плюс к находке особых предметов - 1 месяц",
+    "russian": "Тестовое усиление партии на 1 минуту",
     "similarity": 0.4292793273925781,
     "path": "Entity/Items/Consumables/Prototypes/Test/TestPartyBoost.prototype",
     "verdict": "BAD"
@@ -8970,7 +8970,7 @@
   {
     "id": "13374098324389823804",
     "english": "This never gets boring!",
-    "russian": "Люблю свою работу!",
+    "russian": "Это никогда не надоедает!",
     "similarity": 0.4293479025363922,
     "path": "Metagame/Story/CH01HellsKitchen/Populations/OverheadText/OverheadTextGangVandalize01.prototype",
     "verdict": "BAD"
@@ -9010,7 +9010,7 @@
   {
     "id": "8128578697619572030",
     "english": "Dept. K Tactical Vest",
-    "russian": "Разгрузка Департамента К",
+    "russian": "Тактический жилет отдела K",
     "similarity": 0.4297640323638916,
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/AnyHero/Slot2/Unique064.prototype",
     "verdict": "BAD"
@@ -9130,7 +9130,7 @@
   {
     "id": "10806719260334359909",
     "english": "Use this item to consume the S.H.I.E.L.D. Experimental Health Potion.\nGain +2000 Health for 5 minutes.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы выпить Экспериментальное зелье здоровья ЩИТа.\nПолучите +2000 к здоровью на 5 минут.",
     "similarity": 0.43111032247543335,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/HoloSimPotion3.prototype",
     "verdict": "BAD"
@@ -9242,7 +9242,7 @@
   {
     "id": "1448756236994348345",
     "english": "Lose 5% of your Maximum Health per second (This effect is negated if you have  #emphasis#$powerreference0.powername$#/emphasis# in a Stolen Power Slot)",
-    "russian": "#emphasis#Не наносит урона основному противнику#/emphasis#",
+    "russian": "Теряйте 5% от вашего максимального здоровья в секунду (Этот эффект отменяется, если у вас есть #emphasis#$powerreference0.powername$#/emphasis# в слоте украденной способности)",
     "similarity": 0.4334774613380432,
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/HellfireDoTAuraHealthCostPerSecond.prototype",
     "verdict": "BAD"
@@ -9338,7 +9338,7 @@
   {
     "id": "15444014012568569111",
     "english": "Call it in the Air!",
-    "russian": "Будем действовать наугад!",
+    "russian": "Вызовите его в воздухе!",
     "similarity": 0.4339102804660797,
     "path": "Missions/Prototypes/Development/DoubleHotspotTest.prototype",
     "verdict": "BAD"
@@ -9402,7 +9402,7 @@
   {
     "id": "763613935729313092",
     "english": "So, you fools think the Hand is the greatest threat in the city tonight?",
-    "russian": "Итак... Эти недоумки считают, что способны уйти от клана Руки.",
+    "russian": "Так вы, глупцы, думаете, что Рука — самая большая угроза в этом городе сегодня ночью?",
     "similarity": 0.43482133746147156,
     "path": "Metagame/Story/CH10SecretInvasion/Hightown/Populations/OverheadText/OverheadTextAmbientKirigiV02.prototype",
     "verdict": "BAD"
@@ -9450,7 +9450,7 @@
   {
     "id": "12652623176774321475",
     "english": "Use this item to consume the S.H.I.E.L.D. Experimental Defense Potion.\nGain +500 Defense Rating for 5 minutes.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы выпить Экспериментальное зелье защиты ЩИТа.\nПолучите +500 к рейтингу защиты на 5 минут.",
     "similarity": 0.4353596270084381,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/HoloSimPotion5.prototype",
     "verdict": "BAD"
@@ -9514,7 +9514,7 @@
   {
     "id": "5070324423875560721",
     "english": "Invalid Costume",
-    "russian": "Классический костюм Халка",
+    "russian": "Недопустимый костюм",
     "similarity": 0.436661034822464,
     "path": "Entity/Items/Costumes/Prototypes/zTesting/PlayableBrevikOLDCostume.prototype",
     "verdict": "BAD"
@@ -9522,7 +9522,7 @@
   {
     "id": "12652909371994867070",
     "english": "If used on a #powername#Hero#/powername#, #powername#Boss#/powername# or #powername#Team-Up#/powername#, #stolenpower#Steal#/stolenpower# their Power, adding it to your #stolenpower#Stolen Power#/stolenpower# Collection",
-    "russian": "Примените к союзнику, чтобы позаимствовать одну из его способностей. Она заменит эту на вашей панели способностей и на дереве способностей.",
+    "russian": "Если использовать на #powername#Герое#/powername#, #powername#Боссе#/powername# или #powername#Командном напарнике#/powername#, #stolenpower#украдите#/stolenpower# его способность, добавляя её в вашу коллекцию #stolenpower#Украденных Способностей#/stolenpower#",
     "similarity": 0.4368019700050354,
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/StolenPowerAlly.prototype",
     "verdict": "BAD"
@@ -9530,7 +9530,7 @@
   {
     "id": "14258754428005188986",
     "english": "Maria Hill, Deputy Director of S.H.I.E.L.D., needs your help tracking down some of the super villains who escaped the Raft during HYDRA's assault.\n\nStart by traveling to #mission#Hell's Kitchen#/mission# to meet #mission#Agent Coulson#/mission#, who's heading up the operations in that area.",
-    "russian": "Агент Коулсон предлагает поговорить с #mission#лейтенантом Хиггинсом#/mission#, чтобы узнать, где находится Шокер.",
+    "russian": "Мария Хилл, заместитель директора ЩИТа, нуждается в вашей помощи по поимке некоторых суперзлодеев, которые сбежали с Плота во время нападения ГИДРЫ.\n\nНачните с путешествия в #mission#Адской кухне#/mission#, чтобы встретиться с #mission#агентом Коулсоном#/mission#, который руководит операциями в этом районе.",
     "similarity": 0.4375309944152832,
     "path": "Missions/Prototypes/Act1/Ch01HellsKitchen/CH1Main1CleaningtheKitchen.prototype",
     "verdict": "BAD"
@@ -9594,7 +9594,7 @@
   {
     "id": "2578467875847734647",
     "english": "Maria Hill, Deputy Director of S.H.I.E.L.D., needs your help tracking down some of the super villains who escaped the Raft during HYDRA's assault.\n\nStart by traveling to #mission#Hell's Kitchen South#/mission# to meet #mission#Agent Coulson#/mission#, who's heading up the operations in that area.\n",
-    "russian": "Агент Коулсон предлагает поговорить с #mission#лейтенантом Хиггинсом#/mission#, чтобы узнать, где находится Шокер.",
+    "russian": "Мария Хилл, заместитель директора ЩИТа, нуждается в вашей помощи по поимке некоторых суперзлодеев, которые сбежали с Рафта во время нападения ГИДРЫ.\n\nНачните с путешествия в #mission#Юг Адской Кухни#/mission#, чтобы встретиться с #mission#агентом Коулсоном#/mission#, который руководит операциями в этом районе.\n",
     "similarity": 0.43848279118537903,
     "path": "Missions/Prototypes/Story/CH01HellsKitchen/CH01Main1CleaningUpTheKitchen.prototype",
     "verdict": "BAD"
@@ -9642,7 +9642,7 @@
   {
     "id": "8807711386217219430",
     "english": "This box contains a S.H.I.E.L.D. Agent Medallion item.\n#emphasis#Chance on hit to gain 500 Damage Rating for 5 seconds, 15 second cooldown#/emphasis#\n#emphasis#Fighting#/emphasis#\n#emphasis#Health#/emphasis#\n#emphasis#Critical Hit Rating#/emphasis#\n#emphasis#Critical Damage Rating#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке находится предмет Медальон агента ЩИТа.\n#emphasis#Шанс при попадании получить +500 к рейтингу урона на 5 секунд, перезарядка 15 секунд#/emphasis#\n#emphasis#Битва#/emphasis#\n#emphasis#Здоровье#/emphasis#\n#emphasis#Рейтинг критического удара#/emphasis#\n#emphasis#Рейтинг критического урона#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.43901267647743225,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/SHIELDAgentEGMBox.prototype",
     "verdict": "BAD"
@@ -9658,7 +9658,7 @@
   {
     "id": "8774759989044184380",
     "english": "So much for that menu item!",
-    "russian": "Что-то дороговато!",
+    "russian": "Пусть будет так с этим пунктом меню!",
     "similarity": 0.4394869804382324,
     "path": "Missions/Prototypes/ZZZDeprecated/CH10SecretInvasion/LTCivSerpentDishSoloM1.prototype",
     "verdict": "BAD"
@@ -9698,7 +9698,7 @@
   {
     "id": "16464841908250740028",
     "english": "Find Beast",
-    "russian": "Найти Рида Ричардса",
+    "russian": "Найдите Зверя",
     "similarity": 0.44006794691085815,
     "path": "Missions/Prototypes/Act3/Ch09Asgard/CH09Main1AFrostyReception.prototype",
     "verdict": "BAD"
@@ -9842,7 +9842,7 @@
   {
     "id": "10099865499830715655",
     "english": "Beast Vendor Controller",
-    "russian": "Контроллер торговца Рида Ричардса",
+    "russian": "Контроллер торговца Зверем",
     "similarity": 0.4422105550765991,
     "path": "Missions/Prototypes/Act3/Ch09Asgard/Controllers/GlobalVendorController.prototype",
     "verdict": "BAD"
@@ -9866,7 +9866,7 @@
   {
     "id": "11435282887862846738",
     "english": "This is OUR city now!",
-    "russian": "Эй, герой! Сюда!",
+    "russian": "Теперь это НАШ город!",
     "similarity": 0.44282999634742737,
     "path": "Metagame/Story/CH01HellsKitchen/Populations/OverheadText/OverheadTextGangCombat05.prototype",
     "verdict": "BAD"
@@ -9914,7 +9914,7 @@
   {
     "id": "4126909950851482947",
     "english": "$primarymanabehaviorname$ Cost Reduction: $EnduranceCostChangePct.abs$% for $duration$ when you hit with a #powertree#Firearms#/powertree# Power",
-    "russian": "Рейтинг отражения: +$BlockRatingBonusAdd.precision0$ #hidden#($BlockRatingBonusAdd.divByLevel$ per level)#/hidden#",
+    "russian": "Сокращение затрат $primarymanabehaviorname$: $EnduranceCostChangePct.abs$% на $duration$, когда вы наносите урон силой #powertree#Огнестрельное оружие#/powertree#",
     "similarity": 0.443981409072876,
     "path": "Localization/Translations/Powers/TooltipStrings/WinterSoldier/GunStanceCostReductionProc.prototype",
     "verdict": "BAD"
@@ -10042,7 +10042,7 @@
   {
     "id": "7429860631741728028",
     "english": "+$evalregisterfloat1.pct$% ($evalregisterfloat3.pct$% of your maximum $primaryManaBehaviorName$) for this power",
-    "russian": "+$superCritRatingBonusAdd.precision0$",
+    "russian": "+$evalregisterfloat1.pct$% ($evalregisterfloat3.pct$% от вашего максимума $primaryManaBehaviorName$) для этой способности",
     "similarity": 0.4444420039653778,
     "path": "Localization/Translations/Powers/TooltipStrings/Hulk/GammaPunchBrutDmg.prototype",
     "verdict": "BAD"
@@ -10098,7 +10098,7 @@
   {
     "id": "1543358651186742542",
     "english": "$evalregisterfloat2.pct$% of your Max $primaryManaBehaviorName$",
-    "russian": "+$superCritRatingBonusAdd.precision0$",
+    "russian": "$evalregisterfloat2.pct$% от вашего максимума $primaryManaBehaviorName$",
     "similarity": 0.44541531801223755,
     "path": "Localization/Translations/Powers/TooltipStrings/Hulk/EvalRegisterFloat2PctOfMaximumEndurance.prototype",
     "verdict": "BAD"
@@ -10322,7 +10322,7 @@
   {
     "id": "16637234233347933543",
     "english": "Use this item to consume the S.H.I.E.L.D. Experimental Damage Potion.\nGain 100 Damage Rating for 5 minutes.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы выпить Экспериментальное зелье урона ЩИТа.\nПолучите +100 к рейтингу урона на 5 минут.",
     "similarity": 0.4482366740703583,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/HoloSimPotion1.prototype",
     "verdict": "BAD"
@@ -10330,7 +10330,7 @@
   {
     "id": "15568669184859833616",
     "english": "Gain #emphasis#Stealth#/emphasis# and regenerate $healingOverTimeBase.noFraction$ Health per second while out of combat",
-    "russian": "Рейтинг отражения: +$BlockRatingBonusAdd.precision0$ #hidden#($BlockRatingBonusAdd.divByLevel$ per level)#/hidden#",
+    "russian": "Получите #emphasis#Незаметность#/emphasis# и восстанавливайте $healingOverTimeBase.noFraction$ здоровья в секунду вне боя",
     "similarity": 0.4483230412006378,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/OutOfCombatStealth.prototype",
     "verdict": "BAD"
@@ -10338,7 +10338,7 @@
   {
     "id": "89673484686525760",
     "english": "Doctor Strange's incantation powers generate mystic energy that mitigates the high Spirit costs and cooldowns that come with being a Sorcerer Supreme.",
-    "russian": "Непросто совладать с двойственными способностями Доктора Дума - в технологии и магии, но можно поочередно выбирать нужную специализацию.",
+    "russian": "Заклинания Доктора Стрэнджа генерируют мистическую энергию, которая уменьшает высокие затраты Духа и время восстановления, связанные с ролью Верховного Чародея.",
     "similarity": 0.448481947183609,
     "path": "UI/LoadingScreenTips/AvatarTips/DrStrangeTips.prototype",
     "verdict": "BAD"
@@ -10378,7 +10378,7 @@
   {
     "id": "6324282955345036545",
     "english": "A silly bear to sell or donate to your Vendor or Crafter.",
-    "russian": "Обменяйте Приказы клана Руки у торговца Особых Событий в Башне Мстителей на особенные награды! Приказы клана Руки также можно продать либо подарить торговцам, Мастеру либо Волшебнику.",
+    "russian": "Глупый медведь для продажи или передачи вашему Торговцу или Крафтеру.",
     "similarity": 0.44973838329315186,
     "path": "Entity/Items/CurrencyItems/Achievement/BatrocsSillyBear.prototype",
     "verdict": "BAD"
@@ -10434,7 +10434,7 @@
   {
     "id": "17781440746761291089",
     "english": "When you use a #powerkeyword#Finisher#/powerkeyword# at maximum $secondarymanabehaviorname$, gain #powername#$powername$#/powername# for $condition0.duration$",
-    "russian": "Рейтинг урона: +$DamageRating.noFraction$#hidden# ($DamageRating.divByLevel$ за каждый уровень)#/hidden#",
+    "russian": "Когда вы используете #powerkeyword#Добивание#/powerkeyword# при максимальном $secondarymanabehaviorname$, получите #powername#$powername$#/powername# на $condition0.duration$",
     "similarity": 0.4507385492324829,
     "path": "Localization/Translations/Powers/TooltipStrings/SheHulkDefenseFinisherBuff.prototype",
     "verdict": "BAD"
@@ -10458,7 +10458,7 @@
   {
     "id": "6519618759462421770",
     "english": "Use this item to claim 2 Eternity Splinters!",
-    "russian": "Щелкните ПКМ, чтобы получить 5 марок Одина!",
+    "russian": "Используйте этот предмет, чтобы получить 2 Осколка Вечности!",
     "similarity": 0.45149073004722595,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/TwoEternitySplinterBox.prototype",
     "verdict": "BAD"
@@ -10474,7 +10474,7 @@
   {
     "id": "16687124118257075609",
     "english": "Use this item to consume the S.H.I.E.L.D. Experimental Boss Damage Potion.\nGain +5% Damage Rating versus Bosses for 5 minutes.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы выпить Экспериментальное зелье урона против Боссов ЩИТа.\nПолучите +5% к рейтингу урона против Боссов на 5 минут.",
     "similarity": 0.4516575336456299,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/HoloSimPotion2.prototype",
     "verdict": "BAD"
@@ -10626,7 +10626,7 @@
   {
     "id": "438564819286558017",
     "english": "Just give up and die, will you?",
-    "russian": "Когда ж ты наконец сдохнешь?",
+    "russian": "Просто сдавайся и умри, ладно?",
     "similarity": 0.453628808259964,
     "path": "Missions/Prototypes/Story/CH06FortStryker/Discoveries/PurifierKickingMutant.prototype",
     "verdict": "BAD"
@@ -10642,7 +10642,7 @@
   {
     "id": "12890609543787054439",
     "english": "This box contains a Big Kahuna Legendary item.\n#emphasis#Rank 1: +10% XP#/emphasis#\n#emphasis#Rank 2: +10% Rare Item Find#/emphasis#\n#emphasis#Rank 3: +10% Special Item Find#/emphasis#\n#emphasis#Rank 4: +25% increased Orb pickup range#/emphasis#\n#emphasis#Rank 5: 5% chance on any hit to cause a big splash and do 10,000 Energy damage to enemies surrounding your target#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке находится легендарный предмет Большой Кахуна.\n#emphasis#Уровень 1: +10% опыта#/emphasis#\n#emphasis#Уровень 2: +10% шанс найти редкий предмет#/emphasis#\n#emphasis#Уровень 3: +10% шанс найти особый предмет#/emphasis#\n#emphasis#Уровень 4: +25% увеличенный радиус сбора сфер#/emphasis#\n#emphasis#Уровень 5: 5% шанс при любом ударе вызвать большой всплеск и нанести 10 000 энергетического урона врагам вокруг цели#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.4538498818874359,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Legendary014BoxICC.prototype",
     "verdict": "BAD"
@@ -10698,7 +10698,7 @@
   {
     "id": "8733171618789459203",
     "english": "A vial of tears to sell or donate to your Vendor or Crafter.",
-    "russian": "Обменяйте Приказы клана Руки у торговца Особых Событий в Башне Мстителей на особенные награды! Приказы клана Руки также можно продать либо подарить торговцам, Мастеру либо Волшебнику.",
+    "russian": "Флакон со слезами для продажи или передачи вашему Торговцу или Крафтеру.",
     "similarity": 0.454388290643692,
     "path": "Entity/Items/CurrencyItems/Achievement/VialOfTears.prototype",
     "verdict": "BAD"
@@ -10842,7 +10842,7 @@
   {
     "id": "7446137024537429313",
     "english": "Use this item to consume the S.H.I.E.L.D. Experimental Attack Speed Potion.\nGain +5% Attack Speed for 5 minutes.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы выпить Экспериментальное зелье скорости атаки ЩИТа.\nПолучите +5% к скорости атаки на 5 минут.",
     "similarity": 0.45640745759010315,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/HoloSimPotion6.prototype",
     "verdict": "BAD"
@@ -10914,7 +10914,7 @@
   {
     "id": "2198621985964623113",
     "english": "+$evalregisterfloat4.divby100.pct$% to +$evalregisterfloat4.pct$%",
-    "russian": "Рейтинг урона: +$DamageRating$ на $duration$ (этот рейтинг равен 300% доп. $primaryManaBehaviorName.locflagG$)",
+    "russian": "+$evalregisterfloat4.divby100.pct$% до +$evalregisterfloat4.pct$%",
     "similarity": 0.45748236775398254,
     "path": "Localization/Translations/Powers/TooltipStrings/Hulk/HulkMechanicTraitER4.prototype",
     "verdict": "BAD"
@@ -10954,7 +10954,7 @@
   {
     "id": "7709076760650319176",
     "english": "Damage: +40% if Combat Shield is not empty",
-    "russian": "Обычный, критический и сокрушительный урон: +$damageMult.pct$%",
+    "russian": "Урон: +40%, если боевой щит не пуст",
     "similarity": 0.45797955989837646,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultMinigun.prototype",
     "verdict": "BAD"
@@ -11138,7 +11138,7 @@
   {
     "id": "12232628461087753595",
     "english": "Use this item this item to increase your Special Item Find by $usepower.condition0.boostlootraritybonus1$% for one month.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт и вероятность найти редкие и специальные предметы в течение 2 часов. Эффект усиливается, если такой усилитель есть у нескольких игроков в группе.\n\nЭффект:\n1 игрок: +100%\n2 игрока: +125%\n3 игрока: +150%\n4 игрока: +175%\n5 игроков: +200%",
+    "russian": "Используйте этот предмет, чтобы увеличить ваш шанс найти особые предметы на $usepower.condition0.boostlootraritybonus1$% на один месяц.",
     "similarity": 0.4617452919483185,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/OriginalBoosts/ShopBoostSpecialItemFind720Hours.prototype",
     "verdict": "BAD"
@@ -11146,7 +11146,7 @@
   {
     "id": "14198456140877661551",
     "english": "This box contains the Brutally Awesome Summer Shades item.\n#emphasis#+Brutal Strike Rating#/emphasis#\n#emphasis#+Brutal Damage Rating#/emphasis#\n#emphasis#+Deflect Rating#/emphasis#\n#emphasis#+Energy Defense Rating#/emphasis#\n#emphasis#+Ranks to All Powers#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке находится предмет Крутые летние очки.\n#emphasis#+Рейтинг жестокого удара#/emphasis#\n#emphasis#+Рейтинг жестокого урона#/emphasis#\n#emphasis#+Рейтинг отражения#/emphasis#\n#emphasis#+Рейтинг энергетической защиты#/emphasis#\n#emphasis#+Уровни ко всем способностям#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.4618123173713684,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Unique325BoxICC.prototype",
     "verdict": "BAD"
@@ -11418,7 +11418,7 @@
   {
     "id": "10106014673227351301",
     "english": "LOG OUT",
-    "russian": "СМЕНА УЧ. ЗАПИСИ",
+    "russian": "ВЫЙТИ ИЗ ИГРЫ",
     "similarity": 0.46551477909088135,
     "path": "UI/LocalizedInfo/Frontend/UIButtonLogOut.prototype",
     "verdict": "BAD"
@@ -11474,7 +11474,7 @@
   {
     "id": "6125681477269914988",
     "english": "Use this item to use the Yellow Cupcake Boost. \nGain 33% Rare Item Find for 1 hour. Each additional boost that bestows this effect will increase its duration. ",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы активировать усиление Желтый кекс.\nПолучите +33% к шансу найти редкие предметы на 1 час. Каждое дополнительное усиление увеличивает длительность эффекта.",
     "similarity": 0.46628448367118835,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/Cupcake3.prototype",
     "verdict": "BAD"
@@ -11522,7 +11522,7 @@
   {
     "id": "13016071710326654282",
     "english": "$EvalRegisterFloat0.pct$% chance to spend a #powername#Trick Arrowhead#/powername# if available",
-    "russian": "$primaryManaBehaviorName$ восстанавливается независимо от использования способности",
+    "russian": "$EvalRegisterFloat0.pct$% шанс потратить #powername#Заложенную стрелу#/powername#, если она доступна",
     "similarity": 0.4672190248966217,
     "path": "Localization/Translations/Powers/TooltipStrings/Hawkeye/TrickArrowTip.prototype",
     "verdict": "BAD"
@@ -11570,7 +11570,7 @@
   {
     "id": "4764907431263798642",
     "english": "Use this item to read the Experimental Defense Shielding Guide.\nWhen read, gain a #emphasis#+1 Durability and +100 Defense#/emphasis# for 5 minutes.\nUsing another Civil War Boost will end the effect of this boost.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы прочесть Руководство по экспериментальному защитному щиту.\nПосле прочтения получите #emphasis#+1 к выносливости и +100 к защите#/emphasis# на 5 минут.\nИспользование другого усиления Гражданской войны завершит действие этого эффекта.",
     "similarity": 0.4674101769924164,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/TeamIronManPotion2.prototype",
     "verdict": "BAD"
@@ -11578,7 +11578,7 @@
   {
     "id": "8223364172020385134",
     "english": "Use this item to read the Experimental Defense Shielding Guide.\nWhen read, gain a #emphasis#+1 Durability and +100 Defense#/emphasis# for 5 minutes.\nUsing another Civil War Boost will end the effect of this boost.",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы прочесть Руководство по экспериментальному защитному щиту.\nПосле прочтения получите #emphasis#+1 к выносливости и +100 к защите#/emphasis# на 5 минут.\nИспользование другого усиления Гражданской войны завершит действие этого эффекта.",
     "similarity": 0.4674101769924164,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/TeamIronManPotion4.prototype",
     "verdict": "BAD"
@@ -11834,7 +11834,7 @@
   {
     "id": "8525252909308511645",
     "english": "Use this item to claim a stack of 2000 Odin Marks.",
-    "russian": "Щелкните ПКМ, чтобы получить 300 марок Одина.",
+    "russian": "Используйте этот предмет, чтобы получить стопку из 2000 знаков Одина.",
     "similarity": 0.4717838764190674,
     "path": "Entity/Items/CurrencyItems/LegendaryRefund2000Box.prototype",
     "verdict": "BAD"
@@ -11866,7 +11866,7 @@
   {
     "id": "1618356077393020237",
     "english": "Summons a $displayName$ if you last used a #orange#Melee#/orange# Power",
-    "russian": "Урон, который наносит $powerName$, увеличивается от параметров атаки (#emphasis#$displayName$#/emphasis#), а не от урона призванных союзников",
+    "russian": "Призывает $displayName$, если вы в последний раз использовали #orange#силу ближнего боя#/orange#",
     "similarity": 0.4722370505332947,
     "path": "Localization/Translations/Powers/TooltipStrings/Iceman/SummonGolemMelee.prototype",
     "verdict": "BAD"
@@ -11914,7 +11914,7 @@
   {
     "id": "16048390171165263183",
     "english": "Summons a $displayName$ if you last used a #orange#Ranged#/orange# Power",
-    "russian": "Урон, который наносит $powerName$, увеличивается от параметров атаки (#emphasis#$displayName$#/emphasis#), а не от урона призванных союзников",
+    "russian": "Призывает $displayName$, если вы в последний раз использовали #orange#силу дальнего боя#/orange#",
     "similarity": 0.47276389598846436,
     "path": "Localization/Translations/Powers/TooltipStrings/Iceman/SummonGolemRanged.prototype",
     "verdict": "BAD"
@@ -12010,7 +12010,7 @@
   {
     "id": "4580181506345076086",
     "english": "#emphasis#Press $MarvelGFxGameUIToggleRadialMenuPanel$#/emphasis# to open the radial menu. Under Roster, select any of your available heroes.\n\nWhen you are ready, speak with the Quinjet pilot.",
-    "russian": "Нажмите $MarvelGFxGameUITogglePanel RosterPanel$, чтобы переключиться на Капитана Америку или Черную Вдову.\n\nЧтобы продолжить в роли Халка, щелкните на портале.",
+    "russian": "#emphasis#Нажмите $MarvelGFxGameUIToggleRadialMenuPanel$#/emphasis#, чтобы открыть радиальное меню. В разделе «Рота» выберите любого из доступных героев.\n\nКогда будете готовы, поговорите с пилотом Квинджета.",
     "similarity": 0.4735332727432251,
     "path": "Tutorial/HUDTutorials/NPETimesTutorials/TimesUIRosterAll.prototype",
     "verdict": "BAD"
@@ -12034,7 +12034,7 @@
   {
     "id": "17419632525696566638",
     "english": "Ssso then he sssaid, \"Ka nama kaa laje-sssomething,\" and I was rudely forced into my natural form.",
-    "russian": "Посссле чего он сссказал: \"Ка нама каа ла\" и всссе такое.",
+    "russian": "А потом он сссказал: «Ка нама каа лаже-ссчто-то», и меня грубо заставили вернуться к моей естественной форме.",
     "similarity": 0.4743671119213104,
     "path": "Metagame/Story/CH10SecretInvasion/Hightown/Populations/OverheadText/OverheadTextSerpManTalkingV10.prototype",
     "verdict": "BAD"
@@ -12130,7 +12130,7 @@
   {
     "id": "7617332492526421324",
     "english": "#powermechanic#Invisibility#/powermechanic# Duration:$duration$",
-    "russian": "$procValuePercent$% шанс при ударе в #powerkeyword#Ближнем бою#/powerkeyword# украсть ценный предмет у противника",
+    "russian": "#powermechanic#Невидимость#/powermechanic# Длительность: $duration$",
     "similarity": 0.47551944851875305,
     "path": "Localization/Translations/Powers/TooltipStrings/InvisibilityDuration.prototype",
     "verdict": "BAD"
@@ -12178,7 +12178,7 @@
   {
     "id": "10326726342490522950",
     "english": "Requires: any Element",
-    "russian": "Требуется: примитивная астральная эссенция и примитивная ионная частица",
+    "russian": "Требуется: любой элемент",
     "similarity": 0.4761579930782318,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/FlaskOfSpiritRecipe.prototype",
     "verdict": "BAD"
@@ -12290,7 +12290,7 @@
   {
     "id": "16165414427755480342",
     "english": "#mission#Wonder Man#/mission# can be found playing near the pool table in Avengers Tower. We hear he is a big fan of food!",
-    "russian": "#mission#Кроссбоунс#/mission# находится возле Базара в Мадрипуре, куда можно попасть через точку маршрута #mission#Погоня за Кроссбоунсом#/mission#.",
+    "russian": "#mission#Человек-чудо#/mission# можно найти играющим возле бильярдного стола в Башне Мстителей. Говорят, он большой любитель еды!",
     "similarity": 0.47772860527038574,
     "path": "Missions/Prototypes/PVEEndgame/StaticScenarios/XMasGiftXChange.prototype",
     "verdict": "BAD"
@@ -12474,7 +12474,7 @@
   {
     "id": "12780675938781103425",
     "english": "This box contains the Insignia of the Heroes for Hire item.\n#emphasis#Heroes for Hire Aura: On Critical Hit, gain +1 Fighting and +1 Durability for 5 seconds (15 second cooldown)#/emphasis#\n#emphasis#Gain +10% Summoned Ally Damage and the Toughness Aura#/emphasis#\n#emphasis#1-2 random affixes#/emphasis#\n\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке находится предмет Герб наёмников.\n#emphasis#Аура Гербов наёмников: при критическом ударе получаете +1 к Бою и +1 к Выносливости на 5 секунд (перезарядка 15 секунд)#/emphasis#\n#emphasis#Получите +10% урона призванных союзников и ауру стойкости#/emphasis#\n#emphasis#1-2 случайных свойства#/emphasis#\n\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.48092755675315857,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Insignia147BoxDogTags.prototype",
     "verdict": "BAD"
@@ -12490,7 +12490,7 @@
   {
     "id": "17341746042507625795",
     "english": "So, what's in the back?",
-    "russian": "Что нам бог послал?",
+    "russian": "И что там сзади?",
     "similarity": 0.48120877146720886,
     "path": "Metagame/Story/CH01HellsKitchen/Populations/OverheadText/OverheadTextGangMugTruck01.prototype",
     "verdict": "BAD"
@@ -12546,7 +12546,7 @@
   {
     "id": "16034048377641239817",
     "english": "Requires: any 10 elements",
-    "russian": "Требуется: 5 золотых проводов, 2 золотых проводника, 1 оболочка \"СтаркТех\"",
+    "russian": "Требуется: любые 10 элементов",
     "similarity": 0.48215970396995544,
     "path": "Entity/Items/Crafting/Recipes/GenoshaSupply/CraftAtomicElement.prototype",
     "verdict": "BAD"
@@ -12594,7 +12594,7 @@
   {
     "id": "8529096084586104136",
     "english": "#emphasis#$powername$#/emphasis# applies 5 stacks of #emphasis#Chill#/emphasis#",
-    "russian": "Урон: +$DamageMultForPower.pct$% на $duration$ после того, как вы #emphasis#раскололи#/emphasis# врага.",
+    "russian": "#emphasis#$powername$#/emphasis# накладывает 5 стаков #emphasis#Оледенения#/emphasis#",
     "similarity": 0.4825172424316406,
     "path": "Localization/Translations/Powers/TooltipStrings/Iceman/DFAChillStackAdd.prototype",
     "verdict": "BAD"
@@ -12730,7 +12730,7 @@
   {
     "id": "662045990709560594",
     "english": "+$param1.power.condition0.critratingbonusadd.precision0$ Critical Hit Rating for  $param1.power.condition0.duration$ when you dodge an attack ($param1.power.cooldown$)",
-    "russian": "При следующей после уклонения атаке вы нанесете Критический удар",
+    "russian": "+$param1.power.condition0.critratingbonusadd.precision0$ к рейтингу крит. ударов на $param1.power.condition0.duration$ при уклонении от атаки ($param1.power.cooldown$)",
     "similarity": 0.4851767122745514,
     "path": "Entity/Items/Artifacts/Prototypes/Tier1Artifacts/Art043.prototype",
     "verdict": "BAD"
@@ -12874,7 +12874,7 @@
   {
     "id": "5758365445815862537",
     "english": "When a Team-Up Away effect is triggered, you gain 25 $primaryManaBehaviorname$.",
-    "russian": "Когда вы применяете аптечку, ваш напарник восстанавливает $param1.power.healingbasepct.divby100.pct$% здоровья.",
+    "russian": "Когда срабатывает эффект командного отступления, вы получаете 25 $primaryManaBehaviorname$.",
     "similarity": 0.48626652359962463,
     "path": "Entity/Items/Affixes/TeamUpAffixes/CosmicTeamUpAffixes/CosmicTeamUpSpiritGain.prototype",
     "verdict": "BAD"
@@ -12882,7 +12882,7 @@
   {
     "id": "4643801014234318094",
     "english": "Hold the hotkey to create a slick rollercoaster of ice for sliding above some obstacles and enemy attacks.",
-    "russian": "Удерживайте горячую клавишу, чтобы создать непрерывный поток льда, который вырывается из обеих рук.",
+    "russian": "Удерживайте горячую клавишу, чтобы создать скользкий ледяной роллеркостер для скольжения над препятствиями и атаками врагов.",
     "similarity": 0.48631182312965393,
     "path": "Powers/Player/TravelPower/IcemanFlight.prototype",
     "verdict": "BAD"
@@ -12906,7 +12906,7 @@
   {
     "id": "9499384528886236546",
     "english": "Norman Osborn was never a very sane man. Growing up under an abusive father and the loss of his wife was enough to push any man over the edge, but Norman Osborn had much further to fall still. While reverse-engineering an experimental serum Norman created a volatile concoction that exploded in his face and finally drove him to become the violent madman, The Green Goblin!\nAlways thirsting for power, the Green Goblin has made a career out of being stopped by his least favorite super hero, the Amazing Spider-Man. Yet ever the sly one, Osborn has always eluded punishment for his crimes as the Green Goblin, even becoming leader of the Thunderbolts and eventually being promoted to Director of H.A.M.M.E.R., S.H.I.E.L.D.'s replacement. Norman Osborn has a long and cruel list of crimes to atone for, but maybe, just maybe, he can do some good while he's trying to fool everyone.",
-    "russian": "Альтрон осознал себя в холодный декабрьский день. Хэнк Пим и помыслить не мог, какую череду страшных событий повлечет за собой создание этого робота. Мстители не успели ничего предпринять, когда Альтрон восстал - не только против своего создателя, но и против всей органической жизни на земле. Со временем Альтрон усовершенствовался, постоянно воссоздавая себя и раздвигая границы искусственной жизни. С каждым шагом он приближался к совершенству. Но величайшие герои планеты, Мстители, каждый раз нарушали планы Альтрона. Сейчас робот снова усовершенствовал себя, подняв свои механические возможности на недосягаемую высоту.",
+    "russian": "Норман Осборн никогда не был вменяемым человеком. Выросший в жестокой семье и потерявший жену, он скатился в безумие. В ходе обратного инжиниринга экспериментальной сыворотки Норман создал взрывоопасную смесь, которая взорвалась ему в лицо и окончательно превратила его в безумного Зеленого Гоблина!\nВсегда жаждущий власти, Зеленый Гоблин стал карьерным злодеем и главным противником Человека-паука. Но хитрец Осборн всегда избегал наказания, даже став лидером Отрядов Самоубийц и директором МОЛОТа, замены ЩИТу. У Нормана длинный список злодеяний, но, может, он сможет сделать что-то хорошее, пытаясь обмануть всех.",
     "similarity": 0.48662319779396057,
     "path": "Entity/Characters/Avatars/Shipping/GreenGoblin.prototype",
     "verdict": "BAD"
@@ -13130,7 +13130,7 @@
   {
     "id": "15906453862877824269",
     "english": "Upgrades an Epic or Cosmic Insignia to Item Grade 63.",
-    "russian": "Улучшение символики уровня 66 до уровня 69.\nПри этом дополнения не выбираются заново, а масштабируются в соответствии с уровнем.",
+    "russian": "Улучшает Эпический или Космический герб до предметного уровня 63.",
     "similarity": 0.4876553416252136,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeInsigniaTo63.prototype",
     "verdict": "BAD"
@@ -13202,7 +13202,7 @@
   {
     "id": "8931074864282076527",
     "english": "Oh, footwear. I forget that's a thing with you guys.\n—Rocket Raccoon",
-    "russian": "А, обувь. Не понимаю, что тебя так разволновало.\n—Серебряный Сёрфер",
+    "russian": "О, обувь. Я забыл, что это вообще существует у вас.\n— Ракета Енот",
     "similarity": 0.48851972818374634,
     "path": "Entity/Items/Armor/Prototypes/Starlord/o4Boots/Boots02.prototype",
     "verdict": "BAD"
@@ -13274,7 +13274,7 @@
   {
     "id": "10481194510516487442",
     "english": "You said this place was secure!",
-    "russian": "Кто говорит, что тут нам не помешают?!",
+    "russian": "Ты говорил, что это место безопасно!",
     "similarity": 0.4894041121006012,
     "path": "Missions/Prototypes/Act1/Ch02BrooklynDocks/TreasureRooms/TRConstructionSiteFisheryMaggia1.prototype",
     "verdict": "BAD"
@@ -13490,7 +13490,7 @@
   {
     "id": "638100714875258187",
     "english": "$damageTypeOverTime$ Damage: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ per level)#/hidden# twice per second",
-    "russian": "При ударе наносит #mark#Метку#/mark# на любого #powermechanic#Элитного#/powermechanic# противника или #powermechanic#Босса#/powermechanic#",
+    "russian": "Урон $damageTypeOverTime$: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# два раза в секунду",
     "similarity": 0.4925328493118286,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRangeOverTimeFrontal.prototype",
     "verdict": "BAD"
@@ -13498,7 +13498,7 @@
   {
     "id": "11032868882064082246",
     "english": "$damageTypeOverTime$ Damage: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ per level)#/hidden# twice per second",
-    "russian": "При ударе наносит #mark#Метку#/mark# на любого #powermechanic#Элитного#/powermechanic# противника или #powermechanic#Босса#/powermechanic#",
+    "russian": "Урон $damageTypeOverTime$: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# два раза в секунду",
     "similarity": 0.4925328493118286,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRangeOverTimeRear.prototype",
     "verdict": "BAD"
@@ -13506,7 +13506,7 @@
   {
     "id": "14190269130003580235",
     "english": "$damageTypeOverTime$ Damage: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ per level)#/hidden# twice per second",
-    "russian": "При ударе наносит #mark#Метку#/mark# на любого #powermechanic#Элитного#/powermechanic# противника или #powermechanic#Босса#/powermechanic#",
+    "russian": "Урон $damageTypeOverTime$: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# два раза в секунду",
     "similarity": 0.4925328493118286,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRangeOverTimeTurret.prototype",
     "verdict": "BAD"
@@ -13554,7 +13554,7 @@
   {
     "id": "3186844134861702412",
     "english": "Number of The Whole 9 Yards empowered attacks expended",
-    "russian": "Все усиленные атаки Старика Ведроголового израсходованы.",
+    "russian": "Количество использованных усиленных атак The Whole 9 Yards",
     "similarity": 0.4931336045265198,
     "path": "Powers/ItemPowers/UniquesPowers/Unique035ReloadStackingPower.prototype",
     "verdict": "BAD"
@@ -13570,7 +13570,7 @@
   {
     "id": "7234300209487480140",
     "english": "Requires: any Element",
-    "russian": "Требуется: фундаментальная астральная эссенция и фундаментальная ионная частица",
+    "russian": "Требуется: любой элемент",
     "similarity": 0.4931960701942444,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/FlaskOfSpiritGreaterRecipe.prototype",
     "verdict": "BAD"
@@ -13786,7 +13786,7 @@
   {
     "id": "3189694077710370161",
     "english": "I can't just wait all day for something to happen.",
-    "russian": "Весь день прождал, когда наконец в дело пойдем.",
+    "russian": "Я не могу просто весь день сидеть и ждать, пока что-то случится.",
     "similarity": 0.4960927963256836,
     "path": "Missions/Prototypes/Act2/Ch05MutantTown/Discoveries/PurifierBlockade.prototype",
     "verdict": "BAD"
@@ -14058,7 +14058,7 @@
   {
     "id": "4306664571461109114",
     "english": "Mister Fantastic first appeared in Fantastic Four #1 (November 1961).",
-    "russian": "Женщина-Халк впервые появилась в комиксе \"Savage She-Hulk\" № 1 (февраль 1980 г.)",
+    "russian": "Мистер Фантастик впервые появился в Fantastic Four №1 (ноябрь 1961).",
     "similarity": 0.4991282522678375,
     "path": "UI/LoadingScreenTips/AvatarTips/MrFantasticTips.prototype",
     "verdict": "BAD"
@@ -14066,7 +14066,7 @@
   {
     "id": "11245615783627785627",
     "english": "Time to celebrate St. Patrick's Day! Use this item to claim your Daily Gift of 5 Eternity Splinters, 5 Cube Shards, Lucky Four Leaf Clovers, a Festive St. Patrick's Day Hat, and a Legendary Piece of Rainbow!\nThis cannot be used in hubs.",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Время праздновать День Святого Патрика! Используйте этот предмет, чтобы получить ежедневный подарок: 5 Осколков Вечности, 5 Кубических Осколков, Счастливые четырехлистные клеверы, праздничную шляпу ко Дню Святого Патрика и легендарный кусок радуги!\nЭтот предмет нельзя использовать в хабах.",
     "similarity": 0.49915656447410583,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/DailyGiftStPatricksDay.prototype",
     "verdict": "BAD"
@@ -14130,7 +14130,7 @@
   {
     "id": "12727091359862883647",
     "english": "#mission#Heimdall#/mission# can be found in Odin's Palace near the Rainbow Bridge. He has been obsessed with trying to get into Doop's world.",
-    "russian": "#mission#Кроссбоунс#/mission# находится возле Базара в Мадрипуре, куда можно попасть через точку маршрута #mission#Погоня за Кроссбоунсом#/mission#.",
+    "russian": "#mission#Хеймдалль#/mission# находится во дворце Одина рядом с Радужным мостом. Он одержим попытками попасть в мир Дупа.",
     "similarity": 0.49971649050712585,
     "path": "Missions/Prototypes/PVEEndgame/StaticScenarios/XMasGiftXChange.prototype",
     "verdict": "BAD"
@@ -14234,7 +14234,7 @@
   {
     "id": "2500884338219287916",
     "english": "And then I said, \"Barium? But he's not even dead yet!\"",
-    "russian": "А дальше написано \"И титровать до посинения\"!",
+    "russian": "А потом я сказал: «Барий? Но он ведь ещё даже не умер!»",
     "similarity": 0.5008307695388794,
     "path": "Missions/Prototypes/Act1/Ch02BrooklynDocks/Discoveries/AIMJoke3.prototype",
     "verdict": "BAD"
@@ -14434,7 +14434,7 @@
   {
     "id": "10692165790876042505",
     "english": "Requires: Level 80 Legendary Item that cost 1,000 Odin Marks",
-    "russian": "Требуется: легендарный предмет, исторический конфигуратор",
+    "russian": "Требуется: легендарный предмет 80 уровня стоимостью 1 000 знаков Одина",
     "similarity": 0.5032628178596497,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund1000Recipe.prototype",
     "verdict": "BAD"
@@ -14554,7 +14554,7 @@
   {
     "id": "10145811054276052285",
     "english": "Armor Maximum Damage Absorbed: $condition0.secondaryResourceMax.nofraction$ ($evalRegisterFloat0.pct.precision1$% of Maximum Health)",
-    "russian": "Бонус брони: +$evalregisterfloat0.pct.precision1$% к броне и регенерации брони",
+    "russian": "Максимальный поглощённый бронёй урон: $condition0.secondaryResourceMax.nofraction$ ($evalRegisterFloat0.pct.precision1$% от максимального здоровья)",
     "similarity": 0.5043883323669434,
     "path": "Localization/Translations/Powers/TooltipStrings/Colossus/SteelSkinArmorCapacityER0.prototype",
     "verdict": "BAD"
@@ -14634,7 +14634,7 @@
   {
     "id": "13248516749246203291",
     "english": "Use this item to make a Happy Jack O'Lantern briefly appear on your head!\nThis item is #emphasis#re-usable!#/emphasis#",
-    "russian": "Щелкните ПКМ, чтобы на вашей голове ненадолго появилась шляпа в честь Дня св. Патрика!",
+    "russian": "Используйте этот предмет, чтобы на вашей голове ненадолго появился Весёлый Джек-фонарь!\nЭтот предмет #emphasis#многоразовый!#/emphasis#",
     "similarity": 0.5050585269927979,
     "path": "Entity/Items/Artifacts/HalloweenVisualPumpkinPotion1.prototype",
     "verdict": "BAD"
@@ -14826,7 +14826,7 @@
   {
     "id": "4239617507607119107",
     "english": "Requires: Level 80 Legendary Item that cost 2,000 Odin Marks",
-    "russian": "Требуется: легендарный предмет, исторический конфигуратор",
+    "russian": "Требуется: легендарный предмет 80 уровня стоимостью 2 000 отметок Одина",
     "similarity": 0.5070986151695251,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund2000Recipe.prototype",
     "verdict": "BAD"
@@ -14890,7 +14890,7 @@
   {
     "id": "384370732968838467",
     "english": "#waypointheader#Airfield Showdown (Cosmic)#/waypointheader#    #waypointlabel#LOCATION:#/waypointlabel# #waypointlevels#Germany#/waypointlevels##waypointlabel#  Level 60\n#waypointtext#Iron Man is calling for a finish to this conflict. This is it. Will you heed this challenge and go to War?#/waypointtext#",
-    "russian": "#waypointheader#Патруль в Мидтауне (красный)#/waypointheader#    #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Мидтаун#/waypointlevels##waypointlabel# Уровень: 60\n#waypointtext#С тех пор, как Космический Куб попал в руки Доктора Дума, преступность расцвела пышным цветом. Криминальные организации со всех уголков земного шара - да что там, со всех концов Галактики - ловят рыбку в мутной воде. \nВаша задача - патрулировать манхэттенский Мидтаун и защищать его обитателей, отражая натиск групп суперзлодеев.#/waypointtext#",
+    "russian": "#waypointheader#Развязка на аэродроме (Космический)#/waypointheader#    #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Германия#/waypointlevels##waypointlabel#  Уровень 60\n#waypointtext#Железный Человек призывает положить конец этому конфликту. Вот оно. Отзовётесь ли вы на этот вызов и пойдёте в бой?#/waypointtext#",
     "similarity": 0.5080440640449524,
     "path": "StoryStructure/Prototypes/EndGame/ChallengeModes/CivilWarAirfieldCaptainAmericaChapterCosmic.prototype",
     "verdict": "BAD"
@@ -14946,7 +14946,7 @@
   {
     "id": "10633903116458526015",
     "english": "I don't have time for this nonsense!",
-    "russian": "Только этого не хватало!",
+    "russian": "У меня нет времени на эту ерунду!",
     "similarity": 0.5086326599121094,
     "path": "Missions/Prototypes/Act1/Ch01HellsKitchen/Events/Original/OMArson/OMArsonRescueFromFireV4.prototype",
     "verdict": "BAD"
@@ -15138,7 +15138,7 @@
   {
     "id": "3217175919889745278",
     "english": "You have been infused with #stolenpower#Black Cat's#/stolenpower# feline reflexes, allowing you to deftly evade what would have been fatal attacks.",
-    "russian": "Обрести обширные, вбитые насильно знания о военном деле #stolenpower#Зимнего Солдата#/stolenpower#.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "russian": "Вы были наделены #stolenpower#рефлексами Черной Кошки#/stolenpower#, позволяющими ловко избегать смертельных атак.",
     "similarity": 0.5103775262832642,
     "path": "Powers/Player/Rogue/StolenPowers/PassiveBlackCat.prototype",
     "verdict": "BAD"
@@ -15146,7 +15146,7 @@
   {
     "id": "4907792879888565517",
     "english": "$primarymanabehaviorname$ Cost reduced to 0 when used at maximum combo points",
-    "russian": "Расход $primaryManaBehaviorName.locflagG$: $enduranceChangeBase.abs$ ед.",
+    "russian": "Стоимость $primarymanabehaviorname$ снижается до 0 при использовании с максимальными очками комбо",
     "similarity": 0.5104873776435852,
     "path": "Localization/Translations/Powers/TooltipStrings/CostInfoStrings/EnduranceReductionComboPoints.prototype",
     "verdict": "BAD"
@@ -15226,7 +15226,7 @@
   {
     "id": "14641388812380210551",
     "english": "This special holiday gift contains 5 very rare Runes!\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "Состоит из нескольких фестивальных фейерверков! #emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "Этот специальный праздничный подарок содержит 5 очень редких рун!\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.5112998485565186,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/ChristmasGiftRunes.prototype",
     "verdict": "BAD"
@@ -15538,7 +15538,7 @@
   {
     "id": "9359412515354641776",
     "english": "This holiday gift contains a special Holiday Pet!\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "Состоит из нескольких фестивальных фейерверков! #emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "Этот праздничный подарок содержит специального праздничного питомца!\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.5146509408950806,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/ChristmasGiftHerbie.prototype",
     "verdict": "BAD"
@@ -15562,7 +15562,7 @@
   {
     "id": "13978852869599004013",
     "english": "Use this item to consume the Never Melting Ice Cream Bar.\nGain 100 Critical Hit Rating and 500 Energy Defense Rating for 1 hour. Each additional Never Melting Ice Cream Bar consumed will increase the duration. ",
-    "russian": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "russian": "Используйте этот предмет, чтобы съесть Несгорающий мороженое.\nПолучите +100 к рейтингу критического удара и +500 к рейтингу защиты энергии на 1 час. Каждое дополнительное съеденное Несгорающее мороженое увеличивает длительность.",
     "similarity": 0.5147185921669006,
     "path": "Entity/Items/Consumables/Prototypes/IceCreamBar.prototype",
     "verdict": "BAD"
@@ -15642,7 +15642,7 @@
   {
     "id": "16846760725375616366",
     "english": "Say, do you have representation?",
-    "russian": "У меня есть визитка?",
+    "russian": "Слушай, у тебя есть визитка?",
     "similarity": 0.5157297849655151,
     "path": "Missions/Prototypes/PVEEndgame/PatrolMidtown/Discoveries/Redacted/ManhattanSocialGroupV1.prototype",
     "verdict": "BAD"
@@ -15874,7 +15874,7 @@
   {
     "id": "6282571250878383367",
     "english": "Empty StarkTech Power Sphere Slot",
-    "russian": "Сфера \"СтаркТех\"",
+    "russian": "Пустой слот сферы энергии \"СтаркТех\"",
     "similarity": 0.5175653100013733,
     "path": "Localization/Translations/Sockets/Socket2.prototype",
     "verdict": "BAD"
@@ -16106,7 +16106,7 @@
   {
     "id": "15878516878741734680",
     "english": "+$DamageMultVsRank.pct$% to Elite/Boss enemies",
-    "russian": "Урон: +$powerReference0.condition0.DamageMultForPower.pct$% пока #emphasis#$powerReference1.powerName$#/emphasis# или #emphasis#$powerReference2.powerName$#/emphasis# на перезарядке",
+    "russian": "+$DamageMultVsRank.pct$% урона по элитным и боссам",
     "similarity": 0.5202370882034302,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/DamageMultVsRankEliteBoss.prototype",
     "verdict": "BAD"
@@ -16162,7 +16162,7 @@
   {
     "id": "17543472397182698824",
     "english": "#emphasis#$SecondaryActionButtonPressed$#/emphasis# to dodge telegraphed attacks with Black Widow's movement power.",
-    "russian": "Нажмите $PowerButtonPressed 2$ на стражах, чтобы применить дополнительную способность Кэпа.",
+    "russian": "#emphasis#$SecondaryActionButtonPressed$#/emphasis# — уклоняйтесь от телеографируемых атак с помощью перемещения Черной Вдовы.",
     "similarity": 0.5205797553062439,
     "path": "Tutorial/HUDTutorials/NPETimesTutorials/TimesPowerWidowMovement.prototype",
     "verdict": "BAD"
@@ -16202,7 +16202,7 @@
   {
     "id": "4582066850892219712",
     "english": "#arsenal#Suppressing Fire:#/arsenal# Slow: -$MovementSpeedDecrPct.pct$% attack/move speed for $duration$",
-    "russian": "#bionic#Прилив адреналина:#/bionic# вы восстанавливаете $EnduranceChangeBase$ ед. $PrimaryManaBehaviorName.locflagG$ после победы над врагом",
+    "russian": "#arsenal#Подавляющий огонь:#/arsenal# Замедление: -$MovementSpeedDecrPct.pct$% скорость атаки/движения на $duration$",
     "similarity": 0.521145224571228,
     "path": "Localization/Translations/Powers/TooltipStrings/WinterSoldier/BulletSprayArsenal.prototype",
     "verdict": "BAD"
@@ -16354,7 +16354,7 @@
   {
     "id": "9479095696008021312",
     "english": "Earn $secondaryResourceChangeBase$ #hardknocks#Hard Knocks#/hardknocks# when you get hit",
-    "russian": "Дает $secondaryResourceChangeBase$ очк. комбо",
+    "russian": "Получайте $secondaryResourceChangeBase$ #hardknocks#Тяжёлые удары#/hardknocks#, когда вас бьют",
     "similarity": 0.5224757194519043,
     "path": "Localization/Translations/Powers/TooltipStrings/Thing/SecondaryResourceChangeBaseOnGotHit.prototype",
     "verdict": "BAD"
@@ -16378,7 +16378,7 @@
   {
     "id": "6240156670786798922",
     "english": "Lucky Clover Buff Gained: Defeat Doctor Doom!",
-    "russian": "Получены данные о беспорядках: Победите Кроссбоунса!",
+    "russian": "Получен бонус счастливого клевера: победите Доктора Дума!",
     "similarity": 0.5229441523551941,
     "path": "UI/UINotifications/BannerMessages/JackOLanternDrDoomMessage.prototype",
     "verdict": "BAD"
@@ -16746,7 +16746,7 @@
   {
     "id": "3244461945955550627",
     "english": "Time to celebrate Carnival! Use this item to claim your Daily Gift of 5 Eternity Splinters, 5 Cube Shards, Carnival Beads, Mardi Gras Beads, and a Carnival Mask!\nThis cannot be used in hubs.",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Время праздновать карнавал! Используйте этот предмет, чтобы получить ежедневный подарок: 5 осколков вечности, 5 кубических осколков, карнавальные бусы, бусы Марди Гра и карнавальную маску!\nЭтот предмет нельзя использовать в хабах.",
     "similarity": 0.5256401896476746,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/DailyGiftCarnival.prototype",
     "verdict": "BAD"
@@ -16754,7 +16754,7 @@
   {
     "id": "6171779653311530343",
     "english": "$primaryManaBehaviorName$ Cost Reduction affixes reduce #powername#$powerName$'s#/powername# cooldown instead of reducing $primaryManaBehaviorName$ costs\nCooldown currently reduced by: $evalRegisterFloat0.abs.pct$% (Max: 50%)",
-    "russian": "Перезаряжается  $actionsTriggeredOnPowerEvent1.eventParam$ с., если активировать снова в течение $lifespan$ призыва #cyan#($powerReference0.powerName$ изменяет эффект)#/cyan#",
+    "russian": "Аффиксы сокращения стоимости $primaryManaBehaviorName$ уменьшают время восстановления #powername#$powerName$#/powername# вместо уменьшения стоимости $primaryManaBehaviorName$\nВремя восстановления сейчас уменьшено на: $evalRegisterFloat0.abs.pct$% (максимум: 50%)",
     "similarity": 0.5257356762886047,
     "path": "Localization/Translations/Powers/TooltipStrings/Punisher/ReloadCostReduction.prototype",
     "verdict": "BAD"
@@ -16850,7 +16850,7 @@
   {
     "id": "13680910670379550003",
     "english": "Coat of the Skull Achievement Reward",
-    "russian": "Награда за достижение - контроллер октобота",
+    "russian": "Награда за достижение «Плащ Черепа»",
     "similarity": 0.526449978351593,
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/Unique380Reward.prototype",
     "verdict": "BAD"
@@ -17250,7 +17250,7 @@
   {
     "id": "6315717360397976894",
     "english": "How else are we getting that head off?",
-    "russian": "И что нам теперь делать?",
+    "russian": "Как ещё мы получим эту голову?",
     "similarity": 0.5301448702812195,
     "path": "Missions/Prototypes/Story/CH07SavageLand/Discoveries/MTRexEatsKingLizard.prototype",
     "verdict": "BAD"
@@ -17402,7 +17402,7 @@
   {
     "id": "16287484592438838601",
     "english": "+$evalRegisterFloat0.pct$% if another #powermechanic#Cooldown Synergy#/powermechanic# power is currently on cooldown",
-    "russian": "Наносит дополнительно $evalregisterfloat0.pct$% урона за каждый набор хитрости в наличии",
+    "russian": "+$evalRegisterFloat0.pct$% если другой #powermechanic#сила с синергией восстановления#/powermechanic# сейчас на восстановлении",
     "similarity": 0.5309579968452454,
     "path": "Localization/Translations/Powers/TooltipStrings/MrFantastic/MrFantasticCooldownSynergyBonus.prototype",
     "verdict": "BAD"
@@ -17434,7 +17434,7 @@
   {
     "id": "15287913898688841016",
     "english": "I don't know what's real!",
-    "russian": "Это что, на самом деле происходит?",
+    "russian": "Я не знаю, что реально!",
     "similarity": 0.5314134955406189,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/BronxZoo/ZooJungleInstance/Discoveries/CivsRunSoloM07.prototype",
     "verdict": "BAD"
@@ -17818,7 +17818,7 @@
   {
     "id": "15281586969483085117",
     "english": "#mission#Rocket Rex#/mission# monstrosities and #mission#Specimen Collection Efforts#/mission# are found throughout the Dinosaur Jungle.",
-    "russian": "#mission#Алекс \"Тухляк\" Уильямс#/mission# находится в заброшенной церкви. #mission#Карен Пейдж#/mission# - наподалеку от конторы Нельсона и Мердока. #mission#Офицер Пацифико#/mission# - на парковке у спортзала Фогвелла. mission#Ниндзя клана Руки#/mission# появляются из люков на перекрестках в районе разрушенных особняков.",
+    "russian": "#mission#Рокет Рекс#/mission# монстры и #mission#Сбор образцов#/mission# встречаются по всему Джунглям Динозавров.",
     "similarity": 0.5351664423942566,
     "path": "Missions/Prototypes/Act2/Ch07SavageLand/CH07MinorDinosaurJungle2.prototype",
     "verdict": "BAD"
@@ -18306,7 +18306,7 @@
   {
     "id": "4785481303743071500",
     "english": "This effect is doubled for $duration$ when you use a #powerkeyword#Movement#/powerkeyword# Power",
-    "russian": "Рейтинг сокрушительного удара: +$SuperCritRatingBonusAddPowerKeyword.noFraction$ #hidden# ($SuperCritRatingBonusAddPowerKeyword.precision1.divByLevel$ за каждый уровень) #/hidden# для атак ближнего боя (бонус удваивается на $duration$, если вы детонируете пульсар способностью)",
+    "russian": "Этот эффект удваивается на $duration$, когда вы используете #powerkeyword#силу движения#/powerkeyword#",
     "similarity": 0.5397686958312988,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/DoublesWhenYouUseAMovementPower.prototype",
     "verdict": "BAD"
@@ -18882,7 +18882,7 @@
   {
     "id": "4982267015868515657",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448705554008484,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade2Offense.prototype",
     "verdict": "BAD"
@@ -18890,7 +18890,7 @@
   {
     "id": "1785888874566321477",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706150054932,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade3Offense.prototype",
     "verdict": "BAD"
@@ -18898,7 +18898,7 @@
   {
     "id": "4742643665072620871",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706150054932,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade4Defense.prototype",
     "verdict": "BAD"
@@ -18906,7 +18906,7 @@
   {
     "id": "5030688962432075026",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706150054932,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade1Offense.prototype",
     "verdict": "BAD"
@@ -18914,7 +18914,7 @@
   {
     "id": "8009486800768402761",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706150054932,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade3Defense.prototype",
     "verdict": "BAD"
@@ -18922,7 +18922,7 @@
   {
     "id": "12098272087191127371",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706150054932,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade2Defense.prototype",
     "verdict": "BAD"
@@ -18930,7 +18930,7 @@
   {
     "id": "17801228794956023108",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706150054932,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade1Defense.prototype",
     "verdict": "BAD"
@@ -18938,7 +18938,7 @@
   {
     "id": "15707574461704242502",
     "english": "Requires: Catalyst",
-    "russian": "Требуется: костюм, различные элементы",
+    "russian": "Требуется: Катализатор",
     "similarity": 0.5448706746101379,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade4Offense.prototype",
     "verdict": "BAD"
@@ -19186,7 +19186,7 @@
   {
     "id": "10900310707939444025",
     "english": "Generate $SecondaryResourceCOTPct$ #powermechanic#Photonic Energy#/powermechanic# per second",
-    "russian": "Создает 200 ед. фотонной энергии в секунду",
+    "russian": "Генерирует $SecondaryResourceCOTPct$ #powermechanic#Фотонной энергии#/powermechanic# в секунду",
     "similarity": 0.54644376039505,
     "path": "Localization/Translations/Powers/TooltipStrings/MsMarvel/PhotonicEnergyRegen.prototype",
     "verdict": "BAD"
@@ -19354,7 +19354,7 @@
   {
     "id": "9938778439389611395",
     "english": "Invoke the telepathic superiority of the #stolenpower#Sisters of Magma#/stolenpower#, manifesting a wave of mental energy that decimates all enemies in your way.",
-    "russian": "Мощь #stolenpower#Кулака Н'астирха#/stolenpower# позволяет ударить по земле, вызвав землетрясение, ощутимое даже по шкале Рихтера.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "russian": "Призывает телепатическое превосходство #stolenpower#Сестёр Магмы#/stolenpower#, создавая волну ментальной энергии, уничтожающую всех врагов на пути.",
     "similarity": 0.5479519963264465,
     "path": "Powers/Player/Rogue/StolenPowers/MistressOfMagmaMentalBlast.prototype",
     "verdict": "BAD"
@@ -19642,7 +19642,7 @@
   {
     "id": "6567470527828723057",
     "english": "This box contains 25 Asgard Relics.\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке 25 реликвий Асгарда.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.550805389881134,
     "path": "Entity/Items/Consumables/Prototypes/DangerRoom/DangerRoomVendorRewards/DangerRoomRelicBoxMelee.prototype",
     "verdict": "BAD"
@@ -19650,7 +19650,7 @@
   {
     "id": "16167070915036251412",
     "english": "+5% Damage Rating versus Bosses for 5 minutes.\nUsing another potion of this type will reset the duration to 5 minutes.",
-    "russian": "+50% к опыту\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность.",
+    "russian": "+5% рейтинг урона против боссов на 5 минут.\nИспользование другого такого зелья сбросит длительность обратно на 5 минут.",
     "similarity": 0.5508072376251221,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Conditions/HoloSimPotion2Condition.prototype",
     "verdict": "BAD"
@@ -19930,7 +19930,7 @@
   {
     "id": "15258812325569234228",
     "english": "You lost? Let my boys help you out.",
-    "russian": "Кого-то ищешь? Мои парни тебе помогут.",
+    "russian": "Заблудился? Пусть мои ребята помогут тебе.",
     "similarity": 0.5534016489982605,
     "path": "Missions/Prototypes/Act1/Ch04HellsKitchen2/Discoveries/MaggiaAssault1.prototype",
     "verdict": "BAD"
@@ -19938,7 +19938,7 @@
   {
     "id": "6338116538325730669",
     "english": "Use this item for a reward for participating in Industry City Patrol.\n#emphasis#This will spawn items for your current hero.#/emphasis#\nThis cannot be used in hubs.",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет для награды за участие в патруле Промышленного района.\n#emphasis#Это создаст предметы для вашего текущего героя.#/emphasis#\nЭтот предмет нельзя использовать в хабах.",
     "similarity": 0.5534107685089111,
     "path": "Entity/Items/Consumables/Prototypes/SharedQuestLootBox/PatrolBrooklynPhaseLootBox.prototype",
     "verdict": "BAD"
@@ -19946,7 +19946,7 @@
   {
     "id": "13083806187902469486",
     "english": "Use this item for a reward for participating in Industry City Patrol.\n#emphasis#This will spawn items for your current hero.#/emphasis#\nThis cannot be used in hubs.",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет для награды за участие в патруле Промышленного района.\n#emphasis#Это создаст предметы для вашего текущего героя.#/emphasis#\nЭтот предмет нельзя использовать в хабах.",
     "similarity": 0.5534107685089111,
     "path": "Entity/Items/Consumables/Prototypes/SharedQuestLootBox/Deprecated/ZZZPatrolBrooklynPhaseLootBox.prototype",
     "verdict": "BAD"
@@ -19994,7 +19994,7 @@
   {
     "id": "11025015594495575370",
     "english": "Patrol Midtown and take down Bosses and their elite henchmen.",
-    "russian": "Патрулировать Мидтаун и уничтожить спрятанные машины А.И.М.",
+    "russian": "Патрулируйте Мидтаун и уничтожайте боссов и их элитных приспешников.",
     "similarity": 0.5536288619041443,
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol2Mon.prototype",
     "verdict": "BAD"
@@ -20354,7 +20354,7 @@
   {
     "id": "16800576555425137971",
     "english": "I was just looking for work, honest!",
-    "russian": "Я первый день на работе!",
+    "russian": "Я просто искал работу, честно!",
     "similarity": 0.5572953820228577,
     "path": "Populations/Clusters/Generic/OverheadText/OverheadTextGenericThugThanksV05.prototype",
     "verdict": "BAD"
@@ -20546,7 +20546,7 @@
   {
     "id": "17754996495659369784",
     "english": "Requires: any Unique Armor or Ring",
-    "russian": "Требуется: уник. броня или кольцо, чистый улучш. геном, чистое нанотехволокно, чистая астральная эссенция, 2 нестабильные молекулы",
+    "russian": "Требуется: любой уникальный доспех или кольцо",
     "similarity": 0.5589385628700256,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/RerollaUnique.prototype",
     "verdict": "BAD"
@@ -20706,7 +20706,7 @@
   {
     "id": "5583485832260814141",
     "english": "Uh, we're going to need more backup.",
-    "russian": "Так, кажется, нам нужна помога.",
+    "russian": "Эээ, нам нужна подмога.",
     "similarity": 0.560687780380249,
     "path": "Populations/Clusters/Generic/OverheadText/OverheadTextPoliceToCuriousV08.prototype",
     "verdict": "BAD"
@@ -20738,7 +20738,7 @@
   {
     "id": "13038873957924209939",
     "english": "PvE Wave Battle",
-    "russian": "PvE – отражение нескольких атак",
+    "russian": "PvE Волневая Битва",
     "similarity": 0.5608991384506226,
     "path": "Metagame/PvEWaveBase/PvEWaveBattle/PvEWaveBattleQueue.prototype",
     "verdict": "BAD"
@@ -20858,7 +20858,7 @@
   {
     "id": "785220928297239828",
     "english": "Passive - Cosmic Energy",
-    "russian": "Пассивная - Скряга",
+    "russian": "Пассивная — Космическая Энергия",
     "similarity": 0.5621434450149536,
     "path": "Powers/StolenPowers/StealablePowers/CosmicDoopStolenPower.prototype",
     "verdict": "BAD"
@@ -20906,7 +20906,7 @@
   {
     "id": "14195861972036552041",
     "english": "Optional Event: Outbreak Forestall\nCollect the Virus Samples\n\nI have reports A.I.M. is developing a deadly flesh eating virus. You must #mission#collect 6 samples#/mission# so that we may confirm this intel.",
-    "russian": "А.И.М. разрабатывает новую серию вооруженных мехов. Вы должны собрать блоки данных на фабрике, это даст нам преимущество. Ваша задача - #mission#собрать 6 блоков данных#/mission#. Удачи!",
+    "russian": "Опциональное событие: Предотвращение вспышки\nСоберите образцы вируса\n\nЕсть доклады, что А.И.М. разрабатывает смертельный вирус, пожирающий плоть. Вам нужно #mission#собрать 6 образцов#/mission#, чтобы подтвердить эту информацию.",
     "similarity": 0.562763512134552,
     "path": "Missions/Prototypes/PVEEndgame/DangerRoom/AIMFacility/DRAIMFacCollectSamplesEventT1.prototype",
     "verdict": "BAD"
@@ -21178,7 +21178,7 @@
   {
     "id": "3005836938644555017",
     "english": "This consumes your Legendary Item and gives you a chest of 2,000 Odin Marks in return. \n#red#NOTE:#/red# You can only exchange #red#Level 80 Legendary Items#/red# that were previously purchased for #red#2,000 Odin Marks#/red#.",
-    "russian": "В обмен на легендарный предмет и исторический конфигуратор вы получаете сундук с 300 марок Одина. \nНельзя обменивать легендарные предметы ограниченного выпуска.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 2000 знаков Одина.\n#red#ПРИМЕЧАНИЕ:#/red# Можно обменять только #red#легендарные предметы уровня 80#/red#, которые были ранее куплены за #red#2000 знаков Одина#/red#.",
     "similarity": 0.564551055431366,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund2000Recipe.prototype",
     "verdict": "BAD"
@@ -21482,7 +21482,7 @@
   {
     "id": "10920558979076457796",
     "english": "Kids these days got no respect for tradition.",
-    "russian": "Не уважает нынешняя молодежь старших.",
+    "russian": "Современная молодёжь не уважает традиции.",
     "similarity": 0.5665664672851562,
     "path": "Missions/Prototypes/Act1/Ch02BrooklynDocks/Discoveries/MaggiaTalkingHood1.prototype",
     "verdict": "BAD"
@@ -21882,7 +21882,7 @@
   {
     "id": "13360405083828585740",
     "english": "Applies 2 stacks of #powermechanic#Hellfire#/powermechanic# on hit",
-    "russian": "Применяется 1 дополнительный набор #emphasis#Адского Пламени#/emphasis# при полном заряде",
+    "russian": "Накладывает 2 стака #powermechanic#Адского огня#/powermechanic# при попадании",
     "similarity": 0.5688213109970093,
     "path": "Localization/Translations/Powers/TooltipStrings/GhostRider/Hellfire2ndStackOnHit.prototype",
     "verdict": "BAD"
@@ -21962,7 +21962,7 @@
   {
     "id": "3439226446219314449",
     "english": "This consumes your Legendary Item and gives you a chest of 800 Odin Marks in return. \n#orange#NOTE:#/orange# You can only exchange #orange#Level 80 Legendary Items#/orange# that were previously purchased for #orange#1,000 Odin Marks#/orange#.",
-    "russian": "В обмен на легендарный предмет и исторический конфигуратор вы получаете сундук с 300 марок Одина. \nНельзя обменивать легендарные предметы ограниченного выпуска.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 800 марками Одина.\n#orange#ПРИМЕЧАНИЕ:#/orange# Можно обменять только #orange#легендарные предметы уровня 80#/orange#, которые были ранее куплены за #orange#1000 марок Одина#/orange#.",
     "similarity": 0.5693143606185913,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund1000Recipe.prototype",
     "verdict": "BAD"
@@ -21970,7 +21970,7 @@
   {
     "id": "16679166608831546639",
     "english": "This consumes your Legendary Item and gives you a chest of 800 Odin Marks in return. \n#orange#NOTE:#/orange# You can only exchange #orange#Level 80 Legendary Items#/orange# that were previously purchased for #orange#1,000 Odin Marks#/orange#.",
-    "russian": "В обмен на легендарный предмет и исторический конфигуратор вы получаете сундук с 300 марок Одина. \nНельзя обменивать легендарные предметы ограниченного выпуска.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 800 марками Одина.\n#orange#ПРИМЕЧАНИЕ:#/orange# Можно обменять только #orange#легендарные предметы уровня 80#/orange#, которые были ранее куплены за #orange#1000 марок Одина#/orange#.",
     "similarity": 0.5693143606185913,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund1000Recipe.prototype",
     "verdict": "BAD"
@@ -21994,7 +21994,7 @@
   {
     "id": "8011474799390295362",
     "english": "#red#Airing of Grievances:#/red# $procchancestring$ chance when you hit to weaken all enemies in a small radius by $param1.power.condition0.damagepctweaken.pct$% for $param1.power.condition0.duration$ ($param1.power.cooldown$ cooldown)",
-    "russian": "Если вы наносите Сокрушительный удар, то получаете +$param1.power.condition0.statDurabilityModifier$ к выносливости, +$param1.power.condition0.statStrengthModifier$ к силе и +$param1.power.condition0.statFightingSkillsModifier$ к боевым способностям на $param1.power.condition0.duration$",
+    "russian": "#red#Выражение обиды:#/red# $procchancestring$ шанс при попадании ослабить всех врагов в малом радиусе на $param1.power.condition0.damagepctweaken.pct$% на $param1.power.condition0.duration$ секунд ($param1.power.cooldown$ перезарядка)",
     "similarity": 0.5693530440330505,
     "path": "Entity/Items/Artifacts/Prototypes/Tier1Artifacts/Art268.prototype",
     "verdict": "BAD"
@@ -22042,7 +22042,7 @@
   {
     "id": "3709682877662627136",
     "english": "I'm glad to be outta that warehouse for a change.",
-    "russian": "Как же мне обрыдло торчать на том складе.",
+    "russian": "Рад наконец-то выбраться из того склада.",
     "similarity": 0.5697655081748962,
     "path": "Missions/Prototypes/Act1/Ch01HellsKitchen/Discoveries/MaggiaSocialV2.prototype",
     "verdict": "BAD"
@@ -22386,7 +22386,7 @@
   {
     "id": "6916376615522075918",
     "english": "Do you have any idea who you're messing with?",
-    "russian": "Да ты понимаешь, кто я вообще?",
+    "russian": "Ты понимаешь, с кем связался?",
     "similarity": 0.5721005797386169,
     "path": "Missions/Prototypes/Act1/Ch04HellsKitchen2/CH04Side1PoisonontheStreets.prototype",
     "verdict": "BAD"
@@ -22530,7 +22530,7 @@
   {
     "id": "3724338105000920432",
     "english": "This consumes your Legendary Item and gives you a chest of 2,000 Odin Marks in return. \n#red#NOTE:#/red# You can only exchange #red#Level 80 Legendary Items#/red# that were previously purchased for #red#2,000 Odin Marks#/red#.",
-    "russian": "В обмен на легендарный предмет и чистый элемент вы получаете сундук с 300 марок Одина. \nНельзя обменивать легендарные предметы ограниченного выпуска.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 2000 марками Одина.\n#red#ПРИМЕЧАНИЕ:#/red# Можно обменять только #red#легендарные предметы уровня 80#/red#, которые были ранее куплены за #red#2000 марок Одина#/red#.",
     "similarity": 0.5734546184539795,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund2000Recipe.prototype",
     "verdict": "BAD"
@@ -22594,7 +22594,7 @@
   {
     "id": "5151806267135296829",
     "english": "Frost Giants are big an' deadly, but I'm sure you can take 'em down with the right...persuasion.",
-    "russian": "Ледяные гиганты здоровые и страшные, но ты враз их научишь родину любить!",
+    "russian": "Ледяные великаны большие и опасные, но я уверен, что ты справишься с ними с правильным... убеждением.",
     "similarity": 0.5737416744232178,
     "path": "Entity/Characters/NPCs/SHIELD/DumDumDugan.prototype",
     "verdict": "BAD"
@@ -22714,7 +22714,7 @@
   {
     "id": "2087523551572460848",
     "english": "You are inclean!",
-    "russian": "Нечестивцы!",
+    "russian": "Ты нечист!",
     "similarity": 0.5746161937713623,
     "path": "Metagame/DangerRoom/Populations/OverheadText/OverheadTextPurifierWakeV05.prototype",
     "verdict": "BAD"
@@ -22898,7 +22898,7 @@
   {
     "id": "12693732061050438923",
     "english": "When you use your Med Kit, your Team-Up gains a 20% damage boost for 5 seconds.",
-    "russian": "Победив врага, ваш напарник получает 1% к усилителю урона на 60 секунд. Усилители могут складываться до 30 раз, требуют 10 секунд на перезарядку и начинают отсчет заново при очередном сложении.",
+    "russian": "Когда используешь аптечку, твой напарник получает +20% урона на 5 секунд.",
     "similarity": 0.5756586790084839,
     "path": "Entity/Items/Affixes/TeamUpAffixes/CosmicTeamUpAffixes/CosmicTeamUpMedkitSteroid.prototype",
     "verdict": "BAD"
@@ -23298,7 +23298,7 @@
   {
     "id": "13623569957948753269",
     "english": "This box contains 25 Atlantis Relics.\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "В этой коробке 25 реликвий Атлантиды.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.578303337097168,
     "path": "Entity/Items/Consumables/Prototypes/DangerRoom/DangerRoomVendorRewards/DangerRoomRelicBoxCrit.prototype",
     "verdict": "BAD"
@@ -23306,7 +23306,7 @@
   {
     "id": "3757605092015539561",
     "english": "#purple#Utility#/purple#: High-Impact Throwable Cars",
-    "russian": "#yellow#Модификатор сценария:#/yellow# швыряемые автомобили",
+    "russian": "#purple#Полезность#/purple#: Бросаемые автомобили с большим эффектом",
     "similarity": 0.5783422589302063,
     "path": "Regions/Affixes/UtilityMods/DRLevelAffixThrowablesCars.prototype",
     "verdict": "BAD"
@@ -23410,7 +23410,7 @@
   {
     "id": "4464428817636394299",
     "english": "#emphasis#Generate $secondaryResourceCOTBase.precision1$ Odinforce per second#/emphasis#",
-    "russian": "Расход $primarymanabehaviorname1.locflagG$: $endurancecost1$ #cyan#(такой эффект дает $powerReference0.powerName$)#/cyan#",
+    "russian": "#emphasis#Генерирует $secondaryResourceCOTBase.precision1$ сил Одина в секунду#/emphasis#",
     "similarity": 0.579124391078949,
     "path": "Localization/Translations/Powers/TooltipStrings/Thor/OdinforceGainOverTime.prototype",
     "verdict": "BAD"
@@ -23466,7 +23466,7 @@
   {
     "id": "6656089717499233545",
     "english": "Team-Up Gear Box Box",
-    "russian": "Команда-аппаратный ящик",
+    "russian": "Коробка экипировки напарника",
     "similarity": 0.5793122053146362,
     "path": "Entity/Items/Test/TCTeamUpTestingGiftbox.prototype",
     "verdict": "BAD"
@@ -23506,7 +23506,7 @@
   {
     "id": "11376048064894076319",
     "english": "Use this item for a reward for participating in the Savage Land Siege Patrol.\n#emphasis#This will spawn items for your current hero.#/emphasis#\nThis cannot be used in hubs.",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы получить награду за участие в Патруле осады Дикой земли.\n#emphasis#Этот предмет создаст предметы для вашего текущего героя.#/emphasis#\nИспользовать нельзя в хабах.",
     "similarity": 0.5796258449554443,
     "path": "Entity/Items/Consumables/Prototypes/SharedQuestLootBox/PatrolSavagePhaseLootBox.prototype",
     "verdict": "BAD"
@@ -23522,7 +23522,7 @@
   {
     "id": "541152531219285314",
     "english": "Do the villains really need any help trashing this city?",
-    "russian": "Зачем нам злодеи? Ты и без них город на кусочки разнесешь!",
+    "russian": "Вредителям разве нужна помощь, чтобы устроить хаос в этом городе?",
     "similarity": 0.5796511769294739,
     "path": "Missions/Prototypes/Act0/CH00TutorialCity/Discoveries/TutorialPDBarricadeV02.prototype",
     "verdict": "BAD"
@@ -24298,7 +24298,7 @@
   {
     "id": "2598064381339501905",
     "english": "Storm uses Tempest as her Primary resource.  When it is filled, she can activate her Storm Surge power",
-    "russian": "Когда Шторм задействует способность-бурю, действие остальных ее активных способностей-бурь прекращается.",
+    "russian": "Шторм использует Бурю в качестве основного ресурса. Когда он заполняется, она может активировать способность Штормовой прилив.",
     "similarity": 0.5828415751457214,
     "path": "UI/LoadingScreenTips/AvatarTips/StormTips.prototype",
     "verdict": "BAD"
@@ -24738,7 +24738,7 @@
   {
     "id": "722287189300348326",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty3.prototype",
     "verdict": "BAD"
@@ -24746,7 +24746,7 @@
   {
     "id": "4671901641108227487",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty2.prototype",
     "verdict": "BAD"
@@ -24754,7 +24754,7 @@
   {
     "id": "7936403899368605089",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty1.prototype",
     "verdict": "BAD"
@@ -24762,7 +24762,7 @@
   {
     "id": "11468591003667662240",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty6.prototype",
     "verdict": "BAD"
@@ -24770,7 +24770,7 @@
   {
     "id": "12816882006403581342",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty7.prototype",
     "verdict": "BAD"
@@ -24778,7 +24778,7 @@
   {
     "id": "14034570818973730212",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty4.prototype",
     "verdict": "BAD"
@@ -24786,7 +24786,7 @@
   {
     "id": "16556498185515042213",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty8.prototype",
     "verdict": "BAD"
@@ -24794,7 +24794,7 @@
   {
     "id": "17019920251899086242",
     "english": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Experience by $usepower.condition0.experiencebonuspct1$%, your Rare Item Find by $usepower.condition0.lootbonusraritypct1$%, and your Special Item Find by $usepower.condition0.lootbonusspecialpct1$%  for $usepower.condition0.duration$.",
-    "russian": "Щелкните правой кнопкой, чтобы увеличить шанс найти редкий предмет на $usepower.condition0.lootbonusraritypct$% на $usepower.condition0.duration$. Каждый усилитель увеличивает длительность действия эффекта.",
+    "russian": "#emphasis#Вам подарили подарок! Ух ты! Вы точно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить ваш опыт на $usepower.condition0.experiencebonuspct1$%, шанс найти редкие предметы на $usepower.condition0.lootbonusraritypct1$%, и шанс найти специальные предметы на $usepower.condition0.lootbonusspecialpct1$% на $usepower.condition0.duration$.",
     "similarity": 0.5857007503509521,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/ItemRarity/Items/VdayShopBoostTripleGifty5.prototype",
     "verdict": "BAD"
@@ -24842,7 +24842,7 @@
   {
     "id": "13454931988251280651",
     "english": "Experience Bonus: +$ExperienceBonusPct$%",
-    "russian": "Шанс найти редкий предмет: +$LootBonusRarityPct$%",
+    "russian": "Бонус к опыту: +$ExperienceBonusPct$%",
     "similarity": 0.5859839916229248,
     "path": "Localization/Translations/Powers/TooltipStrings/ZZZMayBeDepreciated/ExperienceBonusPct.prototype",
     "verdict": "BAD"
@@ -25226,7 +25226,7 @@
   {
     "id": "13230000724267238770",
     "english": "And the first one says, \"I'm positive!\"",
-    "russian": "А псих отвечает: \"Мне пофигу, я экспонента!\"",
+    "russian": "А первый говорит: «Я Позитивный!»",
     "similarity": 0.5881136059761047,
     "path": "Missions/Prototypes/Act1/Ch02BrooklynDocks/Discoveries/AIMJoke2.prototype",
     "verdict": "BAD"
@@ -25754,7 +25754,7 @@
   {
     "id": "7588633039947891980",
     "english": "+$condition0.DamageMultForPowerKeyword.pct$% to #powerkeyword#$condition0.DamageMultForPowerKeyword.param0.powerKeyword$#/powerkeyword# Powers",
-    "russian": "+$HealingReceivedMult.pct$%",
+    "russian": "+$condition0.DamageMultForPowerKeyword.pct$% к #powerkeyword#$condition0.DamageMultForPowerKeyword.param0.powerKeyword$#/powerkeyword# способностям",
     "similarity": 0.5908029079437256,
     "path": "Localization/Translations/Powers/TooltipStrings/RogueSheHulkDamageMult.prototype",
     "verdict": "BAD"
@@ -26922,7 +26922,7 @@
   {
     "id": "16773033510047647090",
     "english": "Use this item to claim #purplecard#10 Odin Marks#/purplecard#!",
-    "russian": "Щелкните ПКМ, чтобы получить #purplecard#1 благодарность Защитника#/purplecard#!",
+    "russian": "Используйте этот предмет, чтобы получить #purplecard#10 знаков Одина#/purplecard#!",
     "similarity": 0.5973590016365051,
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/OdinMarks10Reward.prototype",
     "verdict": "BAD"
@@ -27394,7 +27394,7 @@
   {
     "id": "7046871861059061049",
     "english": "The reinforced weave ensure these gauntlets can endure even cosmic-level threats.\n—Hank Pym",
-    "russian": "Нестабильные молекулы гарантируют, что эти краги способны выдерживать нагрузки космического уровня.\n—Мистер Фантастик",
+    "russian": "Усиленная ткань гарантирует, что эти рукавицы выдержат даже космические угрозы.\n—Хэнк Пим",
     "similarity": 0.5997153520584106,
     "path": "Entity/Items/Armor/Prototypes/MsMarvel/o1Gloves/Gloves06.prototype",
     "verdict": "BAD"
@@ -27458,7 +27458,7 @@
   {
     "id": "3264564776417363208",
     "english": "You deal +2% more total damage against #red#Sentinel Alpha#/red# and you take 150% more damage over time from the Sentinel Alpha's Aura for each stack you have.\nThis stacks up to 50 times and lasts 30 seconds. If you reach 50 stacks, bad things happen.",
-    "russian": "Монолит наносит вам на 25% больше длительного урона за каждое применение. Длительность 30 секунд.",
+    "russian": "Вы наносите на 2% больше урона #red#Сентинелю Альфе#/red#, но получаете на 150% больше урона с течением времени от ауры Сентинеля Альфы за каждый стак.\nЭто накапливается до 50 раз и длится 30 секунд. При достижении 50 стаков произойдет нечто плохое.",
     "similarity": 0.6001530885696411,
     "path": "Powers/EnemyPowers/Boss/OnslaughtRaid/StarktechSentinelAVulnStackEffectHARDMODE.prototype",
     "verdict": "BAD"
@@ -27746,7 +27746,7 @@
   {
     "id": "14179115310498448793",
     "english": "Use this item for a reward for completing a Side Mission in the Story.\n#emphasis#This will spawn items for your current hero.#/emphasis#\nThis cannot be used in hubs.",
-    "russian": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы получить награду за выполнение побочной миссии в сюжете.\n#emphasis#Этот предмет создаст предметы для вашего текущего героя.#/emphasis#\nИспользовать нельзя в хабах.",
     "similarity": 0.60140061378479,
     "path": "Entity/Items/Consumables/Prototypes/SharedQuestLootBox/StoryMissionBonusLootBox.prototype",
     "verdict": "BAD"
@@ -28426,7 +28426,7 @@
   {
     "id": "1399182788156785973",
     "english": "You deal +2% more damage against #blue#Sentinel Beta#/blue# and you take 150% more damage over time from the Sentinel Beta's Aura for each stack you have.\nThis stacks up to 50 times and lasts 30 seconds. If you reach 50 stacks, bad things happen.",
-    "russian": "Монолит наносит вам на 25% больше длительного урона за каждое применение. Длительность 30 секунд.",
+    "russian": "Вы наносите на 2% больше урона #blue#Сентинелю Бете#/blue# и получаете на 150% больше урона с течением времени от ауры Сентинеля Беты за каждый стак.\nЭто накапливается до 50 раз и длится 30 секунд. При достижении 50 стаков произойдет нечто плохое.",
     "similarity": 0.6044120192527771,
     "path": "Powers/EnemyPowers/Boss/OnslaughtRaid/StarktechSentinelBVulnStackEffectHARDMODE.prototype",
     "verdict": "BAD"
@@ -28506,7 +28506,7 @@
   {
     "id": "15800905213442065734",
     "english": "Creates 2 Dynamic Serums\n\nConsuming this item increases your damage by 10 for 20 minutes.\n\n#emphasis#Critical Success: You create twice as many of this item.#/emphasis#",
-    "russian": "Превращает динамическую сыворотку в заряженную нано-сыворотку.\n\n#emphasis#Критический успех: вы создаете два предмета вместо одного.#/emphasis#",
+    "russian": "Создаёт 2 динамических сыворотки\n\nПри употреблении этого предмета ваш урон увеличивается на 10 на 20 минут.\n\n#emphasis#Критический успех: создаёте вдвое больше этого предмета.#/emphasis#",
     "similarity": 0.6048560738563538,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/FlaskofMightRecipe.prototype",
     "verdict": "BAD"
@@ -28522,7 +28522,7 @@
   {
     "id": "4776596562604000535",
     "english": "50% Increased Area of Effect and Range",
-    "russian": "Увеличенная зона действия",
+    "russian": "Увеличение области действия и дальности на 50%",
     "similarity": 0.6050161123275757,
     "path": "Localization/Translations/Powers/TooltipStrings/Hulk/BiggestRock.prototype",
     "verdict": "BAD"
@@ -28554,7 +28554,7 @@
   {
     "id": "2291218526049207662",
     "english": "Use this item to activate the Daily News.\n#emphasis#[24 hour cooldown]#/emphasis#\nWhen activated, gain a #purplecard#+2 Intelligence buff and you are able to see enemies on the minimap#/purplecard# for 1 hour.",
-    "russian": "ПКМ - съесть крендель.\nСъев, получаете #purplecard#+10 к урону и +100 ед. здоровья#/purplecard# на 1 час. Каждый новый съеденный крендель удлиняет срок действия.",
+    "russian": "Используйте этот предмет, чтобы активировать Ежедневные Новости.\n#emphasis#[Перезарядка 24 часа]#/emphasis#\nПри активации получаете #purplecard#+2 к Интеллекту#/purplecard# и возможность видеть врагов на миникарте в течение 1 часа.",
     "similarity": 0.6051014065742493,
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/ItemRewards/StackOfNewspapersBoost.prototype",
     "verdict": "BAD"
@@ -28610,7 +28610,7 @@
   {
     "id": "4081280153813189899",
     "english": "If you do not have an Enslaved enemy, enslave the affected enemy if they fall below 20% Health (Bosses, robots, and summoned enemies cannot be controlled)",
-    "russian": "Перепрограммирует выбранного робота, если уровень его здоровья падает ниже 20%",
+    "russian": "Если у вас нет порабощённого врага, порабощайте поражённого врага, если его здоровье опустится ниже 20% (боссы, роботы и призванные враги не поддаются контролю).",
     "similarity": 0.6054961085319519,
     "path": "Localization/Translations/Powers/TooltipStrings/EmmaFrost/ControlMobBelow20Pct.prototype",
     "verdict": "BAD"
@@ -29386,7 +29386,7 @@
   {
     "id": "3642169092677240076",
     "english": "Grass-Fed",
-    "russian": "Трава, на которой пасутся",
+    "russian": "Кормлен травой",
     "similarity": 0.6093482971191406,
     "path": "Powers/Player/zzzBrevik/HealthRegenToggle.prototype",
     "verdict": "BAD"
@@ -29890,7 +29890,7 @@
   {
     "id": "2272109331728893249",
     "english": "#purple#Psionic Barrier#/purple# absorbs 100% of incoming damage and is regenerated while attacking enemies or when out of combat for 3s.",
-    "russian": "Псионный барьер поглощает 25% наносимого урона и восстанавливается, когда вы атакуете врагов.",
+    "russian": "#purple#Псионический Барьер#/purple# поглощает 100% входящего урона и восстанавливается при атаке врагов или если вы вне боя 3 секунды.",
     "similarity": 0.6116237044334412,
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/PsylockePsiBarrier.prototype",
     "verdict": "BAD"
@@ -30626,7 +30626,7 @@
   {
     "id": "7358901445572166973",
     "english": "Damage Multiplier: +100x",
-    "russian": "Шанс на нанесение сокрушительного удара: +$SuperCritChancePctAdd.pct$%",
+    "russian": "Множитель урона: +100x",
     "similarity": 0.6148077249526978,
     "path": "Localization/Translations/Powers/TooltipStrings/ZZZMayBeDepreciated/BrevikDamageMultiplier100x.prototype",
     "verdict": "BAD"
@@ -30634,7 +30634,7 @@
   {
     "id": "14080468269672826239",
     "english": "You have absorbed #stolenpower#Agent Coulson's#/stolenpower# memories, unlocking high-level intel on S.H.I.E.L.D. tactics, allowing you to syncronize with a strike team to maximum efficiency.",
-    "russian": "Вы присвоили воспоминания #stolenpower#агента ЩИТа#/stolenpower#.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "russian": "Вы поглотили #stolenpower#воспоминания Агента Коулсона#/stolenpower#, открыв доступ к важной информации о тактиках ЩИТа, что позволяет максимально эффективно синхронизироваться с ударной группой.",
     "similarity": 0.6148696541786194,
     "path": "Powers/Player/Rogue/StolenPowers/PassiveCoulson.prototype",
     "verdict": "BAD"
@@ -31050,7 +31050,7 @@
   {
     "id": "2286262816686933354",
     "english": "Reduce the Cooldown of #powername#$powerReference2.powerName$#/powername# by 5 seconds when you hit with #powername#$powerReference3.powerName$#/powername# or #powername#$powerReference4.powerName$#/powername#",
-    "russian": "Обнуляется перезарядка способности  #emphasis#$powerName$#/emphasis#",
+    "russian": "Сокращает время восстановления #powername#$powerReference2.powerName$#/powername# на 5 секунд, если вы попали #powername#$powerReference3.powerName$#/powername# или #powername#$powerReference4.powerName$#/powername#",
     "similarity": 0.6169473528862,
     "path": "Localization/Translations/Powers/TooltipStrings/X23/BloodyTranceCDR.prototype",
     "verdict": "BAD"
@@ -31082,7 +31082,7 @@
   {
     "id": "9164493323064706407",
     "english": "Reduce the Cooldown of #powername#$powerReference1.powerName$#/powername# by 5 seconds when you hit with #powername#$powerReference2.powerName$#/powername# or #powername#$powerReference3.powerName$#/powername#",
-    "russian": "Урон, нанесенный врагам с помощью #solar#солнечных#/solar# способностей, при попадании уменьшает время их перезарядки на $dependentpassivepower0.condition0.proceffect0.actionsTriggeredOnPowerEvent.eventParam.abs$ с (перезарядка: $dependentpassivepower0.condition0.proceffect0.cooldown$)",
+    "russian": "Сокращает время восстановления #powername#$powerReference1.powerName$#/powername# на 5 секунд, если вы попали #powername#$powerReference2.powerName$#/powername# или #powername#$powerReference3.powerName$#/powername#",
     "similarity": 0.6173650026321411,
     "path": "Localization/Translations/Powers/TooltipStrings/X23/HasteTranceCDR.prototype",
     "verdict": "BAD"
@@ -32010,7 +32010,7 @@
   {
     "id": "7765866549035926785",
     "english": "You deal +2% more total damage against #red#Sentinel Alpha#/red# and you take 100% more damage over time from the Sentinel Alpha's Aura for each stack you have.\nThis stacks up to 100 times and lasts 30 seconds. ",
-    "russian": "Монолит наносит вам на 25% больше длительного урона за каждое применение. Длительность 30 секунд.",
+    "russian": "Вы наносите +2% больше урона #red#Сентинелю Альфа#/red#, и получаете на 100% больше урона со временем от Ауры Сентинеля Альфа за каждый ваш стэк.\nЭффект складывается до 100 раз и длится 30 секунд.",
     "similarity": 0.6210867166519165,
     "path": "Powers/EnemyPowers/Boss/OnslaughtRaid/StarktechSentinelAVulnStackEffect.prototype",
     "verdict": "BAD"
@@ -32402,7 +32402,7 @@
   {
     "id": "6056213795637101832",
     "english": "+$CritChancePctAdd.pct$% for the next power you use after entering Stealth or Invisibility",
-    "russian": "$CritChancePctAdd.pct$%",
+    "russian": "+$CritChancePctAdd.pct$% к шансу критического удара для следующей способности после входа в невидимость или скрытность.",
     "similarity": 0.6227184534072876,
     "path": "Localization/Translations/Powers/TooltipStrings/CritChancePctAddAndBrutalCombinedOnStealth.prototype",
     "verdict": "BAD"
@@ -32602,7 +32602,7 @@
   {
     "id": "8886031871451333955",
     "english": "#waypointheader#Crossbones Pursuit (Cosmic)#/waypointheader#    #waypointlabel#LOCATION:#/waypointlabel# #waypointlevels#Madripoor#/waypointlevels##waypointlabel#  Level 60\n#waypointtext#We have intel Crossbones is outside a bazaar in Madripoor. We know all to well what he is capable of and should be apprehended immediately.#/waypointtext#",
-    "russian": "#waypointheader#Патруль в Мидтауне (красный)#/waypointheader#    #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Мидтаун#/waypointlevels##waypointlabel# Уровень: 60\n#waypointtext#С тех пор, как Космический Куб попал в руки Доктора Дума, преступность расцвела пышным цветом. Криминальные организации со всех уголков земного шара - да что там, со всех концов Галактики - ловят рыбку в мутной воде. \nВаша задача - патрулировать манхэттенский Мидтаун и защищать его обитателей, отражая натиск групп суперзлодеев.#/waypointtext#",
+    "russian": "#waypointheader#Погоня за Кроссбоуном (Космическое)#/waypointheader#    #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Мадрипур#/waypointlevels##waypointlabel#  Уровень 60\n#waypointtext#У нас есть данные, что Кроссбоун находится возле базара в Мадрипуре. Мы хорошо знаем, на что он способен, и должны задержать его немедленно.#/waypointtext#",
     "similarity": 0.6235564947128296,
     "path": "StoryStructure/Prototypes/EndGame/ChallengeModes/CivilWarCrossbonesChapterCosmic.prototype",
     "verdict": "BAD"
@@ -33114,7 +33114,7 @@
   {
     "id": "11187616150008038721",
     "english": "$damagePctVulnerabilityVsPower.pct$% extra damage from Squirrels and #powerkeyword#Squirrel#/powerkeyword# Powers",
-    "russian": "Противник получает $damagePctVulnerabilityVsPower.pct$% дополнительного урона от белок в течение $duration$ (независимо от длительности способности)",
+    "russian": "$damagePctVulnerabilityVsPower.pct$% дополнительного урона от Белок и #powerkeyword#способностей Белок#/powerkeyword#",
     "similarity": 0.6259635090827942,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/DamagePctVulnerabilityVsPowerSquirrels.prototype",
     "verdict": "BAD"
@@ -33346,7 +33346,7 @@
   {
     "id": "4768912608466109760",
     "english": "$enduranceChangeBase$, +3 additional $primaryManaBehaviorName$ per enemy hit",
-    "russian": "Восстановление $endurancechangebase$ ед. $primarymanabehaviorname.locflagG$",
+    "russian": "$enduranceChangeBase$, +3 дополнительного $primaryManaBehaviorName$ за каждого поражённого врага",
     "similarity": 0.6275931596755981,
     "path": "Localization/Translations/Powers/TooltipStrings/Thor/EnduranceChangeBasePlus3.prototype",
     "verdict": "BAD"
@@ -34218,7 +34218,7 @@
   {
     "id": "17795499287099868478",
     "english": "Armor absorbs 100% of incoming damage and regenerates when using certain powers.",
-    "russian": "Броня поглощает 25% наносимого урона и с течением времени восстанавливается.",
+    "russian": "Броня поглощает 100% входящего урона и восстанавливается при использовании определённых способностей.",
     "similarity": 0.6311359405517578,
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/ColossusMetalSkin.prototype",
     "verdict": "BAD"
@@ -34266,7 +34266,7 @@
   {
     "id": "15065190634310534446",
     "english": "Requires: 1 Axis Raid Currency and 100,000 Credits",
-    "russian": "Требуется: 1 слиток асгардской работы",
+    "russian": "Требуется: 1 валюта рейда Оси и 100 000 кредитов",
     "similarity": 0.6313411593437195,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UniqueAxisRaidRecipe.prototype",
     "verdict": "BAD"
@@ -34538,7 +34538,7 @@
   {
     "id": "13233601775039677695",
     "english": "Brutal Strikes terrify enemies for $condition0.duration$ and generate $onpowerstartpower.endurancechangepct$% of your Max $primarymanabehaviorname$ ($cooldown$ Cooldown)",
-    "russian": "Страх: сокрушительный удар с вероятностью $procValuePercent$ пугает врага на $procEffect.condition0.duration$",
+    "russian": "Жестокие удары пугают врагов на $condition0.duration$ и генерируют $onpowerstartpower.endurancechangepct$% от вашего максимального $primarymanabehaviorname$ (время восстановления $cooldown$)",
     "similarity": 0.6324425339698792,
     "path": "Localization/Translations/Powers/TooltipStrings/MoonKnightFearProc.prototype",
     "verdict": "BAD"
@@ -34730,7 +34730,7 @@
   {
     "id": "4986556799062770947",
     "english": "You deal +2% more damage against #blue#Sentinel Beta#/blue# and you take 100% more damage over time from the Sentinel Beta's Aura for each stack you have.\nThis stacks up to 100 times and lasts 30 seconds. ",
-    "russian": "Монолит наносит вам на 25% больше длительного урона за каждое применение. Длительность 30 секунд.",
+    "russian": "Вы наносите +2% больше урона #blue#Сентинелю Бета#/blue#, и получаете на 100% больше урона со временем от Ауры Сентинеля Бета за каждый ваш стэк.\nЭффект складывается до 100 раз и длится 30 секунд.",
     "similarity": 0.6335006952285767,
     "path": "Powers/EnemyPowers/Boss/OnslaughtRaid/StarktechSentinelBVulnStackEffect.prototype",
     "verdict": "BAD"
@@ -34826,7 +34826,7 @@
   {
     "id": "18432581720457217413",
     "english": "Absorbing #stolenpower#Thing's#/stolenpower# freakish mutation has given you the resolve to clobber enemies with unmatched strength.",
-    "russian": "Уродливая мутация #stolenpower#Существа#/stolenpower# сделала вашу кожу крепче и устойчивее к атакам и снарядам.",
+    "russian": "Поглощение уродливой мутации #stolenpower#Тинга#/stolenpower# дало вам решимость сокрушать врагов с непревзойденной силой.",
     "similarity": 0.6337710618972778,
     "path": "Powers/Player/Rogue/StolenPowers/PassiveThing.prototype",
     "verdict": "BAD"
@@ -37402,7 +37402,7 @@
   {
     "id": "3696442283703141644",
     "english": "The way the suit flows on and off your body, amazing!  \n—Hank Pym",
-    "russian": "Как этот костюм обтекает тело! Удивительно! \n—Рид Ричадс",
+    "russian": "Как этот костюм обтекает тело! Удивительно!  \n—Хэнк Пим",
     "similarity": 0.6446020603179932,
     "path": "Entity/Items/Armor/Prototypes/Venom/o3Ichor/Ichor10.prototype",
     "verdict": "BAD"
@@ -38042,7 +38042,7 @@
   {
     "id": "1899466789311874348",
     "english": "Spin Mjolnir overhead, charging it with lightning and momentum, before sending it careening through enemies before you.  Hold the hotkey to continue to channel a maelstrom of lightning off of Mjolnir before throwing.",
-    "russian": "Вращать Мьельнир над головой, заряжая его молниями, а затем бросить во врагов.",
+    "russian": "Вращайте Мьёльнир над головой, заряжая его молнией и инерцией, затем бросайте, поражая врагов впереди.  Удерживайте клавишу, чтобы продолжать накапливать вихрь молний с Мьёльнира перед броском.",
     "similarity": 0.6468160152435303,
     "path": "Powers/Player/Thor/Rework/StormHammerThrow.prototype",
     "verdict": "BAD"
@@ -38938,7 +38938,7 @@
   {
     "id": "14705956189488350477",
     "english": "Level 50:\n$PrimaryManaBehaviorName$ on enemy defeat",
-    "russian": "Уровень 25:\nвосстановление духа при победе над врагом",
+    "russian": "Уровень 50:\n$PrimaryManaBehaviorName$ при поражении врага",
     "similarity": 0.6500087380409241,
     "path": "Entity/Characters/Avatars/Shipping/Punisher.prototype",
     "verdict": "BAD"
@@ -39290,7 +39290,7 @@
   {
     "id": "3550755425361069324",
     "english": "Hell's Kitchen North",
-    "russian": "Адская Кухня, юг",
+    "russian": "Север Адской Кухни",
     "similarity": 0.6512445211410522,
     "path": "Regions/StoryRevamp/CH01HellsKitchen/Brownstones/CH0102HellsKitchenNorthArea.prototype",
     "verdict": "BAD"
@@ -40498,7 +40498,7 @@
   {
     "id": "15429775289855378799",
     "english": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Weakened#/powermechanic# enemies",
-    "russian": "$damageTypeOverTime$ урон: $damageRangeOverTime$ ед.#hidden# ($damageRangeOverTime.precision1.divByLevel$ ед. за уровень)#/hidden# дважды в секунду в течение $duration$ (суммируется до 3 раз) и урон от #emphasis#Жуткого проклятия#/emphasis# увеличивается на 50%",
+    "russian": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#Ослабленных#/powermechanic# врагов",
     "similarity": 0.6555722951889038,
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordWeaken.prototype",
     "verdict": "BAD"
@@ -40690,7 +40690,7 @@
   {
     "id": "10949221146962887991",
     "english": "Use the terminals in any player hub to enter the #mission#Skrull Invasion#/mission#. \n\n#mission#Vehicles#/mission# are located throughout the streets of Hightown. #mission#Kl'rt#/mission# is located at the end of the instance atop the Sovereign Hotel.",
-    "russian": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#Институт Таскмастера#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Тренировочное снаряжение#/mission# включает в себя цели, тренировочные манекены и заграждения. #mission#Таскмастер#/mission# находится в конце карты.",
+    "russian": "Используйте терминалы в любом игровом хабе, чтобы войти в #mission#Вторжение Скруллов#/mission#.\n\n#mission#Транспорт#/mission# разбросан по улицам Хайтована. #mission#Кл'рт#/mission# находится в конце инстанса на крыше отеля Суверен.",
     "similarity": 0.6563123464584351,
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalKlrt.prototype",
     "verdict": "BAD"
@@ -40810,7 +40810,7 @@
   {
     "id": "17855035054253999373",
     "english": "Requires: 1 of each crafting element",
-    "russian": "Требуется: 10 космических предметов снаряжения (любого уровня)",
+    "russian": "Требуется: по одному из каждого элемента для создания",
     "similarity": 0.6567929983139038,
     "path": "Entity/Items/Crafting/Recipes/Transmogrify/CreateUnstableMoleculeRecipe.prototype",
     "verdict": "BAD"
@@ -40826,7 +40826,7 @@
   {
     "id": "4018430699149985106",
     "english": "Captain Marvel can add the Cosmic Spirit Catalyst to her costume to gain a special benefit.",
-    "russian": "Мисс Марвел может подключать ядро костюма из осколка М'Краана, приобретая таким образом особые возможности.",
+    "russian": "Капитан Марвел может добавить Космический Катализатор Духа к своему костюму, чтобы получить особое преимущество.",
     "similarity": 0.6568252444267273,
     "path": "UI/LoadingScreenTips/AvatarTips/MsMarvelTips.prototype",
     "verdict": "BAD"
@@ -41490,7 +41490,7 @@
   {
     "id": "5864573853833037064",
     "english": "Personal Vulture's Mechanical Wings",
-    "russian": "Механические крылья Личинки",
+    "russian": "Личные механические крылья Стервятника",
     "similarity": 0.6588308811187744,
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/TakedownArtifacts/TakedownArt366.prototype",
     "verdict": "BAD"
@@ -41722,7 +41722,7 @@
   {
     "id": "5163829697374127426",
     "english": "H.A.M.M.E.R. Security Card",
-    "russian": "Карта доступа ХАММЕР",
+    "russian": "Карта доступа М.О.Л.О.Т.",
     "similarity": 0.6594169735908508,
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/GreenGoblin/Unique481.prototype",
     "verdict": "MAYBE"
@@ -41890,7 +41890,7 @@
   {
     "id": "15712530059377837362",
     "english": "Not every costume requires kevlar, but it does help with the wear and tear.\n—Daredevil",
-    "russian": "Нестабильные молекулы нужны не в каждом костюме, но его износостойкость они повышают в любом случае.\n—Мистер Фантастик",
+    "russian": "Не каждый костюм требует кевлара, но это помогает против износа.\n—Сорвиголова",
     "similarity": 0.6601337194442749,
     "path": "Entity/Items/Armor/Prototypes/LukeCage/o2Shirt/Shirt08.prototype",
     "verdict": "BAD"
@@ -47962,7 +47962,7 @@
   {
     "id": "14433721457017947458",
     "english": "#bionic#Crippling Shockwave:#/bionic# Critical and Brutal Chance for this power increased 10%, and enemies affected become #powermechanic#Vulnerable#/powermechanic#, taking $damagePctVulnerability.pct$% more damage for $duration$",
-    "russian": "Уязвимость: враг получает +$damagePctVulnerabilityvspowerkwd.pct$% к урону от  #Emphasis#муравьиных#/Emphasis# способностей на $duration$, если вы сначала попали в него любой не-#emphasis#муравьиной#/emphasis# способностью",
+    "russian": "#bionic#Парализующий удар волной:#/bionic# Шанс критического и жестокого удара этой способностью увеличен на 10%, а поражённые враги становятся #powermechanic#Уязвимыми#/powermechanic#, получая $damagePctVulnerability.pct$% дополнительного урона в течение $duration$",
     "similarity": 0.6762930154800415,
     "path": "Localization/Translations/Powers/TooltipStrings/WinterSoldier/ArmSmashVulnerability.prototype",
     "verdict": "BAD"
@@ -48282,7 +48282,7 @@
   {
     "id": "1073567470426916114",
     "english": "Requires: any Artifact, any element and an Unstable Molecule",
-    "russian": "Требуется: любой артефакт, медальон Магнето, комплексный улучшенный геном",
+    "russian": "Требуется: любой Артефакт, любой элемент и Неустойчивая Молекула",
     "similarity": 0.6770153045654297,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/ArtifactUnbind.prototype",
     "verdict": "BAD"
@@ -48426,7 +48426,7 @@
   {
     "id": "11017407961864013118",
     "english": "Cow King's Hide",
-    "russian": "шкура короля коров",
+    "russian": "Шкура короля коров",
     "similarity": 0.6774248480796814,
     "path": "Entity/Items/Costumes/Prototypes/zTesting/PlayableBrevikRoundTwoCostume.prototype",
     "verdict": "BAD"
@@ -48498,7 +48498,7 @@
   {
     "id": "959533674944660751",
     "english": "When you drop below $param2$% Health, go invisible and your Med Kit heals you for an additional +$param1.power.condition0.procEffect0.healing$ Health ($param1.power.cooldown$ cooldown)",
-    "russian": "Вам и вашим союзникам аптечка восстанавливает дополнительно +$param1.power.healing$ ед. здоровья (перезарядка - $param1.power.cooldown$)",
+    "russian": "Когда ваше здоровье опускается ниже $param2$%, вы становитесь невидимым, и ваша Медицинская сумка лечит вас дополнительно на +$param1.power.condition0.procEffect0.healing$ здоровья (перезарядка $param1.power.cooldown$)",
     "similarity": 0.6775787472724915,
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/NickFury/Unique507.prototype",
     "verdict": "BAD"
@@ -49082,7 +49082,7 @@
   {
     "id": "3533631631326184764",
     "english": "Quicksilver - Team-Up Hero!",
-    "russian": "Ртуть - Напарник герой!",
+    "russian": "Ртуть — герой напарник!",
     "similarity": 0.6792067289352417,
     "path": "Entity/Characters/TeamUps/Quicksilver.prototype",
     "verdict": "BAD"
@@ -50530,7 +50530,7 @@
   {
     "id": "11269781008967861559",
     "english": "Generate $secondaryResourceCOTBase.precision0$ Combo Points per second",
-    "russian": "Дает $secondaryResourceChangeBase$ очк. комбо",
+    "russian": "Генерирует $secondaryResourceCOTBase.precision0$ очков комбо в секунду",
     "similarity": 0.6834135055541992,
     "path": "Localization/Translations/Powers/TooltipStrings/SecondaryResourceCOTComboPoints.prototype",
     "verdict": "BAD"
@@ -50618,7 +50618,7 @@
   {
     "id": "12363204194189247804",
     "english": "Collect eternity splinters from fallen enemies, then unlock new heroes through the Hero Roster.",
-    "russian": "Собирайте осколки вечности, оставшиеся от поверженных врагов, и обменивайте их на новых героев у Адама Уорлока на любой базе.",
+    "russian": "Собирайте осколки вечности с поверженных врагов и открывайте новых героев через Список героев.",
     "similarity": 0.683582067489624,
     "path": "UI/LoadingScreenTips/GenericTips/GenericGameplayTips.prototype",
     "verdict": "BAD"
@@ -51482,7 +51482,7 @@
   {
     "id": "12912760038755534189",
     "english": "Such destructive power. It almost brings me to tears. \n\t—Green Goblin",
-    "russian": "Какая разрушительная сила! Я чуть не расплакался. \n—Серебряный Сёрфер",
+    "russian": "Какая разрушительная сила! Я чуть не расплакался. \n\t—Зелёный Гоблин",
     "similarity": 0.6856335997581482,
     "path": "Entity/Items/Armor/Prototypes/GhostRider/o1Chain/Chain07.prototype",
     "verdict": "BAD"
@@ -51554,7 +51554,7 @@
   {
     "id": "9647650686758290708",
     "english": "+$damageMultVsKeyword.pct$% to enemies affected by your #emphasis#$damageMultVsKeyword.param0.keyword$#/emphasis# effects",
-    "russian": "Уязвимость: враг получает на $damagePctVulnerabilityVsPowerKwd$% больше урона от способностей #orange#$damagePctVulnerabilityVsPowerKwd.param0.keyword.locflagG$#/orange# в течение $duration$",
+    "russian": "+$damageMultVsKeyword.pct$% урона врагам, поражённым эффектами #emphasis#$damageMultVsKeyword.param0.keyword$#/emphasis#",
     "similarity": 0.6857126355171204,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/DamageMultVsEnemiesAffectedByPowerKeyword.prototype",
     "verdict": "BAD"
@@ -52114,7 +52114,7 @@
   {
     "id": "2330902082419229962",
     "english": "#emphasis#Diamond Armor#/emphasis#: Absorbs 100% of incoming damage, up to $powerreference0.condition0.secondaryresourcemax.precision0$ (20% of your Maximum Health)\nRegenerate $dependentpassivepower0.condition0.proceffect1.secondaryResourceChangePct.pct$% Diamond Armor when you deal Physical damage ($dependentpassivepower0.condition0.proceffect1.cooldown$ Cooldown)",
-    "russian": "Алмазная броня: поглощает 15% наносимого урона, до $evalregisterfloat0.precision0$ ед. ($evalregisterfloat2.pct$% максимального здоровья Эммы)",
+    "russian": "#emphasis#Алмазная броня#/emphasis#: поглощает 100% входящего урона, до $powerreference0.condition0.secondaryresourcemax.precision0$ (20% от вашего максимального здоровья)\nВосстанавливает $dependentpassivepower0.condition0.proceffect1.secondaryResourceChangePct.pct$% Алмазной брони при нанесении физического урона (перезарядка $dependentpassivepower0.condition0.proceffect1.cooldown$)",
     "similarity": 0.6874279975891113,
     "path": "Localization/Translations/Powers/TooltipStrings/EmmaFrost/DiamondShield.prototype",
     "verdict": "BAD"
@@ -52970,7 +52970,7 @@
   {
     "id": "14684550029590267195",
     "english": "Restore $secondaryResourceChangePct.pct$% of your Shield per hit",
-    "russian": "Восстанавливает 5% от уровня вашего щита при каждой атаке",
+    "russian": "Восстанавливает $secondaryResourceChangePct.pct$% вашего щита за каждый удар",
     "similarity": 0.6901045441627502,
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/ShieldGainOnHit.prototype",
     "verdict": "BAD"
@@ -53306,7 +53306,7 @@
   {
     "id": "1180050558836147519",
     "english": "Fires 7 additional shockwaves around Rogue",
-    "russian": "Вызов 7 дополнительных ударных волн вокруг Шельмы, увеличение урона на 50%",
+    "russian": "Выпускает 7 дополнительных ударных волн вокруг Роуг",
     "similarity": 0.6910954713821411,
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/StolenPowerHydeShockwave.prototype",
     "verdict": "BAD"
@@ -53578,7 +53578,7 @@
   {
     "id": "808651207600047418",
     "english": "Requires: Costume, Costume Core",
-    "russian": "Требуется: костюм, ядро и различные элементы",
+    "russian": "Требуется: костюм, ядро костюма",
     "similarity": 0.6916972398757935,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/AddCoreToCostume.prototype",
     "verdict": "BAD"
@@ -56642,7 +56642,7 @@
   {
     "id": "15481990362506790163",
     "english": "There are no nearby players.",
-    "russian": "НетNearby игроков.",
+    "russian": "Рядом нет игроков.",
     "similarity": 0.6996995806694031,
     "path": "UI/LocalizedInfo/Social/Console/NoNearby.prototype",
     "verdict": "BAD"
