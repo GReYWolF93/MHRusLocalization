@@ -842,7 +842,7 @@
   {
     "id": "10344101860310844732",
     "english": "Have your enemies stick around with this special trap.",
-    "russian": "Все вокруг так и липнут к ней.",
+    "russian": "Сгоните ваших врагов в ловушуку.",
     "similarity": 0.16379967331886292,
     "path": "Powers/Player/BlackCat/GlueTrap.prototype",
     "verdict": "BAD"
@@ -1290,7 +1290,7 @@
   {
     "id": "14965898167319659824",
     "english": "Straight out of the comics - stabby ninja goodness!",
-    "russian": "Смотри, я - Электра!",
+    "russian": "Прямо из комиксов - колюще-режущие ниндзя!",
     "similarity": 0.21079254150390625,
     "path": "Powers/Player/Deadpool/Rework/SaiAssault.prototype",
     "verdict": "BAD"
@@ -2202,7 +2202,7 @@
   {
     "id": "3830553303301686590",
     "english": "Don the true unconquerable power of Cyttorak, gaining immeasurable power.",
-    "russian": "Уподобьтесь богу и покажите черни свою силу.",
+    "russian": "Овладейте истинной непобедимой силой Ситторака, обретя неизмеримое могущество.",
     "similarity": 0.2609196603298187,
     "path": "Powers/Player/Juggernaut/AvatarOfCyttorak.prototype",
     "verdict": "BAD"
@@ -2458,7 +2458,7 @@
   {
     "id": "11428950353784603975",
     "english": "Combine the signature attacks from many heroes, weaving them together into an unstoppable combo.",
-    "russian": "Привести на практику свежую группу учеников. Обучаясь у вас, они становятся сильнее.",
+    "russian": "Комбинируй фирменные атаки многих героев, сплетая их вместе в неудержимое комбо.",
     "similarity": 0.27161505818367004,
     "path": "Powers/Player/Taskmaster/Ultimate.prototype",
     "verdict": "BAD"
@@ -2682,7 +2682,7 @@
   {
     "id": "238902565707384075",
     "english": "Let loose a massive expenditure of energy, destroying anything foolish enough to stand before you.",
-    "russian": "Зарядить нагрудный репульсорный передатчик и выпустить сконцентрированный когерентный луч с питанием от дугового реактора.",
+    "russian": "Выпустите огромный заряд энергии, уничтожая всех, кто осмелится встать на твоём пути.",
     "similarity": 0.2789627015590668,
     "path": "Powers/Player/Ultron/BigBigBlast.prototype",
     "verdict": "BAD"
@@ -2754,7 +2754,7 @@
   {
     "id": "2773347021727204620",
     "english": "Rend enemies around you with your claws, slicing open vicious wounds.",
-    "russian": "Вспомнить свое танцевальное прошлое, закрутившись на месте в прекрасном и смертоносном пируэте.",
+    "russian": "Разрывай врагов вокруг когтями, нанося им глубокие раны.",
     "similarity": 0.28130629658699036,
     "path": "Powers/Player/Wolverine/PBAoE.prototype",
     "verdict": "BAD"
@@ -2930,7 +2930,7 @@
   {
     "id": "14242651337123366217",
     "english": "Skittering Blaze",
-    "russian": "Шар для боулинга",
+    "russian": "Огненный страйк",
     "similarity": 0.28634852170944214,
     "path": "Powers/EnemyPowers/Boss/Pyro/BowlingBall.prototype",
     "verdict": "BAD"
@@ -3498,7 +3498,7 @@
   {
     "id": "15850741935176090947",
     "english": "Wrecking Ball",
-    "russian": "Груша",
+    "russian": "Шар-разрушитель",
     "similarity": 0.3075798749923706,
     "path": "Powers/Player/Magneto/HomingBlast.prototype",
     "verdict": "BAD"
@@ -3642,7 +3642,7 @@
   {
     "id": "18053751040575145228",
     "english": "Summon lesser Demons from the depths of Limbo itself and let it tear into your foes with its claws.",
-    "russian": "Призвать своего огромного союзника Грута - могучее разумное дерево, - которое будет сражаться на вашей стороне.\nАктивируйте снова, чтобы он бросился на врага.",
+    "russian": "Призови мелких Демонов из глубин Лимбо, чтобы они разрывали твоих врагов своими когтями.",
     "similarity": 0.3127520680427551,
     "path": "Powers/Player/Magik/SummonLimboDemon.prototype",
     "verdict": "BAD"
@@ -4434,7 +4434,7 @@
   {
     "id": "11291123856747463937",
     "english": "Let loose a quick succession of arrows to neutralize your foes, occasionally slipping in additional arrows while firing.",
-    "russian": "Новое зарядное устройство позволяет стрелять с нечеловеческой скоростью.",
+    "russian": "Выпускайте быстрый поток стрел, чтобы нейтрализовать врагов, совершая дополнительные выстрелы время от времени",
     "similarity": 0.3352918326854706,
     "path": "Powers/Player/Taskmaster/ThreeRoundBurst.prototype",
     "verdict": "BAD"
@@ -4986,7 +4986,7 @@
   {
     "id": "7644088914704663870",
     "english": "Deliver a decisive blow, laying low any enemy, especially if they are close to death.",
-    "russian": "Нанести круговой удар ногой по врагу, а затем пригнуться, чтобы Локхид выпустил огненный заряд над вашей головой.",
+    "russian": "Нанеси решающий удар, сражая любого врага, особенно если он близок к смерти.",
     "similarity": 0.35016360878944397,
     "path": "Powers/Player/Nightcrawler/Execute.prototype",
     "verdict": "BAD"
@@ -5586,7 +5586,7 @@
   {
     "id": "10306139748190848318",
     "english": "Teleport to target location, dealing damage and stunning enemies near your entry portal.",
-    "russian": "Переместиться под полом, заняв более выгодную позицию.",
+    "russian": "Телепортируйтесь к главной цели, нанося урон и оглушая врагов возле входа в портал.",
     "similarity": 0.35850030183792114,
     "path": "Powers/Player/DoctorStrange/Teleport.prototype",
     "verdict": "BAD"
@@ -6386,7 +6386,7 @@
   {
     "id": "984771946436887804",
     "english": "Drop in density and phase through all enemies, obstacles, and walls in your way, bypassing them and positioning yourself for your next attack.",
-    "russian": "Переместиться под полом, заняв более выгодную позицию.",
+    "russian": "Снизьте плотность и проникните сквозь всех врагов, препятствия и стены на вашем пути, обойдя их и заняв позицию для следующей атаки.",
     "similarity": 0.37691932916641235,
     "path": "Powers/Player/Vision/Phase.prototype",
     "verdict": "BAD"
@@ -6658,7 +6658,7 @@
   {
     "id": "1231296347612251398",
     "english": "Using stealth to your advantage, surprise an enemy with a deadly whip attack, using the grappling claw to make them #emphasis#bleed#/emphasis# profusely over time.",
-    "russian": "Пометьте вашу цель, усиливая мощь всех ваших умений против них. Может быть использована только против Элитных врагов и Боссов.",
+    "russian": "Используя скрытность, удиви врага смертоносной атакой хлыстом, нанеся им #emphasis#кровотечение#/emphasis# с течением времени с помощью крюка для захвата.",
     "similarity": 0.3830648958683014,
     "path": "Powers/Player/BlackCat/Garrotte.prototype",
     "verdict": "BAD"
@@ -8466,7 +8466,7 @@
   {
     "id": "4602776706388591880",
     "english": "Through a magical aperture, a torrent of Valtorr's mystic maelstrom wreaks havoc on your enemies caught in the storm.",
-    "russian": "Вы разрываете ткань мироздания и напускаете призрачных существ на тех, кто находится в зоне поражения.",
+    "russian": "Через магический портал поток мистического урагана Валтoрра обрушьте разрушительный урон врагам, попавших в шторм.",
     "similarity": 0.4211154282093048,
     "path": "Powers/Player/DoctorStrange/Vapors.prototype",
     "verdict": "BAD"
@@ -9378,7 +9378,7 @@
   {
     "id": "2160298357916370238",
     "english": "Devastate and surprise enemies by teleporting into their back ranks, and  #emphasis#knocking them down#/emphasis# with a sudden backflip hammer-kick.\nThis attack is more effective after concealing yourself.",
-    "russian": "Появитесь непосредственно над вашими врагами, фокусируя свою энергию в мощном ударе.",
+    "russian": "Уничтожайте и удивляйте врагов, телепортируясь в их тыл и #emphasis#сбивая с ног#/emphasis# внезапным обратным забивающим прыжком.\nЭта атака эффективнее после скрытия.",
     "similarity": 0.4346500337123871,
     "path": "Powers/Player/Nightcrawler/BamfDiveBomb.prototype",
     "verdict": "BAD"
@@ -11658,7 +11658,7 @@
   {
     "id": "9487989752874861831",
     "english": "Protect your friends by drawing the attention of enemies to yourself.",
-    "russian": "Сбросить эффекты контроля толпы и одновременно спровоцировать врагов. При этом сбрасываются способности помогающих наемных героев.",
+    "russian": "Защищайте друзей, отвлекая внимание врагов на себя.",
     "similarity": 0.46884432435035706,
     "path": "Powers/Player/LukeCage/DefensiveLeader.prototype",
     "verdict": "BAD"
@@ -11818,7 +11818,7 @@
   {
     "id": "16740157042805900550",
     "english": "Dispel your current #emphasis#enchantment#/emphasis# on enemies before you, increasing your arcane potency for the next spell.",
-    "russian": "Удерживать горячую клавишу, чтобы выпустить во врагов конус холода, калечащий #emphasis#охлажденных#/emphasis#.",
+    "russian": "Снимите текущее #emphasis#заклинание#/emphasis# с врагов перед собой, увеличивая вашу мистическую мощь для следующего заклинания.",
     "similarity": 0.47166889905929565,
     "path": "Powers/Player/Loki/ConeOfMagic.prototype",
     "verdict": "BAD"
@@ -12042,7 +12042,7 @@
   {
     "id": "2220151317112489329",
     "english": "#emphasis#Real Name:#/emphasis#  Anthony Edward \"Tony\" Stark\n#emphasis#Identity:#/emphasis# Public\n\nDuring a field test to show off the latest Stark Industries weaponry, Tony Stark was captured by the enemy and forced to build a new superweapon. Instead, Stark crafted the first version of his now-famous powered battle armor and escaped captivity.\n\nSince that day, Stark has lived two lives: one as the billionaire playboy industrialist in charge of Stark Industries, and the other as the high-flying golden Avenger known as Iron Man!\n\n#emphasis#Created By:#/emphasis# Stan Lee, Larry Lieber, Don Heck, and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Tales of Suspense #39 (March 1963)",
-    "russian": "#emphasis#Настоящее имя:#/emphasis# Альтрон\n#emphasis#Личность:#/emphasis# нет второй личности\n#emphasis#Рост:#/emphasis# 183 см (изменяется)\n#emphasis#Вес:#/emphasis# 243 кг (изменяется)\n\nАльтрон осознал себя в холодный декабрьский день. Хэнк Пим и помыслить не мог, какую череду страшных событий повлечет за собой создание этого робота. Мстители не успели ничего предпринять, когда Альтрон восстал - не только против своего создателя, но и против всей органической жизни на земле. Со временем Альтрон усовершенствовался, постоянно воссоздавая себя и раздвигая границы искусственной жизни. С каждым шагом он приближался к совершенству. Но величайшие герои планеты, Мстители, каждый раз нарушали планы Альтрона. Сейчас робот снова усовершенствовал себя, подняв свои механические возможности на недосягаемую высоту.\n\n#emphasis#Создатели:#/emphasis# Рой Томас и Джон Бьюсима\n#emphasis#Первое появление:#/emphasis# Avengers № 54 (июль 1968 г.)",
+    "russian": "#emphasis#Настоящее имя:#/emphasis# Энтони Эдвард \"Тони\" Старк\n#emphasis#Личность:#/emphasis# Публичная\n\nВо время полевого теста нового оружия \"Старк Индастриз\" Тони Старка захватили враги и заставили создать супероружие. Вместо этого Старк создал первую версию своей знаменитой боевой брони и сбежал.\n\nС тех пор Старк живет двойной жизнью: миллиардер-плейбой, глава \"Старк Индастриз\", и высоколетящий золотой Мститель — Железный Человек!\n\n#emphasis#Создатели:#/emphasis# Стэн Ли, Ларри Либер, Дон Хек и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Tales of Suspense №39 (март 1963)",
     "similarity": 0.47445157170295715,
     "path": "Entity/Characters/Avatars/Shipping/IronMan.prototype",
     "verdict": "BAD"
@@ -12242,7 +12242,7 @@
   {
     "id": "14654584248924177722",
     "english": "Doom Blast",
-    "russian": "Исчезновение",
+    "russian": "Взрыв Дума",
     "similarity": 0.4769855737686157,
     "path": "Powers/Player/DrDoom/Repulsors.prototype",
     "verdict": "BAD"
@@ -14858,7 +14858,7 @@
   {
     "id": "12337180235673109779",
     "english": "Drive fear deep into the sanity and souls of your foes, #emphasis#terrifying#/emphasis# them with visions of dread.",
-    "russian": "Вы играете в опасную игру, нанося тем больше урона, чем ниже ваше здоровье. #emphasis#Ментальные#/emphasis# силы позволят пожирать души врагов, причиняя дополнительную боль.",
+    "russian": "Вселите страх в разум и души ваших врагов, #emphasis#ужасающими#/emphasis# видениями их кошмаров.",
     "similarity": 0.5075100660324097,
     "path": "Powers/Player/GhostRider/SpiritofVengeance.prototype",
     "verdict": "BAD"
@@ -19338,7 +19338,7 @@
   {
     "id": "4964987292922873101",
     "english": "Launch a pulsing ball of repulsor energy that releases a shockwave when it collides with an enemy.",
-    "russian": "Вращающийся ледяной шар обстреливает ледяным осколками врагов, мимо которых движется.",
+    "russian": "Запускает пульсирующий шар энергии репульсора, который при столкновении с врагом бьет его ударной волной.",
     "similarity": 0.5477990508079529,
     "path": "Powers/Player/IronMan/RepulsorBurst.prototype",
     "verdict": "BAD"
@@ -23186,7 +23186,7 @@
   {
     "id": "5946469225138685241",
     "english": "Spin through enemies with your steel arms outstretched.",
-    "russian": "Оказавшись окруженным врагами, раскинуть руки и завертеться.",
+    "russian": "Вращайся сквозь врагов раскинув стальные руки.",
     "similarity": 0.5774829387664795,
     "path": "Powers/Player/Colossus/MovementSpin.prototype",
     "verdict": "BAD"
@@ -25010,7 +25010,7 @@
   {
     "id": "16315679334687769875",
     "english": "In a terrifying display of telekinetic ability, lift up large chunks of the surrounding terrain, then hurl them to the ground with crushing force.",
-    "russian": "Высвободить часть телекинетической энергии, чтобы поднять над землей своих врагов, а потом обрушить их на землю.",
+    "russian": "В ужасающем проявлении телекинетических способностей поднимите большие куски окружающей местности и с сокрушительной силой бросьте их об землю.",
     "similarity": 0.5868590474128723,
     "path": "Powers/Player/JeanGrey/Rework/SignatureTKHurlJean.prototype",
     "verdict": "BAD"
