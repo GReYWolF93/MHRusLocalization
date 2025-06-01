@@ -730,7 +730,7 @@
   {
     "id": "10628343964123464959",
     "english": "Craft Axis Raid Unique",
-    "russian": "Создает палицу надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ ед. здоровья#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Погибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "russian": "Создать уникальный предмет рейда Оси",
     "similarity": 0.14985129237174988,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UniqueAxisRaidRecipe.prototype",
     "verdict": "OK"
@@ -1130,7 +1130,7 @@
   {
     "id": "15953605895045711112",
     "english": "S.H.I.E.L.D. Recon Post",
-    "russian": "Штаб-квартира",
+    "russian": "Штаб-квартира ШИТа",
     "similarity": 0.19694188237190247,
     "path": "Waypoints/CH03Madripoor/Safehouse.prototype",
     "verdict": "OK"
