@@ -2051,14 +2051,14 @@
     "Bio": {
       "id": "10735078656085198186",
       "eng": "#emphasis#Real Name:#/emphasis# Wade Winston Wilson\n#emphasis#Identity:#/emphasis# Secret\n\nThe infamous Weapon X program granted Wade Wilson an extremely powerful healing factor. Wade soon escaped the program and became a freelance mercenary using the name Deadpool.\n\nWade is mentally unstable, though whether this is a normal state or is caused by his constant state of hyper-regeneration is unknown. One side effect of his mental state is the belief that he is not a real person but actually a character in a comic book...or sometimes a video game.\n\n#emphasis#Created By:#/emphasis# Fabian Nicieza and Rob Liefeld\n#emphasis#First Appearance:#/emphasis# New Mutants #98 (Feb 1991)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Анжела\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 178 см\n#emphasis#Вес:#/emphasis# 79 кг\n\nКогда ангелы из Десятого мира, Небес, развязали войну с Асгадом, королева ангелов похитила Алдриф - дочь Одина, наследницу трона. Но Один не покорился ангелам, он посчитал, что его дочь убита. В ответ Один вырвал Небеса из Иггдразиля и отрезал их от остальных Девяти миров. Оставшись у врагов, Алдриф все-таки уцелела и выросла, ничего не зная о своей настоящей семье. Она получила имя Анжела, Небесная охотница.\n\nКогда открываются старые тайны, Анжела узнает о своем происхождении. Отказавшись от Небес и считаясь предательницей в Асгарде, она странствует между мирами, пытаясь найти свое место и продолжая охоту любой ценой.\n\n#emphasis#Создатели:#/emphasis# Neil Gaiman, Todd McFarlane\n#emphasis#Первое появление:#/emphasis# Age of Ultron № 10 (август 2013 г.)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Уэйд Уинстон Уилсон\n#emphasis#Личность:#/emphasis# Секретна\n\nПечально известная программа «Оружие Икс» наделила Уэйда Уилсона невероятно мощным фактором регенерации. Вскоре Уэйд сбежал и стал наёмником-фрилансером под именем Дэдпул.\n\nУэйд психически нестабилен — хотя неизвестно, был ли он таким изначально или это последствие его постоянной гиперрегенерации. Одним из эффектов его состояния является убеждённость, что он не настоящий человек, а персонаж комикса… или, порой, видеоигры.\n\n#emphasis#Создатели:#/emphasis# Фабиан Нициеза и Роб Лайфелд\n#emphasis#Первое появление:#/emphasis# *New Mutants* №98 (февраль 1991)"
     },
     "PowerTables": [
       {
         "Name": {
           "id": "16462776286690542922",
           "eng": "Hurty",
-          "rus": "Бьющий больно"
+          "rus": "Больно-больно"
         },
         "Powers": [
           {
@@ -2070,19 +2070,19 @@
             "Desc": {
               "id": "1262318209327957366",
               "eng": "Random violence at a distance is fun.",
-              "rus": "Пулять издалека в кого бог пошлет - прикольно!"
+              "rus": "Пуляйте издалека в кого бог пошлет - прикольно!"
             }
           },
           {
             "Name": {
               "id": "5205300114820039954",
               "eng": "Bodyslide by One",
-              "rus": "Телепорт для Одного"
+              "rus": "Мгновенный перенос"
             },
             "Desc": {
               "id": "10039815023743206665",
               "eng": "Stolen Cable tech that lets you teleport and stuff.",
-              "rus": "Украденная технология Кабеля, которая позволяет вам телепортироваться и делать другие вещи."
+              "rus": "Украденная технология Кейбла, которая позволяет вам телепортироваться и... вообще разные штуки."
             }
           },
           {
@@ -2093,20 +2093,20 @@
             },
             "Desc": {
               "id": "7281526080721257783",
-              "eng": "So you have a tank's cannon. Okay then. ",
-              "rus": "Это серьезно?! Откуда у тебя танковая пушка?"
+              "eng": "So you have a tank's cannon. Okay then.",
+              "rus": "Серьёзно?! У тебя танковая пушка? Ну ладно"
             }
           },
           {
             "Name": {
               "id": "14149355039536907523",
               "eng": "Shoot All the Bullets",
-              "rus": "Выпустить все пули"
+              "rus": "Устроим свинцовый ливень"
             },
             "Desc": {
               "id": "15037769849484608889",
               "eng": "Just hold down the trigger 'til it's empty.",
-              "rus": "Жать на спусковой крючок, пока пули не кончатся."
+              "rus": "Жми на спусковой крючок, пока пули не закончатся."
             }
           },
           {
@@ -2118,7 +2118,7 @@
             "Desc": {
               "id": "14422094001285236019",
               "eng": "Everyone will THINK this decoy is the real Deadpool, right up until it explodes in their faces. Classic.",
-              "rus": "Все думают, что это и есть настоящий Дэдпул, а он бац - и взорвался им прямо в морду. Классика!"
+              "rus": "Все думают, что это и есть настоящий Дэдпул, а он бац - и взорвался им прямо в морду. Классика."
             }
           },
           {
@@ -2130,7 +2130,7 @@
             "Desc": {
               "id": "11379663112908899590",
               "eng": "It's never a bad idea to stop by a toy store before a fight.",
-              "rus": "Заглянуть в магазин игрушек перед дракой оказалось хорошей идеей."
+              "rus": "А заглянуть в магазин игрушек перед дракой было хорошей идеей."
             }
           },
           {
@@ -2142,7 +2142,7 @@
             "Desc": {
               "id": "2631850492438250799",
               "eng": "It's kind of like electronic music but with bullets.",
-              "rus": "Это как дабстеп, только пулями"
+              "rus": "Это как дабстеп, только пулями."
             }
           },
           {
@@ -2154,7 +2154,7 @@
             "Desc": {
               "id": "6137971835301201156",
               "eng": "This bazooka is why comics aren't for kids anymore.",
-              "rus": "Базука детям не игрушка."
+              "rus": "Вот после такой базуки комиксы и перестают быть детскими."
             }
           },
           {
@@ -2175,7 +2175,7 @@
         "Name": {
           "id": "13651323813217699139",
           "eng": "Fighty",
-          "rus": "Боевитый"
+          "rus": "Драка-драка"
         },
         "Powers": [
           {
@@ -2187,7 +2187,7 @@
             "Desc": {
               "id": "16233125424737289522",
               "eng": "Like, a LOT of flesh wounds.",
-              "rus": "Реально МНОГО царапин."
+              "rus": "Реально МНОГО свежих царапин."
             }
           },
           {
@@ -2199,7 +2199,7 @@
             "Desc": {
               "id": "5505921802458891642",
               "eng": "And THIS little piggy went \"OH GOODNESS I'M BLEEDING VERY BADLY NOW!\"",
-              "rus": "А он весь такой: \"ОЙ МАМОЧКИ, Я ЩА КРОВЬЮ ИСТЕКУ!\""
+              "rus": "И вот этот маленький поросёночек такой: \"ОЙ МАМОЧКИ, Я ЩА КРОВЬЮ ИСТЕКУ!\""
             }
           },
           {
@@ -2218,7 +2218,7 @@
             "Name": {
               "id": "13595228855965582646",
               "eng": "Slam Jam",
-              "rus": "Слэм-Джем"
+              "rus": "Бум-БАХ!"
             },
             "Desc": {
               "id": "10546827911563183412",
@@ -2230,7 +2230,7 @@
             "Name": {
               "id": "11029195843276506493",
               "eng": "Stabby Flip",
-              "rus": "Сальто с тычком"
+              "rus": "Пырь-вертушка"
             },
             "Desc": {
               "id": "9993775014432802050",
@@ -2271,7 +2271,7 @@
             "Desc": {
               "id": "2338465695971149105",
               "eng": "I was going to save this for the director's cut, but I guess we can chop everybody up now instead.",
-              "rus": "Я рассчитывал оставить это для режиссерской версии, но похоже, теперь мы можем просто всех вырезать."
+              "rus": "Я рассчитывал оставить это для режиссерской версии... но похоже, теперь мы можем просто ВСЕХ вырезать."
             }
           },
           {
@@ -2295,7 +2295,7 @@
             "Desc": {
               "id": "16113784844928222478",
               "eng": "Psst! Listen up, but keep this just between you and me.\nThis power hacks into the game server to make all enemies non-responsive for a brief period. They literally won't know what hit 'em!  Also, dev hacks...just sayin'.\n",
-              "rus": "Тс-с! Слушай сюда, только никому не разболтай.\nЯ взломал игровой сервер, и теперь все враги на какое-то время зависли.\nБей на здоровье!"
+              "rus": "Псс! Слушай сюда, только никому не разболтай.\nЯ взломал игровой сервер, и теперь все враги на какое-то время зависли. Они буквально не поймут, что их ударило! К тому же, читы для разработчиков... ну ты понимаешь.\n"
             }
           },
           {
@@ -2323,7 +2323,7 @@
             "Name": {
               "id": "16452509790075553039",
               "eng": "Maximum Effort",
-              "rus": "Максимальные усилия"
+              "rus": "На полную катушку"
             },
             "Desc": {
               "id": "Invalid",
@@ -2335,7 +2335,7 @@
             "Name": {
               "id": "14602120222625826065",
               "eng": "Awesome!",
-              "rus": "Потрясающе!"
+              "rus": "Потрясно!"
             },
             "Desc": {
               "id": "Invalid",
