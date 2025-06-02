@@ -342,7 +342,7 @@
             "Desc": {
               "id": "14756619374671562057",
               "eng": "Invade the minds of your enemies, leaving lasting mental pain in your wake.",
-              "rus": "Проникнуть в мозги врагов, причинив им ментальную боль, которая проходит не сразу."
+              "rus": "Проникнуть в разум врагов, причинив им ментальную боль, которая проходит не сразу."
             }
           },
           {
@@ -354,7 +354,7 @@
             "Desc": {
               "id": "9838531213916833042",
               "eng": "Briefly enhance your controlled minion, causing it to taunt and mentally harm nearby enemies while also allowing it to fight more effectively in your service. ",
-              "rus": "Кратко усиливает вашего контролируемого миньона, заставляя его дразнить и наносить психический урон ближайшим врагам, а также позволяя ему более эффективно сражаться в вашей службе."
+              "rus": "Кратко усиливает вашего контролируемого миньона, заставляя его дразнить ближайших врагов и наносить им психический урон, а также позволяя ему более эффективно сражаться на вашей стороне."
             }
           },
           {
@@ -378,7 +378,7 @@
             "Desc": {
               "id": "2940622073685411140",
               "eng": "Tap into the astral plane to lash out at your enemies with a whip comprised solely of psychic energy.",
-              "rus": "Воспользуйтесь астральной плоскостью, чтобы атаковать своих врагов кнутом, состоящим исключительно из психической энергии."
+              "rus": "Воспользуйтесь силами астрального плана, чтобы атаковать своих врагов кнутом, состоящим исключительно из психической энергии."
             }
           },
           {
@@ -390,7 +390,7 @@
             "Desc": {
               "id": "2308198309891736949",
               "eng": "Hold down the hotkey to sap your enemy's mental strength, restoring your Health as you drain theirs.",
-              "rus": "Удерживать горячую клавишу, чтобы высасывать ментальные силы из противника и восстанавливать за их счет свое здоровье."
+              "rus": "Удерживайте горячую клавишу, чтобы высасывать ментальные силы из противника и восстанавливать за их счет свое здоровье."
             }
           },
           {
@@ -402,19 +402,19 @@
             "Desc": {
               "id": "16127719750357681425",
               "eng": "Project a mental bolt that damages enemies in a small area.",
-              "rus": "Создать ментальную стрелу, которая нанесет урон врагам на небольшой территории."
+              "rus": "Создайте ментальную стрелу, которая нанесет урон врагам в небольшой области."
             }
           },
           {
             "Name": {
               "id": "15447682941126509831",
               "eng": "Psychic Spear",
-              "rus": "Психический Копьё"
+              "rus": "Психическое Копьё"
             },
             "Desc": {
               "id": "12976878810894501187",
               "eng": "Create a psychic spear with your mind, then toss it directly at an enemy.",
-              "rus": "Создайте психический копье своим разумом, а затем бросьте его прямо в врага."
+              "rus": "Силой своего разума создайте психическое копьё, а затем метните его прямо во врага."
             }
           },
           {
@@ -426,19 +426,19 @@
             "Desc": {
               "id": "12238031959312762120",
               "eng": "Project a cone of telepathic fury that mentally ravages enemies.",
-              "rus": "Создать конус телепатической ярости, нанося врагам опустошительный ментальный урон."
+              "rus": "Создайте конус телепатической ярости, нанося врагам опустошительный ментальный урон."
             }
           },
           {
             "Name": {
               "id": "10154868225419445518",
               "eng": "Kneel Before Me",
-              "rus": "На колени!"
+              "rus": "На колени передо мной!"
             },
             "Desc": {
               "id": "12926617797862163722",
               "eng": "Telepathically lure enemies to you, causing them to kneel in your presence.\nWhen the luring effect ends, unleash a psychic shockwave against enemies near you.",
-              "rus": "Телепатически приманить врагов, заставив встать на колени перед вами.\nКогда эффект закончится, создать ментальную ударную волну и поразить врагов рядом с собой."
+              "rus": "Телепатически приманить врагов и заставить встать на колени перед вами.\nКогда эффект закончится, возникает ментальная ударная волна, которая поразит врагов рядом с вами."
             }
           }
         ]
@@ -447,7 +447,7 @@
         "Name": {
           "id": "13090199714764096791",
           "eng": "Diamond Paragon",
-          "rus": "Алмазный Парагон"
+          "rus": "Алмазное совершество"
         },
         "Powers": [
           {
@@ -471,7 +471,7 @@
             "Desc": {
               "id": "14585523412426229004",
               "eng": "Lash out at enemies in front of you with diamond-coated fists.",
-              "rus": "Обрушить на противников всю мощь своих алмазных кулаков."
+              "rus": "Обрушьте на противников всю мощь ваших алмазных кулаков."
             }
           },
           {
@@ -483,7 +483,7 @@
             "Desc": {
               "id": "942044636887975227",
               "eng": "Your razor-sharp wit and mutant abilities can protect you from harm, regardless of whether your Diamond Form is active or not.",
-              "rus": "Ваш остроумный ум и мутантские способности могут защитить вас от вреда, независимо от того, активна ли ваша Алмазная форма или нет."
+              "rus": "Ваш остроумный ум и способности мутанта могут защитить вас от урона, независимо от того, активна ли ваша Алмазная форма или нет."
             }
           },
           {
@@ -495,31 +495,31 @@
             "Desc": {
               "id": "8892847975893566729",
               "eng": "Hold down the hotkey to spin through your enemies, striking them with sharp diamond-hard fists.",
-              "rus": "Удерживать горячую клавишу, чтобы кружиться среди врагов, избивая их острыми кулаками алмазной твердости."
+              "rus": "Удерживайте горячую клавишу, чтобы кружиться среди врагов, избивая их острыми кулаками алмазной твердости."
             }
           },
           {
             "Name": {
               "id": "17753897486484047109",
               "eng": "Show Off",
-              "rus": "Показать"
+              "rus": "Блестящее появление"
             },
             "Desc": {
               "id": "14914729159628752200",
               "eng": "Using your diamond strength, leap upwards and come down hard, sending off a large shockwave.",
-              "rus": "Используя свою алмазную силу, прыгните вверх и приземлитесь с силой, создавая мощную ударную волну."
+              "rus": "Используя свою алмазную силу, прыгните вверх и с силой приземлитесь, создав мощную ударную волну."
             }
           },
           {
             "Name": {
               "id": "484045035374707978",
               "eng": "Diamond-Bladed Spin Kick",
-              "rus": "Алмазный круг"
+              "rus": "Алмазный вихрь"
             },
             "Desc": {
               "id": "15819245904910484807",
               "eng": "Strike all enemies around you with a brutal kick, adding #emphasis#bleeding#/emphasis# wounds with your razor-like diamond heels.",
-              "rus": "Выполнить мощный круговой удар ногой, нанеся урон всем противникам вокруг. Ваши бритвенно-острые алмазные шпильки оставляют #emphasis#кровоточащие#/emphasis# раны."
+              "rus": "Выполните мощный круговой удар ногой, нанеся урон всем противникам вокруг. Ваши бритвенно-острые алмазные шпильки оставят #emphasis#кровоточащие#/emphasis# раны."
             }
           },
           {
@@ -531,19 +531,19 @@
             "Desc": {
               "id": "11160212347398063425",
               "eng": "Crush an enemy with a massive diamond slap, showing them why you should be regarded as a queen.",
-              "rus": "Раздавите врага мощным алмазным ударом, показав им, почему вас следует считать королевой."
+              "rus": "Сокруши врага мощной алмазной пощёчиной, дабы он узрел, кто здесь настоящая королева!"
             }
           },
           {
             "Name": {
               "id": "17841328460692915464",
               "eng": "Diamond Crush",
-              "rus": "Алмазный каток"
+              "rus": "Алмазное сокрушение"
             },
             "Desc": {
               "id": "518376719019672846",
               "eng": "Destroy your foes with mighty haymakers and powerful uppercuts, striking where their injuries are greatest.",
-              "rus": "Громить врагов мощными ударами по уязвимым местам."
+              "rus": "Уничтожь врагов мощными ударами по уязвимым местам."
             }
           },
           {
@@ -555,7 +555,7 @@
             "Desc": {
               "id": "16860196667218789703",
               "eng": "Call upon the Stepford Cuckoos, powerful psychics born of your own genes, to assist you for a massive psychic blast.",
-              "rus": "Призовите Степфордских кукушек, мощных психиков, рожденных из ваших собственных генов, чтобы они помогли вам с мощным психическим ударом."
+              "rus": "Призовите Степфордских кукушек, мощных психиков, созданных из ваших собственных генов, чтобы они помогли вам своим грандиозным психическим ударом."
             }
           }
         ]
@@ -571,7 +571,7 @@
             "Name": {
               "id": "2662958111651005762",
               "eng": "Assault Psyche",
-              "rus": "Атака Психики"
+              "rus": "Пси-атака"
             },
             "Desc": {
               "id": "Invalid",
@@ -640,7 +640,7 @@
             "Desc": {
               "id": "4964987292922873101",
               "eng": "Launch a pulsing ball of repulsor energy that releases a shockwave when it collides with an enemy.",
-              "rus": "Запускает пульсирующий шар энергии репульсора, который при столкновении с врагом бьет его ударной волной."
+              "rus": "Выпустите пульсирующий шар репульсорной энергии, который при ударе создаст ударную волну."
             }
           },
           {
@@ -652,7 +652,7 @@
             "Desc": {
               "id": "8768806842258883910",
               "eng": "Launch a swarm of intelligent, auto-targeting StarkTech micro-missiles that seek out enemies.",
-              "rus": "Запускает рой умных микроракет \"СтаркТех\" с автонаведением, которые следуют за врагами."
+              "rus": "Запустите рой умных микроракет \"СтаркТех\" с автонаведением, которые следуют за врагами."
             }
           },
           {
@@ -664,7 +664,7 @@
             "Desc": {
               "id": "16204607924181533973",
               "eng": "Charge up your chest-mounted repulsor transmitter and release a concentrated arc reactor fueled beam of energy.",
-              "rus": "Зарядить нагрудный репульсорный передатчик и выпустить сконцентрированный когерентный луч с питанием от дугового реактора."
+              "rus": "Зарядите свой нагрудный репульсор и выпустите концентрированный луч чистой энергии, усиленный дуговым реактором."
             }
           },
           {
@@ -676,7 +676,7 @@
             "Desc": {
               "id": "10136173169077060871",
               "eng": "Light up enemies with piercing blasts from your palm-mounted repulsors.",
-              "rus": "Поджигает врагов пронизывающими импульсами наладонных репульсоров."
+              "rus": "Прожигайте врагов точными выстрелами из наладонных репульсоров."
             }
           },
           {
@@ -688,7 +688,7 @@
             "Desc": {
               "id": "13622830325812299033",
               "eng": "Hold down the hotkey to project a continuous stream of destructive repulsor energy.",
-              "rus": "Удерживать горячую клавишу, чтобы выпустить непрерывный поток деструктивной энергии репульсоров."
+              "rus": "Удерживайте горячую клавишу, чтобы выпустить непрерывный поток деструктивной энергии репульсоров."
             }
           },
           {
@@ -700,19 +700,19 @@
             "Desc": {
               "id": "1865171677273589005",
               "eng": "Launch a tiny rocket that delivers a surprisingly large concussive payload, blasting anyone caught in the explosion.",
-              "rus": "Выпустить крошечную ракету с высокой зажигательной мощью, которая поджигает всех, оказавшихся в зоне #emphasis#огненного#/emphasis# взрыва."
+              "rus": "Выпустите крошечную ракету с высокой зажигательной мощью, которая поджигает всех, оказавшихся в зоне #emphasis#огненного#/emphasis# взрыва."
             }
           },
           {
             "Name": {
               "id": "17478307705893881098",
               "eng": "Repulsor Barrage",
-              "rus": "Репульсорная очередь"
+              "rus": "Репульсорный залп"
             },
             "Desc": {
               "id": "11399968764867970366",
               "eng": "Rapidly pulse a continuous barrage of repulsor rays from each hand, striking multiple targets at once.",
-              "rus": "Быстро выпустить очередь репульсорных лучей, поразив цель несколько раз."
+              "rus": "Выпустите быструю очередь репульсорных лучей, поразив цель несколько раз."
             }
           },
           {
@@ -724,7 +724,7 @@
             "Desc": {
               "id": "827014632283178260",
               "eng": "Call down clusters of missiles to the target location, raining #emphasis#burning#/emphasis# destruction upon your enemies and leaving them #emphasis#vulnerable#/emphasis# for a short duration afterwards.",
-              "rus": "Выпустить несколько ракетных залпов по указанной точке, обрушив на врагов #emphasis#огненный#/emphasis# шторм и #emphasis#ослабив#/emphasis# их на короткое время."
+              "rus": "Выпустите несколько ракетных залпов по указанной точке, обрушив на врагов #emphasis#огненный#/emphasis# шторм и #emphasis#ослабив#/emphasis# их на короткое время."
             }
           },
           {
@@ -736,19 +736,19 @@
             "Desc": {
               "id": "14248411047121061143",
               "eng": "Sweep the area around you with powerful microlasers, decimating your enemies.",
-              "rus": "Зачистить зону вокруг себя мощными микролазерами, уничтожая врагов."
+              "rus": "Зачистите зону вокруг себя мощными микролазерами, уничтожив всех ваших врагов."
             }
           },
           {
             "Name": {
               "id": "13277159310440596753",
               "eng": "House Party",
-              "rus": "Вечеринка"
+              "rus": "Семейный праздник"
             },
             "Desc": {
               "id": "2218446717542270267",
               "eng": "Instruct Jarvis to activate the 'House Party Protocol' from Stark Tower, calling in a swarm of remote-controlled suits of armor for backup.",
-              "rus": "Приказать Джарвису активировать \"протокол Вечеринки\" в Башне Старка, т.е. выслать вам на подмогу множество пустых бронекостюмов с дистанционным управлением."
+              "rus": "Прикажите Джарвису активировать \"протокол Семейный праздник\" в Башне Старка, т.е. выслать вам на подмогу множество пустых бронекостюмов с дистанционным управлением."
             }
           }
         ]
@@ -769,19 +769,19 @@
             "Desc": {
               "id": "1834468205905118473",
               "eng": "Rocket forward, offensively using your shields to plow through enemies in your path.",
-              "rus": "Совершить реактивный рывок, используя щиты для того, чтобы прорезать себе дорогу в гуще врагов."
+              "rus": "Совершите реактивный рывок, используя щиты для того, чтобы пробить себе дорогу в гуще врагов."
             }
           },
           {
             "Name": {
               "id": "16238506619279049996",
               "eng": "Voltaic Punch",
-              "rus": "Вольтовый удар кулаком"
+              "rus": "Вольтаический удар"
             },
             "Desc": {
               "id": "10836483559734052155",
               "eng": "Strike enemies with your power-armored fists, dealing additional damage when your Suit Power is low.",
-              "rus": "Бить врагов кулаками в силовой броне, нанося дополнительный урон, когда мощность костюма низка."
+              "rus": "Бейте врагов своими бронированными кулаками, нанося дополнительный урон, когда мощность костюма упадёт."
             }
           },
           {
@@ -793,19 +793,19 @@
             "Desc": {
               "id": "6289039226881770820",
               "eng": "Overload your reactor, causing it to violently discharge excess energy.\nThis removes negative conditions and restores some of your $primarymanabehaviorname$.",
-              "rus": "Перегрузить реактор, вызвав резкое высвобождение излишков энергии.\nОтрицательные эффекты при этом снимутся, также частично восстановится запас $primarymanabehaviorname.locflagG$."
+              "rus": "Перегрузите реактор, вызвав резкое высвобождение излишков энергии.\nОтрицательные эффекты при этом снимутся, также частично восстановится запас $primarymanabehaviorname.locflagG$."
             }
           },
           {
             "Name": {
               "id": "115068144611558776",
               "eng": "Jet-Assisted Slam",
-              "rus": "Реактивный слэм"
+              "rus": "Реактивный удар"
             },
             "Desc": {
               "id": "551759949395854667",
               "eng": "Crash forward, activating your thrusters to enhance the impact and #emphasis#weaken#/emphasis# enemies.",
-              "rus": "Рвануться вперед, активировав ускорители, чтобы усилить удар и #emphasis#ослабить#/emphasis# врагов."
+              "rus": "Рваните вперед, активировав ускорители, чтобы усилить удар и #emphasis#ослабить#/emphasis# врагов."
             }
           },
           {
@@ -817,7 +817,7 @@
             "Desc": {
               "id": "16257095066003375431",
               "eng": "Take flight and slam into the middle of a group of enemies, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Взлететь и врезаться сверху в толпу врагов, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "Совершите прыжок с последующим ударом по области, #emphasis#сбивающим врагов с ног#/emphasis#."
             }
           },
           {
@@ -829,7 +829,7 @@
             "Desc": {
               "id": "5415652172555879678",
               "eng": "Vent a #emphasis#chilling#/emphasis# cloud of supercooled gas that #emphasis#slows#/emphasis# and #emphasis#freezes#/emphasis# nearby enemies.",
-              "rus": "Выпустить #emphasis#охлаждающее#/emphasis# облако газа, которое #emphasis#замедлит#/emphasis# и #emphasis#заморозит#/emphasis# врагов."
+              "rus": "Выпустите #emphasis#охлаждающее#/emphasis# облако газа, которое #emphasis#замедлит#/emphasis# и #emphasis#заморозит#/emphasis# врагов."
             }
           },
           {
@@ -848,12 +848,12 @@
             "Name": {
               "id": "4825549324297766217",
               "eng": "Repulsor Spray",
-              "rus": "Репульсорный спрей"
+              "rus": "Шквал репульсоров"
             },
             "Desc": {
               "id": "16606512289219020047",
               "eng": "Overcharge your repulsors, firing them in an erratic pattern that strikes all enemies in a large area in front of you.",
-              "rus": "Перезарядите свои репульсоры, стреляя ими в хаотичном порядке, который поражает всех врагов на большой площади перед вами."
+              "rus": "Максимально быстро используйте свои репульсоры, стреляя ими в хаотичном порядке, поражая всех врагов в большом радиусе перед вами."
             }
           }
         ]
@@ -869,7 +869,7 @@
             "Name": {
               "id": "17480604048870278458",
               "eng": "Arc Reactor",
-              "rus": "Арк Реактор"
+              "rus": "Дуговой реактор"
             },
             "Desc": {
               "id": "Invalid",
@@ -893,7 +893,7 @@
             "Name": {
               "id": "17261222475220845889",
               "eng": "Suit Power",
-              "rus": "Сила костюма"
+              "rus": "Мощность костюма"
             },
             "Desc": {
               "id": "Invalid",
@@ -919,7 +919,7 @@
     "Bio": {
       "id": "12686839068088534323",
       "eng": "#emphasis#Real Name:#/emphasis# T'Challa\n#emphasis#Identity:#/emphasis# Public\n\nT'Challa rules the technologically advanced African kingdom of Wakanda. In addition to having peak human physical abilities, his mystical link to the Panther God grants him superhumanly acute senses and allows him to also wear the ceremonial mantle of the Black Panther.\nBlack Panther must balance his duties as a king with his responsibilities as a hero. This tension occasionally strains his standing with his allies in the Avengers, as well as the respect of his own people.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Fantastic Four #52 (July 1966)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# T'Challa\n#emphasis#Личность:#/emphasis# Открытая\n\nT'Challa правит технологически продвинутым африканским королевством Ваканда. В дополнение к своим пиковым человеческим физическим способностям, его мистическая связь с Богом Пантерой дарует ему сверхчувствительные органы чувств и позволяет носить церемониальную мантию Черной Пантеры.\nЧерной Пантере необходимо балансировать свои обязанности как короля с его ответственностью как героя. Это напряжение иногда ставит под угрозу его отношения с союзниками из Мстителей, а также уважение его собственного народа.\n\n#emphasis#Создано:#/emphasis# Стэн Ли и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Фантастическая Четверка #52 (Июль 1966)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# T'Challa\n#emphasis#Личность:#/emphasis# Открытая\n\nТ'Чaлла правит технологически продвинутым африканским королевством Ваканда. В дополнение к своим выдающимся для человека физическим способностям, его мистическая связь с Богом Пантерой дарует ему сверхчувствительные органы чувств и позволяет носить церемониальную мантию Черной Пантеры.\nЧерной Пантере необходимо балансировать свои обязанности как короля с его ответственностью как героя. Это напряжение иногда ставит под угрозу его отношения с союзниками из Мстителей, а также уважение его собственного народа.\n\n#emphasis#Создано:#/emphasis# Стэн Ли и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Фантастическая Четверка #52 (Июль 1966)"
     },
     "PowerTables": [
       {
@@ -938,19 +938,19 @@
             "Desc": {
               "id": "883507303474529530",
               "eng": "Deftly throw your vibranium daggers, sinking them into your enemies.",
-              "rus": "Искусно метнуть вибраниевые кинжалы и вонзить их в противника."
+              "rus": "Ловко метните свои вибраниумные кинжалы, вонзая их во врагов."
             }
           },
           {
             "Name": {
               "id": "2060251935195006287",
               "eng": "Enervating Slash",
-              "rus": "Опустошающий удар"
+              "rus": "Рассекающий удар"
             },
             "Desc": {
               "id": "14827589843698255115",
               "eng": "Slice enemies in front of you with your blades, opening vicious wounds.",
-              "rus": "Рубить клинками врагов, нанося чудовищные раны."
+              "rus": "Наносите режущие удары врагам, находящимся перед вами, нанося кровоточащие раны."
             }
           },
           {
@@ -962,7 +962,7 @@
             "Desc": {
               "id": "6610260496659121466",
               "eng": "Throw down a cunning snare that traps unwary enemies, dealing damage and reducing the defenses of any caught inside.",
-              "rus": "Бросить искусную ловушку, которая поражает неосторожных противников, нанося урон всем попавшим в зону действия и ослабляя их защиту."
+              "rus": "Бросьте искусную ловушку, которая поражает неосторожных противников, нанося урон всем попавшим в зону действия и ослабляя их защиту."
             }
           },
           {
@@ -974,7 +974,7 @@
             "Desc": {
               "id": "10966900967466534153",
               "eng": "Throw a deadly fan of energy daggers that slice through all enemies in their paths.",
-              "rus": "Бросить энергетические кинжалы смертоносным веером, сметающим всех врагов на своем пути."
+              "rus": "Бросьте энергетические кинжалы смертоносным веером, сметающим всех врагов на пути."
             }
           },
           {
@@ -986,7 +986,7 @@
             "Desc": {
               "id": "3224196499121767740",
               "eng": "Throw a dagger which #emphasis#freezes#/emphasis# the first enemy it comes in contact with, #emphasis#slowing#/emphasis# other enemies nearby after a short delay.",
-              "rus": "Бросить кинжал, который #emphasis#замораживает#/emphasis# первого противника, с которым соприкасается, а через миг #emphasis#замедляет#/emphasis# ближайших противников."
+              "rus": "Бросьте кинжал, который #emphasis#замораживает#/emphasis# первого противника, с которым соприкасается, а через миг #emphasis#замедляет#/emphasis# и ближайших к нему противников."
             }
           },
           {
@@ -998,7 +998,7 @@
             "Desc": {
               "id": "9143169033721218363",
               "eng": "Dash forward, #emphasis#knocking down#/emphasis# enemies in your path and rending their flesh.",
-              "rus": "Броситься вперед, #emphasis#сбив с ног#/emphasis# противников на пути, разрывая их плоть."
+              "rus": "Бросьтесь вперед, #emphasis#сбив с ног#/emphasis# оказавшихся на пути врагов и рассекая их плоть."
             }
           },
           {
@@ -1009,8 +1009,8 @@
             },
             "Desc": {
               "id": "18034786101439628607",
-              "eng": "Swipe your blades at all nearby enemies, knocking them off balance. ",
-              "rus": "Поразить своими клинками ближайших врагов."
+              "eng": "Swipe your blades at all nearby enemies, knocking them off balance.",
+              "rus": "Поразите своими клинками всех ближайших врагов нанесят урон и заставляя их на время потерять равновесие."
             }
           },
           {
@@ -1034,7 +1034,7 @@
             "Desc": {
               "id": "7387731555334423909",
               "eng": "Leap away from combat and throw a dagger that #emphasis#stuns#/emphasis# an enemy.",
-              "rus": "Отпрыгнуть от противника и бросить кинжал, чтобы #emphasis#оглушить#/emphasis# его."
+              "rus": "Отпрыгните от вашего противника и бросьте кинжал, чтобы #emphasis#оглушить#/emphasis# его."
             }
           },
           {
@@ -1046,7 +1046,7 @@
             "Desc": {
               "id": "9776643269203854598",
               "eng": "Toss out a small device which springs into the air, deploying an array of miniature high-explosive proximity mines.",
-              "rus": "Метнуть небольшое устройство, которое взлетает в воздух, выпуская серию миниатюрных сенсорных мин большой мощности."
+              "rus": "Метните небольшое устройство, которое взлетает в воздух, выпуская серию миниатюрных сенсорных мин большой мощности."
             }
           }
         ]
@@ -1055,7 +1055,7 @@
         "Name": {
           "id": "8697204231286555976",
           "eng": "Ritual Warrior",
-          "rus": "Воин-шаман"
+          "rus": "Ритуальный Воин"
         },
         "Powers": [
           {
@@ -1067,7 +1067,7 @@
             "Desc": {
               "id": "9176260970690249984",
               "eng": "Maul your enemies with broad swipes from your vibranium-tipped claws.",
-              "rus": "Искрошить врагов широкими взмахами когтей, усиленных вибранием."
+              "rus": "Разорвите плоть врагов ударами своих вибраниевых когтей."
             }
           },
           {
@@ -1079,7 +1079,7 @@
             "Desc": {
               "id": "530465574482150661",
               "eng": "Roll under enemies and projectiles and temporarily evade enemy attention.",
-              "rus": "Выполнить перекат под ногами и снарядами врагов и временно уйти из зоны их внимания."
+              "rus": "Совершите перекат под ногами врагов и их снарядами, временно исчезая из поля зрения противника."
             }
           },
           {
@@ -1091,7 +1091,7 @@
             "Desc": {
               "id": "1886568341117011269",
               "eng": "Sweep the legs out from enemies in front of you.",
-              "rus": "Сбить врагов подсечкой."
+              "rus": "Сбейте окружащих врагов с ног подсечкой."
             }
           },
           {
@@ -1103,7 +1103,7 @@
             "Desc": {
               "id": "2377084839256655115",
               "eng": "Decimate enemies with a series of mighty claw swipes.",
-              "rus": "Искромсать врагов несколькими могучими взмахами когтей."
+              "rus": "Искромсайте врагов несколькими мощными взмахами когтей."
             }
           },
           {
@@ -1127,19 +1127,19 @@
             "Desc": {
               "id": "9378616662627321091",
               "eng": "You silently vanish into a cloud of zero-visibility smoke, invisibly pummeling frightened enemies caught inside. Your allies can more easily dodge attacks while in the smoke as well.",
-              "rus": "Беззвучно раствориться в облаке дыма, беспощадно избивая перепуганных врагов, попавших в него. Ваши союзники, попавшие в облако, легче будут уклоняться от атак."
+              "rus": "Беззвучно растворитесь в облаке дыма, а затем беспощадно избейте перепуганных врагов, попавших в него. Ваши союзники, попавшие в облако, будут более ловко уклоняться от атак."
             }
           },
           {
             "Name": {
               "id": "13825416829403989363",
               "eng": "Savage Strike",
-              "rus": "Жестокий удар"
+              "rus": "Свирепый удар"
             },
             "Desc": {
               "id": "7365268412404991242",
               "eng": "Deliver a ferocious uppercut that leaves enemies #emphasis#bleeding#/emphasis#.",
-              "rus": "Провести яростный апперкот, оставив противника #emphasis#истекать кровью#/emphasis#."
+              "rus": "Проведите яростный апперкот, нанеся урон и оставив противника #emphasis#истекать кровью#/emphasis#."
             }
           },
           {
@@ -1151,19 +1151,19 @@
             "Desc": {
               "id": "4817174674876925200",
               "eng": "Embrace the spirit of Bast, empowering your melee and ranged attacks by channelling the power of Bast for a short time and call down his divine wrath to smite your enemies where they stand.",
-              "rus": "Дух Баст на короткое время наполнит ваши атаки ближнего и дальнего боя, обрушивая божественный гнев на головы врагов."
+              "rus": "Призовите дух богини Баст, который краткое время наполнинит все ваши атаки ближнего и дальнего боя мощью богини, а также обрушит свой божественный гнев на головы всех находящихся рядом врагов."
             }
           },
           {
             "Name": {
               "id": "8414857036837487874",
               "eng": "Exalted of Bast",
-              "rus": "Величие Баст"
+              "rus": "Благословлённый Баст"
             },
             "Desc": {
               "id": "8966998881164657936",
               "eng": "The Panther God Bast comes to protect you and your allies, reviving them and enhancing their fighting prowess. \nAlso, divine aspects of Bast come to fight at your command for a time.",
-              "rus": "Бог пантер Баст охранит вас и ваших союзников, оживит их и улучшит их боевые качества. \nКроме того, божественные подручные Баст помогут вам в бою."
+              "rus": "Богиня-Пантера Баст придёт вам на помощь, защищая вас и ваших союзников, воскрешая их и усиливая их атаки. \nКроме того, божественные аватары Баст некоторое время будут помогать вам в бою."
             }
           }
         ]
@@ -1179,7 +1179,7 @@
             "Name": {
               "id": "1540763314185962828",
               "eng": "Panther Soul",
-              "rus": "Душа пантеры"
+              "rus": "Дух пантеры"
             },
             "Desc": {
               "id": "Invalid",
@@ -1217,7 +1217,7 @@
     "Bio": {
       "id": "1899334061196655",
       "eng": "#emphasis#Real Name:#/emphasis# Elizabeth \"Betsy\" Braddock\n#emphasis#Identity:#/emphasis# Secret\n\nSister of Captain Britain, Betsy Braddock is the psychic X-Man known as Psylocke. Originally just a telepath, Betsy ended up switching bodies with a deadly assassin that allowed her to become the psychic ninja she is today. While using her telekinetic powers to manifest a \"Psi-Knife\", Psylocke slips into the shadows and cuts enemies down with her martial arts and katana skills.\n\n#emphasis#Created By:#/emphasis# Chris Claremont and Herb Trimpe\n#emphasis#First Appearance:#/emphasis# Captain Britain #8 (December 1976)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Элизабета \"Бетси\" Браддок\n#emphasis#Личность:#/emphasis# Секретная\n\nСестра Капитана Британии, Бетси Браддок является психическим Людьми Икс, известным как Псайлок. Изначально будучи просто телепатом, Бетси в итоге поменялась телами с смертоносным убийцей, что позволило ей стать психическим ниндзя, каким она является сегодня. Используя свои телекинетические способности для создания \"Пси-Ножа\", Псайлок уходит в тени и уничтожает врагов своими боевыми искусствами и навыками с катаной.\n\n#emphasis#Создано:#/emphasis# Крисом Клэрмонтом и Хербом Тримпом\n#emphasis#Первое появление:#/emphasis# Капитан Британия #8 (декабрь 1976)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Элизабет \"Бетси\" Браддок\n#emphasis#Личность:#/emphasis# Секретная\n\nСестра Капитана Британии, Бетси Браддок является психиком и членом Людей Икс, известной как Псайлок. Изначально будучи просто телепатом, Бетси в итоге поменялась телами со смертоносным убийцей, что позволило ей стать психическим ниндзя, каким она является и сегодня. Используя свои телекинетические способности для создания \"Пси-Ножа\", Псайлок уходит в тени и уничтожает врагов при помощи боевых искусств и навыков владения катаной.\n\n#emphasis#Создано:#/emphasis# Крисом Клэрмонтом и Хербом Тримпом\n#emphasis#Первое появление:#/emphasis# Капитан Британия #8 (декабрь 1976)\n"
     },
     "PowerTables": [
       {
@@ -1236,7 +1236,7 @@
             "Desc": {
               "id": "9035423998020027664",
               "eng": "Subdue enemies with swift strikes of your lethal close combat techniques.",
-              "rus": "Расправиться с врагами быстрыми и смертоносными ударами в рукопашной."
+              "rus": "Расправьтесь с врагами быстрыми и смертоносными ударами в рукопашной."
             }
           },
           {
@@ -1248,7 +1248,7 @@
             "Desc": {
               "id": "15931381741450626363",
               "eng": "Dash to a #emphasis#stealth#/emphasis# position, knocking down and damaging enemies caught in your path.",
-              "rus": "Рывком уйти в #emphasis#скрытое#/emphasis# состояние, сбивая с ног противников на своем пути и нанося им урон."
+              "rus": "Рывком уйдите в #emphasis#скрытое#/emphasis# состояние, сбивая с ног противников на своем пути и нанося им урон."
             }
           },
           {
@@ -1260,7 +1260,7 @@
             "Desc": {
               "id": "3147716149619262770",
               "eng": "Twirl through the air with your katana, cleaving enemies in half with a flash of your blade on landing.",
-              "rus": "Взвиться в воздух стальным вихрем, разрубив противников пополам в точке приземления."
+              "rus": "Взвейтесь в воздух стальным вихрем, разрубая катаной противников во время приземления."
             }
           },
           {
@@ -1272,7 +1272,7 @@
             "Desc": {
               "id": "5832909516688327955",
               "eng": "Sweep your katana, projecting forward a shockwave of wind to #emphasis#slow#/emphasis# your enemies.",
-              "rus": "Взмахнуть катаной, послав вперед порыв ветра, #emphasis#замедляющий#/emphasis# врагов."
+              "rus": "Взмахните своей катаной, создав воздушную волну, которая поразит всех врагов на пути и #emphasis#замедлит#/emphasis# их."
             }
           },
           {
@@ -1284,7 +1284,7 @@
             "Desc": {
               "id": "1029847765715191098",
               "eng": "Unleash lightning-fast blows from your katana, intended to swiftly dismember and dispatch unsuspecting enemies.",
-              "rus": "Провести серию молниеносных ударов катаной, рассчитанных на то, чтобы быстро порубить ничего не подозревающих врагов на кусочки."
+              "rus": "Проведите серию молниеносных ударов катаной, рассчитанных на то, чтобы быстро порубить ничего не подозревающих врагов на кусочки."
             }
           },
           {
@@ -1296,7 +1296,7 @@
             "Desc": {
               "id": "5100488979990644045",
               "eng": "Your ability to manipulate your enemies is enhanced, leaving behind a psionic decoy to confuse your enemies whenever you vanish from their sight.",
-              "rus": "Способность манипулировать врагами усилится. После воздействия остается пси-иллюзия, сводящая врагов с толку, когда вы пропадаете с их глаз."
+              "rus": "Ваша способность манипулировать врагами усиливается. После воздействия остается пси-иллюзия, сбивающая врагов с толку в то время как вы исчезаете с глаз."
             }
           },
           {
@@ -1308,7 +1308,7 @@
             "Desc": {
               "id": "100671186472731915",
               "eng": "Telekinetically swirl your katana around yourself in a blur of deadly steel, slicing through nearby enemies.",
-              "rus": "Телекинетически закрутить катану вокруг себя смертоносным стальным вихрем, рубя врагов."
+              "rus": "Телекинетически заставьте катану стремительно вращаться, превратив её в смертоносный ураган, который кромсает врагов вокруг."
             }
           },
           {
@@ -1320,7 +1320,7 @@
             "Desc": {
               "id": "6021997453345293582",
               "eng": "Dash to an enemy and drive your psi-blade through their back, quickly dispatching them.",
-              "rus": "Ринуться к врагу со спины и проткнуть его своим псионическим клинком."
+              "rus": "Молниеносно сблизьтесь с врагом, а затем используйте пси-клинок, чтобы поразить противника в спину."
             }
           }
         ]
@@ -1341,7 +1341,7 @@
             "Desc": {
               "id": "13908622672354804999",
               "eng": "Cut enemies to pieces with a swift triple-strike of your psi-knife.",
-              "rus": "Рубить врагов в куски быстрыми тройными ударами пси-ножа."
+              "rus": "Разрубите врагов на части быстрыми тройными ударами пси-ножа."
             }
           },
           {
@@ -1353,19 +1353,19 @@
             "Desc": {
               "id": "6647672170067199290",
               "eng": "Crush your enemies minds with madness by gently fanning the flame of their darkest fears.",
-              "rus": "Свести врагов с ума, аккуратно подогревая их самые потаенные страхи."
+              "rus": "Уничтожайте сознание противников, играючи подпитывая их самые тёмные кошмары."
             }
           },
           {
             "Name": {
               "id": "14951531497424880951",
               "eng": "Psi-Thrust",
-              "rus": "Пси-толчок"
+              "rus": "Пси-выпад"
             },
             "Desc": {
               "id": "10419831230426383631",
               "eng": "Lunge forward with your psi-knife outstretched, rending enemies in your path. Your next attack rejuvenates you.",
-              "rus": "Рвануться вперед с обнаженным психо-ножом, уничтожая врагов на своем пути. Следующая атака придаст вам сил."
+              "rus": "Совершите резкий рывок вперёд с пси-кинжалом, рассекая врагов на своем пути. Следующая атака также восстановит часть пси-барьера."
             }
           },
           {
@@ -1377,7 +1377,7 @@
             "Desc": {
               "id": "2922231504700966163",
               "eng": "Sling bolts of ethereal psionic energy, which explode on contact with an enemy mind.",
-              "rus": "Выпустить стрелу пси-энергии, взрывающуюся при контакте с разумом врага."
+              "rus": "Выпустите стрелу пси-энергии, взрывающуюся при контакте с разумом врага."
             }
           },
           {
@@ -1389,7 +1389,7 @@
             "Desc": {
               "id": "7316315852691146045",
               "eng": "Consume enemies in a deadly implosion of psionic energy.",
-              "rus": "Уничтожить врагов смертоносным извержением псионической энергии."
+              "rus": "Уничтожайте врагов смертоносным выбросом псионической энергии."
             }
           },
           {
@@ -1401,19 +1401,19 @@
             "Desc": {
               "id": "9789029409435026706",
               "eng": "Draw a bow of psychic power, concentrating your energy directly into a single devastating psionic arrow that ricochets back to you.",
-              "rus": "Материализовать лук из пси-энергии, сконцентрировав силу в одну смертоносную псионическую стрелу. Ваши дистанционные атаки становятся эффективнее, пока вы фокусируете энергию на своих целях."
+              "rus": "Материализуйте лук из пси-энергии, сконцентрировав свою силу в одну смертоносную псионическую стрелу. Ваши дистанционные атаки становятся эффективнее, пока вы фокусируете энергию на своих целях."
             }
           },
           {
             "Name": {
               "id": "6292443641289835836",
               "eng": "Psycho-Blast",
-              "rus": "Психо-бласт"
+              "rus": "Пси-взрыв"
             },
             "Desc": {
               "id": "8405441721266799935",
               "eng": "Release a blast of psionic energy in a brilliant and deadly cone, destroying swaths of enemies at a time, especially those who have already been crippled.",
-              "rus": "Выпустить импульс псионической энергии в форме сверкающего, смертоносного конуса, уничтожающего врагов целыми толпами - особенно уже покалеченных."
+              "rus": "Выпустите импульс псионической энергии в форме сверкающего, смертоносного конуса, уничтожающего врагов целыми толпами - особенно уже покалеченных."
             }
           },
           {
@@ -1425,19 +1425,19 @@
             "Desc": {
               "id": "13575251309514786109",
               "eng": "Release psionic butterflies that gently flutter to enemies and suddenly reveal their deadly purpose upon exploding near unsuspecting foes.",
-              "rus": "Выпустить рой псионных бабочек, которые нежно порхают среди врагов и, подобравшись к ним вплотную, взрываются."
+              "rus": "Выпустите рой псионических бабочек, которые нежно порхают вокруг врагов и, подобравшись к ним вплотную, взрываются."
             }
           },
           {
             "Name": {
               "id": "11765633342677124456",
               "eng": "Psionic Maelstrom",
-              "rus": "Пси-водоворот"
+              "rus": "Пси-шторм"
             },
             "Desc": {
               "id": "10502879753254864226",
               "eng": "Summon a dazzling kaleidoscope of psionic butterflies, with you as the centerpoint of their flightpaths. Enemies caught in their swarm are quickly cut down by the overwhelming and deadly psionic energy.",
-              "rus": "Создать головокружительный калейдоскоп псионических бабочек с вами в центре. Враги, оказавшиеся внутри роя бабочек, быстро уничтожаются огромным зарядом смертоносной пси-энергии."
+              "rus": "Создайте головокружительный калейдоскоп псионических бабочек с вами в центре. Враги, оказавшиеся внутри роя бабочек, будут быстро уничтожены разыгравшейся смертоносной бурей пси-энергии."
             }
           }
         ]
@@ -1465,7 +1465,7 @@
             "Name": {
               "id": "3705486947955639559",
               "eng": "Psionic Resilience",
-              "rus": "Псionic Устойчивость"
+              "rus": "Пси-устойчивость"
             },
             "Desc": {
               "id": "Invalid",
@@ -1503,7 +1503,7 @@
     "Bio": {
       "id": "4837955410398217581",
       "eng": "#emphasis#Real Name:#/emphasis# Katherine \"Kitty\" Anne Pryde\n#emphasis#Identity:#/emphasis# Secret\n\nKitty Pryde was your average 13 year old girl from Illinois  when her powers began manifesting. Able to \"phase\" her body and anything she touches through solid matter, Kitty's been connected to the X-Men since the first time her powers came to light. Though her powers were originally considered passive, Kitty has learned to use them in various waves to save her friends and even the world! Not content with  just a sharp wit and awesome power set, Kitty Pryde also possesses masterful knowledge of martial arts (thanks to an adventure with Wolverine) as well as a fire-breathing pet alien dragon, Lockheed!\n\n#emphasis#Created By:#/emphasis# Chris Clarement and John Byrne\n#emphasis#First Appearance:#/emphasis# X-Men #129 (September 1980)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Кэтрин \"Китти\" Энн Прайд\n#emphasis#Личность:#/emphasis# Секретная\n\nКитти Прайд была обычной 13-летней девочкой из Иллинойс, когда ее способности начали проявляться. Способная \"фазировать\" свое тело и все, что она касается, сквозь твердые предметы, Китти связана с Людьми Икс с тех пор, как ее способности впервые стали известны. Хотя изначально ее способности считались пассивными, Китти научилась использовать их в различных формах, чтобы спасти своих друзей и даже мир! Ей недостаточно просто острого ума и потрясающего набора сил, Китти Прайд также обладает мастерским знанием боевых искусств (благодаря приключению с Росомахой), а также огнедышащим питомцем инопланетным драконом, Локхидом!\n\n#emphasis#Создано:#/emphasis# Крис Клэрмонт и Джон Бирн\n#emphasis#Первое появление:#/emphasis# Люди Икс #129 (сентябрь 1980)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Кэтрин \"Китти\" Энн Прайд\n#emphasis#Личность:#/emphasis# Секретная\n\nКитти Прайд была обычной 13-летней девочкой из Иллиноиса, когда ее способности мутанта начали проявляться. Она способна \"фазировать\" свое тело и всего, чего коснётся в этот момент, сквозь твердые предметы, Китти связана с Людьми Икс с тех пор, как ее способности впервые проявились. Хотя изначально ее способности считались скорее пассивными, Китти научилась использовать их в различных формах, чтобы спасать своих друзей и даже мир! Ей недостаточно просто острого ума и потрясающего набора сил, Китти Прайд также обладает мастерским знанием боевых искусств (благодаря приключению с Росомахой), а также огнедышащим питомцем инопланетным драконом, Локхидом!\n\n#emphasis#Создано:#/emphasis# Крис Клэрмонт и Джон Бирн\n#emphasis#Первое появление:#/emphasis# Люди Икс #129 (сентябрь 1980)\n"
     },
     "PowerTables": [
       {
@@ -1534,7 +1534,7 @@
             "Desc": {
               "id": "701833829060642112",
               "eng": "Phase your entire body and move quickly through enemies and walls alike. Perfect for getting out of just about every situation.",
-              "rus": "Позволяет быстро просочиться сквозь врагов, стены и прочие препятствия. Отличный способ отступления."
+              "rus": "Позволяет вам буквально просочиться сквозь врагов, стены и прочие препятствия. Отличный способ для отступления в напряженной ситуации."
             }
           },
           {
@@ -1565,7 +1565,7 @@
             "Name": {
               "id": "9258206008948229384",
               "eng": "Quicksand",
-              "rus": "Трясина"
+              "rus": "Зыбучие пески"
             },
             "Desc": {
               "id": "12577966440265614602",
@@ -1582,14 +1582,14 @@
             "Desc": {
               "id": "6075702424556209476",
               "eng": "Temporarily phase yourself out of the physical plane, increasing your effectiveness in combat and making you impossible to hit.",
-              "rus": "Временно обрести бесплотность на поле боя, чтобы наносить врагам больше урона и избегать ответных ударов."
+              "rus": "Используя фазирование временно обрестите бесплотность, во время действия способности вы эффективнее атакуете и не получаете урона."
             }
           },
           {
             "Name": {
               "id": "10770429711504966978",
               "eng": "Logan-Style",
-              "rus": "Как Логан"
+              "rus": "В стиле Логана"
             },
             "Desc": {
               "id": "14237947536174417211",
@@ -1601,7 +1601,7 @@
             "Name": {
               "id": "8308213144974329150",
               "eng": "Phasing Samurai",
-              "rus": "Неудержимый самурай"
+              "rus": "Фазирующий самурай"
             },
             "Desc": {
               "id": "6753881359774582080",
@@ -1618,7 +1618,7 @@
             "Desc": {
               "id": "8621116446094853447",
               "eng": "Give 'em everything you've got by phasing beneath your enemies and using just about everything you've learned as an X-Man, combining your mutant power with your martial arts mojo and katana-wielding skills. This attack allows you to continously dive underground and come up for more in a kind of rhythmic dance of butt kicking.  ",
-              "rus": "Покажите все, на что способны, проникая под землю и пуская в ход все известные вам приемы Людей Икс - мутантские способности, помноженные на боевые искусства и мастерское  владение катаной. Вы каждый раз будете выныривать из-под земли с новым сюрпризом для врагов в непревзойденном балете смерти."
+              "rus": "Покажите все, на что способны, проникая под землю и пуская в ход все известные вам приемы Людей Икс - мутантские способности, помноженные на боевые искусства и мастерское владение катаной. Вы каждый раз будете выныривать из-под земли с новым сюрпризом для врагов в непревзойденном танце смерти."
             }
           }
         ]
@@ -1651,7 +1651,7 @@
             "Desc": {
               "id": "334139801948063038",
               "eng": "Have Lockheed dash forward without you, spewing fire as he goes.",
-              "rus": "По команде Локхид ринется вперед, изрыгая пламя."
+              "rus": "По вашей команде Локхид ринется вперед, изрыгая пламя."
             }
           },
           {
@@ -1663,7 +1663,7 @@
             "Desc": {
               "id": "4320023663385249047",
               "eng": "Hold down the hotkey to have Lockheed perch on your arm, breathing waves of fire at enemies in front of you.",
-              "rus": "Удерживать горячую клавишу, чтобы Локхид вспорхнул вам на руку и залил врагов перед вами волнами огня."
+              "rus": "Удерживайте горячую клавишу, чтобы Локхид вспорхнул вам на руку и залил врагов перед вами волнами огня."
             }
           },
           {
@@ -1675,7 +1675,7 @@
             "Desc": {
               "id": "15183262789986616641",
               "eng": "Deliver a roundhouse kick to your enemy then duck down to allow your pal Lockheed to deliver a massive blast of fire in front of you.",
-              "rus": "Нанести круговой удар ногой по врагу, а затем пригнуться, чтобы Локхид выпустил огненный заряд над вашей головой."
+              "rus": "Нанести круговой удар ногой по врагу, а затем пригнитесь, чтобы Локхид выпустил огненный заряд вам через голову."
             }
           },
           {
@@ -1699,7 +1699,7 @@
             "Desc": {
               "id": "14450126638654358845",
               "eng": "Have Lockheed let loose in your preferred direction, lighting the ground in front of him ablaze.",
-              "rus": "Выпустить Локхида вперед, чтобы он летел и заливал землю пламенем."
+              "rus": "Скомандуйте Локхиду стремительно лететь вперед, чтобы вся земля на его пути была залита пламенем."
             }
           }
         ]
@@ -1727,7 +1727,7 @@
             "Name": {
               "id": "2951580686975763728",
               "eng": "Intangible",
-              "rus": "Невидимый"
+              "rus": "Неосязаемость"
             },
             "Desc": {
               "id": "Invalid",
@@ -1756,7 +1756,7 @@
             "Desc": {
               "id": "4800052414138811701",
               "eng": "Unleash any of your pent up rage by allowing Magik's Soulsword to take over for a bit, sending a massive shockwave of damage through the air and ground alike. Afterwards, the Soulsword imbues your phasing abilities, allowing you to defeat most foes simply by walking through them.",
-              "rus": "Выпустите всю свою подавленную ярость, позволив мечу Души Мэджик взять верх на некоторое время, посылая мощную ударную волну урона через воздух и землю. После этого меч Души наделяет ваши способности фазирования, позволяя вам побеждать большинство врагов, просто проходя сквозь них."
+              "rus": "Выпустите всю свою подавленную ярость, позволив мечу Души Мэджик взять верх на некоторое время, посылая мощную ударную волну урона по воздуху и земле. После этого меч Души усиливает ваши способности фазирования, позволяя вам побеждать большинство врагов, просто пройдя сквозь них."
             }
           }
         ]
@@ -1772,12 +1772,12 @@
     "Desc": {
       "id": "409372244332643586",
       "eng": "Homicidal maniac, Cletus Kasady was serving out his life sentence in prison when a new cellmate moved in, Eddie Brock aka Venom. In the midst of a jailbreak, the Venom symbiote spawned an offspring that bonded to Cletus, creating a symbiote that was stronger and deadlier than either Spider-Man or Venom. Known for cutting brutal and bloody swaths throughout the country he has more than earned the name: Carnage! ",
-      "rus": "Садистский маньяк, Клетус Касади отбывал свой пожизненный срок в тюрьме, когда к нему в камеру переехал новый сокамерник, Эдди Брок, также известный как Веном. В разгар побега Веном создал потомство, которое слилось с Клетусом, создав симбиота, который был сильнее и смертоноснее, чем Человек-паук или Веном. Известный своими жестокими и кровавыми следами по всей стране, он более чем заслужил имя: Карнаж!"
+      "rus": "Садистский маньяк, Клетус Касади отбывал свой пожизненный срок в тюрьме, когда к нему в камеру переехал новый сокамерник, Эдди Брок, также известный как Веном. В разгар побега Веном создал потомство, которое слилось с Клетусом, создав симбиота, который был сильнее и смертоноснее, чем Человек-паук или Веном. Ставший известным из-за своимх жестоких и кровавых выходок по всей стране, он более чем заслужил имя: Карнаж!"
     },
     "Bio": {
       "id": "13724372397867533562",
       "eng": "#emphasis#Real Name:#/emphasis# Cletus Kasady\n#emphasis#Identity:#/emphasis# Carnage\n\nHomicidal maniac, Cletus Kasady was serving out his life sentence in prison when a new cellmate moved in, Eddie Brock aka Venom. In the midst of a jailbreak, the Venom symbiote spawned an offspring that bonded to Cletus, creating a symbiote that was stronger and deadlier than either Spider-Man or Venom. Known for cutting brutal and bloody swaths throughout the country he has more than earned the name: Carnage! \nInverted by the events of Axis, Carnage appears to be acting heroic...kind of. Still prone to his violent tendencies, Carnage now fights on the side of the heroes, hacking up any bad guys who cross his path. ",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Клетус Касаді\n#emphasis#Личность:#/emphasis# Карнаж\n\nУбийственный маньяк, Клетус Касаді отбывал свой пожизненный срок в тюрьме, когда к нему в камеру переехал новый сокамерник, Эдди Брок, также известный как Веном. В разгар побега из тюрьмы симбиот Венома произвел потомство, которое слилось с Клетусом, создав симбиота, который был сильнее и смертоноснее, чем Человек-Паук или Веном. Известный своими жестокими и кровавыми действиями по всей стране, он более чем заслужил имя: Карнаж! \nИзмененный событиями Оси, Карнаж, похоже, ведет себя героически... в некотором роде. Все еще подверженный своим насильственным наклонностям, Карнаж теперь сражается на стороне героев, расправляясь с любыми злодеями, которые попадаются ему на пути."
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Клетус Касаді\n#emphasis#Личность:#/emphasis# Карнаж\n\nМаньяк-убийца, Клетус Касади отбывал свой пожизненный срок в тюрьме, когда к нему в камеру переехал новый сокамерник, Эдди Брок, также известный как Веном. В разгар побега из тюрьмы симбиот Венома произвел потомство, которое слилось с Клетусом, создав симбиота, который был сильнее и смертоноснее, чем Человек-Паук или Веном. Ставший известным из-за своимх жестоких и кровавых выходок по всей стране, он более чем заслужил имя: Карнаж! \nИзмененный событиями Оси, Карнаж, похоже, ведет себя героически... в некотором роде. Все еще подверженный своим насильственным наклонностям, Карнаж теперь сражается на стороне героев, расправляясь с любыми злодеями, которые попадаются ему на пути."
     },
     "PowerTables": [
       {
@@ -1796,14 +1796,14 @@
             "Desc": {
               "id": "7153617921612776709",
               "eng": "Eviscerate enemies using the versatile toolkit that your symbiote provides, to see what they're really made of.",
-              "rus": "Уничтожайте врагов с помощью универсального инструментария, который предоставляет ваш симбиот, чтобы увидеть, из чего они на самом деле состоят."
+              "rus": "Распротрошите врагов с помощью универсального инструмента, которым является ваш симбиот, чтобы взглянуть, что же у них внутри."
             }
           },
           {
             "Name": {
               "id": "471493414411502900",
               "eng": "Vicious Lunge",
-              "rus": "Злобный рывок"
+              "rus": "Свирепый рывок"
             },
             "Desc": {
               "id": "2917554401327514934",
@@ -1815,24 +1815,24 @@
             "Name": {
               "id": "6744292647652492550",
               "eng": "Ravenous Claw",
-              "rus": "Пожирающий Коготь"
+              "rus": "Ненасытный коготь"
             },
             "Desc": {
               "id": "8317764679731315976",
               "eng": "Expand your claw into monstrous magnitudes to lacerate your foes while siphoning their health into yours.",
-              "rus": "Расширьте свой коготь до монструозных размеров, чтобы разрывать своих врагов, одновременно высасывая их здоровье в свое."
+              "rus": "Отрастите свой коготь до монструозных размеров, чтобы разрывать своих врагов, одновременно высасывая их здоровье."
             }
           },
           {
             "Name": {
               "id": "32892311868212490",
               "eng": "Pure Carnage",
-              "rus": "Чистый Кровопролитие"
+              "rus": "Чистая бойня"
             },
             "Desc": {
               "id": "3351509233912841484",
               "eng": "Lash out in a joyous expression of violence and pointy tendrils while draining the health of your prey.",
-              "rus": "Выпустите радостное выражение насилия и острых щупалец, высасывая здоровье вашей жертвы."
+              "rus": "Яростно атакуйте, с радостью предаваясь насилию и пусть ваши щупальца сжирают добычу, вытягивая её жизненную силу."
             }
           },
           {
@@ -1844,7 +1844,7 @@
             "Desc": {
               "id": "1179019594825663755",
               "eng": "Trap opponents with an organic adhesive netting that briefly immobilizes enemies completely.",
-              "rus": "Захватывайте противников органической клеящей сетью, которая на короткое время полностью immobilizes врагов."
+              "rus": "Захватывайте противников органической клейкой сетью, которая на короткое время полностью парализует врагов."
             }
           },
           {
@@ -1856,7 +1856,7 @@
             "Desc": {
               "id": "11224210800313042187",
               "eng": "Flat-out slash, scratch, and slice your foes in a surge of symbiote savagery—harvesting their health with each hit.",
-              "rus": "Резко разрезайте, царапайте и срезайте своих врагов в порыве симбиотической ярости — собирая их здоровье с каждым ударом."
+              "rus": "Яростно рви, кромсай и вспарывай врагов в приступе симбиотической жестокости — высасывая их здоровье с каждым ударом."
             }
           },
           {
@@ -1868,7 +1868,7 @@
             "Desc": {
               "id": "4515580546633237769",
               "eng": "Morph a distorted blade on to each arm and begin a demented dance of spinning and slashing as you frolic about cleaving enemies and consuming their health.",
-              "rus": "Сформируйте искаженный клинок на каждой руке и начните безумный танец вращения и рубки, весело сражаясь с врагами и поглощая их здоровье."
+              "rus": "Сформируйте искаженный клинок в каждой из ваших рук и начните безумный танец кромсания и рубки, весело рассекая врагов на куски и поглощая их здоровье."
             }
           }
         ]
@@ -1889,31 +1889,31 @@
             "Desc": {
               "id": "14110906561029080332",
               "eng": "Reshape your hand into an axe to greet your surrounding victims with a sweeping \"high five.\"",
-              "rus": "Преобразуйте свою руку в топор, чтобы приветствовать своих окружающих жертв широким «пятью»."
+              "rus": "Преобразуйте свою руку в топор, чтобы поприветствовать своих жертв широким взмахом «пятёркой»."
             }
           },
           {
             "Name": {
               "id": "7289468299822499073",
               "eng": "Mauling Mace",
-              "rus": "Молота-издевательства"
+              "rus": "Кровавый молот"
             },
             "Desc": {
               "id": "5467172353974076675",
               "eng": "Leap forward and pulverize your attackers with a maniacal blow that knocks down all foes caught in its wake.",
-              "rus": "Сделайте рывок вперед и сокрушите своих противников безумным ударом, который сбивает с ног всех врагов, попавших в его радиус действия."
+              "rus": "Сделайте рывок вперед с безумным ударом, который сбивает с ног всех врагов, попавших в радиус его действия."
             }
           },
           {
             "Name": {
               "id": "1647723530439034162",
               "eng": "Bloody Blender",
-              "rus": "Кровавый миксер"
+              "rus": "Кровавый блендер"
             },
             "Desc": {
               "id": "3059338504498971964",
               "eng": "Form appropriately-sized blades out of your arms and spin around, cutting up all those around you.",
-              "rus": "Формируйте лезвия подходящего размера из своих рук и вращайтесь, разрезая всех вокруг вас."
+              "rus": "Сформируйте лезвия подходящего размера из своих рук и вращайтесь, разрезая всех вокруг вас."
             }
           },
           {
@@ -1925,7 +1925,7 @@
             "Desc": {
               "id": "14459069731226780989",
               "eng": "Just for fun, drive a large and sharp tendril into enemies and yank them towards you.",
-              "rus": "Просто для веселья, вонзите большой и острый щуп в врагов и потяните их к себе."
+              "rus": "Просто ради развлечения вонзи огромное острое щупальце прямо во врага, чтобы подтянуть его поближе."
             }
           },
           {
@@ -1937,7 +1937,7 @@
             "Desc": {
               "id": "12740255958550185230",
               "eng": "Create an axe out of ichor and throw it, cutting through crowds of enemies.",
-              "rus": "Создайте топор из икоры и бросьте его, прорезая толпы врагов."
+              "rus": "Создайте топор из ихора и швырните его, сделав настоящую просеку в рядах врагов."
             }
           },
           {
@@ -1949,7 +1949,7 @@
             "Desc": {
               "id": "17087266421245478154",
               "eng": "Launch yourself into the air and come back down to make all the baddies on the ground go squish.",
-              "rus": "Запустите себя в воздух и вернитесь обратно, чтобы сделать всех злодеев на земле плоскими."
+              "rus": "Взлетите высоко в воздух и обрушьтесь вниз, превращая всех врагов на земле в мокрое место."
             }
           },
           {
@@ -1961,31 +1961,31 @@
             "Desc": {
               "id": "14246749393042277691",
               "eng": "Unleash a continuous barrage of razor sharp blades that shred your targets in a flying flurry of sharpened sludge.",
-              "rus": "Выпустите непрерывный шквал острых лезвий, которые разрывают ваши цели в летящей буре острого града."
+              "rus": "Выпустите непрерывный шквал острых лезвий, которые вспорют плоть ваших врагов, превращая их в кровавый фарш."
             }
           },
           {
             "Name": {
               "id": "7921349295833089332",
               "eng": "Psychotic Smashup",
-              "rus": "Психотический Разгром"
+              "rus": "Безумный разгром"
             },
             "Desc": {
               "id": "2230461304433149238",
               "eng": "Crash down forcefully with a tendril assisted slam that knocks down all targets mauled in the calamity.",
-              "rus": "Сильно ударьте с помощью щупальца, сбивая с ног все цели, пострадавшие в катастрофе."
+              "rus": "Нанесите сокрушительный удар щупальцами, ломающий кости и сбивающий с ног всех врагов в эпицентре атаки."
             }
           },
           {
             "Name": {
               "id": "4327453166523057418",
               "eng": "Maximum Carnage",
-              "rus": "Максимальный Карнаж"
+              "rus": "Максимальная резня"
             },
             "Desc": {
               "id": "1688150696036664581",
               "eng": "Release the raw chaos of the symbiote in an overwhelming onslaught of viscous violence upon your enemies. Fueled by the frenzy, your madness heightens your attacks to become the ultimate insanity.",
-              "rus": "Освободите сырой хаос симбиота в подавляющем натиске вязкой жестокости на ваших врагов. Подпитываемый безумием, ваше безумие усиливает ваши атаки, превращая их в высшую безумие."
+              "rus": "Выплесни всю первобытную жестокость симбиота - кровавое месиво, в котором утонут ваши враги. Подпитываемый яростью, симбиот усиливает ваши атаки, превращая вас в воплощение абсолютного безумия."
             }
           }
         ]
@@ -2001,7 +2001,7 @@
             "Name": {
               "id": "4486683031706928391",
               "eng": "Red Slayer",
-              "rus": "Красный Убийца"
+              "rus": "Кровавый Мясник"
             },
             "Desc": {
               "id": "Invalid",
@@ -2051,14 +2051,14 @@
     "Bio": {
       "id": "10735078656085198186",
       "eng": "#emphasis#Real Name:#/emphasis# Wade Winston Wilson\n#emphasis#Identity:#/emphasis# Secret\n\nThe infamous Weapon X program granted Wade Wilson an extremely powerful healing factor. Wade soon escaped the program and became a freelance mercenary using the name Deadpool.\n\nWade is mentally unstable, though whether this is a normal state or is caused by his constant state of hyper-regeneration is unknown. One side effect of his mental state is the belief that he is not a real person but actually a character in a comic book...or sometimes a video game.\n\n#emphasis#Created By:#/emphasis# Fabian Nicieza and Rob Liefeld\n#emphasis#First Appearance:#/emphasis# New Mutants #98 (Feb 1991)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Анжела\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 178 см\n#emphasis#Вес:#/emphasis# 79 кг\n\nКогда ангелы из Десятого мира, Небес, развязали войну с Асгадом, королева ангелов похитила Алдриф - дочь Одина, наследницу трона. Но Один не покорился ангелам, он посчитал, что его дочь убита. В ответ Один вырвал Небеса из Иггдразиля и отрезал их от остальных Девяти миров. Оставшись у врагов, Алдриф все-таки уцелела и выросла, ничего не зная о своей настоящей семье. Она получила имя Анжела, Небесная охотница.\n\nКогда открываются старые тайны, Анжела узнает о своем происхождении. Отказавшись от Небес и считаясь предательницей в Асгарде, она странствует между мирами, пытаясь найти свое место и продолжая охоту любой ценой.\n\n#emphasis#Создатели:#/emphasis# Neil Gaiman, Todd McFarlane\n#emphasis#Первое появление:#/emphasis# Age of Ultron № 10 (август 2013 г.)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Уэйд Уинстон Уилсон\n#emphasis#Личность:#/emphasis# Секретна\n\nПечально известная программа «Оружие Икс» наделила Уэйда Уилсона невероятно мощным фактором регенерации. Вскоре Уэйд сбежал и стал наёмником-фрилансером под именем Дэдпул.\n\nУэйд психически нестабилен — хотя неизвестно, был ли он таким изначально или это последствие его постоянной гиперрегенерации. Одним из эффектов его состояния является убеждённость, что он не настоящий человек, а персонаж комикса… или, порой, видеоигры.\n\n#emphasis#Создатели:#/emphasis# Фабиан Нициеза и Роб Лайфелд\n#emphasis#Первое появление:#/emphasis# *New Mutants* №98 (февраль 1991)"
     },
     "PowerTables": [
       {
         "Name": {
           "id": "16462776286690542922",
           "eng": "Hurty",
-          "rus": "Бьющий больно"
+          "rus": "Больно-больно"
         },
         "Powers": [
           {
@@ -2070,19 +2070,19 @@
             "Desc": {
               "id": "1262318209327957366",
               "eng": "Random violence at a distance is fun.",
-              "rus": "Пулять издалека в кого бог пошлет - прикольно!"
+              "rus": "Пуляйте издалека в кого бог пошлет - прикольно!"
             }
           },
           {
             "Name": {
               "id": "5205300114820039954",
               "eng": "Bodyslide by One",
-              "rus": "Телепорт для Одного"
+              "rus": "Мгновенный перенос"
             },
             "Desc": {
               "id": "10039815023743206665",
               "eng": "Stolen Cable tech that lets you teleport and stuff.",
-              "rus": "Украденная технология Кабеля, которая позволяет вам телепортироваться и делать другие вещи."
+              "rus": "Украденная технология Кейбла, которая позволяет вам телепортироваться и... вообще разные штуки."
             }
           },
           {
@@ -2093,20 +2093,20 @@
             },
             "Desc": {
               "id": "7281526080721257783",
-              "eng": "So you have a tank's cannon. Okay then. ",
-              "rus": "Это серьезно?! Откуда у тебя танковая пушка?"
+              "eng": "So you have a tank's cannon. Okay then.",
+              "rus": "Серьёзно?! У тебя танковая пушка? Ну ладно"
             }
           },
           {
             "Name": {
               "id": "14149355039536907523",
               "eng": "Shoot All the Bullets",
-              "rus": "Выпустить все пули"
+              "rus": "Устроим свинцовый ливень"
             },
             "Desc": {
               "id": "15037769849484608889",
               "eng": "Just hold down the trigger 'til it's empty.",
-              "rus": "Жать на спусковой крючок, пока пули не кончатся."
+              "rus": "Жми на спусковой крючок, пока пули не закончатся."
             }
           },
           {
@@ -2118,7 +2118,7 @@
             "Desc": {
               "id": "14422094001285236019",
               "eng": "Everyone will THINK this decoy is the real Deadpool, right up until it explodes in their faces. Classic.",
-              "rus": "Все думают, что это и есть настоящий Дэдпул, а он бац - и взорвался им прямо в морду. Классика!"
+              "rus": "Все думают, что это и есть настоящий Дэдпул, а он бац - и взорвался им прямо в морду. Классика."
             }
           },
           {
@@ -2130,7 +2130,7 @@
             "Desc": {
               "id": "11379663112908899590",
               "eng": "It's never a bad idea to stop by a toy store before a fight.",
-              "rus": "Заглянуть в магазин игрушек перед дракой оказалось хорошей идеей."
+              "rus": "А заглянуть в магазин игрушек перед дракой было хорошей идеей."
             }
           },
           {
@@ -2142,7 +2142,7 @@
             "Desc": {
               "id": "2631850492438250799",
               "eng": "It's kind of like electronic music but with bullets.",
-              "rus": "Это как дабстеп, только пулями"
+              "rus": "Это как дабстеп, только пулями."
             }
           },
           {
@@ -2154,7 +2154,7 @@
             "Desc": {
               "id": "6137971835301201156",
               "eng": "This bazooka is why comics aren't for kids anymore.",
-              "rus": "Базука детям не игрушка."
+              "rus": "Вот после такой базуки комиксы и перестают быть детскими."
             }
           },
           {
@@ -2175,7 +2175,7 @@
         "Name": {
           "id": "13651323813217699139",
           "eng": "Fighty",
-          "rus": "Боевитый"
+          "rus": "Драка-драка"
         },
         "Powers": [
           {
@@ -2187,7 +2187,7 @@
             "Desc": {
               "id": "16233125424737289522",
               "eng": "Like, a LOT of flesh wounds.",
-              "rus": "Реально МНОГО царапин."
+              "rus": "Реально МНОГО свежих царапин."
             }
           },
           {
@@ -2199,7 +2199,7 @@
             "Desc": {
               "id": "5505921802458891642",
               "eng": "And THIS little piggy went \"OH GOODNESS I'M BLEEDING VERY BADLY NOW!\"",
-              "rus": "А он весь такой: \"ОЙ МАМОЧКИ, Я ЩА КРОВЬЮ ИСТЕКУ!\""
+              "rus": "И вот этот маленький поросёночек такой: \"ОЙ МАМОЧКИ, Я ЩА КРОВЬЮ ИСТЕКУ!\""
             }
           },
           {
@@ -2218,7 +2218,7 @@
             "Name": {
               "id": "13595228855965582646",
               "eng": "Slam Jam",
-              "rus": "Слэм-Джем"
+              "rus": "Бум-БАХ!"
             },
             "Desc": {
               "id": "10546827911563183412",
@@ -2230,7 +2230,7 @@
             "Name": {
               "id": "11029195843276506493",
               "eng": "Stabby Flip",
-              "rus": "Сальто с тычком"
+              "rus": "Пырь-вертушка"
             },
             "Desc": {
               "id": "9993775014432802050",
@@ -2271,7 +2271,7 @@
             "Desc": {
               "id": "2338465695971149105",
               "eng": "I was going to save this for the director's cut, but I guess we can chop everybody up now instead.",
-              "rus": "Я рассчитывал оставить это для режиссерской версии, но похоже, теперь мы можем просто всех вырезать."
+              "rus": "Я рассчитывал оставить это для режиссерской версии... но похоже, теперь мы можем просто ВСЕХ вырезать."
             }
           },
           {
@@ -2295,7 +2295,7 @@
             "Desc": {
               "id": "16113784844928222478",
               "eng": "Psst! Listen up, but keep this just between you and me.\nThis power hacks into the game server to make all enemies non-responsive for a brief period. They literally won't know what hit 'em!  Also, dev hacks...just sayin'.\n",
-              "rus": "Тс-с! Слушай сюда, только никому не разболтай.\nЯ взломал игровой сервер, и теперь все враги на какое-то время зависли.\nБей на здоровье!"
+              "rus": "Псс! Слушай сюда, только никому не разболтай.\nЯ взломал игровой сервер, и теперь все враги на какое-то время зависли. Они буквально не поймут, что их ударило! К тому же, читы для разработчиков... ну ты понимаешь.\n"
             }
           },
           {
@@ -2323,7 +2323,7 @@
             "Name": {
               "id": "16452509790075553039",
               "eng": "Maximum Effort",
-              "rus": "Максимальные усилия"
+              "rus": "На полную катушку"
             },
             "Desc": {
               "id": "Invalid",
@@ -2335,7 +2335,7 @@
             "Name": {
               "id": "14602120222625826065",
               "eng": "Awesome!",
-              "rus": "Потрясающе!"
+              "rus": "Потрясно!"
             },
             "Desc": {
               "id": "Invalid",
