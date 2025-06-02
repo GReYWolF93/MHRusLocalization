@@ -1186,7 +1186,7 @@
   {
     "id": "17200942196914849099",
     "english": "Stolen Power Collection",
-    "russian": "Позаимствовать способность",
+    "russian": "Коллекция украденных сил",
     "similarity": 0.198956,
     "path": "Powers/Player/Rogue/StolenPowerLibrarySlot1.prototype",
     "verdict": "MAYBE"
@@ -1466,7 +1466,7 @@
   {
     "id": "4184990132170130753",
     "english": "Pierce the Veil",
-    "russian": "Пронзающая сила",
+    "russian": "Разрывая Завесу",
     "similarity": 0.22219589352607727,
     "path": "Powers/Player/DrDoom/MagicLance.prototype",
     "verdict": "MAYBE"
@@ -1610,7 +1610,7 @@
   {
     "id": "12906999881964127549",
     "english": "Enguarde!",
-    "russian": "На шаг впереди",
+    "russian": "К бою!",
     "similarity": 0.23017151653766632,
     "path": "Powers/Player/Nightcrawler/Traits/DefenseTrait.prototype",
     "verdict": "MAYBE"
@@ -2018,7 +2018,7 @@
   {
     "id": "6219634814463902986",
     "english": "Stake Thrower",
-    "russian": "Коломет",
+    "russian": "Метатель кольев",
     "similarity": 0.25284141302108765,
     "path": "Powers/Player/Blade/StakeThrower.prototype",
     "verdict": "MAYBE"
@@ -2402,7 +2402,7 @@
   {
     "id": "1950417677176014183",
     "english": "Rending Leap",
-    "russian": "Удар когтями в прыжке",
+    "russian": "Разрывающий прыжок",
     "similarity": 0.26984724402427673,
     "path": "Powers/EnemyPowers/Boss/SkrullBosses/X23/CrimsonLeapStart.prototype",
     "verdict": "MAYBE"
@@ -4186,7 +4186,7 @@
   {
     "id": "9571996160805242226",
     "english": "The One-Off",
-    "russian": "Демонстрация",
+    "russian": "Одноразовая штука",
     "similarity": 0.3307926058769226,
     "path": "Powers/EnemyPowers/Boss/CivilWar/IronMan/OneOff.prototype",
     "verdict": "MAYBE"
@@ -4194,7 +4194,7 @@
   {
     "id": "8265369841112646921",
     "english": "Particle Brawling",
-    "russian": "Переменный размер в бою",
+    "russian": "Частичный бой",
     "similarity": 0.3310167193412781,
     "path": "Entity/Characters/Avatars/Shipping/AntMan.prototype",
     "verdict": "MAYBE"
@@ -4898,7 +4898,7 @@
   {
     "id": "18108563293001418040",
     "english": "Think Small",
-    "russian": "Побег в уменьшение",
+    "russian": "Думай мелко",
     "similarity": 0.3473317325115204,
     "path": "Powers/Player/AntMan/Traits/OffenseTrait.prototype",
     "verdict": "MAYBE"
@@ -5482,7 +5482,7 @@
   {
     "id": "75034896099706161",
     "english": "Permafrost Spikes",
-    "russian": "Иглы вечной мерзлоты",
+    "russian": "Шипы вечной мерзлоты",
     "similarity": 0.35639557242393494,
     "path": "Powers/Player/Loki/GlacialSpike.prototype",
     "verdict": "MAYBE"
@@ -6218,7 +6218,7 @@
   {
     "id": "11937934300821914943",
     "english": "Gale-force Winds",
-    "russian": "Арктический шквал",
+    "russian": "Штормовые ветра",
     "similarity": 0.37267449498176575,
     "path": "Powers/Player/Storm/Zephyr.prototype",
     "verdict": "MAYBE"
@@ -6874,7 +6874,7 @@
   {
     "id": "11077867533592429889",
     "english": "Assassin's Armory",
-    "russian": "Доспехи ассасина",
+    "russian": "Арсенал убийцы",
     "similarity": 0.388904333114624,
     "path": "Entity/Characters/Avatars/Shipping/Angela.prototype",
     "verdict": "MAYBE"
@@ -7202,7 +7202,7 @@
   {
     "id": "8510384630062974277",
     "english": "It's Raining Rodents!",
-    "russian": "Смерть с деревьев!",
+    "russian": "Грызунопад!",
     "similarity": 0.3969281315803528,
     "path": "Powers/Player/SquirrelGirl/RangedSquirrelAoEVisual.prototype",
     "verdict": "MAYBE"
@@ -7586,7 +7586,7 @@
   {
     "id": "11334667150022542593",
     "english": "Food Cart Fling",
-    "russian": "Бомбардировка едой",
+    "russian": "Бросок тележки с едой",
     "similarity": 0.4044966399669647,
     "path": "Powers/Player/Thing/Rework/FoodCart.prototype",
     "verdict": "MAYBE"
@@ -9506,7 +9506,7 @@
   {
     "id": "1209213605762368785",
     "english": "The Gauntlet",
-    "russian": "Рукавица",
+    "russian": "Перчатка",
     "similarity": 0.43661773204803467,
     "path": "Powers/Player/DrDoom/BasicPunch.prototype",
     "verdict": "MAYBE"
@@ -9706,7 +9706,7 @@
   {
     "id": "13772863261608969532",
     "english": "Blast Off!",
-    "russian": "Взлет",
+    "russian": "Взлёт!",
     "similarity": 0.4402223229408264,
     "path": "Powers/Player/Nova/FuriousLunge.prototype",
     "verdict": "MAYBE"
@@ -10370,7 +10370,7 @@
   {
     "id": "10783499674940278079",
     "english": "Using your three-section staff, you break down the bodies of any foolish enough to stand against you.",
-    "russian": "Ломайте кости противников, которые оказались достаточно тупыми, чтобы стать на вашем пути.",
+    "russian": "С помощью трёхсекционного посоха вы разбираете тела тех, кто осмелился встать против вас.",
     "similarity": 0.44925457239151,
     "path": "Powers/Player/Elektra/StaffStrike.prototype",
     "verdict": "MAYBE"
@@ -10402,7 +10402,7 @@
   {
     "id": "9294423861841429773",
     "english": "Slip through an alternate dimension to teleport to a location in front of you.",
-    "russian": "Телепортироваться в точку назначения.",
+    "russian": "Проникни в параллельное измерение и телепортируйся впереди себя.",
     "similarity": 0.45006874203681946,
     "path": "Powers/Player/Nightcrawler/Bamf.prototype",
     "verdict": "MAYBE"
@@ -10506,7 +10506,7 @@
   {
     "id": "5152683836329362748",
     "english": "Focus your offensive capabilities with a commanding shout.  ",
-    "russian": "Вложить боевой порыв в командирский крик. Вдохновить упавшего товарища вскочить и снова ринуться в бой.",
+    "russian": "Сконцентрируйте свои наступательные возможности командным криком.",
     "similarity": 0.45210379362106323,
     "path": "Powers/Player/Cyclops/TeamSteroid.prototype",
     "verdict": "MAYBE"
@@ -11562,7 +11562,7 @@
   {
     "id": "10102015873995769099",
     "english": "Propel a bolt of energy from your staff that pierces everything in its path.",
-    "russian": "Выстрелить из посоха сгустком энергии, который делает пораженных врагов более уязвимыми.",
+    "russian": "Выпусти из посоха энергетический заряд, пробивающий всё на своём пути.",
     "similarity": 0.4673968553543091,
     "path": "Powers/Player/Loki/SorcerousBlast.prototype",
     "verdict": "MAYBE"
@@ -12602,7 +12602,7 @@
   {
     "id": "4671547465106982219",
     "english": "Charge up and launch a rocket-propelled arrow that lances through enemies and has an enhanced chance to critically hit.",
-    "russian": "Вывести противников вокруг себя из строя точным ударом ногой с разворота, оглушающим и наносящим увечья.",
+    "russian": "Заряди и калоду словно стрелы, которые пронзят врагов с повышенным шансом критического удара.",
     "similarity": 0.482692688703537,
     "path": "Powers/Player/Gambit/ChargeUpCard.prototype",
     "verdict": "MAYBE"
@@ -13402,7 +13402,7 @@
   {
     "id": "2732144365365298440",
     "english": "Entice one gamma-infused super-squirrel to attack your enemies for each Charge used.",
-    "russian": "Призвать облученных гамма-излучением белок, которые изобьют ваших врагов как следует.",
+    "russian": "Привлеките одного гамма-заряженного супербелку, чтобы она атаковала ваших врагов зарядами.",
     "similarity": 0.49105462431907654,
     "path": "Powers/Player/SquirrelGirl/BasicTripleSquirrel.prototype",
     "verdict": "MAYBE"
@@ -13794,7 +13794,7 @@
   {
     "id": "3715433095774995714",
     "english": "Smack enemies upside the head with a random keepsake straight from the boroughs.",
-    "russian": "Бейте врагов по головам любыми путеводителями и книгами о городских районах.",
+    "russian": "Врежь врагам случайным хламом из квартальной лавки.",
     "similarity": 0.4961790442466736,
     "path": "Powers/Player/Thing/Rework/ParkingMeterSmash.prototype",
     "verdict": "MAYBE"
