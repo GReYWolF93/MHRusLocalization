@@ -5402,7 +5402,7 @@
   {
     "id": "3107083925113406824",
     "english": "Just the helmet? Here's a thought, what happens if they fire something other than your head? \n—Nova",
-    "russian": "А я-то думал, что это Галактус позволял своему шлему лишнее.\n—Серебряный Сёрфер",
+    "russian": "Только шлем? Вот мысль: что, если они выстрелят не в голову? \n—Нова",
     "similarity": 0.3539443910121918,
     "path": "Entity/Items/Armor/Prototypes/Starlord/o5Helmet/Helmet09.prototype",
     "verdict": "MAYBE"
@@ -5418,7 +5418,7 @@
   {
     "id": "3207182510159496501",
     "english": "Prisoners of the Brood",
-    "russian": "Пленники инсектоидов",
+    "russian": "Пленники Брудов",
     "similarity": 0.3544995188713074,
     "path": "Missions/Prototypes/Act2/Ch07SavageLand/CH07Side4PrisonersOfTheBrood.prototype",
     "verdict": "MAYBE"
@@ -5426,7 +5426,7 @@
   {
     "id": "9147269284374578486",
     "english": "Skyrider's Armor",
-    "russian": "Броня Плывущего по небу",
+    "russian": "Броня Небесного всадника",
     "similarity": 0.35458630323410034,
     "path": "Entity/Items/Armor/Prototypes/SilverSurfer/o2Armor/Armor11.prototype",
     "verdict": "MAYBE"
@@ -5466,7 +5466,7 @@
   {
     "id": "6443380049305535900",
     "english": "Use this item to receive a #emphasis#Permanent Boost#/emphasis# to your account!",
-    "russian": "Щелкните ПКМ, чтобы открыть коробку и получить #emphasis#случайный костюм#/emphasis#.\nУ вас равные шансы получить любой костюм из числа продающихся в магазине, включая те, что у вас уже имеются.",
+    "russian": "Используйте этот предмет, чтобы получить #emphasis#Постоянный буст#/emphasis# для своей учётной записи!",
     "similarity": 0.3560033440589905,
     "path": "Entity/Items/Consumables/Prototypes/GShop/PermaBuffs/ConsumablePermaBuff.prototype",
     "verdict": "MAYBE"
@@ -5506,7 +5506,7 @@
   {
     "id": "15354651346807686465",
     "english": "Tailored Cape",
-    "russian": "Накидка штучной работы",
+    "russian": "Сшитый на заказ плащ",
     "similarity": 0.3568831980228424,
     "path": "Entity/Items/Armor/Prototypes/EmmaFrost/o3Cape/Cape05.prototype",
     "verdict": "MAYBE"
@@ -5514,7 +5514,7 @@
   {
     "id": "10983141183889212830",
     "english": "Tailored Cape",
-    "russian": "Накидка штучной работы",
+    "russian": "Сшитый на заказ плащ",
     "similarity": 0.35688328742980957,
     "path": "Entity/Items/Armor/Prototypes/Storm/o3Cape/Cape05.prototype",
     "verdict": "MAYBE"
@@ -5538,7 +5538,7 @@
   {
     "id": "3570526375351158068",
     "english": "Complete Purifier Bombardment Event",
-    "russian": "Пройти событие в форте Страйкера",
+    "russian": "Завершите событие артобстрела Очистителей",
     "similarity": 0.35734057426452637,
     "path": "Missions/Prototypes/LegendaryQuests/LQStory/LegendaryCH06TrainingForest1.prototype",
     "verdict": "MAYBE"
@@ -5570,7 +5570,7 @@
   {
     "id": "4510503212445861176",
     "english": "Sentinel Squad O*N*E Chainsaws",
-    "russian": "Пилы Первого отряда Стражей",
+    "russian": "Бензопилы отряда Стражей О*N*E",
     "similarity": 0.35834014415740967,
     "path": "Entity/Items/Armor/Prototypes/WarMachine/o1Chainsaws/Chainsaws12.prototype",
     "verdict": "MAYBE"
@@ -5642,7 +5642,7 @@
   {
     "id": "12600353085411624194",
     "english": "Bifrost Visual",
-    "russian": "Добавить к костюму визуализацию \"Добыча Бивреста\"",
+    "russian": "Визуальный эффект Бифрёста",
     "similarity": 0.36030715703964233,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/AddBountyOfBifrostToCostume.prototype",
     "verdict": "MAYBE"
@@ -5786,7 +5786,7 @@
   {
     "id": "16745239668450133256",
     "english": "Story Missions",
-    "russian": "Достижения",
+    "russian": "Сюжетные миссии",
     "similarity": 0.3636103570461273,
     "path": "UI/MissionTracker/StoryMissionsFilter.prototype",
     "verdict": "MAYBE"
@@ -5810,7 +5810,7 @@
   {
     "id": "1808595572084573502",
     "english": "Iron Man Spray Paint",
-    "russian": "Граффити: Железного человека",
+    "russian": "Аэрозоль Железного человека",
     "similarity": 0.3640008866786957,
     "path": "Entity/Items/Consumables/Prototypes/GShop/InteractiveVisualItems/IronManPaint.prototype",
     "verdict": "MAYBE"
@@ -5826,7 +5826,7 @@
   {
     "id": "10742804876987401529",
     "english": "Hyper Viper Generator",
-    "russian": "Генератор межпространственных порталов АРМОР",
+    "russian": "Генератор межпространственных порталов",
     "similarity": 0.36450207233428955,
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/Art300.prototype",
     "verdict": "MAYBE"
@@ -5842,7 +5842,7 @@
   {
     "id": "3933319724581848424",
     "english": "Slot 4 Gear Upgrade I",
-    "russian": "Улучшить уник. или косм. предмет в ячейке 4 до 66 ур.",
+    "russian": "Улучшение экипировки (слот 4) I",
     "similarity": 0.364899605512619,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeItemSlot4Level63.prototype",
     "verdict": "MAYBE"
@@ -5866,7 +5866,7 @@
   {
     "id": "711735833209668927",
     "english": "The honor is all yours.",
-    "russian": "Почту за честь.",
+    "russian": "Честь целиком твоя.",
     "similarity": 0.36508452892303467,
     "path": "Entity/Characters/Bosses/BlackOrder/ProximaMidnight.prototype",
     "verdict": "MAYBE"
@@ -5882,7 +5882,7 @@
   {
     "id": "1997804278930277694",
     "english": "Fires between 1 and 5 hex bolts",
-    "russian": "#red#Хаос:#/red# выпускает 5 зарядов",
+    "russian": "Выпускает от 1 до 5 зарядов хаоса",
     "similarity": 0.3655128479003906,
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/ScarletWitchFiresBetween1And5HexBolts.prototype",
     "verdict": "MAYBE"
@@ -5890,7 +5890,7 @@
   {
     "id": "8354125305977832756",
     "english": "Tailored Armor",
-    "russian": "Броня штучной работы",
+    "russian": "Сшитая на заказ броня",
     "similarity": 0.36574769020080566,
     "path": "Entity/Items/Armor/Prototypes/SilverSurfer/o2Armor/Armor06.prototype",
     "verdict": "MAYBE"
@@ -5898,7 +5898,7 @@
   {
     "id": "1006239133646259513",
     "english": "Tailored Armor",
-    "russian": "Броня штучной работы",
+    "russian": "Сшитая на заказ броня",
     "similarity": 0.36574795842170715,
     "path": "Entity/Items/Armor/Prototypes/SilverSurfer/o2Armor/Armor05.prototype",
     "verdict": "MAYBE"
@@ -5906,7 +5906,7 @@
   {
     "id": "6994356870797919603",
     "english": "The Rampaging Rhino",
-    "russian": "Атака Носорога",
+    "russian": "Неудержимый Носорог",
     "similarity": 0.3657985031604767,
     "path": "Missions/Prototypes/PVEEndgame/DangerRoom/BambooForest/BossFloor/DRBambooBossRhinoT1.prototype",
     "verdict": "MAYBE"
@@ -5970,7 +5970,7 @@
   {
     "id": "11950870166791259456",
     "english": "Epic Transformation III",
-    "russian": "Преобразовать эпический предмет (25-36)",
+    "russian": "Эпическое превращение III",
     "similarity": 0.3675868809223175,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/ChangeAvatar3.prototype",
     "verdict": "MAYBE"
@@ -6066,7 +6066,7 @@
   {
     "id": "2292039148333172124",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет, чтобы получить предмет действия в патруле!",
     "similarity": 0.36959248781204224,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionSummonAllySHIELD.prototype",
     "verdict": "MAYBE"
@@ -6082,7 +6082,7 @@
   {
     "id": "5464058563006432675",
     "english": "Use this item for a Patrol action item!",
-    "russian": "Щелкните правой кнопкой, чтобы получить космический предмет! Его сможет использовать персонаж, выбранный в данный момент.",
+    "russian": "Используйте этот предмет, чтобы получить предмет действия в патруле!",
     "similarity": 0.3695925176143646,
     "path": "Entity/Items/MissionItems/Prototypes/PatrolSavagePlayerActionSummonAllyLimboDemon.prototype",
     "verdict": "MAYBE"
@@ -6098,7 +6098,7 @@
   {
     "id": "4107871842587116859",
     "english": "Epic Transformation V",
-    "russian": "Преобразовать эпический предмет (49-60)",
+    "russian": "Эпическое превращение V",
     "similarity": 0.37001654505729675,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/ChangeAvatar5.prototype",
     "verdict": "MAYBE"
@@ -6106,7 +6106,7 @@
   {
     "id": "1726074011782087997",
     "english": "Defensive Affix I",
-    "russian": "Добавить к костюму дополнение защиты (уровень 1)",
+    "russian": "Защитный аффикс I",
     "similarity": 0.37010839581489563,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade1Defense.prototype",
     "verdict": "MAYBE"
@@ -6122,7 +6122,7 @@
   {
     "id": "12659410298775995651",
     "english": "Holo-Sim Waves",
-    "russian": "Атаки врагов в Голо-симуляторе",
+    "russian": "Волны в Голографическом Симуляторе",
     "similarity": 0.3703833818435669,
     "path": "Missions/Prototypes/BonusMissions/WeeklyEventMissions/OmegaWeekMissionDay1.prototype",
     "verdict": "MAYBE"
@@ -6162,7 +6162,7 @@
   {
     "id": "5367881441823753533",
     "english": "Sentry Everburn",
-    "russian": "Страж Вечный Огонь",
+    "russian": "Страж Вечногорящий",
     "similarity": 0.37175339460372925,
     "path": "Entity/Characters/Mobs/FireDemons/Raid/Surtur/WingedDemonRampElite.prototype",
     "verdict": "MAYBE"
@@ -6242,7 +6242,7 @@
   {
     "id": "15717446199146382595",
     "english": "Grants a permanent Tippy Toe squirrel that fights with you.",
-    "russian": "Получите в распоряжение постоянного союзника: Белочку.",
+    "russian": "Дарует постоянную белочку Типпи То, которая сражается на вашей стороне.",
     "similarity": 0.37358689308166504,
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/SquirrelGirl/Unique206.prototype",
     "verdict": "MAYBE"
@@ -6266,7 +6266,7 @@
   {
     "id": "13384521552834004243",
     "english": "Bleed Em Dry",
-    "russian": "Истощите их до дна",
+    "russian": "Истечь до капли",
     "similarity": 0.3741409182548523,
     "path": "Powers/Player/Deadpool/Talents/BleedEmDryTalent.prototype",
     "verdict": "MAYBE"
@@ -6274,7 +6274,7 @@
   {
     "id": "4083533654546515303",
     "english": "Hammerhead Mob Shipping Center",
-    "russian": "Служба доставки Маггии",
+    "russian": "Служба доставки Кувалды",
     "similarity": 0.37418851256370544,
     "path": "Missions/Prototypes/Act1/Ch04HellsKitchen2/Discoveries/MaggiaShippingCenter.prototype",
     "verdict": "MAYBE"
@@ -6298,7 +6298,7 @@
   {
     "id": "11465133078249342365",
     "english": "Deft Web-Shooters",
-    "russian": "Паутинострелы стремительности",
+    "russian": "Ловкие паутиномёты",
     "similarity": 0.37506312131881714,
     "path": "Entity/Items/Armor/Prototypes/Spiderman/o1WebShooters/WebShooters08.prototype",
     "verdict": "MAYBE"
@@ -6322,7 +6322,7 @@
   {
     "id": "17205809485829571949",
     "english": "Use this item to use the Torn Up Registration Act. This item allows you to gain influence tokens and other influence specific items specific to the Anti-Registration faction for one week.",
-    "russian": "Щелкните ПКМ, чтобы увеличить на 50% шанс найти особые или редкие предметы, а также получить дополнительные марки Одина за выполнение легендарных заданий и найти марки Одина после победы над боссом или в сундуке с наградой \"Защиты Икс\" или \"Голо-симулятора\". Эффект действует 2 часа.\n#emphasis#Увеличивает шанс получить Дар Одина (большой набор подарков) после победы над боссом или после завершения \"Защиты Икс\" или \"Голо-симулятора\".#/emphasis#",
+    "russian": "Используйте этот предмет, чтобы применить Разорванный акт о регистрации. Этот предмет позволяет вам получать жетоны влияния и другие предметы влияния, относящиеся к фракции Противников регистрации, на одну неделю.",
     "similarity": 0.37582218647003174,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/Jackpot/Items/TeamCapBoost1Week.prototype",
     "verdict": "MAYBE"
@@ -6426,7 +6426,7 @@
   {
     "id": "9893124307041322294",
     "english": "Sir Snores-A-Lot",
-    "russian": "Сэр Храпалот",
+    "russian": "Сэр Храпел-За-Всех",
     "similarity": 0.3775988817214966,
     "path": "Entity/Characters/Mobs/LizardAnimals/OneShots/LizardPolarBearYellowTR1.prototype",
     "verdict": "MAYBE"
@@ -6474,7 +6474,7 @@
   {
     "id": "2672227522953413956",
     "english": "MGH Mindmelter",
-    "russian": "Мозгоплав",
+    "russian": "Мозгоплав ГРМ",
     "similarity": 0.3786561191082001,
     "path": "Entity/Characters/Mobs/MGH/MGHPsychicBase.prototype",
     "verdict": "MAYBE"
@@ -6522,7 +6522,7 @@
   {
     "id": "12911511813831853383",
     "english": "Core - Demonic Barrier",
-    "russian": "Ударная - Сейсмоудар",
+    "russian": "Ядро — Демонический барьер",
     "similarity": 0.37914448976516724,
     "path": "Powers/StolenPowers/StealablePowers/NastirhStolenPower.prototype",
     "verdict": "MAYBE"
@@ -6698,7 +6698,7 @@
   {
     "id": "4091015994278282520",
     "english": "S.H.I.E.L.D. Med Kits (5)",
-    "russian": "Создать аптечку ЩИТа",
+    "russian": "Медкомплекты ЩИТа (5 шт.)",
     "similarity": 0.38369569182395935,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Craft5Medkits.prototype",
     "verdict": "MAYBE"
@@ -6706,7 +6706,7 @@
   {
     "id": "17661469236224263432",
     "english": "Oil Drum",
-    "russian": "Бочка с ГСМ",
+    "russian": "Бочка с нефтью",
     "similarity": 0.38377025723457336,
     "path": "Entity/Props/Destructibles/ExplosiveOilDrum.prototype",
     "verdict": "MAYBE"
@@ -6754,7 +6754,7 @@
   {
     "id": "14993842852345480504",
     "english": "Optional Event: Outbreak Forestall\nStep 4 of 4: Deliver the samples to the Agent.\n\nThe S.H.I.E.L.D. Agent has been cleared of enemies. Now, quickly, give him the virus samples so he can extract.",
-    "russian": "Передать образцы агенту",
+    "russian": "Необязательное событие: Пресечение вспышки\nШаг 4 из 4: Доставьте образцы агенту.\n\nАгенту ЩИТа больше не угрожают враги. Быстро передайте ему вирусные образцы для извлечения.",
     "similarity": 0.3852623403072357,
     "path": "Missions/Prototypes/PVEEndgame/DangerRoom/AIMFacility/DRAIMFacCollectSamplesEventT2.prototype",
     "verdict": "MAYBE"
@@ -6850,7 +6850,7 @@
   {
     "id": "11089788146668406133",
     "english": "The daughter of the true ruler of the Dark Dimension, Prince Orini and Dormammu's sister Umar, Clea has long been at odds with her heritage. Choosing to assist Doctor Strange in protecting the Earthly realm, Clea's heritage gives her powerful control over sorcery and allow her to summon many of the same Vishanti spells that Doctor Strange himself uses.",
-    "russian": "Когда хирург Стивен Стрэндж попал в автокатастрофу и не смог больше оперировать из-за искалеченных рук, он перевернул весь мир в поисках средства, которое могло бы его излечить.\nВ горах Тибета он встретил мудреца по имени Древний. Стивен не только вылечил свои руки, но и стал учеником старца и освоил искусство магии, поклявшись стать защитником своего измерения. После смерти Древнего звание Верховного Мага перешло к Стивену, и он стал главным защитником своего мира от всех врагов, несущих магию зла.",
+    "russian": "Дочь истинного правителя Тёмного измерения — принца Оррини и сестры Дормамму Умар — Клеа давно борется со своим наследием. Выбрав путь помощи Доктору Стрэнджу в защите Земного мира, она унаследовала могущественное волшебство и способна вызывать многие заклинания Вишанти, которыми пользуется и сам Стрэндж.",
     "similarity": 0.38794827461242676,
     "path": "Entity/Characters/TeamUps/Clea.prototype",
     "verdict": "MAYBE"
@@ -6866,7 +6866,7 @@
   {
     "id": "10495534646167405890",
     "english": "Korba the Brute",
-    "russian": "Корба Зверь",
+    "russian": "Корба Громила",
     "similarity": 0.38871312141418457,
     "path": "Entity/Characters/Bosses/SurturRaid/FiveMan/SlagAdds/JaillCellGatekeeper9.prototype",
     "verdict": "MAYBE"
@@ -6898,7 +6898,7 @@
   {
     "id": "4891843067929560394",
     "english": "Disintegration Beam Ring",
-    "russian": "Луч разрушения",
+    "russian": "Кольцо луча дезинтеграции",
     "similarity": 0.3898732364177704,
     "path": "Entity/Items/Artifacts/Prototypes/Tier1Artifacts/Art107.prototype",
     "verdict": "MAYBE"
@@ -6906,7 +6906,7 @@
   {
     "id": "9078416878411580740",
     "english": "Bullrush",
-    "russian": "Яростный выпад",
+    "russian": "Лобовая атака",
     "similarity": 0.39006343483924866,
     "path": "Powers/Player/zzzBrevik/SpearLunge.prototype",
     "verdict": "MAYBE"
@@ -6946,7 +6946,7 @@
   {
     "id": "16150810843272906092",
     "english": "Hammerhead Defeated!",
-    "russian": "Громилы из Маггии побеждены",
+    "russian": "Кувалда побеждён!",
     "similarity": 0.3911493122577667,
     "path": "Missions/Prototypes/Act1/Ch01HellsKitchen/Discoveries/MaggiaGirlfriendDrama.prototype",
     "verdict": "MAYBE"
@@ -7034,7 +7034,7 @@
   {
     "id": "18215709936642491723",
     "english": "Random Catalyst",
-    "russian": "Случайное ядро костюма",
+    "russian": "Случайный катализатор",
     "similarity": 0.3936581015586853,
     "path": "Entity/Items/MissionItems/SpecialRewards/RandomCostumeCoreBox.prototype",
     "verdict": "MAYBE"
@@ -7058,7 +7058,7 @@
   {
     "id": "6783912479831557479",
     "english": "Mini-Sentinel",
-    "russian": "Создать кредитный предмет \"Мини-страж\"",
+    "russian": "Мини-Сентинел",
     "similarity": 0.39403975009918213,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/LimitedEditionCreditItemRecipe.prototype",
     "verdict": "MAYBE"
@@ -7066,7 +7066,7 @@
   {
     "id": "454045586588960121",
     "english": "Vital",
-    "russian": "полные сил",
+    "russian": "Полон сил",
     "similarity": 0.3940749764442444,
     "path": "Entity/Items/Affixes/ArmorAffixes/HealthMax/HealthMax09.prototype",
     "verdict": "MAYBE"
@@ -7106,7 +7106,7 @@
   {
     "id": "7861277838836106562",
     "english": "Epic Transformation IV",
-    "russian": "Преобразовать эпический предмет (37-48)",
+    "russian": "Эпическое превращение IV",
     "similarity": 0.39477604627609253,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/ChangeAvatar4.prototype",
     "verdict": "MAYBE"
@@ -7122,7 +7122,7 @@
   {
     "id": "2190951148600034564",
     "english": "Mini-Boss      ",
-    "russian": "Босс",
+    "russian": "Мини-босс",
     "similarity": 0.39528414607048035,
     "path": "Mods/Ranks/MiniBoss.prototype",
     "verdict": "MAYBE"
@@ -7330,7 +7330,7 @@
   {
     "id": "11011498250063054131",
     "english": "Brood Cure",
-    "russian": "Лекарство для гибридов",
+    "russian": "Лекарство от Бруда",
     "similarity": 0.39868292212486267,
     "path": "Entity/Items/MissionItems/Prototypes/BroodCure.prototype",
     "verdict": "MAYBE"
@@ -7338,7 +7338,7 @@
   {
     "id": "10801071356809184572",
     "english": "Fighting Challenge Bonus",
-    "russian": "Добавить бонус исп. \"Бой\" уник. или косм. предм. ур. 63+",
+    "russian": "Бонус за боевой вызов",
     "similarity": 0.39871662855148315,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonusFighting.prototype",
     "verdict": "MAYBE"
