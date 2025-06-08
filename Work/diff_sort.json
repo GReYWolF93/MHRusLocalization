@@ -1890,7 +1890,7 @@
   {
     "id": "3249737222292440434",
     "english": "Transforms an Epic Insignia into a Cosmic Insignia.\nUse this item on this recipe in your inventory to have your crafter learn it, or drag and drop it onto their portrait.",
-    "russian": "Преобразует эпическую эмблему в космическую.\nИспользуйте этот предмет на рецепте в инвентаре, чтобы обучить ремесленника, или перетащите его на его портрет.",
+    "russian": "Преобразует эпический Символ в космический.\nИспользуйте этот предмет на рецепте в инвентаре, чтобы обучить ремесленника, или перетащите его на его портрет.",
     "similarity": 0.24725833535194397,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/CosmicInsigniaRecipe.prototype",
     "verdict": "BAD"
@@ -2618,7 +2618,7 @@
   {
     "id": "8037927262501012842",
     "english": "Insignia Upgrade II",
-    "russian": "Улучшение знака II",
+    "russian": "Улучшение символа II",
     "similarity": 0.2773227393627167,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeInsigniaTo66.prototype",
     "verdict": "MAYBE"
@@ -2706,7 +2706,7 @@
   {
     "id": "2059849032946877800",
     "english": "Insignia Upgrade I",
-    "russian": "Улучшение знака I",
+    "russian": "Улучшение символа I",
     "similarity": 0.2796436548233032,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeInsigniaTo63.prototype",
     "verdict": "MAYBE"
@@ -3722,7 +3722,7 @@
   {
     "id": "4718185557243397484",
     "english": "Insignia Upgrade III",
-    "russian": "Улучшение знака III",
+    "russian": "Улучшение символа III",
     "similarity": 0.316905677318573,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/UpgradeInsigniaTo69.prototype",
     "verdict": "MAYBE"
@@ -7378,7 +7378,7 @@
   {
     "id": "11993415322547651898",
     "english": "MGH Recruitment",
-    "russian": "Вербовка громил ГРМ",
+    "russian": "Вербовка в ГРМ",
     "similarity": 0.4001077115535736,
     "path": "Missions/Prototypes/Act1/Ch04HellsKitchen2/Discoveries/AIMMGHRecruitment.prototype",
     "verdict": "MAYBE"
@@ -7402,7 +7402,7 @@
   {
     "id": "1781651799132603718",
     "english": "Spider-Slayer Vanquisher",
-    "russian": "Паукобой-чемпион",
+    "russian": "Убийца-паук уничтожитель",
     "similarity": 0.4005325436592102,
     "path": "Entity/Characters/Mobs/SpiderSlayers/OneShot/OneShotSpiderSlayerBladesBoss.prototype",
     "verdict": "MAYBE"
@@ -7418,7 +7418,7 @@
   {
     "id": "2709526504954791189",
     "english": " 8a. Drop-down kismet for Cap",
-    "russian": "Выпадающее меню судьбы для Капитана",
+    "russian": "8а. Выпадающий сценарий для Кэпа",
     "similarity": 0.4011954665184021,
     "path": "Missions/Prototypes/Act0/CH00TimesSquare/Controllers/TimesSquareDropDownCapKismetController.prototype",
     "verdict": "MAYBE"
@@ -7442,7 +7442,7 @@
   {
     "id": "14997839452678784404",
     "english": "I'm Too Sexy For My Mask",
-    "russian": "Маска-я-вас-знаю!",
+    "russian": "Слишком горяч для маски",
     "similarity": 0.40226444602012634,
     "path": "Entity/Items/Armor/Prototypes/Deadpool/o5Mask/Mask13.prototype",
     "verdict": "MAYBE"
@@ -7506,7 +7506,7 @@
   {
     "id": "840428592586425659",
     "english": "You are a sight most welcome, hero.",
-    "russian": "Рада видеть тебя.",
+    "russian": "Вы рады тебе, герой.",
     "similarity": 0.40264904499053955,
     "path": "Missions/Prototypes/Act3/Ch09Asgard/Discoveries/Siege/MGEinherjarGuardingCiv4.prototype",
     "verdict": "MAYBE"
@@ -7546,7 +7546,7 @@
   {
     "id": "7284464207733065034",
     "english": "#powermechanic#Requires an Elemental ammo type to be loaded#/powermechanic#",
-    "russian": "Элементный выстрел -> #green#Рикошет#/green#\nЭлементная завеса -> #green#Мгновенная завеса#/green#\nЭлементный залп -> #green#Бронебойный залп#/green#",
+    "russian": "#powermechanic#Требуется снаряжённый элементальный тип боеприпасов#/powermechanic#",
     "similarity": 0.4032062292098999,
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/RequiresElementalAmmo.prototype",
     "verdict": "MAYBE"
@@ -7554,7 +7554,7 @@
   {
     "id": "15293666453268595969",
     "english": "Red Onslaught Medallion",
-    "russian": "Медальон Шокера",
+    "russian": "Медальон Красного Натиска",
     "similarity": 0.40338921546936035,
     "path": "Entity/Items/Medals/MedalBlueprints/Endgame/RedOnslaughtEGM.defaults",
     "verdict": "MAYBE"
@@ -7562,7 +7562,7 @@
   {
     "id": "11248842111336383751",
     "english": "Bladed Spider Slayer",
-    "russian": "Остролезвийный паукобой",
+    "russian": "Остролезвийный Убийца-паук",
     "similarity": 0.40341970324516296,
     "path": "Entity/Characters/Mobs/SpiderSlayers/SpiderSlayerBladeBase.prototype",
     "verdict": "MAYBE"
@@ -7594,7 +7594,7 @@
   {
     "id": "14460484845644940610",
     "english": "Shanty Rooftops Anchor",
-    "russian": "Якорь на крыше лачуги",
+    "russian": "Якорь на крышах лачуг",
     "similarity": 0.40450289845466614,
     "path": "Missions/Prototypes/Act3/Ch10SecretInvasion/CH10Main5CulminationOfWar.prototype",
     "verdict": "MAYBE"
@@ -7618,7 +7618,7 @@
   {
     "id": "146008483406021989",
     "english": "Offensive Affix III",
-    "russian": "Добавить к костюму дополнение атаки (уровень 3)",
+    "russian": "Аффикс атаки III",
     "similarity": 0.40533316135406494,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade3Offense.prototype",
     "verdict": "MAYBE"
@@ -7626,7 +7626,7 @@
   {
     "id": "9407193657096471874",
     "english": "Half-Breed Trenchcoat",
-    "russian": "Полукровка Плащ",
+    "russian": "Плащ полукровки",
     "similarity": 0.4054392874240875,
     "path": "Entity/Items/Armor/Prototypes/Blade/o2Trenchcoat/Trenchcoat08.prototype",
     "verdict": "MAYBE"
@@ -7642,7 +7642,7 @@
   {
     "id": "4523316603136378176",
     "english": "Insignia of Quicksilver",
-    "russian": "Символика Ртути",
+    "russian": "Символ Ртути",
     "similarity": 0.40579164028167725,
     "path": "Entity/Items/Insignias/Prototypes/Insignia011.prototype",
     "verdict": "MAYBE"
@@ -7658,7 +7658,7 @@
   {
     "id": "7615370353896588620",
     "english": "It is perfectly legal for me to be here, Officer.",
-    "russian": "Я не нарушаю никаких законов.",
+    "russian": "Я имею полное право быть здесь, офицер.",
     "similarity": 0.40597712993621826,
     "path": "Populations/Clusters/Generic/OverheadText/OverheadTextGenericTalkMobToPoliceV09.prototype",
     "verdict": "MAYBE"
@@ -7690,7 +7690,7 @@
   {
     "id": "967099032264377669",
     "english": "Generates Maximum $secondarymanabehaviorname$",
-    "russian": "Дает максимум очков комбо",
+    "russian": "Генерирует максимум $secondarymanabehaviorname$",
     "similarity": 0.40625375509262085,
     "path": "Localization/Translations/Powers/TooltipStrings/GenerateMaxSecondaryResource.prototype",
     "verdict": "MAYBE"
@@ -7730,7 +7730,7 @@
   {
     "id": "13037842068342094",
     "english": "Enter Hand Tower",
-    "russian": "Башня Кулака",
+    "russian": "Вход в башню Руки",
     "similarity": 0.4067227244377136,
     "path": "Missions/Prototypes/Metrics/CH03MadripoorMetricsController.prototype",
     "verdict": "MAYBE"
@@ -7770,7 +7770,7 @@
   {
     "id": "222220169766438215",
     "english": "Swell the Scurry",
-    "russian": "Увеличьте Суету",
+    "russian": "Раздутое шебуршание",
     "similarity": 0.4078321158885956,
     "path": "Powers/Player/SquirrelGirl/Talents/SquirrelArmy.prototype",
     "verdict": "MAYBE"
@@ -7826,7 +7826,7 @@
   {
     "id": "17016518066442208570",
     "english": "Heroes for Hire Sash",
-    "russian": "Герои на заказ",
+    "russian": "Пояс Героя по найму",
     "similarity": 0.4086773991584778,
     "path": "Entity/Items/Armor/Prototypes/Elektra/o3Sash/Sash14.prototype",
     "verdict": "MAYBE"
@@ -7834,7 +7834,7 @@
   {
     "id": "12734816567284401532",
     "english": "Heroes for Hire Sash",
-    "russian": "Герои на заказ",
+    "russian": "Пояс Героя по найму",
     "similarity": 0.40867745876312256,
     "path": "Entity/Items/Armor/Prototypes/IronFist/o3Sash/Sash11.prototype",
     "verdict": "MAYBE"
@@ -7842,7 +7842,7 @@
   {
     "id": "3560446576735356216",
     "english": "G.L.F. Crafter",
-    "russian": "Мастер CОГ",
+    "russian": "Создатель из СОГ",
     "similarity": 0.4086882770061493,
     "path": "Entity/Characters/Vendors/VendorTypes/VendorCrafterGenosha.prototype",
     "verdict": "MAYBE"
@@ -7858,7 +7858,7 @@
   {
     "id": "10542509897408251131",
     "english": "KingLizardTailSweep",
-    "russian": "Королевский ящер. Хвостовой удар",
+    "russian": "Хвостовой удар Короля-Ящера",
     "similarity": 0.40913939476013184,
     "path": "Powers/EnemyPowers/MobPowers/Dinosaurs/KingLizardTailSweep.prototype",
     "verdict": "MAYBE"
@@ -7866,7 +7866,7 @@
   {
     "id": "17414397265383785737",
     "english": "Brood Wasp",
-    "russian": "Оса",
+    "russian": "Оса Бруд",
     "similarity": 0.4093736708164215,
     "path": "Entity/Characters/Mobs/Brood/Chapter/BroodChapter07/BroodFlyerBossSummon.prototype",
     "verdict": "MAYBE"
@@ -7890,7 +7890,7 @@
   {
     "id": "13069233003094279537",
     "english": "Run-Gun",
-    "russian": "Пуля",
+    "russian": "Беги и стреляй",
     "similarity": 0.4096161127090454,
     "path": "Entity/Characters/Mobs/Missions/Patrol/PatrolPMCSharpshooterV2.prototype",
     "verdict": "MAYBE"
@@ -7906,7 +7906,7 @@
   {
     "id": "7250178304196150637",
     "english": "Battleforged Billy Clubs",
-    "russian": "Испытанные в битве дубинки",
+    "russian": "Боевые дубинки",
     "similarity": 0.4096790850162506,
     "path": "Entity/Items/Armor/Prototypes/Daredevil/o1BillyClubs/BillyClubs13.prototype",
     "verdict": "MAYBE"
@@ -7930,7 +7930,7 @@
   {
     "id": "16929815643242235197",
     "english": "I could really use a hand right now.",
-    "russian": "Не откажусь от помощи.",
+    "russian": "Мне бы сейчас не помешала помощь.",
     "similarity": 0.4100566804409027,
     "path": "Populations/Clusters/Generic/OverheadText/OverheadTextGenericHostageTalkV03.prototype",
     "verdict": "MAYBE"
@@ -7970,7 +7970,7 @@
   {
     "id": "16911216059679966480",
     "english": "Chains of Vengeance",
-    "russian": "Цепи Мести",
+    "russian": "Цепи Возмездия",
     "similarity": 0.4122276306152344,
     "path": "Powers/Player/GhostRider/Talents/Talent2PhysicalBuild.prototype",
     "verdict": "MAYBE"
@@ -8010,7 +8010,7 @@
   {
     "id": "15057330522051577153",
     "english": "Warpath",
-    "russian": "Военный Путь",
+    "russian": "Боевой путь",
     "similarity": 0.41281574964523315,
     "path": "Powers/Player/Magneto/Talents/DebrisGeneratorBuff.prototype",
     "verdict": "MAYBE"
@@ -8018,7 +8018,7 @@
   {
     "id": "15352579226953909569",
     "english": "Warpath",
-    "russian": "Военный Путь",
+    "russian": "Боевой путь",
     "similarity": 0.41281574964523315,
     "path": "Powers/Player/RocketRaccoon/GrootRide.prototype",
     "verdict": "MAYBE"
@@ -8050,7 +8050,7 @@
   {
     "id": "14979867939362243950",
     "english": "Unbind Item",
-    "russian": "Отвязать любые броню, символику, артефакт или предмет напарника",
+    "russian": "Отвязать предмет",
     "similarity": 0.41317492723464966,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UnbindWithMatrix.prototype",
     "verdict": "MAYBE"
@@ -8058,7 +8058,7 @@
   {
     "id": "13090773552508568895",
     "english": "Use this item to consume the Mysterious Concoction! Each Mysterious Concoction can give you a variety of different bonuses! Does not stack, consuming a new Mysterious Concoction will override the current bonus.\nLasts 5 minutes.",
-    "russian": "ПКМ - съесть крендель.\nСъев, получаете #purplecard#+10 к урону и +100 ед. здоровья#/purplecard# на 1 час. Каждый новый съеденный крендель удлиняет срок действия.",
+    "russian": "Используй этот предмет, чтобы выпить Загадочное снадобье! Каждое снадобье может дать разные бонусы. Не суммируется — новый бонус заменит текущий.\nДействует 5 минут.",
     "similarity": 0.4133322834968567,
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/ItemRewards/MysteriousConcoction.prototype",
     "verdict": "MAYBE"
@@ -8098,7 +8098,7 @@
   {
     "id": "10560532744249935212",
     "english": "Use this item to claim a stack of 5 Cube Shards.",
-    "russian": "Щелкните ПКМ, чтобы получить 100 осколков Куба.",
+    "russian": "Используй этот предмет, чтобы получить стопку из 5 Осколков Куба.",
     "similarity": 0.414023756980896,
     "path": "Entity/Items/Consumables/Prototypes/CSGrant/CSGrantCrateCubeShards5.prototype",
     "verdict": "MAYBE"
@@ -8106,7 +8106,7 @@
   {
     "id": "17547203053013108031",
     "english": "Crash Stomp",
-    "russian": "Удар с размаху",
+    "russian": "Топот разрушения",
     "similarity": 0.4143632650375366,
     "path": "Powers/Player/LukeCage/ChargeEndEffect.prototype",
     "verdict": "MAYBE"
@@ -8130,7 +8130,7 @@
   {
     "id": "9827261576206943496",
     "english": "Brood King Wasp",
-    "russian": "Королевская оса",
+    "russian": "Королева ос Бруд",
     "similarity": 0.41500306129455566,
     "path": "Entity/Characters/Mobs/Brood/BroodKingWaspBase.prototype",
     "verdict": "MAYBE"
@@ -8138,7 +8138,7 @@
   {
     "id": "8855976480523289866",
     "english": "Increased damage. Effect increases when partied with people with the same boost active.\nCurrent member count: $PartyBoostCount$\n\nEffects:\n1 member   - 100% Damage Increase\n2 members  - 200% Damage Increase\n3 members  - 300% Damage Increase\n4 members  - 400% Damage Increase\n5 members  - 1000% Damage Increase",
-    "russian": "+50% к шансу найти особый предмет\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность.",
+    "russian": "Повышенный урон. Эффект усиливается, если в группе есть другие игроки с тем же усилением.\nТекущее число участников: $PartyBoostCount$\n\nЭффекты:\n1 участник   – +100% к урону\n2 участника  – +200% к урону\n3 участника  – +300% к урону\n4 участника  – +400% к урону\n5 участников – +1000% к урону",
     "similarity": 0.41505786776542664,
     "path": "Entity/Items/Consumables/Prototypes/Test/TestPartyBoostCondition.prototype",
     "verdict": "MAYBE"
@@ -8170,7 +8170,7 @@
   {
     "id": "13820371106068890961",
     "english": "Spider-Sense Tingling",
-    "russian": "Чувство паука",
+    "russian": "Паучье чутьё",
     "similarity": 0.41664594411849976,
     "path": "Powers/Player/Spiderman/Talents/Talent5AmazingSmashDodgeTauntBuff.prototype",
     "verdict": "MAYBE"
@@ -8258,7 +8258,7 @@
   {
     "id": "13848982370056209771",
     "english": "Use this item to use the Registration I.D. Card. This item allows you to gain influence tokens and other influence specific items specific to the Pro-Registration faction for one week.",
-    "russian": "Щелкните ПКМ, чтобы увеличить на 50% шанс найти особые или редкие предметы, а также получить дополнительные марки Одина за выполнение легендарных заданий и найти марки Одина после победы над боссом или в сундуке с наградой \"Защиты Икс\" или \"Голо-симулятора\". Эффект действует 2 часа.\n#emphasis#Увеличивает шанс получить Дар Одина (большой набор подарков) после победы над боссом или после завершения \"Защиты Икс\" или \"Голо-симулятора\".#/emphasis#",
+    "russian": "Используй этот предмет, чтобы активировать Регистрационную ID-карту. Она позволяет на неделю получать жетоны влияния и другие предметы, связанные с фракцией сторонников регистрации.",
     "similarity": 0.4179600179195404,
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/Jackpot/Items/TeamIronManBoost1Week.prototype",
     "verdict": "MAYBE"
@@ -8290,7 +8290,7 @@
   {
     "id": "13757149827336963328",
     "english": "Impact - Volcanic Eruption",
-    "russian": "Ударная - Сейсмоудар",
+    "russian": "Удар — Извержение вулкана",
     "similarity": 0.4183332324028015,
     "path": "Powers/StolenPowers/StealablePowers/FireGiantBossStolenPower.prototype",
     "verdict": "MAYBE"
@@ -8306,7 +8306,7 @@
   {
     "id": "13262123647957534058",
     "english": "Lady Hellfire's Talon",
-    "russian": "Создать коготь Леди Адское Пламя",
+    "russian": "Коготь Леди Адское Пламя",
     "similarity": 0.41847115755081177,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique300Recipe.prototype",
     "verdict": "MAYBE"
@@ -8354,7 +8354,7 @@
   {
     "id": "8863589314354414862",
     "english": "S.H.I.E.L.D. Mechanic",
-    "russian": "Врач ЩИТа",
+    "russian": "Механик ЩИТа",
     "similarity": 0.4193509519100189,
     "path": "Entity/Characters/NPCs/HubNPCs/CivilWarIronManHubNPCs/SHIELDAgentVendorCrafter.prototype",
     "verdict": "MAYBE"
@@ -8370,7 +8370,7 @@
   {
     "id": "11195459975816807782",
     "english": "200k Credit Chest",
-    "russian": "4 дубля уникальных предметов за сундук с 20000 кредитов",
+    "russian": "Сундук с 200,000 кредитов",
     "similarity": 0.4197414815425873,
     "path": "Entity/Items/Crafting/Recipes/Transmogrify/UniqueCreditRecipe2.prototype",
     "verdict": "MAYBE"
@@ -8394,7 +8394,7 @@
   {
     "id": "17500845920566576501",
     "english": "Random Unique Exchange",
-    "russian": "3 одинак. уник. предмета за случайный уник. предмет",
+    "russian": "Обмен на случайный уникальный предмет",
     "similarity": 0.4199770987033844,
     "path": "Entity/Items/Crafting/Recipes/Transmogrify/RandomUniqueRecipe1.prototype",
     "verdict": "MAYBE"
@@ -8402,7 +8402,7 @@
   {
     "id": "5828835053062522168",
     "english": "Your presence here is a grave mistake.",
-    "russian": "Не стоило тебе сюда приходить.",
+    "russian": "Твоё присутствие здесь — роковая ошибка.",
     "similarity": 0.42016613483428955,
     "path": "Entity/Characters/Bosses/KingpinBase.prototype",
     "verdict": "MAYBE"
@@ -8410,7 +8410,7 @@
   {
     "id": "5300343098219889936",
     "english": "#omegaheader#Interstellar Exploration#/omegaheader#\nThough S.H.I.E.L.D. hasn't traveled to every planet in the known universe, there's a good chance they've done research on them. Using DNA, weaponry, and other sources of intel from external sources, S.H.I.E.L.D. has been able to improve their capabilities based on hundreds of alien species.",
-    "russian": "#omegaheader#Межзвездная разведка#/omegaheader#\n\n#disabled#[Этот отдел ЩИТ будет разблокирован после появления межзвездной угрозы]#/disabled#",
+    "russian": "#omegaheader#Межзвёздные разведка#/omegaheader#\nХотя ЩИТ ещё не побывал на каждой планете во Вселенной, есть высокая вероятность, что они их изучали. Используя ДНК, оружие и другую информацию из внешних источников, ЩИТ смог улучшить свои возможности благодаря знаниям о сотнях инопланетных рас.",
     "similarity": 0.42017000913619995,
     "path": "UI/LocalizedInfo/Omega/OmegaButtonInterstellar.prototype",
     "verdict": "MAYBE"
@@ -8434,7 +8434,7 @@
   {
     "id": "6822108126391108874",
     "english": "Welcome to your demise, $AvatarName$!",
-    "russian": "Встречай свою смерть, $AvatarName$. Кротоиды могут подождать.\n\nКогда я тебя уничтожу, от тебя и костей не останется! Кротоидам погрызть будет нечего!",
+    "russian": "Добро пожаловать в свой конец, $AvatarName$!",
     "similarity": 0.4207226634025574,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OneShotMissionWakanda.prototype",
     "verdict": "MAYBE"
@@ -8514,7 +8514,7 @@
   {
     "id": "11976181246523671816",
     "english": "Insignia of Wasp",
-    "russian": "Символика Осы",
+    "russian": "Символ Осы",
     "similarity": 0.4216172993183136,
     "path": "Entity/Items/Insignias/Prototypes/Insignia006.prototype",
     "verdict": "OK"
@@ -8522,7 +8522,7 @@
   {
     "id": "8585054981547230526",
     "english": "Transfer Artifact Visual",
-    "russian": "Добавить к костюму визуальный эффект",
+    "russian": "Визуальный эффект с артефакта",
     "similarity": 0.42165812849998474,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/AddVisualsToCatalyst.prototype",
     "verdict": "MAYBE"
@@ -8538,7 +8538,7 @@
   {
     "id": "17885575419995096380",
     "english": "Epic Transformation I",
-    "russian": "Преобразовать эпический предмет (1-12)",
+    "russian": "Эпическая трансформация I",
     "similarity": 0.42193514108657837,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/ChangeAvatar1.prototype",
     "verdict": "MAYBE"
@@ -8570,7 +8570,7 @@
   {
     "id": "5955776432104867093",
     "english": "Restore $endurancechangebase.nofraction$ $primarymanabehaviorname$",
-    "russian": "Потратив сосредоточенность, вы создаете силовое поле, которое поглощает урон, равный $evalRegisterFloat0.pct$% от вашего максимального уровня здоровья в течение $duration$ (независимо от длительности действия способности)",
+    "russian": "Восстанавливает $endurancechangebase.nofraction$ $primarymanabehaviorname$",
     "similarity": 0.4227427840232849,
     "path": "Localization/Translations/Powers/TooltipStrings/EnduranceChangeBase.prototype",
     "verdict": "MAYBE"
@@ -8602,7 +8602,7 @@
   {
     "id": "13411904954401293627",
     "english": "Defeat Lava Men",
-    "russian": "Победить кротоидов и лавовых существ",
+    "russian": "Победи Лаваменов",
     "similarity": 0.42353904247283936,
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/LQMidtownHoloSimSubterranean.prototype",
     "verdict": "MAYBE"
@@ -8610,7 +8610,7 @@
   {
     "id": "10811595306594862409",
     "english": "Lavamen Routed!",
-    "russian": "Кротоиды обращены в бегство!",
+    "russian": "Лавамены разбиты!",
     "similarity": 0.42392411828041077,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OneShotMissionWakanda.prototype",
     "verdict": "MAYBE"
@@ -8618,7 +8618,7 @@
   {
     "id": "5060096023687202069",
     "english": "Lavamen Routed!",
-    "russian": "Кротоиды обращены в бегство!",
+    "russian": "Лавамены разбиты!",
     "similarity": 0.42392420768737793,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OSVMineGeoffRescueV1.prototype",
     "verdict": "MAYBE"
@@ -8626,7 +8626,7 @@
   {
     "id": "5568313130149152068",
     "english": "Lavamen Routed!",
-    "russian": "Кротоиды обращены в бегство!",
+    "russian": "Лавамены разбиты!",
     "similarity": 0.4239243268966675,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OSVMineGeoffRescueV4.prototype",
     "verdict": "MAYBE"
@@ -8634,7 +8634,7 @@
   {
     "id": "7977000681750594887",
     "english": "Lavamen Routed!",
-    "russian": "Кротоиды обращены в бегство!",
+    "russian": "Лавамены разбиты!",
     "similarity": 0.4239243268966675,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OSVMineGeoffRescueV2.prototype",
     "verdict": "MAYBE"
@@ -8642,7 +8642,7 @@
   {
     "id": "1200999051370890560",
     "english": "Lavamen Routed!",
-    "russian": "Кротоиды обращены в бегство!",
+    "russian": "Лавамены разбиты!",
     "similarity": 0.42392435669898987,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OSVMineGeoffRescueV3.prototype",
     "verdict": "MAYBE"
@@ -8650,7 +8650,7 @@
   {
     "id": "9620890399157585222",
     "english": "Lavamen Routed!",
-    "russian": "Кротоиды обращены в бегство!",
+    "russian": "Лавамены разбиты!",
     "similarity": 0.42392438650131226,
     "path": "Missions/Prototypes/PVEEndgame/OneShots/VibraniumMine/OSVMineGeoffRescueV5.prototype",
     "verdict": "MAYBE"
@@ -8666,7 +8666,7 @@
   {
     "id": "5339138472709064001",
     "english": "Defensive Affix II",
-    "russian": "Добавить к костюму дополнение защиты (уровень 2)",
+    "russian": "Защитный аффикс II",
     "similarity": 0.4240574836730957,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade2Defense.prototype",
     "verdict": "MAYBE"
@@ -8690,7 +8690,7 @@
   {
     "id": "8649835234595177835",
     "english": "Vibranium Placeholder Quest Giver",
-    "russian": "Вибраниум Заместитель Квестодателя",
+    "russian": "Вибраниум — Квестодатель-заглушка",
     "similarity": 0.42429473996162415,
     "path": "Entity/Characters/NPCs/Testing/VibraniumPlaceholderQuestGiver.prototype",
     "verdict": "MAYBE"
@@ -8754,7 +8754,7 @@
   {
     "id": "5774897479372375357",
     "english": "Durability Challenge Bonus",
-    "russian": "Добавить бонус исп. \"Выносливость\" уник. или косм. предм. ур. 63+",
+    "russian": "Бонус испытания на выносливость",
     "similarity": 0.42514660954475403,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonusDurability.prototype",
     "verdict": "MAYBE"
@@ -8842,7 +8842,7 @@
   {
     "id": "13426704857647154488",
     "english": "$currencyamount:0$ A.R.M.O.R. Research Drives",
-    "russian": "Диски с исследованиями АРМОР",
+    "russian": "$currencyamount:0$ Диски с исследованиями АРМОР",
     "similarity": 0.42741265892982483,
     "path": "Entity/Items/CurrencyItems/SeasonalLE/Recurring/Bounty.prototype",
     "verdict": "MAYBE"
@@ -8850,7 +8850,7 @@
   {
     "id": "14414135783371703608",
     "english": "Random Challenge Bonus (Unique Only)",
-    "russian": "Добавить бонус исп. любому уник. предмету",
+    "russian": "Случайный бонус испытания (только уникальные)",
     "similarity": 0.42750319838523865,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonus.prototype",
     "verdict": "MAYBE"
@@ -8882,7 +8882,7 @@
   {
     "id": "13833603754317579621",
     "english": "Use this item to spawn an Infinity Orb!",
-    "russian": "Щелкните ПКМ, чтобы получить Омега-сферу!",
+    "russian": "Используй этот предмет, чтобы получить Сферу Бесконечности!",
     "similarity": 0.4282793700695038,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/OmegaEventBox.prototype",
     "verdict": "MAYBE"
@@ -8986,7 +8986,7 @@
   {
     "id": "5869941566519641352",
     "english": "Moloid Pile-Up",
-    "russian": "Кротоидная куча",
+    "russian": "Куча молойдов",
     "similarity": 0.42946815490722656,
     "path": "Missions/Prototypes/Act1/Ch04HellsKitchen2/Discoveries/Moloid3CarCollision.prototype",
     "verdict": "MAYBE"
@@ -9002,7 +9002,7 @@
   {
     "id": "6911592752211821929",
     "english": "Offensive Affix IV",
-    "russian": "Добавить к костюму дополнение атаки (уровень 4)",
+    "russian": "Аффикс нападения IV",
     "similarity": 0.42970436811447144,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade4Offense.prototype",
     "verdict": "MAYBE"
@@ -9122,7 +9122,7 @@
   {
     "id": "8345713509457593664",
     "english": "Speed Challenge Bonus",
-    "russian": "Добавить бонус исп. \"Скорость\" уник. или косм. предм. ур. 63+",
+    "russian": "Бонус испытания на скорость",
     "similarity": 0.4309128224849701,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonusSpeed.prototype",
     "verdict": "MAYBE"
@@ -9266,7 +9266,7 @@
   {
     "id": "11209438883121792310",
     "english": "S.H.I.E.L.D. is calling upon heroes like you to #mission#patrol Industry City#/mission# - what's left of it, anyway.\n\nThe Hammerhead gang, Mad Dog and A.I.M. are just a few of the criminal syndicates who've fled to Industry City in recent weeks - no doubt to escape the hurt you've been putting on crime in Midtown. Simply patrol the area in search of criminal events and intervene like the super hero you are.\n\nThat's about it! Find me in Avengers Tower when you're finished and I'll have something for your efforts.",
-    "russian": "Могущественный демон по имени Н'астирх ищет артефакты, с помощью которых хочет создать постоянный мост между нашими мирами. Если он преуспеет, вторжения не избежать.\n\nВам необходимо #mission#остановить Н'астирха и его миньонов#/mission#, пока за его армией не выдвинулись демонические легионы, и уничтожить прямой атакой его базу  в Адском Лимбо.\n\nБерегите себя! Времени у вас мало, а опасность вам грозит нешуточная.",
+    "russian": "ЩИТ призывает героев вроде тебя #mission#патрулировать Промышленный район#/mission# - по крайней мере, то, что от него осталось.\n\nБанда Кувалды, Бешеные Псы и А.И.М. - лишь несколько из криминальных синдикатов, которые недавно перебрались в Промышленный район, не выдержав давления, которое оказали на них в Мидтауне. Просто патрулируй сектор и противодействуй преступникам, как настоящий супергерой.\n\nВот и все! Когда закончишь, разыщи меня в Башне Мстителей, и тогда я награжу тебя за труды.",
     "similarity": 0.4335022270679474,
     "path": "Missions/Prototypes/BonusMissions/WeeklyEventMissions/ICPPhaseMissionDay1.prototype",
     "verdict": "MAYBE"
@@ -9282,7 +9282,7 @@
   {
     "id": "17297374301697475995",
     "english": "Use this item to claim your Marvel Heroes Omega Anniversary Gift!",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Используй этот предмет, чтобы получить юбилейный подарок Marvel Heroes Omega!",
     "similarity": 0.4337776005268097,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/Anni2015GiftWeek2.prototype",
     "verdict": "MAYBE"
@@ -9290,7 +9290,7 @@
   {
     "id": "8222935542939125152",
     "english": "Use this item to claim your Marvel Heroes Omega Anniversary Gift!",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Используй этот предмет, чтобы получить юбилейный подарок Marvel Heroes Omega!",
     "similarity": 0.4337776303291321,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/Anni2015GiftWeek4.prototype",
     "verdict": "MAYBE"
@@ -9298,7 +9298,7 @@
   {
     "id": "16067355617277773213",
     "english": "Use this item to claim your Marvel Heroes Omega Anniversary Gift!",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Используй этот предмет, чтобы получить юбилейный подарок Marvel Heroes Omega!",
     "similarity": 0.43377766013145447,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/Anni2015GiftWeek1.prototype",
     "verdict": "MAYBE"
@@ -9306,7 +9306,7 @@
   {
     "id": "13465595610549978530",
     "english": "Use this item to claim your Marvel Heroes Omega Anniversary Gift!",
-    "russian": "Пора праздновать Большую Десятку! Щелкните ПКМ, чтобы получить 50 Дисков АРМОР, 30 космических Камней мира, 30 файлов \"Омега\", 10 марок Одина, 10 осколков вечности и 10 осколков Куба.\nНельзя использовать в штабе.",
+    "russian": "Используй этот предмет, чтобы получить юбилейный подарок Marvel Heroes Omega!",
     "similarity": 0.43377768993377686,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/Anni2015GiftWeek3.prototype",
     "verdict": "MAYBE"
@@ -9314,7 +9314,7 @@
   {
     "id": "13480177114587333950",
     "english": "Intelligence Challenge Bonus",
-    "russian": "Добавить бонус исп. \"Интеллект\" уник. или косм. предм. ур. 63+",
+    "russian": "Бонус испытания на интеллект",
     "similarity": 0.4338012635707855,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonusIntelligence.prototype",
     "verdict": "MAYBE"
@@ -9330,7 +9330,7 @@
   {
     "id": "7428647144558560528",
     "english": " X-Giving",
-    "russian": "Подарки Людей Икс",
+    "russian": " Икс-Дар",
     "similarity": 0.4338807165622711,
     "path": "Missions/Prototypes/BonusMissions/WeeklyEventMissions/XGivingWeekMissionDay1.prototype",
     "verdict": "MAYBE"
@@ -9346,7 +9346,7 @@
   {
     "id": "8215124526312523074",
     "english": "You keep the receipt for this thing? Let me guess, there never was one.\n\t—Wolverine.",
-    "russian": "У меня когда-то была такая. Не таким уродом в ней выглядел.\n—Существо",
+    "russian": "У тебя есть чек на эту штуку? Дай угадаю — его никогда и не было.\n\t— Росомаха.",
     "similarity": 0.43396636843681335,
     "path": "Entity/Items/Armor/Prototypes/Gambit/o2Trenchcoat/Trenchcoat06.prototype",
     "verdict": "MAYBE"
@@ -9418,7 +9418,7 @@
   {
     "id": "12183345502288479536",
     "english": "$AvatarName$, seek out #mission#Elder Bray-Vik#/mission# of the Fall Tribe, he may be able to offer you assistance.\n\nBut be on your guard, the Savage Land is a place of unparalled beauty...and unlimited danger. ",
-    "russian": "Дикая Земля - место несравненной красоты... И безграничной опасности.",
+    "russian": "$AvatarName$, найди #mission#Старейшину Брей-Вика#/mission# из Падающего Племени, он может помочь тебе.\n\nНо будь настороже, Дикая Земля — место непревзойдённой красоты... и безграничной опасности.",
     "similarity": 0.4350906312465668,
     "path": "Missions/Prototypes/Story/CH07SavageLand/Controllers/Info1DinoJungle.prototype",
     "verdict": "MAYBE"
@@ -9738,7 +9738,7 @@
   {
     "id": "996684613886281066",
     "english": "Use this item to claim an Infinity Orb!",
-    "russian": "Щелкните ПКМ, чтобы получить Омега-сферу!",
+    "russian": "Используй этот предмет, чтобы получить Сферу Бесконечности!",
     "similarity": 0.44058316946029663,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/InfinityOrbBox.prototype",
     "verdict": "MAYBE"
@@ -9746,7 +9746,7 @@
   {
     "id": "1507454288078767473",
     "english": "Large Box of Runes",
-    "russian": "5 одинаковых уникальных предметов за большой ящик рун",
+    "russian": "Большая коробка рун",
     "similarity": 0.4409618675708771,
     "path": "Entity/Items/Crafting/Recipes/Transmogrify/RandomRunesRecipe2.prototype",
     "verdict": "MAYBE"
@@ -9898,7 +9898,7 @@
   {
     "id": "13728806741281736046",
     "english": "#clobberintime#Squirrel Friends#/clobberintime#",
-    "russian": "Друзья-белки",
+    "russian": "#clobberintime#Друзья-белки#/clobberintime#",
     "similarity": 0.44356244802474976,
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/SquirrelGirlSquirrelCounter.prototype",
     "verdict": "MAYBE"
@@ -9930,7 +9930,7 @@
   {
     "id": "664544437666383172",
     "english": "Soulblaze",
-    "russian": "Пламя Души",
+    "russian": "Пламя души",
     "similarity": 0.4441029727458954,
     "path": "Powers/Player/Magik/Talents/SoulConeLayerSoulswordBuff.prototype",
     "verdict": "MAYBE"
@@ -9938,7 +9938,7 @@
   {
     "id": "16546659175520535869",
     "english": "Soulblaze",
-    "russian": "Пламя Души",
+    "russian": "Пламя души",
     "similarity": 0.4441031813621521,
     "path": "Powers/Player/Magik/Talents/SoulConeLayerSoulswordBuff.prototype",
     "verdict": "MAYBE"
@@ -9970,7 +9970,7 @@
   {
     "id": "341714109919724866",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.4443049430847168,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily02RedSkull.prototype",
     "verdict": "MAYBE"
@@ -9978,7 +9978,7 @@
   {
     "id": "2575693399917397311",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.4443049430847168,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily01Sentinels.prototype",
     "verdict": "MAYBE"
@@ -9986,7 +9986,7 @@
   {
     "id": "17263564555245651264",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.4443049430847168,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily03Brood.prototype",
     "verdict": "MAYBE"
@@ -9994,7 +9994,7 @@
   {
     "id": "6090066105212274025",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.4443049728870392,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily07SnakesOfMidtown.prototype",
     "verdict": "MAYBE"
@@ -10002,7 +10002,7 @@
   {
     "id": "10987421655549281600",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.44430506229400635,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily04AIMCity.prototype",
     "verdict": "MAYBE"
@@ -10010,7 +10010,7 @@
   {
     "id": "13780774883429188927",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.4443051517009735,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily05Hulkbusters.prototype",
     "verdict": "MAYBE"
@@ -10018,7 +10018,7 @@
   {
     "id": "7637170534196315498",
     "english": "Report to G.L.F. Lieutenant",
-    "russian": "Лейтенант СОГ",
+    "russian": "Отчитайся у лейтенанта СОГ",
     "similarity": 0.4443051815032959,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily06Wakanda.prototype",
     "verdict": "MAYBE"
@@ -10082,7 +10082,7 @@
   {
     "id": "4148955356558722369",
     "english": "S.H.I.E.L.D. Med Kits (10)",
-    "russian": "Создать 6 аптечек ЩИТа",
+    "russian": "Аптечки Щ.И.Т. (10)",
     "similarity": 0.4452410936355591,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Craft10Medkits.prototype",
     "verdict": "MAYBE"
@@ -10090,7 +10090,7 @@
   {
     "id": "4470416577574733116",
     "english": "Report to G.S.T. Supply Officer",
-    "russian": "Офицер-снабженец УОГ",
+    "russian": "Отчитайся у интенданта УОГ",
     "similarity": 0.44528642296791077,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/Redacted/GenoshaSupply01AtomicElements.prototype",
     "verdict": "MAYBE"
@@ -10122,7 +10122,7 @@
   {
     "id": "9491084053542012230",
     "english": "Many different versions of the Helicarrier have existed over the years.\nThey tend to get destroyed a lot.",
-    "russian": "Но это отнюдь не первый Хэликэрриер в истории ЩИТа.\nГибнут они довольно часто.",
+    "russian": "За годы существования было много версий Хеликарриеров.\nОни часто разбиваются.",
     "similarity": 0.4456913471221924,
     "path": "UI/LoadingScreenTips/RegionTips/HelicarrierTips.prototype",
     "verdict": "MAYBE"
@@ -10154,7 +10154,7 @@
   {
     "id": "3238248073096988003",
     "english": "Defensive Affix III",
-    "russian": "Добавить к костюму дополнение защиты (уровень 3)",
+    "russian": "Защитное свойство III",
     "similarity": 0.44643425941467285,
     "path": "Entity/Items/Crafting/Recipes/Tab1Catalyst/Grade3Defense.prototype",
     "verdict": "MAYBE"
@@ -10178,7 +10178,7 @@
   {
     "id": "3140678364684354885",
     "english": "Hulkbuster's Punch",
-    "russian": "Фазовый удар",
+    "russian": "Удар Халкбастера",
     "similarity": 0.4467133581638336,
     "path": "Powers/Player/IronMan/UltimateSuitBasicPunch1.prototype",
     "verdict": "MAYBE"
@@ -10194,7 +10194,7 @@
   {
     "id": "12917997399133717829",
     "english": "Restores $primarymanabehaviorname$ to full, and loads your next clip with Elemental #red#Fire#/red# Ammo, granting #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, and #powername#$powerreference2.powername$#/powername# an #powerkeyword#Area#/powerkeyword# damage effect",
-    "russian": "Перезарядка боеприпасов: #red#Огонь#/red#",
+    "russian": "Восстанавливает $primarymanabehaviorname$ полностью и заряжает следующий магазин элементальным #red#огнём#/red# снарядов, нанося #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername# #powerkeyword#областьной#/powerkeyword# урон",
     "similarity": 0.4467522203922272,
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/RefreshAmmoFire.prototype",
     "verdict": "MAYBE"
@@ -10226,7 +10226,7 @@
   {
     "id": "602003825375184139",
     "english": "#powermechanic#Pulsar#/powermechanic# Delay:",
-    "russian": "Задержка пульсара: $lifespan$",
+    "russian": "#powermechanic#Импульсный генератор#/powermechanic# Задержка:",
     "similarity": 0.447162926197052,
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/LifespanPulsarDuration.prototype",
     "verdict": "MAYBE"
@@ -10234,7 +10234,7 @@
   {
     "id": "2867428598227666233",
     "english": "Strength Challenge Bonus",
-    "russian": "Добавить бонус исп. \"Сила\" уник. или косм. предм. ур. 63+",
+    "russian": "Бонус за испытание силы",
     "similarity": 0.44729164242744446,
     "path": "Entity/Items/Crafting/Recipes/Tab3Gear/AddChallengeBonusStrength.prototype",
     "verdict": "MAYBE"
@@ -10290,7 +10290,7 @@
   {
     "id": "7638973157684282688",
     "english": "War Machine Spray Paint",
-    "russian": "Граффити: Военная Машина",
+    "russian": "Граффити: Воитель",
     "similarity": 0.44810032844543457,
     "path": "Entity/Items/Consumables/Prototypes/GShop/InteractiveVisualItems/WarMachinePaint.prototype",
     "verdict": "MAYBE"
@@ -10306,7 +10306,7 @@
   {
     "id": "1302598555753514307",
     "english": "Defeat Elite Enemies",
-    "russian": "Победить синюю и желтую элиту",
+    "russian": "Победить элитных врагов",
     "similarity": 0.4482156038284302,
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/LQMidtownICPAntiElite.prototype",
     "verdict": "MAYBE"
@@ -10354,7 +10354,7 @@
   {
     "id": "5802750123248846145",
     "english": "Generates three times as many $secondarymanabehaviorname$ if you have none",
-    "russian": "Дает очко комбо плюс дополнительное очко комбо, если их не было",
+    "russian": "Если $secondarymanabehaviorname$ нет, создаёт их в три раза больше",
     "similarity": 0.44895705580711365,
     "path": "Localization/Translations/Powers/TooltipStrings/Generate1ComboPointPlus2IfNone.prototype",
     "verdict": "MAYBE"
@@ -10386,7 +10386,7 @@
   {
     "id": "18330933468182349171",
     "english": "The Hand Sash",
-    "russian": "Пояс Кулака",
+    "russian": "Пояс Руки",
     "similarity": 0.44981300830841064,
     "path": "Entity/Items/Armor/Prototypes/Elektra/o3Sash/Sash11.prototype",
     "verdict": "MAYBE"
@@ -10410,7 +10410,7 @@
   {
     "id": "16654010714846528823",
     "english": "A Fruitful Termination",
-    "russian": "Фруктовая расправа",
+    "russian": "Плодотворное завершение",
     "similarity": 0.4504597783088684,
     "path": "Missions/Prototypes/PVEEndgame/DangerRoom/Subway/DRSubwayEventKillPoisonousFruitT1.prototype",
     "verdict": "MAYBE"
@@ -10426,7 +10426,7 @@
   {
     "id": "11058128216144872814",
     "english": "Security Solutions Bodysuit",
-    "russian": "Решающий комбинезон",
+    "russian": "Комбинезон Решений по безопасности",
     "similarity": 0.4506576955318451,
     "path": "Entity/Items/Armor/Prototypes/AntMan/o2Bodysuit/Bodysuit15.prototype",
     "verdict": "MAYBE"
@@ -10466,7 +10466,7 @@
   {
     "id": "9232857786340607299",
     "english": "Hand Arcanist",
-    "russian": "Хранитель тайн клана Руки",
+    "russian": "Заклинатель Руки",
     "similarity": 0.4515358507633209,
     "path": "Entity/Characters/Mobs/Hand/Chapter/HandChapter08/HandSorcererYellowCH08.prototype",
     "verdict": "MAYBE"
@@ -10490,7 +10490,7 @@
   {
     "id": "6514929711797241150",
     "english": "This bag contains 1 #emphasis#random#/emphasis# slot 1-5 unique with a chance of it being a boss unique.\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "russian": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "russian": "Этот мешок содержит 1 #emphasis#случайный#/emphasis# уникальный предмет 1-5 слота с шансом на босс-уникал.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "similarity": 0.4518578350543976,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/MysteriousGearBag.prototype",
     "verdict": "MAYBE"
@@ -10514,7 +10514,7 @@
   {
     "id": "12021224939381851404",
     "english": "Test Stash Extra Slots Grant",
-    "russian": "Дополнительные слоты для хранения",
+    "russian": "Тест: выдача дополнительных слотов хранилища",
     "similarity": 0.452203631401062,
     "path": "Entity/Items/InventoryGrants/TestStashSlotsGrant.prototype",
     "verdict": "MAYBE"
@@ -10546,7 +10546,7 @@
   {
     "id": "174800178950309248",
     "english": "Super Heroic Artifact",
-    "russian": "Артефакт",
+    "russian": "Супергеройский артефакт",
     "similarity": 0.4526481330394745,
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/Unused/Art132SuperHeroic.prototype",
     "verdict": "MAYBE"
@@ -10594,7 +10594,7 @@
   {
     "id": "6622728868320445751",
     "english": "BFG 9000 Achievement Reward",
-    "russian": "Награда за достижение - контроллер октобота",
+    "russian": "Награда за достижение BFG 9000",
     "similarity": 0.45345038175582886,
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/Unique423Reward.prototype",
     "verdict": "MAYBE"
@@ -10602,7 +10602,7 @@
   {
     "id": "17276226715776386317",
     "english": "Hacked Spider Slayers",
-    "russian": "Паукобои взломаны",
+    "russian": "Взломанные Убийцы-пауки",
     "similarity": 0.45352309942245483,
     "path": "Missions/Prototypes/Act0/CH00TutorialCity/Ambushes/Redacted/TutorialCitySpiderslayerAmbushV1.prototype",
     "verdict": "MAYBE"
@@ -10730,7 +10730,7 @@
   {
     "id": "4659869156901258510",
     "english": "Defeat Malekith and his Captains",
-    "russian": "Найти способ остановить Малекита",
+    "russian": "Победите Малекита и его капитанов",
     "similarity": 0.45500320196151733,
     "path": "Missions/Prototypes/Act3/Ch09Asgard/CH09Main3CityUnderSiege.prototype",
     "verdict": "MAYBE"
@@ -10786,7 +10786,7 @@
   {
     "id": "6790556450646984047",
     "english": "Keep up the good work, hero!",
-    "russian": "Так держать!",
+    "russian": "Так держать, герой!",
     "similarity": 0.4554092586040497,
     "path": "Missions/Prototypes/ZZZDeprecated/CH10SecretInvasion/CivSoloLoiterM4.prototype",
     "verdict": "MAYBE"
@@ -10890,7 +10890,7 @@
   {
     "id": "13533858476249122067",
     "english": "#powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, and #powername#$powerreference2.powername$#/powername# gain bonus critical damage",
-    "russian": "Элементный выстрел -> #yellow#Усиливающий выстрел#/yellow#\nЭлементная завеса -> #yellow#Сокрушительная завеса#/yellow#\nЭлементный залп -> #yellow#Сейсмический залп#/yellow#",
+    "russian": "#powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, и #powername#$powerreference2.powername$#/powername# получают бонус к критическому урону",
     "similarity": 0.45696577429771423,
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/EarthTransforms.prototype",
     "verdict": "MAYBE"
@@ -10898,7 +10898,7 @@
   {
     "id": "2248992473488950652",
     "english": "Pools of Venom",
-    "russian": "Ядовитые озера",
+    "russian": "Лужи яда",
     "similarity": 0.4570472836494446,
     "path": "Powers/TeamUps/SpiderWoman/DashStrikeHotspotTrigger.prototype",
     "verdict": "MAYBE"
