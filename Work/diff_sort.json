@@ -14546,7 +14546,7 @@
   {
     "id": "718376247723623687",
     "english": "Insignia of Bullseye",
-    "russian": "Символика Меченого",
+    "russian": "Символ Меченого",
     "similarity": 0.5042526721954346,
     "path": "Entity/Items/Insignias/Prototypes/Insignia076.prototype",
     "verdict": "OK"
@@ -14826,7 +14826,7 @@
   {
     "id": "4239617507607119107",
     "english": "Requires: Level 80 Legendary Item that cost 2,000 Odin Marks",
-    "russian": "Требуется: легендарный предмет 80 уровня стоимостью 2 000 отметок Одина",
+    "russian": "Требуется: легендарный предмет 80 уровня стоимостью 2 000 знаков Одина",
     "similarity": 0.5070986151695251,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund2000Recipe.prototype",
     "verdict": "BAD"
@@ -16082,7 +16082,7 @@
   {
     "id": "5210459800758256902",
     "english": "Insignia of Wolverine",
-    "russian": "Символика Росомахи",
+    "russian": "Символ Росомахи",
     "similarity": 0.5199015140533447,
     "path": "Entity/Items/Insignias/Prototypes/Insignia013.prototype",
     "verdict": "OK"
@@ -16770,7 +16770,7 @@
   {
     "id": "9249664689098786066",
     "english": "Insignia of Weapon X",
-    "russian": "Символика Оружия Икс",
+    "russian": "Символ Оружия Икс",
     "similarity": 0.5258316993713379,
     "path": "Entity/Items/Insignias/Prototypes/Insignia121.prototype",
     "verdict": "OK"
@@ -18210,7 +18210,7 @@
   {
     "id": "7166960791574349068",
     "english": "Insignia of Citizen V",
-    "russian": "Символика Гражданина Ви",
+    "russian": "Символ Гражданина Ви",
     "similarity": 0.5383197665214539,
     "path": "Entity/Items/Insignias/Prototypes/Insignia068.prototype",
     "verdict": "OK"
@@ -18346,7 +18346,7 @@
   {
     "id": "1453328100778640655",
     "english": "Insignia of Blade",
-    "russian": "Знак Блэйда",
+    "russian": "Символ Блэйда",
     "similarity": 0.5403850674629211,
     "path": "Entity/Items/Insignias/Insignia130.prototype",
     "verdict": "OK"
@@ -21394,7 +21394,7 @@
   {
     "id": "15974610973782246678",
     "english": "Insignia of Quake",
-    "russian": "Символика Дрожь",
+    "russian": "Символ Дрожи",
     "similarity": 0.5657259225845337,
     "path": "Entity/Items/Insignias/Prototypes/Insignia109.prototype",
     "verdict": "OK"
@@ -21962,7 +21962,7 @@
   {
     "id": "3439226446219314449",
     "english": "This consumes your Legendary Item and gives you a chest of 800 Odin Marks in return. \n#orange#NOTE:#/orange# You can only exchange #orange#Level 80 Legendary Items#/orange# that were previously purchased for #orange#1,000 Odin Marks#/orange#.",
-    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 800 марками Одина.\n#orange#ПРИМЕЧАНИЕ:#/orange# Можно обменять только #orange#легендарные предметы уровня 80#/orange#, которые были ранее куплены за #orange#1000 марок Одина#/orange#.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 800 знаков Одина.\n#orange#ПРИМЕЧАНИЕ:#/orange# Можно обменять только #orange#легендарные предметы уровня 80#/orange#, которые были ранее куплены за #orange#1000 знаков Одина#/orange#.",
     "similarity": 0.5693143606185913,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund1000Recipe.prototype",
     "verdict": "BAD"
@@ -21970,7 +21970,7 @@
   {
     "id": "16679166608831546639",
     "english": "This consumes your Legendary Item and gives you a chest of 800 Odin Marks in return. \n#orange#NOTE:#/orange# You can only exchange #orange#Level 80 Legendary Items#/orange# that were previously purchased for #orange#1,000 Odin Marks#/orange#.",
-    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 800 марками Одина.\n#orange#ПРИМЕЧАНИЕ:#/orange# Можно обменять только #orange#легендарные предметы уровня 80#/orange#, которые были ранее куплены за #orange#1000 марок Одина#/orange#.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 800 знаками Одина.\n#orange#ПРИМЕЧАНИЕ:#/orange# Можно обменять только #orange#легендарные предметы уровня 80#/orange#, которые были ранее куплены за #orange#1000 знаков Одина#/orange#.",
     "similarity": 0.5693143606185913,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund1000Recipe.prototype",
     "verdict": "BAD"
@@ -22194,7 +22194,7 @@
   {
     "id": "11085372709696242943",
     "english": "Insignia of Penance",
-    "russian": "Символика Мученика",
+    "russian": "Символ Мученика",
     "similarity": 0.5708063244819641,
     "path": "Entity/Items/Insignias/Prototypes/Insignia077.prototype",
     "verdict": "OK"
@@ -22218,7 +22218,7 @@
   {
     "id": "11681808328472790343",
     "english": "Insignia of Groot",
-    "russian": "Символика Грута",
+    "russian": "Символ Грута",
     "similarity": 0.5709875226020813,
     "path": "Entity/Items/Insignias/Prototypes/Insignia047.prototype",
     "verdict": "OK"
@@ -22530,7 +22530,7 @@
   {
     "id": "3724338105000920432",
     "english": "This consumes your Legendary Item and gives you a chest of 2,000 Odin Marks in return. \n#red#NOTE:#/red# You can only exchange #red#Level 80 Legendary Items#/red# that were previously purchased for #red#2,000 Odin Marks#/red#.",
-    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 2000 марками Одина.\n#red#ПРИМЕЧАНИЕ:#/red# Можно обменять только #red#легендарные предметы уровня 80#/red#, которые были ранее куплены за #red#2000 марок Одина#/red#.",
+    "russian": "Это потребляет ваш легендарный предмет и взамен даёт сундук с 2000 знаками Одина.\n#red#ПРИМЕЧАНИЕ:#/red# Можно обменять только #red#легендарные предметы уровня 80#/red#, которые были ранее куплены за #red#2000 знаков Одина#/red#.",
     "similarity": 0.5734546184539795,
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/UpgradedLegendaryRefund2000Recipe.prototype",
     "verdict": "BAD"
@@ -23394,7 +23394,7 @@
   {
     "id": "2733735646506779956",
     "english": "S.H.I.E.L.D. Insignia for Axis Vendor #1",
-    "russian": "Знак ЩИТа для Вендора Оси #1",
+    "russian": "Символ ЩИТа для Вендора Оси #1",
     "similarity": 0.5789663791656494,
     "path": "Entity/Items/Insignias/Insignia145.prototype",
     "verdict": "OK"
@@ -23866,7 +23866,7 @@
   {
     "id": "18442891127950280003",
     "english": "Insignia of the Thing",
-    "russian": "Символика Существа",
+    "russian": "Символ Существа",
     "similarity": 0.581261932849884,
     "path": "Entity/Items/Insignias/Prototypes/Insignia028.prototype",
     "verdict": "OK"
@@ -24522,7 +24522,7 @@
   {
     "id": "12260114984637433096",
     "english": "Insignia of the Falcon",
-    "russian": "Символика Сокола",
+    "russian": "Символ Сокола",
     "similarity": 0.5842890739440918,
     "path": "Entity/Items/Insignias/Prototypes/Insignia111.prototype",
     "verdict": "OK"
@@ -24730,7 +24730,7 @@
   {
     "id": "5979468450947925251",
     "english": "S.H.I.E.L.D. Insignia for Axis Vendor #2",
-    "russian": "Знак ЩИТа для Вендора Оси #2",
+    "russian": "Символ ЩИТа для Вендора Оси #2",
     "similarity": 0.5856651067733765,
     "path": "Entity/Items/Insignias/Insignia146.prototype",
     "verdict": "OK"
@@ -28882,7 +28882,7 @@
   {
     "id": "15918423301078320401",
     "english": "Insignia of Cloak",
-    "russian": "Символика Плаща",
+    "russian": "Символ Плаща",
     "similarity": 0.6066221594810486,
     "path": "Entity/Items/Insignias/Insignia131.prototype",
     "verdict": "OK"
@@ -30514,7 +30514,7 @@
   {
     "id": "13405384725958624628",
     "english": "Use this item to claim a stack of 100 Odin Marks.",
-    "russian": "Щелкните ПКМ, чтобы получить 100 марок Одина.",
+    "russian": "Щелкните ПКМ, чтобы получить 100 знаков Одина.",
     "similarity": 0.6141297221183777,
     "path": "Entity/Items/Consumables/Prototypes/CSGrant/CSGrantCrateOdinMark.prototype",
     "verdict": "MAYBE"
@@ -31194,7 +31194,7 @@
   {
     "id": "2998172986118440201",
     "english": "Insignia of She-Hulk",
-    "russian": "Символика Женщины-Халка",
+    "russian": "Символ Женщины-Халка",
     "similarity": 0.6178677082061768,
     "path": "Entity/Items/Insignias/Prototypes/Insignia030.prototype",
     "verdict": "OK"
@@ -31322,7 +31322,7 @@
   {
     "id": "10450933102958478610",
     "english": "Insignia of HERBIE",
-    "russian": "Символика ЭРБИ",
+    "russian": "Символ ЭРБИ",
     "similarity": 0.618364691734314,
     "path": "Entity/Items/Insignias/Prototypes/Insignia031.prototype",
     "verdict": "OK"
@@ -31642,7 +31642,7 @@
   {
     "id": "7145626495077451076",
     "english": "Insignia of Monica Rambeau",
-    "russian": "символика Моники Рамбо",
+    "russian": "Символ Моники Рамбо",
     "similarity": 0.6197383999824524,
     "path": "Entity/Items/Insignias/Prototypes/Insignia014.prototype",
     "verdict": "OK"
@@ -32554,7 +32554,7 @@
   {
     "id": "10635232146788517138",
     "english": "Insignia of the Heroes for Hire Box",
-    "russian": "Знак Героев на Подряде",
+    "russian": "Символ Героев по найму",
     "similarity": 0.6234087347984314,
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/Insignia147BoxDogTags.prototype",
     "verdict": "MAYBE"
@@ -32610,7 +32610,7 @@
   {
     "id": "6677582541306856718",
     "english": "Insignia of Inferno",
-    "russian": "Знак Инферно",
+    "russian": "Символ Инферно",
     "similarity": 0.6236218810081482,
     "path": "Entity/Items/Insignias/Prototypes/Insignia201.prototype",
     "verdict": "OK"
@@ -33386,7 +33386,7 @@
   {
     "id": "6646624163758474616",
     "english": "Use this item to claim 3 Odin Marks!",
-    "russian": "Щелкните ПКМ, чтобы получить 3 марки Одина!",
+    "russian": "Щелкните ПКМ, чтобы получить 3 знака Одина!",
     "similarity": 0.6278515458106995,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/OdinMarkBox3.prototype",
     "verdict": "MAYBE"
@@ -35154,7 +35154,7 @@
   {
     "id": "18291879923263604084",
     "english": "Use this item to claim a stack of 300 Odin Marks.",
-    "russian": "Щелкните ПКМ, чтобы получить 300 марок Одина.",
+    "russian": "Щелкните ПКМ, чтобы получить 300 знаков Одина.",
     "similarity": 0.6353929042816162,
     "path": "Entity/Items/CurrencyItems/LegendaryRefundBox.prototype",
     "verdict": "MAYBE"
@@ -35314,7 +35314,7 @@
   {
     "id": "1637075301498815806",
     "english": "Crafting Failed: You have insufficient Odin Marks.",
-    "russian": "У вас недостаточно марок Одина.",
+    "russian": "У вас недостаточно знаков Одина.",
     "similarity": 0.635906994342804,
     "path": "Localization/Translations/Crafting/FailureReasons/InsufficientLegendaryMarks.prototype",
     "verdict": "MAYBE"
@@ -37170,7 +37170,7 @@
   {
     "id": "5873917778650531191",
     "english": "Use this item to claim 10 Odin Marks!",
-    "russian": "Щелкните ПКМ, чтобы получить 10 марок Одина!",
+    "russian": "Щелкните ПКМ, чтобы получить 10 знаков Одина!",
     "similarity": 0.6438698172569275,
     "path": "Entity/Items/Consumables/Prototypes/FortuneCard/FCMK5OdinMarkBox10.prototype",
     "verdict": "OK"
@@ -38098,7 +38098,7 @@
   {
     "id": "14287296680344225087",
     "english": "Insignia of Rocket Raccoon",
-    "russian": "Символика Ракеты",
+    "russian": "Символ Ракеты",
     "similarity": 0.647258996963501,
     "path": "Entity/Items/Insignias/Prototypes/Insignia046.prototype",
     "verdict": "OK"
@@ -38146,7 +38146,7 @@
   {
     "id": "17224591214672545185",
     "english": "Use this item to claim 5 Odin Marks!",
-    "russian": "Щелкните ПКМ, чтобы получить 5 марок Одина!",
+    "russian": "Щелкните ПКМ, чтобы получить 5 знаков Одина!",
     "similarity": 0.6473801136016846,
     "path": "Entity/Items/Consumables/Prototypes/DailyGift/OdinMarkBox5.prototype",
     "verdict": "OK"
@@ -38810,7 +38810,7 @@
   {
     "id": "6819786202766771567",
     "english": "Use this item to receive 10 Odin Marks.",
-    "russian": "Щелкните ПКМ, чтобы получить 10 марок Одина.",
+    "russian": "Щелкните ПКМ, чтобы получить 10 знаков Одина.",
     "similarity": 0.6495904922485352,
     "path": "Entity/Items/Consumables/Prototypes/VeteranRewards/OdinMarkPack10.prototype",
     "verdict": "OK"
@@ -39634,7 +39634,7 @@
   {
     "id": "9183527518617929077",
     "english": "Use this item to claim 25 Odin Marks!",
-    "russian": "Щелкните ПКМ, чтобы получить 25 марок Одина!",
+    "russian": "Щелкните ПКМ, чтобы получить 25 знаков Одина!",
     "similarity": 0.6526764631271362,
     "path": "Entity/Items/Consumables/Prototypes/FortuneCard/FCMK5OdinMarkBox25.prototype",
     "verdict": "OK"
@@ -40314,7 +40314,7 @@
   {
     "id": "2539187810116896165",
     "english": "Use this item to claim 100 Odin Marks!",
-    "russian": "Щелкните ПКМ, чтобы получить 100 марок Одина!",
+    "russian": "Щелкните ПКМ, чтобы получить 100 знаков Одина!",
     "similarity": 0.6550171971321106,
     "path": "Entity/Items/Consumables/Prototypes/FortuneCard/OdinMarkBox100.prototype",
     "verdict": "MAYBE"
@@ -40506,7 +40506,7 @@
   {
     "id": "3601706588020933885",
     "english": "Insignia of Elektra",
-    "russian": "Символика Электры",
+    "russian": "Символ Электры",
     "similarity": 0.6556128263473511,
     "path": "Entity/Items/Insignias/Prototypes/Insignia084.prototype",
     "verdict": "OK"
@@ -41010,7 +41010,7 @@
   {
     "id": "4241663741704209677",
     "english": "Insignia of Punisher",
-    "russian": "Символика Карателя",
+    "russian": "Символ Карателя",
     "similarity": 0.6574844717979431,
     "path": "Entity/Items/Insignias/Insignia129.prototype",
     "verdict": "OK"
@@ -41746,7 +41746,7 @@
   {
     "id": "5574568741420729660",
     "english": "Insignia of Iron Fist",
-    "russian": "Символика Железного Кулака",
+    "russian": "Символ Железного Кулака",
     "similarity": 0.6596647500991821,
     "path": "Entity/Items/Insignias/Insignia128.prototype",
     "verdict": "OK"
@@ -43522,7 +43522,7 @@
   {
     "id": "6521739992272012555",
     "english": "Insignia of Medusa",
-    "russian": "Знак Медузы",
+    "russian": "Символ Медузы",
     "similarity": 0.6632752418518066,
     "path": "Entity/Items/Insignias/Prototypes/Insignia034.prototype",
     "verdict": "OK"
@@ -43698,7 +43698,7 @@
   {
     "id": "12167243987859735969",
     "english": "Use this item to receive 20 Odin Marks.",
-    "russian": "Щелкните ПКМ, чтобы получить 20 марок Одина.",
+    "russian": "Щелкните ПКМ, чтобы получить 20 знаков Одина.",
     "similarity": 0.6635738015174866,
     "path": "Entity/Items/Consumables/Prototypes/VeteranRewards/OdinMarkPack20.prototype",
     "verdict": "MAYBE"
@@ -44562,7 +44562,7 @@
   {
     "id": "7042294100301907319",
     "english": "Use this item to claim 50 Odin Marks!",
-    "russian": "Щелкните ПКМ, чтобы получить 50 марок Одина!",
+    "russian": "Щелкните ПКМ, чтобы получить 50 знаков Одина!",
     "similarity": 0.6660889387130737,
     "path": "Entity/Items/Consumables/Prototypes/FortuneCard/OdinMarkBox50.prototype",
     "verdict": "MAYBE"
@@ -44714,7 +44714,7 @@
   {
     "id": "1202612490194978112",
     "english": "Insignia of Shang-Chi",
-    "russian": "Символика Старейшины Чи",
+    "russian": "Символ Старейшины Чи",
     "similarity": 0.6666351556777954,
     "path": "Entity/Items/Insignias/Insignia132.prototype",
     "verdict": "OK"
@@ -46298,7 +46298,7 @@
   {
     "id": "1942320014627243428",
     "english": "Use this item to receive 50 Odin Marks.",
-    "russian": "Щелкните ПКМ, чтобы получить 50 марок Одина.",
+    "russian": "Щелкните ПКМ, чтобы получить 50 знаков Одина.",
     "similarity": 0.6717683672904968,
     "path": "Entity/Items/Consumables/Prototypes/VeteranRewards/OdinMarkPack50.prototype",
     "verdict": "MAYBE"
@@ -47242,7 +47242,7 @@
   {
     "id": "12027934782168892741",
     "english": "Insignia of Spider-Man",
-    "russian": "Символика Человека-Паука",
+    "russian": "Символ Человека-Паука",
     "similarity": 0.6745545268058777,
     "path": "Entity/Items/Insignias/Prototypes/Insignia009.prototype",
     "verdict": "OK"
@@ -48674,7 +48674,7 @@
   {
     "id": "15447380330616456456",
     "english": "Insignia of Mockingbird",
-    "russian": "Символика Пересмешника",
+    "russian": "Символ Пересмешницы",
     "similarity": 0.6780431270599365,
     "path": "Entity/Items/Insignias/Prototypes/Insignia066.prototype",
     "verdict": "OK"
@@ -50514,7 +50514,7 @@
   {
     "id": "7103088928518112572",
     "english": "Insignia of Scarlet Witch",
-    "russian": "Символика Алой Ведьмы",
+    "russian": "Символ Алой Ведьмы",
     "similarity": 0.6833645105361938,
     "path": "Entity/Items/Insignias/Prototypes/Insignia126.prototype",
     "verdict": "OK"
@@ -51562,7 +51562,7 @@
   {
     "id": "18088602320833742145",
     "english": "Insignia of Hulk",
-    "russian": "символика Халка",
+    "russian": "Символ Халка",
     "similarity": 0.6857173442840576,
     "path": "Entity/Items/Insignias/Prototypes/Insignia005.prototype",
     "verdict": "OK"
@@ -53594,7 +53594,7 @@
   {
     "id": "1648065783441786118",
     "english": "Your current Odin Marks. Odin Marks can be used for Legendary Blessings at your Crafter.",
-    "russian": "Текущее количество марок Одина. За марки Одина у мастера можно купить легендарные благословения.",
+    "russian": "Текущее количество знаков Одина. За марки Одина у мастера можно купить легендарные благословения.",
     "similarity": 0.6917824745178223,
     "path": "UI/LocalizedInfo/CharacterSheet/UITooltipOdinMarks.prototype",
     "verdict": "MAYBE"
@@ -54098,7 +54098,7 @@
   {
     "id": "2919348507956348218",
     "english": "Insignia of the Heroes for Hire",
-    "russian": "Знак Героев на Подряде",
+    "russian": "Символ Героев по найму",
     "similarity": 0.6929555535316467,
     "path": "Entity/Items/Insignias/Prototypes/Insignia147.prototype",
     "verdict": "OK"
@@ -54522,7 +54522,7 @@
   {
     "id": "6774560669464855818",
     "english": "Insignia of Invisible Woman",
-    "russian": "Символика Невидимой Леди",
+    "russian": "Символ Невидимой Леди",
     "similarity": 0.6939877271652222,
     "path": "Entity/Items/Insignias/Prototypes/Insignia024.prototype",
     "verdict": "OK"
@@ -55602,7 +55602,7 @@
   {
     "id": "11880621084696577340",
     "english": "Insignia of Dagger",
-    "russian": "Символика Кинжала",
+    "russian": "Символ Кинжала",
     "similarity": 0.6969466209411621,
     "path": "Entity/Items/Insignias/Insignia133.prototype",
     "verdict": "OK"
@@ -56226,7 +56226,7 @@
   {
     "id": "17854798431619777804",
     "english": "Insignia of Spider-Woman",
-    "russian": "Символика Женщины-Паука",
+    "russian": "Символ Женщины-Паука",
     "similarity": 0.6988078355789185,
     "path": "Entity/Items/Insignias/Prototypes/Insignia110.prototype",
     "verdict": "OK"
