@@ -2,7 +2,7 @@
   {
     "id": "6115476600554456380",
     "english": "AITargetedRanged SS",
-    "russian": "Щит",
+    "russian": "AITargetedRanged SS",
     "similarity": 0.0626237541437149,
     "path": "Powers/EnemyPowers/MobPowers/Mutates/RangedSSMutateAShamanMissileEffect.prototype",
     "verdict": "OK"
@@ -18,7 +18,7 @@
   {
     "id": "18166600559012939068",
     "english": "Inflict agony undreamt of by channeling the raw destructive power of Faltine.  ",
-    "russian": "Лола - не просто коллекционная кукла. Люди часто путают слова \"новая\" и \"улучшенная\".",
+    "russian": "Обрушьте невообразимую агонию, направив чистую разрушительную мощь Фалтинов.",
     "similarity": 0.0777055099606514,
     "path": "Powers/Player/DoctorStrange/SummonFlames.prototype",
     "verdict": "BAD"
