@@ -1290,7 +1290,7 @@
   {
     "id": "14965898167319659824",
     "english": "Straight out of the comics - stabby ninja goodness!",
-    "russian": "Прямо из комиксов - колюще-режущие ниндзя!",
+    "russian": "Смотри, я - Электра!",
     "similarity": 0.21079254150390625,
     "path": "Powers/Player/Deadpool/Rework/SaiAssault.prototype",
     "verdict": "BAD"
@@ -4010,7 +4010,7 @@
   {
     "id": "115068144611558776",
     "english": "Jet-Assisted Slam",
-    "russian": "Реактивный слэм",
+    "russian": "Реактивный удар",
     "similarity": 0.3271509110927582,
     "path": "Powers/Player/IronMan/BrutalStrike.prototype",
     "verdict": "OK"
@@ -4802,7 +4802,7 @@
   {
     "id": "10735078656085198186",
     "english": "#emphasis#Real Name:#/emphasis# Wade Winston Wilson\n#emphasis#Identity:#/emphasis# Secret\n\nThe infamous Weapon X program granted Wade Wilson an extremely powerful healing factor. Wade soon escaped the program and became a freelance mercenary using the name Deadpool.\n\nWade is mentally unstable, though whether this is a normal state or is caused by his constant state of hyper-regeneration is unknown. One side effect of his mental state is the belief that he is not a real person but actually a character in a comic book...or sometimes a video game.\n\n#emphasis#Created By:#/emphasis# Fabian Nicieza and Rob Liefeld\n#emphasis#First Appearance:#/emphasis# New Mutants #98 (Feb 1991)",
-    "russian": "#emphasis#Настоящее имя:#/emphasis# Анжела\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 178 см\n#emphasis#Вес:#/emphasis# 79 кг\n\nКогда ангелы из Десятого мира, Небес, развязали войну с Асгадом, королева ангелов похитила Алдриф - дочь Одина, наследницу трона. Но Один не покорился ангелам, он посчитал, что его дочь убита. В ответ Один вырвал Небеса из Иггдразиля и отрезал их от остальных Девяти миров. Оставшись у врагов, Алдриф все-таки уцелела и выросла, ничего не зная о своей настоящей семье. Она получила имя Анжела, Небесная охотница.\n\nКогда открываются старые тайны, Анжела узнает о своем происхождении. Отказавшись от Небес и считаясь предательницей в Асгарде, она странствует между мирами, пытаясь найти свое место и продолжая охоту любой ценой.\n\n#emphasis#Создатели:#/emphasis# Neil Gaiman, Todd McFarlane\n#emphasis#Первое появление:#/emphasis# Age of Ultron № 10 (август 2013 г.)",
+    "russian": "#emphasis#Настоящее имя:#/emphasis# Уэйд Уинстон Уилсон\n#emphasis#Личность:#/emphasis# Секретна\n\nПечально известная программа «Оружие Икс» наделила Уэйда Уилсона невероятно мощным фактором регенерации. Вскоре Уэйд сбежал и стал наёмником-фрилансером под именем Дэдпул.\n\nУэйд психически нестабилен — хотя неизвестно, был ли он таким изначально или это последствие его постоянной гиперрегенерации. Одним из эффектов его состояния является убеждённость, что он не настоящий человек, а персонаж комикса… или, порой, видеоигры.\n\n#emphasis#Создатели:#/emphasis# Фабиан Нициеза и Роб Лайфелд\n#emphasis#Первое появление:#/emphasis# *New Mutants* №98 (февраль 1991)",
     "similarity": 0.3455190658569336,
     "path": "Entity/Characters/Avatars/Shipping/Deadpool.prototype",
     "verdict": "OK"
@@ -4922,7 +4922,7 @@
   {
     "id": "10154868225419445518",
     "english": "Kneel Before Me",
-    "russian": "На колени!",
+    "russian": "На колени передо мной!",
     "similarity": 0.3480253517627716,
     "path": "Powers/Player/Cyclops/CallEmmaKneelBeforeMe.prototype",
     "verdict": "MAYBE"
@@ -5986,7 +5986,7 @@
   {
     "id": "11029195843276506493",
     "english": "Stabby Flip",
-    "russian": "Сальто с тычком",
+    "russian": "Пырь-вертушка",
     "similarity": 0.36808323860168457,
     "path": "Powers/Player/Deadpool/Rework/StabbyFlip.prototype",
     "verdict": "MAYBE"
@@ -9042,7 +9042,7 @@
   {
     "id": "7281526080721257783",
     "english": "So you have a tank's cannon. Okay then. ",
-    "russian": "Это серьезно?! Откуда у тебя танковая пушка?",
+    "russian": "Серьёзно?! У тебя танковая пушка? Ну ладно",
     "similarity": 0.43019574880599976,
     "path": "Powers/Player/Deadpool/Rework/ArmorBuster.prototype",
     "verdict": "BAD"
@@ -14050,7 +14050,7 @@
   {
     "id": "484045035374707978",
     "english": "Diamond-Bladed Spin Kick",
-    "russian": "Алмазный круг",
+    "russian": "Алмазный вихрь",
     "similarity": 0.49905160069465637,
     "path": "Powers/Player/EmmaFrost/Update/DiamondSweepKick.prototype",
     "verdict": "MAYBE"
@@ -17234,7 +17234,7 @@
   {
     "id": "2631850492438250799",
     "english": "It's kind of like electronic music but with bullets.",
-    "russian": "Это как дабстеп, только пулями",
+    "russian": "Это как дабстеп, только пулями.",
     "similarity": 0.5300934314727783,
     "path": "Powers/Player/Deadpool/Rework/Minigun.prototype",
     "verdict": "OK"
@@ -18674,7 +18674,7 @@
   {
     "id": "1886568341117011269",
     "english": "Sweep the legs out from enemies in front of you.",
-    "russian": "Сбить врагов подсечкой.",
+    "russian": "Сбейте окружащих врагов с ног подсечкой.",
     "similarity": 0.5429646372795105,
     "path": "Powers/Player/BlackPanther/SweepingKick.prototype",
     "verdict": "OK"
@@ -19338,7 +19338,7 @@
   {
     "id": "4964987292922873101",
     "english": "Launch a pulsing ball of repulsor energy that releases a shockwave when it collides with an enemy.",
-    "russian": "Запускает пульсирующий шар энергии репульсора, который при столкновении с врагом бьет его ударной волной.",
+    "russian": "Выпустите пульсирующий шар репульсорной энергии, который при ударе создаст ударную волну.",
     "similarity": 0.5477990508079529,
     "path": "Powers/Player/IronMan/RepulsorBurst.prototype",
     "verdict": "BAD"
@@ -23658,7 +23658,7 @@
   {
     "id": "14585523412426229004",
     "english": "Lash out at enemies in front of you with diamond-coated fists.",
-    "russian": "Обрушить на противников всю мощь своих алмазных кулаков.",
+    "russian": "Обрушьте на противников всю мощь ваших алмазных кулаков.",
     "similarity": 0.580299437046051,
     "path": "Powers/Player/EmmaFrost/Update/DiamondStrike.prototype",
     "verdict": "OK"
@@ -24802,7 +24802,7 @@
   {
     "id": "13277159310440596753",
     "english": "House Party",
-    "russian": "Вечеринка",
+    "russian": "Семейный праздник",
     "similarity": 0.585735,
     "path": "Powers/Player/IronMan/UltimateSummonSuits.prototype",
     "verdict": "MAYBE"
@@ -26434,7 +26434,7 @@
   {
     "id": "6075702424556209476",
     "english": "Temporarily phase yourself out of the physical plane, increasing your effectiveness in combat and making you impossible to hit.",
-    "russian": "Временно обрести бесплотность на поле боя, чтобы наносить врагам больше урона и избегать ответных ударов.",
+    "russian": "Используя фазирование временно обрестите бесплотность, во время действия способности вы эффективнее атакуете и не получаете урона.",
     "similarity": 0.5945119857788086,
     "path": "Powers/Player/KittyPryde/PhaseOut.prototype",
     "verdict": "OK"
@@ -28162,7 +28162,7 @@
   {
     "id": "6137971835301201156",
     "english": "This bazooka is why comics aren't for kids anymore.",
-    "russian": "Базука детям не игрушка.",
+    "russian": "Вот после такой базуки комиксы и перестают быть детскими.",
     "similarity": 0.6034300923347473,
     "path": "Powers/Player/Deadpool/Rework/Bazooka.prototype",
     "verdict": "MAYBE"
@@ -29218,7 +29218,7 @@
   {
     "id": "16233125424737289522",
     "english": "Like, a LOT of flesh wounds.",
-    "russian": "Реально МНОГО царапин.",
+    "russian": "Реально МНОГО свежих царапин.",
     "similarity": 0.6083510518074036,
     "path": "Powers/Player/Deadpool/Rework/BasicBleed.prototype",
     "verdict": "MAYBE"
@@ -30250,7 +30250,7 @@
   {
     "id": "15037769849484608889",
     "english": "Just hold down the trigger 'til it's empty.",
-    "russian": "Жать на спусковой крючок, пока пули не кончатся.",
+    "russian": "Жми на спусковой крючок, пока пули не закончатся.",
     "similarity": 0.613143265247345,
     "path": "Powers/Player/Deadpool/Rework/DeadlyBarrage.prototype",
     "verdict": "OK"
@@ -33866,7 +33866,7 @@
   {
     "id": "16113784844928222478",
     "english": "Psst! Listen up, but keep this just between you and me.\nThis power hacks into the game server to make all enemies non-responsive for a brief period. They literally won't know what hit 'em!  Also, dev hacks...just sayin'.\n",
-    "russian": "Тс-с! Слушай сюда, только никому не разболтай.\nЯ взломал игровой сервер, и теперь все враги на какое-то время зависли.\nБей на здоровье!",
+    "russian": "Псс! Слушай сюда, только никому не разболтай.\nЯ взломал игровой сервер, и теперь все враги на какое-то время зависли. Они буквально не поймут, что их ударило! К тому же, читы для разработчиков... ну ты понимаешь.\n",
     "similarity": 0.6298421621322632,
     "path": "Powers/Player/Deadpool/Rework/ServerLag.prototype",
     "verdict": "OK"
@@ -35802,7 +35802,7 @@
   {
     "id": "701833829060642112",
     "english": "Phase your entire body and move quickly through enemies and walls alike. Perfect for getting out of just about every situation.",
-    "russian": "Позволяет быстро просочиться сквозь врагов, стены и прочие препятствия. Отличный способ отступления.",
+    "russian": "Позволяет вам буквально просочиться сквозь врагов, стены и прочие препятствия. Отличный способ для отступления в напряженной ситуации.",
     "similarity": 0.6384212970733643,
     "path": "Powers/Player/KittyPryde/PhaseDash.prototype",
     "verdict": "OK"
@@ -36842,7 +36842,7 @@
   {
     "id": "11379663112908899590",
     "english": "It's never a bad idea to stop by a toy store before a fight.",
-    "russian": "Заглянуть в магазин игрушек перед дракой оказалось хорошей идеей.",
+    "russian": "А заглянуть в магазин игрушек перед дракой было хорошей идеей.",
     "similarity": 0.6425740122795105,
     "path": "Powers/Player/Deadpool/Rework/HulkHandArrow.prototype",
     "verdict": "OK"
@@ -37466,7 +37466,7 @@
   {
     "id": "518376719019672846",
     "english": "Destroy your foes with mighty haymakers and powerful uppercuts, striking where their injuries are greatest.",
-    "russian": "Громить врагов мощными ударами по уязвимым местам.",
+    "russian": "Уничтожь врагов мощными ударами по уязвимым местам.",
     "similarity": 0.6449337005615234,
     "path": "Powers/Player/EmmaFrost/Update/BigPunch.prototype",
     "verdict": "OK"
@@ -38050,7 +38050,7 @@
   {
     "id": "16462776286690542922",
     "english": "Hurty",
-    "russian": "Бьющий больно",
+    "russian": "Больно-больно",
     "similarity": 0.6468320488929749,
     "path": "Entity/Characters/Avatars/Shipping/Deadpool.prototype",
     "verdict": "BAD"
@@ -44770,7 +44770,7 @@
   {
     "id": "16238506619279049996",
     "english": "Voltaic Punch",
-    "russian": "Вольтовый удар кулаком",
+    "russian": "Вольтаический удар",
     "similarity": 0.6668309569358826,
     "path": "Powers/EnemyPowers/Boss/CivilWar/IronMan/BasicPunch1.prototype",
     "verdict": "OK"
@@ -47186,7 +47186,7 @@
   {
     "id": "6021997453345293582",
     "english": "Dash to an enemy and drive your psi-blade through their back, quickly dispatching them.",
-    "russian": "Ринуться к врагу со спины и проткнуть его своим псионическим клинком.",
+    "russian": "Молниеносно сблизьтесь с врагом, а затем используйте пси-клинок, чтобы поразить противника в спину.",
     "similarity": 0.674405574798584,
     "path": "Powers/Player/Psylocke/DashBackstab.prototype",
     "verdict": "OK"
@@ -51194,7 +51194,7 @@
   {
     "id": "334139801948063038",
     "english": "Have Lockheed dash forward without you, spewing fire as he goes.",
-    "russian": "По команде Локхид ринется вперед, изрыгая пламя.",
+    "russian": "По вашей команде Локхид ринется вперед, изрыгая пламя.",
     "similarity": 0.6851868629455566,
     "path": "Powers/Player/KittyPryde/LockheedCharge.prototype",
     "verdict": "MAYBE"
@@ -52554,7 +52554,7 @@
   {
     "id": "18034786101439628607",
     "english": "Swipe your blades at all nearby enemies, knocking them off balance. ",
-    "russian": "Поразить своими клинками ближайших врагов.",
+    "russian": "Поразите своими клинками всех ближайших врагов нанесят урон и заставляя их на время потерять равновесие.",
     "similarity": 0.6887569427490234,
     "path": "Powers/Player/BlackPanther/QuickSlash.prototype",
     "verdict": "MAYBE"
@@ -56562,7 +56562,7 @@
   {
     "id": "5505921802458891642",
     "english": "And THIS little piggy went \"OH GOODNESS I'M BLEEDING VERY BADLY NOW!\"",
-    "russian": "А он весь такой: \"ОЙ МАМОЧКИ, Я ЩА КРОВЬЮ ИСТЕКУ!\"",
+    "russian": "И вот этот маленький поросёночек такой: \"ОЙ МАМОЧКИ, Я ЩА КРОВЬЮ ИСТЕКУ!\"",
     "similarity": 0.699510395526886,
     "path": "Powers/Player/Deadpool/Rework/CaltropsRework.prototype",
     "verdict": "MAYBE"
@@ -56738,7 +56738,7 @@
   {
     "id": "8414857036837487874",
     "english": "Exalted of Bast",
-    "russian": "Величие Баст",
+    "russian": "Благословлённый Баст",
     "similarity": 0.700254,
     "path": "Powers/Player/BlackPanther/Ultimate.prototype",
     "verdict": "OK"
