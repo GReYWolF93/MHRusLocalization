@@ -1,7 +1,7 @@
 {
   "43367921851893059": {
     "eng": "#powerkeyword#Chain#/powerkeyword# Powers apply a stack of #powername#$powername$#/powername# on hit",
-    "rus": "#powerkeyword#Цепь#/powerkeyword# Способности накладывают стек #powername$$powername$#/powername# при попадании"
+    "rus": "#powerkeyword#Цепь#/powerkeyword# Способности накладывают стек #powername#$powername$#/powername# при попадании"
   },
   "143119018331407675": {
     "eng": "The first appearance of HYDRA was in Strange Tales #135 (August 1965).",
@@ -9,11 +9,11 @@
   },
   "150431633937597746": {
     "eng": "Pull a series of powerful fields around you into one, drawing in enemies, dealing damage and protecting you from further harm.",
-    "rus": "Сконцентрировать несколько мощных полей в одно, притягивая к себе врагов. \nЗатем можно оставить каждый уровень в качестве щита, либо реактивировать энергию и сбросить самый наружный уровень сильным взрывом, #emphasis#отбросив назад#/emphasis# врагов."
+    "rus": "Собирает вокруг вас серию мощных полей в одно, притягивая врагов, нанося урон и защищая от дальнейшего вреда."
   },
   "206593841773741361": {
     "eng": "Use the terminals in any player hub to enter #mission#Taskmaster Institute#/mission#. \n\n#mission#Practice equipment#/mission# includes Targets, Practice Dummies, and Obstacle Walls. #mission#Taskmaster#/mission# is located at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#Институт Таскмастера#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Тренировочное снаряжение#/mission# включает в себя цели, тренировочные манекены и заграждения. #mission#Таскмастер#/mission# находится в конце карты."
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть в #mission#Институт Таскмастера#/mission#. \n\n#mission#Тренировочное снаряжение#/mission# включает в себя цели, тренировочные манекены и заграждения. #mission#Таскмастер#/mission# находится в конце карты."
   },
   "256355337166325049": {
     "eng": "Use any waypoint or terminal to travel to #mission#Midtown#/mission or the #mission#S.H.I.E.L.D. Holo-Sim#/mission#. Midtow and the S.H.I.E.L.D. Holo-Sim are found under the #mission#Challenges#/mission# tab. Only members of the Brotherhood of Mutants in these game modes are eligible for this mission.\n\nThe Brotherhood consists of: #mission#Magneto#/mission#, #mission#Juggernaut#/mission#, #mission#Blob#/mission#, #mission#Toad#/mission#, #mission#Pyro#/mission#, and #mission#Sabretooth#/mission#.\n\nAny combination of the above can be defeated to count towards this mission.",
@@ -45,7 +45,7 @@
   },
   "455422217962194181": {
     "eng": "This recipe requires Axis Raid Crafting Mat and 100,000 credits each time you wish to craft this item.",
-    "rus": "Требуется: (1) #emphasis#слиток асгардской работы#/emphasis# и 100 000 кредитов, чтобы создать предмет. \n\nСоздать палицу Надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица Надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Пгогибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#"
+    "rus": "Для создания этого предмета каждый раз требуется материал для крафта из рейда Оси и 100,000 кредитов."
   },
   "466688286546724100": {
     "eng": "#listheader#MARVEL HEROES BASIC COMMANDS#/listheader#\nMove: $PrimaryActionButtonPressed$ on open ground.\nActivate Power: $PrimaryActionButtonPressed$, $SecondaryActionButtonPressed$, $PowerButtonPressed 2$, $PowerButtonPressed 3$, $PowerButtonPressed 4$, $PowerButtonPressed 5$, $PowerButtonPressed 6$, or $PowerButtonPressed 7$.\n(To stand in place while using powers, hold down SHIFT.)\nActivate Ultimate Power: $DedicatedUltimateSlotPressed$ (once unlocked)\nActivate your Travel Power: $TravelPowerButtonPressed$ (can be toggled)\nActivate your Med Kit: $DedicatedHealSlotPressed$\nClose UI Windows: $MarvelGFxHandleEscapePress$ or $MarvelGFxCloseAllPanels$\nView Help Screens: $MarvelGFxHandleEscapePress$, then select Help.\nView Options: $MarvelGFxHandleEscapePress$, then select Options.\nQuit Game: $MarvelGFxHandleEscapePress$, then select Quit.\n\n#listheader#INTERACTIONS AND CHAT COMMANDS#/listheader#\nInteract with NPC: $PrimaryActionButtonPressed$ on NPC.\nInvite Player to Team: CTRL + $PrimaryActionButtonPressed$ on player's avatar; OR type #emphasis#/partyinvite [AvatarName]#/emphasis#.\nLeave Your Team: Type #emphasis#/partyleave#/emphasis#.\n/ignore: Adds a player to your ignore list. Type as #emphasis#/ignore [AvatarName]#/emphasis#.\n/party: Sends message to the #emphasis#team#/emphasis# chat channel, allowing only your teammates to see it.\n/guild: Sends a message to the #emphasis#supergroup#/emphasis# chat channel, allowing only your supergroup members to see it.\n/say: Sends message to the default (#emphasis#local#/emphasis#) chat channel, allowing all nearby players to see it.\n/tell: Sends a private message to another player. Type as #emphasis#/tell [AvatarName] [message]#/emphasis#, replacing the bracketed entries with the appropriate text.\n\n#listheader#INVENTORY, LOOT, AND VENDORS#/listheader#\nView Inventory: I\nReveal Loot on Ground: $RevealInteractiblesToggle$\nSlot Item: $SecondaryActionButtonPressed$ on item in Inventory.\nBuy Item from Vendor: $SecondaryActionButtonPressed$ on item icon in vendor window.\nSell Item to Vendor: $SecondaryActionButtonPressed$ on item icon in Inventory (when vendor window is open).\nAdvance Vendor or Crafter Rank: $RevealInteractiblesToggle$ + $SecondaryActionButtonPressed$ on item icon in Inventory (when vendor window is open).\n\n#listheader#COSTUMES#/listheader#\nFind new costumes for your heroes as loot or by purchasing them from the store (press X to visit the store).\nUpgrade your costumes at any #emphasis#crafter#/emphasis#.\n\n\n#listheader#POWERS#/listheader#\nView Power Trees: $MarvelGFxGameUITogglePanel PowerLibraryPanel$\nAssign Power: Drag power icon from its #emphasis#power tree#/emphasis# into your HUD.\n\n\n#listheader#CHARACTER MANAGEMENT#/listheader#\nView Character Sheet: $MarvelGFxGameUITogglePanel CharacterSheetPanel$\nSlot Item: $SecondaryActionButtonPressed$ on item in Inventory.\nView Hero Roster: $MarvelGFxGameUITogglePanel RosterPanel$\nSwitch Active Hero: In Hero Roster, $PrimaryActionButtonPressed$ on new hero's portrait then $PrimaryActionButtonPressed$ SWITCH.\n\n\nUnlock New Hero: Press $MarvelGFxGameUITogglePanel StorePanel$ to visit the store, or collect #emphasis#eternity splinters#/emphasis# and visit Adam Warlock in any base.\n\n\n#listheader#MISSIONS, MINI-MAP, AND TRAVEL#/listheader#\nOpen Mission Log: $MarvelGFxGameUITogglePanel MissionLogPanel$\nView Mission Objectives: In Mission Log, $PrimaryActionButtonPressed$ on mission in the left pane.\nToggle Map Mode: $ToggleMiniMapMode$ switches between the mini-map in the corner of your screen and a full-screen map mode.\nZoom Out Mini-Map: \"-\" on the mini-map.\nZoom In Mini-Map: \"+\" on the mini-map\nScroll Full-Screen Map: Use arrow keys to scroll up, down, left, or right.\nUse Portal or Waypoint: $PrimaryActionButtonPressed$ on portal or waypoint.\nActivate Bodyslider: Click on the Bodyslider button at the upper right of your screen (it looks like a house). This returns you to the last base you visited. Clicking it again brings you back to where you were when you activated it the first time. \"B\" will also activate your Bodyslider.\n\n\n#listheader#CHARACTER AUDIBLES (KEYED TO NUMBER PAD)#/listheader#\n0: Hello\n1: Attack\n2: Retreat\n3: Help\n4: Challenge\n5: Come Here\n6: Boast\n7: Sarcasm\n8: Thanks\n9: Congratulations\n\n\n#listheader#CHARACTER EMOTES#/listheader#\nType one of the following commands into chat to perform an emote:\n/agree\n/beckon\n/bored\n/bow\n/cheer\n/laugh\n/listen\n/no\n/point\n/pose\n/salute\n/showoff\n/volunteer\n/wait\n/wave\n/yawn\n\n\n#listheader#OTHER COMMANDS#/listheader#\n/exit: Exits the game\n/fps: Toggles display of FPS stats.\n/help: Displays help on a single command or a list of all available commands.\n/ping: Displays network performance stats.\n/unit: Toggles display of detailed FPS stats.\n\n",
@@ -61,7 +61,7 @@
   },
   "486812111059813687": {
     "eng": "+25 Damage for 20 minutes.",
-    "rus": "#power#Увеличенный бонус к наносимому урону#/power#"
+    "rus": "+25 к урону на 20 минут."
   },
   "499537158508971280": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Area Damage Reduction Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+1% Enemy Area Damage Reduction#/emphasis#",
@@ -69,7 +69,7 @@
   },
   "556801455063303522": {
     "eng": "Automatically become #powermechanic#Invisible#/powermechanic# for $condition0.duration$ (unaffected by Power Duration) when you drop below 30% Health (Cooldown: $cooldown$)",
-    "rus": "Автоматически придает невидимость на $condition0.duration$ (независимо от длительности способности), когда ваше здоровье становится ниже 30% (перезарядка - $cooldown$)"
+    "rus": "Автоматически придает #powermechanic#невидимость#/powermechanic# на $condition0.duration$ (независимо от длительности способности), когда ваше здоровье становится ниже 30% (перезарядка - $cooldown$)"
   },
   "656179232934987062": {
     "eng": "$damageTypeOverTime$ Damage: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ per level)#/hidden# twice per second for $duration$ (Does not stack with Damage Over Time effect of #emphasis#$powerReference0.powerName$#/emphasis#)",
@@ -77,7 +77,7 @@
   },
   "677680526416610620": {
     "eng": "+1% chance to bleed for each point in #powerkeyword#Archer#/powerkeyword# Powers",
-    "rus": "+1% к шансу пустить кровь для каждого очка способностей Лучника"
+    "rus": "+1% к шансу пустить кровь для каждого очка способностей #powerkeyword#Лучника#/powerkeyword#"
   },
   "687631029335950649": {
     "eng": "Jean Grey first appeared in X-Men #1 (September 1963), using the codename Marvel Girl.",
@@ -85,7 +85,7 @@
   },
   "731849074798101765": {
     "eng": "$currencyamount:0$ Hero's Commendations",
-    "rus": "Благодарности Героя"
+    "rus": "$currencyamount:0$ Благодарности Героя"
   },
   "775784533015594307": {
     "eng": "Elizabeth Braddock first appeared as Psylocke in Uncanny X-Men #213 (January 1987).",
@@ -93,7 +93,7 @@
   },
   "824120185144214834": {
     "eng": "Use the terminals in any player hub to enter #mission#Castle Doom#/mission#. \n\n#mission#Elite Doombots#/mission# have blue and yellow auras about them. #mission#Doctor Doom#/mission# is located though the door marked #mission#Doctor Doom's Throne Room#/mission# at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#замок Дума#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Элитные думботы#/mission# обладают синей или желтой аурой. #mission#Доктор Дум#/mission# находится в конце карты, за дверью, помеченной #mission#Тронный зал Доктора Дума#/mission#."
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть в #mission#замок Дума#/mission#. \n\n#mission#Элитные думботы#/mission# обладают синей или желтой аурой. #mission#Доктор Дум#/mission# находится в конце карты, за дверью, помеченной #mission#Тронный зал Доктора Дума#/mission#."
   },
   "827788598329214273": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Item Find Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+10% RIF#/emphasis#",
@@ -105,7 +105,7 @@
   },
   "899251811853075787": {
     "eng": "Super Villain Showdown - Gorgon on the Hunt",
-    "rus": "#mission#Горгон на охоте#/mission#"
+    "rus": "Суперзлодейское противостояние - Горгон на охоте"
   },
   "905911411974472968": {
     "eng": "#defaultlarge#Congratulations! You've found a Vibranium Ticket!#/defaultlarge#\n\n#defaultmedium#This ticket is worth up to $5,000 (USD) (subject to eligibility). You must email Customer Service at support@marvelheroes.com within the next 5 days to find out if you're a winner. Use the subject line \"Vibranium Ticket Winner\".#/defaultmedium#\n\nNo purchase necessary to enter or win.  Open to legal residents of the 50 U.S. & D.C., Canada (excl. Quebec), Germany, France, United Kingdom and Australia, who are of legal age of majority in their jurisdiction of residence, and at least 18.  Odds of winning a prize during the Giveaway Period depend on the number of players at time of Vibranium ticket drop.  5 Prizes: US$5,000 each (approximately €4,452.46) (approximately CAD $6,174.93). Legal residents of Canada only: Math skill-test required. Giveaway begins at 12:01 a.m. ET 7/8/15  (6:01 a.m. GMT+2 on 7/8/15)  ends 11:59 p.m. ET 8/31/15 (5:59 a.m. GMT+2 on 9/1/15).  By entering this Giveaway, you agree to the transfer of your personal data to the USA for  the marketing department of the Sponsor in order to centrally manage the Giveaway. The Sponsor relies on the exception of Article 69 of the Computer and Liberties Act dated 6 January 1978 (the contract is entered into between us in your interest).  Void outside area listed and where prohibited.  By emailing Customer Service to determine if you are eligible to claim the prize, you are agreeing to the Official Rules, available at www.marvelheroes.com/content/vibranium-ticket-rules.",
@@ -113,15 +113,15 @@
   },
   "911541010304533782": {
     "eng": "#waypointheader#Terminal Overview#/waypointheader#    #waypointlabel#LOCATION:#/waypointlabel# #waypointlevels#Various#/waypointlevels##waypointlabel#   LEVEL RANGE:#/waypointlabel##waypointlevels#20+#/waypointlevels#\n#waypointtext#Use terminals to warp to a pocket reality created by the Cosmic Cube. \nDefeat the supervillian inside to earn a cosmic Cube Shard once per day for each villian. \nFind Clea in any hub location to Exchange Cube Shards for a variety of items.#/waypointtext#",
-    "rus": "#waypointheader#Описание зеленого терминала#/waypointheader# #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Все типы#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel# #waypointlevels#20+#/waypointlevels#\n#waypointtext#Используйте терминалы для перехода в параллельный мир, созданный Космическим Кубом. \nПобедите суперзлодея и получите осколок Космического Куба. С каждым из злодеев вы можете сразиться один раз в день. \nНавещайте Клеа в любом из штабов и меняйте осколки Куба на самые разные предметы.#/waypointtext#\n#waypointlabel#Сложность:#/waypointlabel##waypointtext# в зеленых терминалах вас ждут стандартные испытания и трофеи.#/waypointtext#"
+    "rus": "#waypointheader#Описание терминала#/waypointheader# #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Все типы#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel# #waypointlevels#20+#/waypointlevels#\n#waypointtext#Используйте терминалы для перехода в параллельный мир, созданный Космическим Кубом. \nПобедите суперзлодея и получите осколок Космического Куба. С каждым из злодеев вы можете сразиться один раз в день. \nНавещайте Клеа в любом из штабов и меняйте осколки Куба на самые разные предметы.#/waypointtext#"
   },
   "912188708667786611": {
     "eng": "You gain #darkphoenix#Phoenix Force#/darkphoenix# when hitting with any power.\nOnce you have full #darkphoenix#Phoenix Force#/darkphoenix#, you may become Dark Phoenix!",
-    "rus": "Вы получаете #darkphoenix#Силу Феникса#/darkphoenix# при ударом любой способностью.\nКогда Сила Феникса заполнена, вы можете стать Тёмным Фениксом!"
+    "rus": "Вы получаете #darkphoenix#Силу Феникса#/darkphoenix# при ударом любой способностью.\nКогда #darkphoenix#Сила Феникса#/darkphoenix# заполнена, вы можете стать Тёмным Фениксом!"
   },
   "915786104554521970": {
     "eng": "#focus#Focus#/focus# builds over time. Some powers cost focus instead of Spirit.",
-    "rus": "Фокус растет с течением времени. Использование некоторых способностей требует затрат не духа, а сосредоточенности."
+    "rus": "#focus#Фокус#/focus# растет с течением времени. Использование некоторых способностей требует затрат не духа, а сосредоточенности."
   },
   "925326584120739175": {
     "eng": "#emphasis#Real Name:#/emphasis# Mar-Vell\n#emphasis#Identity:#/emphasis# Public\n\nA captain in the Kree militia, Mar-Vell rebelled against a racist tyrannical empire to defend Earth and in so doing became the \"Protector of the Universe\" known as Captain Marvel. Mar-Vell spent much of his time on Earth, befriending the Avengers and Carol Danvers who would one day become Ms. Marvel (and eventually Captain Marvel!)\n\n#emphasis#Created By:#/emphasis# Stan Lee and Gene Colan\n#emphasis#First Appearance:#/emphasis# Marvel Super-Heroes #12 (March 1967)",
@@ -137,7 +137,7 @@
   },
   "963896180597851403": {
     "eng": "Restore $EnduranceChangeBase$ $primarymanabehaviorname$ when you Dodge an attack, Critically Hit with a #powerkeyword#Melee#/powerkeyword# Power, or Brutally Strike with a #powerkeyword#Melee#/powerkeyword# Power",
-    "rus": "Восстановление $EnduranceChangeBase$ ед. $primarymanabehaviorname.locflagG$ при уклонении от атаки, нанесении критического или сокруш. удара способностью ближнего боя"
+    "rus": "Восстановление $EnduranceChangeBase$ ед. $primarymanabehaviorname.locflagG$ при уклонении от атаки, нанесении критического или сокруш. удара способностью #powerkeyword#ближнего боя#/powerkeyword#"
   },
   "975509132273648957": {
     "eng": "Carol Danvers first appeared in Marvel Super-Heroes #13 (March 1968), but she didn't become Ms. Marvel for almost a decade.",
@@ -145,7 +145,7 @@
   },
   "1012654169767871766": {
     "eng": "+$damagepctbonus.pct$% when you use a stolen #teambuff#Impact#/teambuff# power",
-    "rus": "Рейтинг урона: +$damagerating$#hidden# ($damagerating.divbylevel$ за каждый уровень)#/hidden# в течение $duration$ (независимо от длительности способности), когда вы используете украденную способность #teambuff#поддержки#/teambuff#"
+    "rus": "+$damagepctbonus.pct$% при использовании украденного #teambuff#ударного#/teambuff# умения"
   },
   "1021414971100955974": {
     "eng": "Spider-Man first appeared in Amazing Fantasy #15 (August 1962).",
@@ -157,7 +157,7 @@
   },
   "1075236988753216879": {
     "eng": "Use this item to activate the Delicious Pizza.\n#emphasis#[24 hour cooldown]#/emphasis#\nWhen activated, gain a #purplecard#+2 Fighting buff#/purplecard# and a #redcard#-1 Speed debuff#/redcard# for 1 hour.",
-    "rus": "ПКМ - съесть крендель.\nСъев, получаете #purplecard#+10 к урону и +100 ед. здоровья#/purplecard# на 1 час. Каждый новый съеденный крендель удлиняет срок действия."
+    "rus": "Используйте этот предмет, чтобы активировать Вкусную пиццу.\n#emphasis#[Перезарядка 24 часа]#/emphasis#\nПри активации вы получаете #purplecard#бафф +2 к Сражению#/purplecard# и #redcard#дебафф -1 к Скорости#/redcard# на 1 час."
   },
   "1119484690967561539": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Attack Speed Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+2% Attack Speed#/emphasis#",
@@ -165,11 +165,11 @@
   },
   "1220665929968977229": {
     "eng": "Using a #powerkeyword#Finisher#/powerkeyword# will automatically apply a stack of #powername#$PowerName$#/powername#'s #powername#$onpowerstartpower.PowerName$#/powername# effect, even if not at maximum $secondarymanabehaviorname$, or if no #powername#$onpowerstartpower.PowerName$#/powername# stacks are present",
-    "rus": "Использование #powerkeyword#Финишера#/powerkeyword# автоматически применит стек #powername$$PowerName$#/powername# эффекта #powername$$onpowerstartpower.PowerName$#/powername#, даже если не достигнуто максимальное $secondarymanabehaviorname$, или если нет стеков #powername$$onpowerstartpower.PowerName$#/powername#."
+    "rus": "Использование #powerkeyword#Добивания#/powerkeyword# автоматически применит стек #powername#$PowerName$#/powername# эффекта #powername$$onpowerstartpower.PowerName$#/powername#, даже если не достигнуто максимальное $secondarymanabehaviorname$, или если нет стеков #powername$$onpowerstartpower.PowerName$#/powername#."
   },
   "1253753688056464756": {
     "eng": "#emphasis#Press $MarvelGFxGameUITogglePanel RosterPanel$#/emphasis# to switch to any of your available heroes.\n\nWhen you are ready, speak with the Quinjet pilot.",
-    "rus": "Нажмите $MarvelGFxGameUITogglePanel RosterPanel$, чтобы переключиться на Капитана Америку или Черную Вдову.\n\nЧтобы продолжить в роли Халка, щелкните на портале."
+    "rus": "#emphasis#Нажмите $MarvelGFxGameUITogglePanel RosterPanel$#/emphasis#, чтобы переключиться на любого из доступных героев.\n\nКогда будете готовы, поговорите с пилотом Квинджета."
   },
   "1278979182027015531": {
     "eng": "Squirrel Girl first appeared in Marvel Super-Heroes #8 (December 1991), where she defeated Doctor Doom. \nNo, really!",
@@ -177,7 +177,7 @@
   },
   "1311379036556100913": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.nofraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ per level)#/hidden# to #powerkeyword#Melee#/powerkeyword# powers for $duration$",
-    "rus": "Энергетический урон: +0% на 0 сек. при попадании ментальной способностью #red#(эффект не работает, пока действует $powerName$)#/red#"
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.nofraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за уровень)#/hidden# для #powerkeyword#ближних#/powerkeyword# атак на $duration$"
   },
   "1342980808924202296": {
     "eng": "Now with a .057-second improvement in deployment speed.\n—Stark Industries Lab Report #W-15",
@@ -193,15 +193,15 @@
   },
   "1387553760484853054": {
     "eng": "Spawn Power-Ups, which will grant unique Buff effects",
-    "rus": "#emphasis#Эффекты усиления:#/emphasis#"
+    "rus": "Создаёт усиления, которые дают уникальные эффекты баффов"
   },
   "1480524765765109057": {
     "eng": "+$damageMultVsKeywordForPowerKwd.pct$% vs #powername#$damageMultVsKeywordForPowerKwd.param0.keyword$#/powername#",
-    "rus": "$damageMultVsKeywordForPowerKwd.pct$% против #powername#$damageMultVsKeywordForPowerKwd.param0.keyword$#/powername#$"
+    "rus": "+$damageMultVsKeywordForPowerKwd.pct$% против #powername#$damageMultVsKeywordForPowerKwd.param0.keyword$#/powername#"
   },
   "1522632058190628150": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ per level) #/hidden#to #powerkeyword#Ranged#/powerkeyword# Powers",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за каждый уровень)#/hidden# для способностей дальнего боя"
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за каждый уровень)#/hidden# для способностей #powerkeyword#дальнего боя#/powerkeyword#"
   },
   "1539559525032396087": {
     "eng": "$procChanceString$ chance when you hit to lose $param1.power.evalRegisterFloat0$% of your maximum $primaryManaBehaviorName$ and go maniacally insane for $param1.power.condition0.duration$, gaining +$param1.power.evalRegisterFloat0$% attack speed, +$param1.power.evalRegisterFloat0$% Brutal Strike Chance, +$param1.power.evalRegisterFloat0$% Brutal Damage, +$param1.power.evalRegisterFloat0$ Strength, and -$param1.power.evalRegisterFloat0$% Dodge Chance ($param1.power.cooldown$ cooldown)",
@@ -253,11 +253,11 @@
   },
   "1939185186585838905": {
     "eng": "#powerkeyword#Starship#/powerkeyword# Powers make enemies #powermechanic#Vulnerable#/powermechanic#, causing them to take +10% more damage for 8s",
-    "rus": "Звездолетные способности делают противников уязвимыми, заставляя их получать на 10% больше урона в течение 8 с"
+    "rus": "#powerkeyword#Звездолетные#/powerkeyword# способности делают противников #powermechanic#уязвимыми#/powermechanic#, заставляя их получать на 10% больше урона в течение 8 с"
   },
   "2006727687661028661": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Frozen#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против замороженных врагов"
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#замороженных#/powermechanic# врагов"
   },
   "2008310116831528256": {
     "eng": "Juggernaut channels the unending wrath of Cyttorak through his fists and slams them into the ground, causing a massively destructive shockwave.",
@@ -265,7 +265,7 @@
   },
   "2066331371131962628": {
     "eng": "#emphasis#While standing in #powername#$powername$#/powername##emphasis#'s area of effect:#/emphasis#",
-    "rus": "#emphasis#Находясь в области действия #powername$$powername$#/powername##emphasis#:"
+    "rus": "#emphasis#Находясь в области действия#emphasis# #powername#$powername$#/powername#:"
   },
   "2091927529448801602": {
     "eng": "Use any waypoint or terminal to travel to #mission#Industry City#/mission#. Industry City Patrol is found under the M.A.P. #mission#Challenges#/mission# tab.\n\n#mission#Elite#/mission# enemies are identifiable by blue and yellow auras. #mission#Bosses#/mission# are can be found both in and out of events throughout Industry City.\n\nAll objectives must be completed in #mission#Industry City Patrol#/mission# to receive credit.",
