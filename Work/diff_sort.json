@@ -8450,7 +8450,7 @@
   {
     "id": "17197456135161185601",
     "english": "Restores $primarymanabehaviorname$ to full, and loads your next clip with Elemental #yellow#Earth#/yellow# Ammo, granting #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, and #powername#$powerreference2.powername$#/powername# bonus critical damage",
-    "russian": "Полностью восстанавливает $primarymanabehaviorname$ и заряжает следующий магазин Элементальными #yellow#Земляными#/yellow# патронами, предоставляя бонусный критический урон от #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername#.",
+    "russian": "Полностью восстанавливает $primarymanabehaviorname$ и заряжает следующий магазин Элементальным #yellow#Земляным#/yellow# боезапасом, предоставляя бонусный критический урон от #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername#.",
     "similarity": 0.4210311770439148,
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/RefreshAmmoEarth.prototype",
     "verdict": "BAD"
@@ -10194,7 +10194,7 @@
   {
     "id": "12917997399133717829",
     "english": "Restores $primarymanabehaviorname$ to full, and loads your next clip with Elemental #red#Fire#/red# Ammo, granting #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, and #powername#$powerreference2.powername$#/powername# an #powerkeyword#Area#/powerkeyword# damage effect",
-    "russian": "Полностью восстанавливает $primarymanabehaviorname$ и заряжает следующий магазин элементальным #red#огнём#/red# снарядов, нанося #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername# #powerkeyword#областьной#/powerkeyword# урон",
+    "russian": "Полностью восстанавливает $primarymanabehaviorname$ и заряжает следующий магазин Элементальным #red#Огненным#/red# боезапасом, предоставляя #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername# #powerkeyword#областной#/powerkeyword# урон",
     "similarity": 0.4467522203922272,
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/RefreshAmmoFire.prototype",
     "verdict": "MAYBE"
@@ -11082,7 +11082,7 @@
   {
     "id": "7007545212065482054",
     "english": "Sharok the Vile",
-    "russian": "Шарок Отвратительный",
+    "russian": "Шарок Гнусный",
     "similarity": 0.4606587290763855,
     "path": "Entity/Characters/Mobs/SerpentMen/Chapter/SerpentMenChapter10/SerpentManSorcererNamedSpawnV03CH10.prototype",
     "verdict": "MAYBE"
@@ -11434,7 +11434,7 @@
   {
     "id": "6307211392363726097",
     "english": "Head to Axis One-Shot",
-    "russian": "Отправлятесь в ваншот «Ось»",
+    "russian": "Отправляйтесь в ваншот «Ось»",
     "similarity": 0.46581029891967773,
     "path": "Missions/Prototypes/InfluenceMissions/GLF/GenoshaDaily02RedSkull.prototype",
     "verdict": "MAYBE"
@@ -21010,7 +21010,7 @@
   {
     "id": "3511139926919152904",
     "english": "Watch for Reavers while I loot these bodies.",
-    "russian": "Я обчищу трупы, а ты смотри, не идут ли Разбойники.",
+    "russian": "Я обчищу трупы, а ты смотри, не идут ли Расхитители.",
     "similarity": 0.5636099576950073,
     "path": "Missions/Prototypes/Act2/Ch05MutantTown/Discoveries/MutantScavengePurifier.prototype",
     "verdict": "MAYBE"
@@ -28970,7 +28970,7 @@
   {
     "id": "12078872849424975118",
     "english": "Defeat Purifiers and Reavers",
-    "russian": "Победить Очистителей",
+    "russian": "Победить Очистителей и Расхитителей",
     "similarity": 0.6071958541870117,
     "path": "Missions/Prototypes/LegendaryQuests/LQStory/LegendaryCH05PurifierBase1.prototype",
     "verdict": "OK"
