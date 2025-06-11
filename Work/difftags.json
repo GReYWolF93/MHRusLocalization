@@ -46,7 +46,7 @@
   },
   "416905831722648839": {
     "eng": "#emphasis#By choosing this talent, $displayname$ grants additional power to you while he is away from combat.#/emphasis#",
-    "rus": "#emphasis#При выборе этого таланта $displayname$ дает вам бонусы, когда сам не участвует в бою.#/",
+    "rus": "#emphasis#При выборе этого таланта $displayname$ дает вам бонусы, когда сам не участвует в бою.#/emphasis#",
     "path": "Powers/Player/Thing/Rework/WeaponsBuffProc.prototype"
   },
   "443648802124006703": {
@@ -66,7 +66,7 @@
   },
   "471851498736584007": {
     "eng": "#powerkeyword#Trick Arrow#/powerkeyword# Powers generate #powername#Trick Arrowheads#/powername# when activated, which cause your next #powername#$powerreference0.powername$#/powername# or #powername#$powerreference1.powername$#/powername# to trigger a free copy of the #powerkeyword#Trick Arrow#/powerkeyword#",
-    "rus": "#powerkeyword#Трюковая стрела#/powerkeyword# Способности генерируют #powername#Стрелы с трюками#/powername# при активации, которые заставляют вашу следующую #powername$$powerreference0.powername$#/powername# или #powername$$powerreference1.powername$#/powername# вызвать бесплатную копию #powerkeyword#Трюковой стрелы#/powerkeyword#",
+    "rus": "#powerkeyword#Трюковая стрела#/powerkeyword# Способности генерируют #powername#Стрелы с трюками#/powername# при активации, которые заставляют вашу следующую #powername#$powerreference0.powername$#/powername# или #powername#$powerreference1.powername$#/powername# вызвать бесплатную копию #powerkeyword#Трюковой стрелы#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/Hawkeye/HawkeyeTrickArrowGainCharge.prototype"
   },
   "484896242185471350": {
@@ -81,7 +81,7 @@
   },
   "499537158508971280": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Area Damage Reduction Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+1% Enemy Area Damage Reduction#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Снижение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#++1% к снижению урона на вражеской территории/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Снижение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#++1% к снижению урона на вражеской территории#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe026.prototype"
   },
   "556801455063303522": {
@@ -161,7 +161,7 @@
   },
   "957759020275270964": {
     "eng": "Use the Chapter 7 waypoint to travel to #mission#Dinosaur Jungle#/mission# in #mission#Savage Lands#/mission#. \n\nAll objectives must be completed in #mission#Dinosaur Jungle#/mission#.",
-    "rus": "Используйте точку маршрута из главы 7, чтобы попасть в #mission#Джунгли динозавров#/mission# в #mission#Дикой Земле#/mission#. \n\nВсе задания должны быть выполнены в #mission#Джунглях динозавров#.",
+    "rus": "Используйте точку маршрута из главы 7, чтобы попасть в #mission#Джунгли динозавров#/mission# в #mission#Дикой Земле#/mission#. \n\nВсе задания должны быть выполнены в #mission#Джунглях динозавров#/mission#.",
     "path": "Missions/Prototypes/LegendaryQuests/LQStory/LegendaryCH07DinosaurJungle1.prototype"
   },
   "962096232826275094": {
@@ -191,7 +191,7 @@
   },
   "1072880516173464847": {
     "eng": "You have done well in driving malevolent interlopers from our world, $AvatarName$.\n\nReturn to me in #mission#Avengers Tower#/mission# for your Ultimate Upgrade Token.",
-    "rus": "У тебя прекрасно получается изгонять чужаков из нашего мира, $AvatarName$.\n\nВозвращайся ко мне в #mission#Башню Мстителей#, чтобы получить жетон абсолютного улучшения.",
+    "rus": "У тебя прекрасно получается изгонять чужаков из нашего мира, $AvatarName$.\n\nВозвращайся ко мне в #mission#Башню Мстителей#/mission#, чтобы получить жетон абсолютного улучшения.",
     "path": "Missions/Prototypes/BonusMissions/WeeklyEventMissions/ARMORUltimateUpgradeMission.prototype"
   },
   "1075236988753216879": {
@@ -201,12 +201,12 @@
   },
   "1119484690967561539": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Attack Speed Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+2% Attack Speed#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение скорости атаки АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+2% к скорости атаки/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение скорости атаки АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+2% к скорости атаки#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe034.prototype"
   },
   "1220665929968977229": {
     "eng": "Using a #powerkeyword#Finisher#/powerkeyword# will automatically apply a stack of #powername#$PowerName$#/powername#'s #powername#$onpowerstartpower.PowerName$#/powername# effect, even if not at maximum $secondarymanabehaviorname$, or if no #powername#$onpowerstartpower.PowerName$#/powername# stacks are present",
-    "rus": "Использование #powerkeyword#Добивания#/powerkeyword# автоматически применит стек #powername#$PowerName$#/powername# эффекта #powername$$onpowerstartpower.PowerName$#/powername#, даже если не достигнуто максимальное $secondarymanabehaviorname$, или если нет стеков #powername$$onpowerstartpower.PowerName$#/powername#.",
+    "rus": "Использование #powerkeyword#Добивания#/powerkeyword# автоматически применит стек #powername#$PowerName$#/powername# эффекта #powername#$onpowerstartpower.PowerName$#/powername#, даже если не достигнуто максимальное $secondarymanabehaviorname$, или если нет стеков #powername#$onpowerstartpower.PowerName$#/powername#.",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/LawyerUpAsPassive.prototype"
   },
   "1253753688056464756": {
@@ -295,8 +295,8 @@
     "path": "Leaderboards/Prototypes/Leaderboards/Progression/AvatarPrestige2Blue.prototype"
   },
   "1862973461530740032": {
-    "eng": "#powerkeyword#Stance Opener#/powerkeyword# Powers also trigger a #powername#$PowerName$#powername#",
-    "rus": "#powerkeyword#Открытие стойки#/powerkeyword# Способности также активируют #powername$$PowerName$#powername#",
+    "eng": "#powerkeyword#Stance Opener#/powerkeyword# Powers also trigger a #powername#$PowerName$#/powername#",
+    "rus": "#powerkeyword#Открытие стойки#/powerkeyword# Способности также активируют #powername#$PowerName$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/OpenerPowerChiBurstTalent.prototype"
   },
   "1865171677273589005": {
@@ -331,7 +331,7 @@
   },
   "2066331371131962628": {
     "eng": "#emphasis#While standing in #powername#$powername$#/powername##emphasis#'s area of effect:#/emphasis#",
-    "rus": "#emphasis#Находясь в области действия#emphasis# #powername#$powername$#/powername#:",
+    "rus": "#emphasis#Находясь в области действия#/emphasis# #powername#$powername$#/powername#:",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CategoryWhileStandingInPowerNameArea.prototype"
   },
   "2091927529448801602": {
@@ -356,7 +356,7 @@
   },
   "2274968104913012034": {
     "eng": "Cooldown is reduced by $evalregisterfloat0$s when you spend a Combo Point",
-    "rus": "Время перезарядки уменьшается на 0,5 с, если вы тратите очко комбо",
+    "rus": "Время перезарядки уменьшается на $evalregisterfloat0$ с, если вы тратите очко комбо",
     "path": "Localization/Translations/Powers/TooltipStrings/Daredevil/ShadowStrikeCDR.prototype"
   },
   "2283123942853707061": {
@@ -391,17 +391,17 @@
   },
   "2685787439079556419": {
     "eng": "Your #powerkeyword#Bullet#/powerkeyword# Powers cause enemies to #powername#$procEffect.powername$#/powername#",
-    "rus": "Ваши #powerkeyword#Пули#/powerkeyword# вызывают у врагов #powername$$procEffect.powername$#/powername#",
+    "rus": "Ваши #powerkeyword#Пули#/powerkeyword# вызывают у врагов #powername#$procEffect.powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/PunisherHollowPointRounds.prototype"
   },
   "2705200880234661183": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Spirit Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+30 Spirit#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение духа АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+30 к духу/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение духа АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+30 к духу#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe028.prototype"
   },
   "2786769172485113101": {
     "eng": "+$damageMultForPower.pct$% after detonating a #powermechanic#Pulsar#/powermechanic# with a Power (stacks up to 3 times)",
-    "rus": "Урон: +$DamageMultForPower.pct$% в течение $duration$ после детонации пульсара способностью (накапливается до 3 раз)",
+    "rus": "Урон: +$DamageMultForPower.pct$% в течение $duration$ после детонации #powermechanic#пульсара#/powermechanic# способностью (накапливается до 3 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/HeavyBlastBonus.prototype"
   },
   "2798023013411063143": {
@@ -436,12 +436,12 @@
   },
   "2864844024297227537": {
     "eng": "Hitting with a #powerkeyword#Serum#/powerkeyword# power reduces the cooldown of #emphasis#$powerReference0.powername$#/emphasis# by $eventParam.abs$s",
-    "rus": "Удар с помощью #powerkeyword#Серум#/powerkeyword# уменьшает время перезарядки #emphasis$$powerReference0.powername$#/emphasis# на $eventParam.abs$s",
+    "rus": "Удар с помощью #powerkeyword#Серум#/powerkeyword# уменьшает время перезарядки #emphasis#$powerReference0.powername$#/emphasis# на $eventParam.abs$",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CapShieldBlockCooldownReduction.prototype"
   },
   "2889233846488204558": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Area Damage Reduction Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+1% Enemy Area Damage Reduction#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Снижение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#++1% к снижению урона на вражеской территории/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Снижение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#++1% к снижению урона на вражеской территории#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe026.prototype"
   },
   "2897971317555201337": {
@@ -481,12 +481,12 @@
   },
   "3258745087210292547": {
     "eng": "While #green#Very Angry#/green#, #powername#$powerreference0.PowerName$#/powername#'s cooldown is reduced by $evalregisterfloat0.pct$%",
-    "rus": "Пока #green#Очень сердитый#/green#, #powername$$powerreference0.PowerName$#/powername# имеет сокращенное время перезарядки на $evalregisterfloat0.pct$%",
+    "rus": "Пока #green#Очень сердитый#/green#, #powername#$powerreference0.PowerName$#/powername# имеет сокращенное время перезарядки на $evalregisterfloat0.pct$%",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/HulkTantrumVeryAngryTalent.prototype"
   },
   "3270547124758906175": {
     "eng": "#powerkeyword#Sorcery#/powerkeyword# Powers apply #powername#$powername$#/powername#",
-    "rus": "#powerkeyword#Колдовство#/powerkeyword# Способности применяются #powername$$powername$#/powername#",
+    "rus": "#powerkeyword#Колдовство#/powerkeyword# Способности применяются #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/SorceryPowersApplyPowerName.prototype"
   },
   "3294910077690840422": {
@@ -496,7 +496,7 @@
   },
   "3298757535107188028": {
     "eng": "#red#This talent cannot be enabled while #powername#$powername$#/powername# is enabled#/red#",
-    "rus": "#red#Этот талант не может быть активирован, пока #powername$$powername$#/powername# активен#/red#",
+    "rus": "#red#Этот талант не может быть активирован, пока #powername#$powername$#/powername# активен#/red#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/TalentCannotBeActivatedBecausePowerName.prototype"
   },
   "3307845535584814399": {
@@ -591,7 +591,7 @@
   },
   "3892061237889271102": {
     "eng": "#powerkeyword#Stance Combo#/powerkeyword# Powers grant a stack of #powername#$powername$#/powername# when used in an associated #powermechanic#Stance#/powermechanic# (stacking up to 5 times)",
-    "rus": "#powerkeyword#Комбо стойки#/powerkeyword# Способности дают стек #powername$$powername$#/powername# при использовании в связанной #powermechanic#Стойке#/powermechanic# (максимум до 5 раз)",
+    "rus": "#powerkeyword#Комбо стойки#/powerkeyword# Способности дают стек #powername#$powername$#/powername# при использовании в связанной #powermechanic#Стойке#/powermechanic# (максимум до 5 раз)",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/FlowTalent.prototype"
   },
   "3893538934210102536": {
@@ -611,7 +611,7 @@
   },
   "4035062461778822469": {
     "eng": "#powermechanic#Astral Projection#/powermechanic# will mirror your casts of #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# and #powername#$powerreference2.powername$#/powername#",
-    "rus": "#powermechanic#Астральная Проекция#/powermechanic# будет зеркалить ваши заклинания #powername$$powerreference0.powername$#/powername#, #powername$$powerreference1.powername$#/powername# и #powername$$powerreference2.powername$#/powername#",
+    "rus": "#powermechanic#Астральная Проекция#/powermechanic# будет зеркалить ваши заклинания #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/AstralProjectionTwincast.prototype"
   },
   "4072281836620416331": {
@@ -711,7 +711,7 @@
   },
   "4511958025261024590": {
     "eng": "#powerkeyword#Sword#/powerkeyword# Powers apply #powername#$powername$#/powername#",
-    "rus": "#powerkeyword#Меч#/powerkeyword# Силы применяются #powername$$powername$#/powername#",
+    "rus": "#powerkeyword#Меч#/powerkeyword# Силы применяются #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/SwordPowersApplyPowerName.prototype"
   },
   "4697106832732128641": {
@@ -726,7 +726,7 @@
   },
   "4736595346090886462": {
     "eng": "#powerkeyword#Stance Combo#/powerkeyword# Powers also trigger a #powername#$PowerName$#/powername# when in their respective stances",
-    "rus": "#powerkeyword#Комбо позы#/powerkeyword# Способности также активируют #powername$$PowerName$#/powername# при нахождении в соответствующих позах",
+    "rus": "#powerkeyword#Комбо позы#/powerkeyword# Способности также активируют #powername#$PowerName$#/powername# при нахождении в соответствующих позах",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/ComboPowerChiBurstTalent.prototype"
   },
   "4747031223203595528": {
@@ -766,7 +766,7 @@
   },
   "4926306869056111940": {
     "eng": "When you defeat a #mark#Marked#/mark# enemy, the cooldowns of all powers except #powername#$PowerName$#/powername# are refreshed",
-    "rus": "Когда вы побеждаете #mark#Помеченного#/mark# врага, время перезарядки всех способностей, кроме #powername$$PowerName$#/powername#, сбрасывается",
+    "rus": "Когда вы побеждаете #mark#Помеченного#/mark# врага, время перезарядки всех способностей, кроме #powername#$PowerName$#/powername#, сбрасывается",
     "path": "Localization/Translations/Powers/TooltipStrings/Elektra/ElektraCooldownResetOnMarkedKill.prototype"
   },
   "4934053761641678102": {
@@ -831,7 +831,7 @@
   },
   "5430750473025357117": {
     "eng": "#emphasis#While standing in #powername#$PowerName$#/powername#:#/emphasis#",
-    "rus": "#emphasis#Находясь в #powername$$PowerName$#/powername#:#/emphasis#",
+    "rus": "#emphasis#Находясь в #powername#$PowerName$#/powername#:#/emphasis#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CategoryWhenStandingInPowerName.prototype"
   },
   "5456877167103706426": {
@@ -891,7 +891,7 @@
   },
   "5706373470896194878": {
     "eng": "While #heat#Overheated#/heat#, #powername#$powerreference0.powername$#/powername# clears all #heat#Heat#/heat# and deals $damagemultforpower.pct$% more damage",
-    "rus": "Пока #heat#Перегрев#/heat#, #powername$$powerreference0.powername$#/powername# очищает весь #heat#Жар#/heat# и наносит $damagemultforpower.pct$% больше урона",
+    "rus": "Пока #heat#Перегрев#/heat#, #powername#$powerreference0.powername$#/powername# очищает весь #heat#Жар#/heat# и наносит $damagemultforpower.pct$% больше урона",
     "path": "Localization/Translations/Powers/TooltipStrings/IronMan/FreonRayDamageWhenOverheated.prototype"
   },
   "5710652538219005244": {
@@ -1121,12 +1121,12 @@
   },
   "6915498389257323838": {
     "eng": "Enhance your Katana with Psychic energy, causing any powers that use it to now deal #powermechanic#Mental#/powermechanic# damage and apply #powername#$powername$#/powername#",
-    "rus": "Усилите свою Катану психической энергией, что заставит любые способности, использующие её, наносить #powermechanic#Ментальный#/powermechanic# урон и применять #powername$$powername$#/powername#",
+    "rus": "Усилите свою Катану психической энергией, что заставит любые способности, использующие её, наносить #powermechanic#Ментальный#/powermechanic# урон и применять #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/PsylockePsiKatanaTalent.prototype"
   },
   "6955645772144051512": {
     "eng": "#red#This power cannot be used because #powername#$PowerName$#/powername# is active",
-    "rus": "#red#Эта способность не может быть использована, потому что #powername$$PowerName$#/powername# активна",
+    "rus": "#red#Эта способность не может быть использована, потому что #powername#$PowerName$#/powername# активна",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/ThisPowerCannotBeUsedBecausePowerName.prototype"
   },
   "6960978884576871738": {
@@ -1171,7 +1171,7 @@
   },
   "7151955228161869112": {
     "eng": "Effects that increase damage of #powerkeyword#Summon#/powerkeyword# Powers now apply to #powername#$powername$#/powername#",
-    "rus": "Эффекты, которые увеличивают урон от #powerkeyword#Призыв#/powerkeyword# способностей, теперь применяются к #powername$$powername$#/powername#",
+    "rus": "Эффекты, которые увеличивают урон от #powerkeyword#Призыв#/powerkeyword# способностей, теперь применяются к #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/PowerNameIsConsideredASummonPower.prototype"
   },
   "7188629442804974907": {
@@ -1256,7 +1256,7 @@
   },
   "7643517735602423113": {
     "eng": "#powermechanic#Astral Projections#/powermechanic# will mirror your casts of #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, #powername#$powerreference2.powername$#/powername#, #powername#$powerreference3.powername$#/powername#, #powername#$powerreference4.powername$#/powername#, and #powername#$powerreference5.powername$#/powername#",
-    "rus": "#powermechanic#Астральные Проекции#/powermechanic# будут отражать ваши заклинания #powername$$powerreference0.powername$#/powername#, #powername$$powerreference1.powername$#/powername#, #powername$$powerreference2.powername$#/powername#, #powername$$powerreference3.powername$#/powername#, #powername$$powerreference4.powername$#/powername#, и #powername$$powerreference5.powername$#/powername#",
+    "rus": "#powermechanic#Астральные Проекции#/powermechanic# будут отражать ваши заклинания #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, #powername#$powerreference2.powername$#/powername#, #powername#$powerreference3.powername$#/powername#, #powername#$powerreference4.powername$#/powername#, и #powername#$powerreference5.powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/AstralProjectionTwincastMorePowers.prototype"
   },
   "7665347619771319552": {
@@ -1276,7 +1276,7 @@
   },
   "7792701912787649852": {
     "eng": "When you hit a #powermechanic#Bleeding#/powermechanic# enemy, gain a stack of #powername#$powername$#/powername# ($cooldown$ Cooldown)",
-    "rus": "Когда вы ударяете врага с #powermechanic#Кровотечением#/powermechanic#, получаете один заряд #powername$$powername$#/powername# (перезарядка $cooldown$)",
+    "rus": "Когда вы ударяете врага с #powermechanic#Кровотечением#/powermechanic#, получаете один заряд #powername#$powername$#/powername# (перезарядка $cooldown$)",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/OnHitBleedingGainStackOfPowerName.prototype"
   },
   "7812882160291808628": {
@@ -1526,7 +1526,7 @@
   },
   "9183313182447699215": {
     "eng": "Dealing damage with any #powerkeyword#Ribbon#/powerkeyword# Power will apply the #powermechanic#Bleed#/powermechanic# effect of #powername#$powername$#/powername#",
-    "rus": "Нанесение урона с помощью любой #powerkeyword#Ленты#/powerkeyword# способности применит эффект #powermechanic#Кровотечение#/powermechanic# от #powername$$powername$#/powername#",
+    "rus": "Нанесение урона с помощью любой #powerkeyword#Ленты#/powerkeyword# способности применит эффект #powermechanic#Кровотечение#/powermechanic# от #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/AngelaRibbonBleedTalent.prototype"
   },
   "9201636092874458481": {
@@ -1546,7 +1546,7 @@
   },
   "9311220620001346880": {
     "eng": "Jessica leaves enemies #powermechanic#bleeding#/powermechanic# after the tremendous pummeling of an #powername#$powerReference1.powerName$#/powername#.",
-    "rus": "Джессика оставляет врагов #powermechanic#кровоточащими#/powermechanic# после огромного избиения от #powername$$powerReference1.powerName$#/powername#.",
+    "rus": "Джессика оставляет врагов #powermechanic#кровоточащими#/powermechanic# после огромного избиения от #powername#$powerReference1.powerName$#/powername#.",
     "path": "Powers/TeamUps/JessicaJones/PummelBleedTrigger.prototype"
   },
   "9317343937632929034": {
@@ -1716,7 +1716,7 @@
   },
   "10159969263593784599": {
     "eng": "#emphasis#When you use #powername#$PowerName$#/powername#:#/emphasis#",
-    "rus": "#emphasis#Когда вы используете #powername$$PowerName$#/powername#:#/emphasis#",
+    "rus": "#emphasis#Когда вы используете #powername#$PowerName$#/powername#:#/emphasis#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CategoryWhenYouUsePowerName.prototype"
   },
   "10266847441741415737": {
@@ -1746,7 +1746,7 @@
   },
   "10442925188083090790": {
     "eng": "#powermechanic#Grievous Wounds#/powermechanic#: #powername#$powerReference3.powerName$#/powername# deals an additional $powerreference4.condition0.DamageRangeOverTime$ Physical damage twice per second for $powerreference4.condition0.duration$ (stacks up to 3 times with other #powermechanic#Grievous Wounds#/powermechanic# effects)",
-    "rus": "#powermechanic#Смертельные раны#/powermechanic#: #powername$$powerReference3.powerName$#/powername# наносит дополнительный $powerreference4.condition0.DamageRangeOverTime$ физический урон дважды в секунду в течение $powerreference4.condition0.duration$ (накладывается до 3 раз с другими #powermechanic#Смертельные раны#/powermechanic# эффектами)",
+    "rus": "#powermechanic#Смертельные раны#/powermechanic#: #powername#$powerReference3.powerName$#/powername# наносит дополнительный $powerreference4.condition0.DamageRangeOverTime$ физический урон дважды в секунду в течение $powerreference4.condition0.duration$ (накладывается до 3 раз с другими #powermechanic#Смертельные раны#/powermechanic# эффектами)",
     "path": "Localization/Translations/Powers/TooltipStrings/X23/DodgeStanceBleeds.prototype"
   },
   "10460937086922786152": {
@@ -1791,7 +1791,7 @@
   },
   "10638955638616229131": {
     "eng": "#emphasis#When #powername#$powername$#/powername# is not on cooldown#/emphasis#",
-    "rus": "#emphasis#Когда #powername$$powername$#/powername# не находится на перезарядке#/emphasis#",
+    "rus": "#emphasis#Когда #powername#$powername$#/powername# не находится на перезарядке#/emphasis#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CategoryWhenPowerNameNotOnCooldown.prototype"
   },
   "10662531787903010107": {
@@ -2031,7 +2031,7 @@
   },
   "12659254872645764484": {
     "eng": "#powerkeyword#Finisher#/powerkeyword# Powers, when used while #green#Very Angry#/green#, reduce the cooldown of #powername#$PowerReference0.PowerName$#/powername# and #powername#$PowerReference1.PowerName$#/powername# by $evalregisterint0$s",
-    "rus": "#powerkeyword#Финisher#/powerkeyword# Способности, когда используются во время #green#Очень злой#/green#, уменьшают время перезарядки #powername$$PowerReference0.PowerName$#/powername# и #powername$$PowerReference1.PowerName$#/powername# на $evalregisterint0$s",
+    "rus": "#powerkeyword#Финisher#/powerkeyword# Способности, когда используются во время #green#Очень злой#/green#, уменьшают время перезарядки #powername#$PowerReference0.PowerName$#/powername# и #powername#$PowerReference1.PowerName$#/powername# на $evalregisterint0$s",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/BarristerBeatdownCDRTalentAnger.prototype"
   },
   "12732677956964648254": {
@@ -2311,7 +2311,7 @@
   },
   "14466464655598421314": {
     "eng": "While #heat#Overheated#/heat#, #powername#$powerreference0.powername$#/powername# also spawns a #powername#$powerreference1.powername$#/powername#, which will seek out and damage enemies",
-    "rus": "Пока #heat#Перегрев#/heat#, #powername$$powerreference0.powername$#/powername# также вызывает #powername$$powerreference1.powername$#/powername#, который будет искать и наносить урон врагам",
+    "rus": "Пока #heat#Перегрев#/heat#, #powername#$powerreference0.powername$#/powername# также вызывает #powername#$powerreference1.powername$#/powername#, который будет искать и наносить урон врагам",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/HumanTorchFlameCycloneSpawn.prototype"
   },
   "14466798941550216561": {
@@ -2441,7 +2441,7 @@
   },
   "15311542394991478086": {
     "eng": "Enter #powerkeyword#Phoenix Form#/powerkeyword#, lasting until your next #powername#$powername$#/powername# ends",
-    "rus": "Введите #powerkeyword#Форма Феникса#/powerkeyword#, действующую до окончания вашего следующего #powername$$powername$#/powername#",
+    "rus": "Введите #powerkeyword#Форма Феникса#/powerkeyword#, действующую до окончания вашего следующего #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/EnterPhoenixForm.prototype"
   },
   "15328774658422736148": {
@@ -2526,7 +2526,7 @@
   },
   "15901359928647943492": {
     "eng": "You and your allies become #teambuff#Unbreakable#/teambuff# when you use #powername#$PowerName$#/powername#",
-    "rus": "Вы и ваши союзники становитесь #teambuff#Непобедимыми#/teambuff#, когда вы используете #powername$$PowerName$#/powername#",
+    "rus": "Вы и ваши союзники становитесь #teambuff#Непобедимыми#/teambuff#, когда вы используете #powername#$PowerName$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/UnbreakableWhenUsePowerName.prototype"
   },
   "15912986482426053953": {
@@ -2546,12 +2546,12 @@
   },
   "16046022411458118925": {
     "eng": "When you use your #powername#Travel Power#/powername#, leave behind a #powername#$powername$#/powername#",
-    "rus": "Когда вы используете свою #powername#Силу Путешествия#/powername#, оставляйте за собой #powername$$powername$#/powername#",
+    "rus": "Когда вы используете свою #powername#Силу Путешествия#/powername#, оставляйте за собой #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/TooltipStrings/GhostRider/GhostRiderFlameTrailTrait.prototype"
   },
   "16077221638001984767": {
     "eng": "Send #emphasis#Lockheed#/emphasis# away, preventing the use of #emphasis#Lockheed#/emphasis# Powers except #powername#$powername$#/powername#",
-    "rus": "Отправьте #emphasis#Локхида#/emphasis# прочь, предотвращая использование #emphasis#Локхида#/emphasis# способностей, кроме #powername$$powername$#/powername#",
+    "rus": "Отправьте #emphasis#Локхида#/emphasis# прочь, предотвращая использование #emphasis#Локхида#/emphasis# способностей, кроме #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/NoLockheed.prototype"
   },
   "16099763404563154245": {
@@ -2646,7 +2646,7 @@
   },
   "16564916677710578958": {
     "eng": "You and your allies become #teambuff#Quickened#/teambuff# after you use #powername#$PowerName$#/powername#",
-    "rus": "Вы и ваши союзники становитесь #teambuff#Ускоренными#/teambuff# после того, как вы используете #powername$$PowerName$#/powername#",
+    "rus": "Вы и ваши союзники становитесь #teambuff#Ускоренными#/teambuff# после того, как вы используете #powername#$PowerName$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/QuickenedAfterUsePowerName.prototype"
   },
   "16619955974995248443": {
@@ -2756,12 +2756,12 @@
   },
   "17428942863680537915": {
     "eng": "#powerkeyword#Sword#/powerkeyword# and #powerkeyword#Axe#/powerkeyword# Powers have a 25% chance to automatically activate #powername#$PowerName$#/powername#",
-    "rus": "#powerkeyword#Меч#/powerkeyword# и #powerkeyword#Топор#/powerkeyword# Способности имеют 25% шанс автоматически активировать #powername$$PowerName$#/powername#",
+    "rus": "#powerkeyword#Меч#/powerkeyword# и #powerkeyword#Топор#/powerkeyword# Способности имеют 25% шанс автоматически активировать #powername#$PowerName$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/AngelaAutoDisablingRibbons.prototype"
   },
   "17527231605408990524": {
     "eng": "#powerkeyword#Arrow#/powerkeyword# and #powerkeyword#Gun#/powerkeyword# Powers have a small chance to trigger #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, or #powername#$powerreference2.powername$#/powername# on hit",
-    "rus": "#powerkeyword#Стрела#/powerkeyword# и #powerkeyword#Пистолет#/powerkeyword# имеют небольшую вероятность активировать #powername$$powerreference0.powername$#/powername#, #powername$$powerreference1.powername$#/powername#, или #powername$$powerreference2.powername$#/powername# при попадании",
+    "rus": "#powerkeyword#Стрела#/powerkeyword# и #powerkeyword#Пистолет#/powerkeyword# имеют небольшую вероятность активировать #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername#, или #powername#$powerreference2.powername$#/powername# при попадании",
     "path": "Localization/Translations/Powers/TooltipStrings/TaskmasterHawkeyeBonus.prototype"
   },
   "17545738151394739565": {
@@ -2826,7 +2826,7 @@
   },
   "17975692032965674308": {
     "eng": "Fires one of each #powerkeyword#Trick Arrow#/powerkeyword#, as well as a #powername#$powerreference0.powername$#/powername# and #powername#$powerreference1.powername$#/powername#",
-    "rus": "Запускает по одной #powerkeyword#Трюковой стрелы#/powerkeyword#, а также #powername$$powerreference0.powername$#/powername# и #powername$$powerreference1.powername$#/powername#",
+    "rus": "Запускает по одной #powerkeyword#Трюковой стрелы#/powerkeyword#, а также #powername#$powerreference0.powername$#/powername# и #powername#$powerreference1.powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/HawkeyeTrickVolley.prototype"
   },
   "17984143167086789941": {
