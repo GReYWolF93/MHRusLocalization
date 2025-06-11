@@ -91,7 +91,7 @@
   },
   "656179232934987062": {
     "eng": "$damageTypeOverTime$ Damage: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ per level)#/hidden# twice per second for $duration$ (Does not stack with Damage Over Time effect of #emphasis#$powerReference0.powerName$#/emphasis#)",
-    "rus": "$damageTypeOverTime$ урон: $damageRangeOverTime$ ед. #hidden# ($damageRangeOverTime.precision1.divByLevel$ ед. за каждый уровень)#/hidden# 2 раза в секунду (действует еще $duration$ после того, как враг покинет зону поражения)",
+    "rus": "$damageTypeOverTime$ урон: $damageRangeOverTime$ ед. #hidden# ($damageRangeOverTime.precision1.divByLevel$ ед. за каждый уровень)#/hidden# дважды в секунду в течение $duration$ (Не складывается с эффектом Урона с течением Времени от #emphasis#$powerReference0.powerName$#/emphasis#)",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRangeOverTimeDurationStacksWithPR0.prototype"
   },
   "677680526416610620": {
@@ -256,7 +256,7 @@
   },
   "1539559525032396087": {
     "eng": "$procChanceString$ chance when you hit to lose $param1.power.evalRegisterFloat0$% of your maximum $primaryManaBehaviorName$ and go maniacally insane for $param1.power.condition0.duration$, gaining +$param1.power.evalRegisterFloat0$% attack speed, +$param1.power.evalRegisterFloat0$% Brutal Strike Chance, +$param1.power.evalRegisterFloat0$% Brutal Damage, +$param1.power.evalRegisterFloat0$ Strength, and -$param1.power.evalRegisterFloat0$% Dodge Chance ($param1.power.cooldown$ cooldown)",
-    "rus": "После удачной атаки вы с вероятностью $procChanceString$ теряете $param1.power.evalRegisterFloat0$% от максимальной величины $primaryManaBehaviorName.locflagG$, и у вас начинается припадок безумия, который длится $param1.power.condition0.duration$. При этом вы получаете +$param1.power.evalRegisterFloat0$% к скорости атаки, +$param1.power.evalRegisterFloat0$% к вероятности сокрушительного удара, +$param1.power.evalRegisterFloat0$% к урону сокруш. удара, +$param1.power.evalRegisterFloat0$ к силе и -$param1.power.evalRegisterFloat0$% к вероятности уклонения",
+    "rus": "После удачной атаки вы с вероятностью $procChanceString$ теряете $param1.power.evalRegisterFloat0$% от максимальной величины $primaryManaBehaviorName.locflagG$, и у вас начинается припадок безумия, который длится $param1.power.condition0.duration$. При этом вы получаете +$param1.power.evalRegisterFloat0$% к скорости атаки, +$param1.power.evalRegisterFloat0$% к вероятности сокрушительного удара, +$param1.power.evalRegisterFloat0$% к урону сокруш. удара, +$param1.power.evalRegisterFloat0$ к силе и -$param1.power.evalRegisterFloat0$% к вероятности уклонения (перезарядка $param1.power.cooldown$)",
     "path": "Mods/Omega/Bonuses/Human/Human14.prototype"
   },
   "1559578659597714696": {
@@ -306,7 +306,7 @@
   },
   "1879858459789755755": {
     "eng": "#powername#$PowerName$#/powername#:: $damage$ #hidden#($damagerange.precision1.divbylevel$ per level)#/hidden#",
-    "rus": "#emphasis#Катана-тайфун#/emphasis#: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#",
+    "rus": "#emphasis#$PowerName$#/emphasis#: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/DecoyShadowPBAOE.prototype"
   },
   "1881582051525920013": {
@@ -326,7 +326,7 @@
   },
   "2008310116831528256": {
     "eng": "Juggernaut channels the unending wrath of Cyttorak through his fists and slams them into the ground, causing a massively destructive shockwave.",
-    "rus": "Джаггернаут высвобождает бесконечный гнев Ситторака, лупя кулаками по земле так, что возникает мощная сейсмическая волна.\nПерезарядка общая со способностью \"$powerReference0.powerName$\".",
+    "rus": "Джаггернаут высвобождает бесконечный гнев Ситторака, лупя кулаками по земле так, что возникает мощная сейсмическая волна.",
     "path": "Powers/Player/Juggernaut/WrathOfCyttorak.prototype"
   },
   "2066331371131962628": {
@@ -336,7 +336,7 @@
   },
   "2091927529448801602": {
     "eng": "Use any waypoint or terminal to travel to #mission#Industry City#/mission#. Industry City Patrol is found under the M.A.P. #mission#Challenges#/mission# tab.\n\n#mission#Elite#/mission# enemies are identifiable by blue and yellow auras. #mission#Bosses#/mission# are can be found both in and out of events throughout Industry City.\n\nAll objectives must be completed in #mission#Industry City Patrol#/mission# to receive credit.",
-    "rus": "Используйте любую точку маршрута или терминал, чтобы отправиться в #mission#Промышленный район#/mission#. \"Патруль в Промышленном районе\" находится на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно отличить по синим и желтым аурам. #mission#Боссы#/mission# находятся в Промышленном районе, в окрестностях мест, где происходят события.\n\nВыполните все задачи #mission#\"Патруля в Промышленном районе\"#/mission#, чтобы получить награду.",
+    "rus": "Используйте любую точку маршрута или терминал, чтобы отправиться в #mission#Промышленный район#/mission#. \"Патруль в Промышленном районе\" находится на закладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно отличить по синим и желтым аурам. #mission#Боссы#/mission# находятся в Промышленном районе, в окрестностях мест, где происходят события.\n\nВыполните все задачи #mission#\"Патруля в Промышленном районе\"#/mission#, чтобы получить награду.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol3Tues.prototype"
   },
   "2174721571064448322": {
@@ -366,7 +366,7 @@
   },
   "2351547230068606280": {
     "eng": "This Holiday Mystery Box is full of festive surprises! You are guaranteed to receive either a random hero token or costume, as well as 1-3 Holiday Candies. Additionally you will receive several boosts, Fortune Cards, or other items!\n\n#RarityCosmic#Guaranteed:#/RarityCosmic#\n*Random Hero Token OR Random Costume\n*1-3 Holiday Candies\n\n#QualityEpic# Epics: #/QualityEpic#\n*Random Vanity Pet \n*STASH Access Card \n*Holographic Crafter \n\n#RarityRare# Rares: #/RarityRare#\n*Exclusive Red & Green Holiday Spirit Visual Artifact \n*Exclusive Blue & White Holiday Spirit Visual Artifact \n*Snow Flurry Visual Artifact \n*S.H.I.E.L.D. Supply, XP, and Currency Boosts \n*Combo Boosts\n*Infinity Orb Chest\n\n#RarityUncommon# Commons: #/RarityUncommon#\n*Chest of 5 Odin Marks\n*100k Credit Item\n*Crafting Molecules\n*Matrix of Unbinding \n*Unstable Molecule \n*Random Fortune Cards",
-    "rus": "Праздничная коробка с сюрпризом полна подарков! Вы гарантированно получите жетон случайного героя или костюма и1-3 праздничные конфетки. Дополнительно вы получите усилители, карты судьбы и другие предметы!\n\n#RarityCosmic#Гарантированно:#/RarityCosmic#\n*Жетон случайного героя или костюм\n*1-3 праздничные кофетки\n\n#QualityEpic# Epics: #/QualityEpic#\n*Пятикратный космический энерджайзер\n*Усилитель \"Зимнее чудо\"\n*Плюс коллекционера\n*Декоративный питомец\n\n#RarityRare# Редкие предметы: #/RarityRare#\n*Визуальный эффект: эксклюзивное праздничное настроение -красно-зеленое\n*Визуальный эффект: эксклюзивное праздничное настроение - сине-белое\n*Визуальный эффект: метель\n\n#RarityRare# Редкие предметы:#/RarityRare#\n*Плюс Одина для увеличения добычи\n*Плюс \"охотника за головами\"\n*Весенняя энергетическая конфетка\n*Усилитель \"Омега\"\n*Плюс к поиску осколков вечности\n*Трехкратный иридиевый плюс\n*Тройной иридиевый энергетический батончик\n\n#rarityuncommon# Обычные предметы: #/rarityuncommon#\n*Плюсы к опыту, к поиску особых предметов, редкостей и кредитов\n*Энергетические батончики опыта, поиска особых предметов, редкостей и кредитов\n*Карта судьбы, тип 1-6\n*Матрица отвязки\n*Нестабильная молекула\n*Карты судьбы \"Масленица\", \"Пляжная вечеринка\" и \"Люди Икс\"",
+    "rus": "Этот праздничный таинственный ящик полон сюрпризов! Вам гарантированно достанется либо случайный жетон героя, либо костюм, а также 1-3 праздничные конфеты. Дополнительно вы получите несколько усилений, карты удачи или другие предметы!\n\n#RarityCosmic#Гарантировано:#/RarityCosmic#\n*Случайный жетон героя ИЛИ случайный костюм\n*1-3 праздничные конфеты\n\n#QualityEpic#Эпическое:#/QualityEpic#\n*Случайный питомец\n*Карта доступа к СКЛАДу\n*Голографический мастер\n\n#RarityRare#Редкое:#/RarityRare#\n*Эксклюзивный визуальный артефакт праздничного духа (красный и зелёный)\n*Эксклюзивный визуальный артефакт праздничного духа (синий и белый)\n*Визуальный артефакт Снежного шквала\n*Усиления припасов ЩИТа, опыта и валюты\n*Комбо-усиления\n*Сундук сфер Бесконечности\n\n#RarityUncommon#Обычное:#/RarityUncommon#\n*Сундук с 5 знаками Одина\n*Предмет на 100к кредитов\n*Молекулы для крафта\n*Матрица отвязки\n*Нестабильная молекула\n*Случайные карты удачи",
     "path": "Entity/Items/Consumables/Prototypes/FortuneCard/MysteryBox/HolidayMysteryBox.prototype"
   },
   "2370190733907789122": {
@@ -421,7 +421,7 @@
   },
   "2834800977221453116": {
     "eng": "Cooldown is reduced by 1s when you hit with a #powertree#Vengeance#/powertree# Power",
-    "rus": "Время перезарядки уменьшается на 1 с после удачного применения способности мести",
+    "rus": "Время перезарядки уменьшается на 1 с после удачного применения способности #powertree#мести#/powertree#",
     "path": "Localization/Translations/Powers/TooltipStrings/GhostRider/CDROnHitVengeance.prototype"
   },
   "2845391236993975607": {
