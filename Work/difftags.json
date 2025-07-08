@@ -891,7 +891,7 @@
   },
   "5706373470896194878": {
     "eng": "While #heat#Overheated#/heat#, #powername#$powerreference0.powername$#/powername# clears all #heat#Heat#/heat# and deals $damagemultforpower.pct$% more damage",
-    "rus": "Пока #heat#Перегрев#/heat#, #powername#$powerreference0.powername$#/powername# очищает весь #heat#Жар#/heat# и наносит $damagemultforpower.pct$% больше урона",
+    "rus": "Пока #heat#Перегрев#/heat#, #powername#$powerreference0.powername$#/powername# очищает весь #heat#Жар#/heat# и наносит на $damagemultforpower.pct$% больше урона",
     "path": "Localization/Translations/Powers/TooltipStrings/IronMan/FreonRayDamageWhenOverheated.prototype"
   },
   "5710652538219005244": {
@@ -1286,7 +1286,7 @@
   },
   "7823419871082775875": {
     "eng": "#purple#Psionic Barrier#/purple#",
-    "rus": "Псионный барьер",
+    "rus": "#purple#Псионный барьер#/purple#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/PsylockePsiBarrier.prototype"
   },
   "7823720235324409153": {
@@ -1531,7 +1531,7 @@
   },
   "9201636092874458481": {
     "eng": "Lockheed uses his own #purple#Spirit#/purple#, which regenerates over time.  Regeneration is paused for a short duration when he uses a power.",
-    "rus": "Локхид использует собственный дух, который со временем восстанавливается, когда не применяются способности.",
+    "rus": "Локхид использует собственный #purple#Дух#/purple#, который со временем восстанавливается, когда не применяются способности.",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/KittyPrydeLockheedEnergy.prototype"
   },
   "9234715703225419010": {
